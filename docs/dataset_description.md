@@ -3,14 +3,6 @@
 Tài liệu này mô tả các bộ dữ liệu trong thư mục `datasets/` và corpus tham
 chiếu trong `corpus/`.
 
-## File dữ liệu
-
-| File | Domain | Số bản ghi | Phân bố nhãn |
-| --- | --- | ---: | --- |
-| `dataset_introductory_statistics.json` | Introductory Statistics | 336 | `0`: 168, `1`: 168 |
-| `dataset_microeconomics.json` | Microeconomics | 336 | `0`: 168, `1`: 168 |
-| `dataset_world_history.json` | World History | 336 | `0`: 168, `1`: 168 |
-
 ## Schema
 
 Mỗi file JSON là một mảng object có cùng cấu trúc:
@@ -29,21 +21,3 @@ Mỗi file JSON là một mảng object có cùng cấu trúc:
   câu hỏi trực tiếp/thực kiện; `1` thường là câu hỏi phân tích, so sánh hoặc cần
   lập luận nhiều bước.
 
-## Corpus tham chiếu
-
-| File | Mục đích |
-| --- | --- |
-| `introductory_statistics.txt` | Nguồn tham chiếu cho truy vấn thống kê nhập môn. |
-| `microeconomics.txt` | Nguồn tham chiếu cho truy vấn kinh tế vi mô. |
-| `world_history.txt` | Nguồn tham chiếu cho truy vấn lịch sử thế giới. |
-
-## Quy trình kiểm tra
-
-Trước khi commit thay đổi, xác nhận JSON parse được:
-
-```powershell
-Get-ChildItem datasets/*.json | ForEach-Object { Get-Content -Raw $_ | ConvertFrom-Json > $null }
-```
-
-Sau đó kiểm tra mẫu các bản ghi mới để bảo đảm `domain` khớp nội dung câu hỏi
-và nhãn `label` nhất quán với quy ước trên.
