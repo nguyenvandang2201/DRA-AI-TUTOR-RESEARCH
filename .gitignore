@@ -1,0 +1,32 @@
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
+
+# Editor and IDE files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Node dependencies and build outputs
+node_modules/
+dist/
+build/
+
+# Logs and temporary files
+*.log
+tmp/
+temp/
+
+# Office lock files
+~$*.docx
+~$*.pptx
+~$*.xlsx

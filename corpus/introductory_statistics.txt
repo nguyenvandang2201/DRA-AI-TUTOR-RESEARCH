@@ -1,0 +1,4744 @@
+6 | THE NORMAL
+DISTRIBUTION
+Figure 6.1
+If you ask enough people about their shoe size, you will find that your graphed data is shaped like a bell
+curve and can be described as normally distributed. (credit: Ömer Ünlϋ)
+Introduction
+Chapter Objectives
+By the end of this chapter, the student should be able to:
+•
+Recognize the normal probability distribution and apply it appropriately.
+•
+Recognize the standard normal probability distribution and apply it appropriately.
+•
+Compare normal probabilities by converting to the standard normal distribution.
+The normal, a continuous distribution, is the most important of all the distributions. It is widely used and even more widely
+abused. Its graph is bell-shaped. You see the bell curve in almost all disciplines. Some of these include psychology, business,
+economics, the sciences, nursing, and, of course, mathematics. Some of your instructors may use the normal distribution to
+help determine your grade. Most IQ scores are normally distributed. Often real-estate prices fit a normal distribution. The
+normal distribution is extremely important, but it cannot be applied to everything in the real world.
+In this chapter, you will study the normal distribution, the standard normal distribution, and applications associated with
+Chapter 6 | The Normal Distribution
+365
+
+them.
+The normal distribution has two parameters (two numerical descriptive measures): the mean (μ) and the standard deviation
+(σ). If X is a quantity to be measured that has a normal distribution with mean (μ) and standard deviation (σ), we designate
+this by writing
+Figure 6.2
+The probability density function is a rather complicated function. Do not memorize it. It is not necessary.
+f(x) =
+1
+σ ⋅ 2 ⋅ π  ⋅  e
+−1
+2 ⋅ ⎛
+⎝
+x − µ
+σ
+⎞
+⎠
+2
+The cumulative distribution function is P(X < x). It is calculated either by a calculator or a computer, or it is looked up in
+a table. Technology has made the tables virtually obsolete. For that reason, as well as the fact that there are various table
+formats, we are not including table instructions.
+The curve is symmetric about a vertical line drawn through the mean, μ. In theory, the mean is the same as the median,
+because the graph is symmetric about μ. As the notation indicates, the normal distribution depends only on the mean and the
+standard deviation. Since the area under the curve must equal one, a change in the standard deviation, σ, causes a change in
+the shape of the curve; the curve becomes fatter or skinnier depending on σ. A change in μ causes the graph to shift to the
+left or right. This means there are an infinite number of normal probability distributions. One of special interest is called the
+standard normal distribution.
+Your instructor will record the heights of both men and women in your class, separately. Draw histograms of your data.
+Then draw a smooth curve through each histogram. Is each curve somewhat bell-shaped? Do you think that if you
+had recorded 200 data values for men and 200 for women that the curves would look bell-shaped? Calculate the mean
+for each data set. Write the means on the x-axis of the appropriate graph below the peak. Shade the approximate area
+that represents the probability that one randomly chosen male is taller than 72 inches. Shade the approximate area that
+represents the probability that one randomly chosen female is shorter than 60 inches. If the total area under each curve
+is one, does either probability appear to be more than 0.5?
+6.1 | The Standard Normal Distribution
+The standard normal distribution is a normal distribution of standardized values called z-scores. A z-score is measured
+in units of the standard deviation. For example, if the mean of a normal distribution is five and the standard deviation is
+two, the value 11 is three standard deviations above (or to the right of) the mean. The calculation is as follows:
+x = μ + (z)(σ) = 5 + (3)(2) = 11
+366
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+The z-score is three.
+The mean for the standard normal distribution is zero, and the standard deviation is one. The transformation z = x − µ
+σ
+produces the distribution Z ~ N(0, 1). The value x in the given equation comes from a normal distribution with mean μ and
+standard deviation σ.
+Z-Scores
+If X is a normally distributed random variable and X ~ N(μ, σ), then the z-score is:
+z = x –  µ
+σ
+The z-score tells you how many standard deviations the value x is above (to the right of) or below (to the left of) the
+mean, μ. Values of x that are larger than the mean have positive z-scores, and values of x that are smaller than the mean
+have negative z-scores. If x equals the mean, then x has a z-score of zero.
+Example 6.1
+Suppose X ~ N(5, 6). This says that X is a normally distributed random variable with mean μ = 5 and standard
+deviation σ = 6. Suppose x = 17. Then:
+z = x – µ
+σ
+= 17 – 5
+6
+= 2
+This means that x = 17 is two standard deviations (2σ) above or to the right of the mean μ = 5.
+Notice that: 5 + (2)(6) = 17 (The pattern is μ + zσ = x)
+Now suppose x = 1. Then: z = x – µ
+σ
+= 1 – 5
+6
+= –0.67 (rounded to two decimal places)
+This means that x = 1 is 0.67 standard deviations (–0.67σ) below or to the left of the mean μ = 5. Notice
+that: 5 + (–0.67)(6) is approximately equal to one (This has the pattern μ + (–0.67)σ = 1)
+Summarizing, when z is positive, x is above or to the right of μ and when z is negative, x is to the left of or below
+μ. Or, when z is positive, x is greater than μ, and when z is negative x is less than μ.
+6.1 What is the z-score of x, when x = 1 and X ~ N(12,3)?
+Example 6.2
+Some doctors believe that a person can lose five pounds, on the average, in a month by reducing his or her fat
+intake and by exercising consistently. Suppose weight loss has a normal distribution. Let X = the amount of weight
+lost (in pounds) by a person in a month. Use a standard deviation of two pounds. X ~ N(5, 2). Fill in the blanks.
+a. Suppose a person lost ten pounds in a month. The z-score when x = 10 pounds is z = 2.5 (verify). This z-score
+tells you that x = 10 is ________ standard deviations to the ________ (right or left) of the mean _____ (What is
+the mean?).
+Solution 6.2
+a. This z-score tells you that x = 10 is 2.5 standard deviations to the right of the mean five.
+b. Suppose a person gained three pounds (a negative weight loss). Then z = __________. This z-score tells you
+Chapter 6 | The Normal Distribution
+367
+
+that x = –3 is ________ standard deviations to the __________ (right or left) of the mean.
+Solution 6.2
+b. z = –4. This z-score tells you that x = –3 is four standard deviations to the left of the mean.
+c. Suppose the random variables X and Y have the following normal distributions: X ~ N(5, 6) and Y ~ N(2, 1). If
+x = 17, then z = 2. (This was previously shown.) If y = 4, what is z?
+Solution 6.2
+c. z = y − µ
+σ
+= 4 − 2
+1
+= 2 where µ = 2 and σ = 1.
+The z-score for y = 4 is z = 2. This means that four is z = 2 standard deviations to the right of the mean. Therefore,
+x = 17 and y = 4 are both two (of their own) standard deviations to the right of their respective means.
+The z-score allows us to compare data that are scaled differently. To understand the concept, suppose X ~ N(5,
+6) represents weight gains for one group of people who are trying to gain weight in a six week period and Y ~
+N(2, 1) measures the same weight gain for a second group of people. A negative weight gain would be a weight
+loss. Since x = 17 and y = 4 are each two standard deviations to the right of their means, they represent the same,
+standardized weight gain relative to their means.
+6.2 Fill in the blanks.
+Jerome averages 16 points a game with a standard deviation of four points. X ~ N(16,4). Suppose Jerome scores ten
+points in a game. The z–score when x = 10 is –1.5. This score tells you that x = 10 is _____ standard deviations to the
+______(right or left) of the mean______(What is the mean?).
+The Empirical Rule
+If X is a random variable and has a normal distribution with mean µ and standard deviation σ, then the Empirical Rule
+states the following:
+•
+About 68% of the x values lie between –1σ and +1σ of the mean µ (within one standard deviation of the mean).
+•
+About 95% of the x values lie between –2σ and +2σ of the mean µ (within two standard deviations of the mean).
+•
+About 99.7% of the x values lie between –3σ and +3σ of the mean µ (within three standard deviations of the mean).
+Notice that almost all the x values lie within three standard deviations of the mean.
+•
+The z-scores for +1σ and –1σ are +1 and –1, respectively.
+•
+The z-scores for +2σ and –2σ are +2 and –2, respectively.
+•
+The z-scores for +3σ and –3σ are +3 and –3 respectively.
+The empirical rule is also known as the 68-95-99.7 rule.
+368
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+Figure 6.3
+Example 6.3
+The mean height of 15 to 18-year-old males from Chile from 2009 to 2010 was 170 cm with a standard deviation
+of 6.28 cm. Male heights are known to follow a normal distribution. Let X = the height of a 15 to 18-year-old
+male from Chile in 2009 to 2010. Then X ~ N(170, 6.28).
+a. Suppose a 15 to 18-year-old male from Chile was 168 cm tall from 2009 to 2010. The z-score when x = 168 cm
+is z = _______. This z-score tells you that x = 168 is ________ standard deviations to the ________ (right or left)
+of the mean _____ (What is the mean?).
+Solution 6.3
+a. –0.32, 0.32, left, 170
+b. Suppose that the height of a 15 to 18-year-old male from Chile from 2009 to 2010 has a z-score of z = 1.27.
+What is the male’s height? The z-score (z = 1.27) tells you that the male’s height is ________ standard deviations
+to the __________ (right or left) of the mean.
+Solution 6.3
+b. 177.98 cm, 1.27, right
+6.3 Use the information in Example 6.3 to answer the following questions.
+a.
+Suppose a 15 to 18-year-old male from Chile was 176 cm tall from 2009 to 2010. The z-score when x = 176 cm
+is z = _______. This z-score tells you that x = 176 cm is ________ standard deviations to the ________ (right or
+left) of the mean _____ (What is the mean?).
+b.
+Suppose that the height of a 15 to 18-year-old male from Chile from 2009 to 2010 has a z-score of z = –2. What
+is the male’s height? The z-score (z = –2) tells you that the male’s height is ________ standard deviations to the
+__________ (right or left) of the mean.
+Example 6.4
+From 1984 to 1985, the mean height of 15 to 18-year-old males from Chile was 172.36 cm, and the standard
+deviation was 6.34 cm. Let Y = the height of 15 to 18-year-old males from 1984 to 1985. Then Y ~ N(172.36,
+6.34).
+Chapter 6 | The Normal Distribution
+369
+
+The mean height of 15 to 18-year-old males from Chile from 2009 to 2010 was 170 cm with a standard deviation
+of 6.28 cm. Male heights are known to follow a normal distribution. Let X = the height of a 15 to 18-year-old
+male from Chile in 2009 to 2010. Then X ~ N(170, 6.28).
+Find the z-scores for x = 160.58 cm and y = 162.85 cm. Interpret each z-score. What can you say about x = 160.58
+cm and y = 162.85 cm as they compare to their respective means and standard deviations?
+Solution 6.4
+The z-score for x = -160.58 is z = –1.5.
+The z-score for y = 162.85 is z = –1.5.
+Both x = 160.58 and y = 162.85 deviate the same number of standard deviations from their respective means and
+in the same direction.
+6.4 In 2012, 1,664,479 students took the SAT exam. The distribution of scores in the verbal section of the SAT had a
+mean µ = 496 and a standard deviation σ = 114. Let X = a SAT exam verbal section score in 2012. Then X ~ N(496,
+114).
+Find the z-scores for x1 = 325 and x2 = 366.21. Interpret each z-score. What can you say about x1 = 325 and x2 = 366.21
+as they compare to their respective means and standard deviations?
+Example 6.5
+Suppose x has a normal distribution with mean 50 and standard deviation 6.
+•
+About 68% of the x values lie within one standard deviation of the mean. Therefore, about 68% of the x
+values lie between –1σ = (–1)(6) = –6 and 1σ = (1)(6) = 6 of the mean 50. The values 50 – 6 = 44 and 50
++ 6 = 56 are within one standard deviation from the mean 50. The z-scores are –1 and +1 for 44 and 56,
+respectively.
+•
+About 95% of the x values lie within two standard deviations of the mean. Therefore, about 95% of the x
+values lie between –2σ = (–2)(6) = –12 and 2σ = (2)(6) = 12. The values 50 – 12 = 38 and 50 + 12 = 62 are
+within two standard deviations from the mean 50. The z-scores are –2 and +2 for 38 and 62, respectively.
+•
+About 99.7% of the x values lie within three standard deviations of the mean. Therefore, about 95% of the x
+values lie between –3σ = (–3)(6) = –18 and 3σ = (3)(6) = 18 from the mean 50. The values 50 – 18 = 32 and
+50 + 18 = 68 are within three standard deviations of the mean 50. The z-scores are –3 and +3 for 32 and 68,
+respectively.
+6.5 Suppose X has a normal distribution with mean 25 and standard deviation five. Between what values of x do 68%
+of the values lie?
+Example 6.6
+From 1984 to 1985, the mean height of 15 to 18-year-old males from Chile was 172.36 cm, and the standard
+deviation was 6.34 cm. Let Y = the height of 15 to 18-year-old males in 1984 to 1985. Then Y ~ N(172.36, 6.34).
+a.
+About 68% of the y values lie between what two values? These values are ________________. The z-scores
+370
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+are ________________, respectively.
+b.
+About 95% of the y values lie between what two values? These values are ________________. The z-scores
+are ________________ respectively.
+c.
+About 99.7% of the y values lie between what two values? These values are ________________. The
+z-scores are ________________, respectively.
+Solution 6.6
+a.
+About 68% of the values lie between 166.02 cm and 178.7 cm. The z-scores are –1 and 1.
+b.
+About 95% of the values lie between 159.68 cm and 185.04 cm. The z-scores are –2 and 2.
+c.
+About 99.7% of the values lie between 153.34 cm and 191.38 cm. The z-scores are –3 and 3.
+6.6 The scores on a college entrance exam have an approximate normal distribution with mean, µ = 52 points and a
+standard deviation, σ = 11 points.
+a.
+About 68% of the y values lie between what two values? These values are ________________. The z-scores are
+________________, respectively.
+b.
+About 95% of the y values lie between what two values? These values are ________________. The z-scores are
+________________, respectively.
+c.
+About 99.7% of the y values lie between what two values? These values are ________________. The z-scores
+are ________________, respectively.
+6.2 | Using the Normal Distribution
+The shaded area in the following graph indicates the area to the left of x. This area is represented by the probability P(X <
+x). Normal tables, computers, and calculators provide or calculate the probability P(X < x).
+Figure 6.4
+The area to the right is then P(X > x) = 1 – P(X < x). Remember, P(X < x) = Area to the left of the vertical line through x.
+P(X < x) = 1 – P(X < x) = Area to the right of the vertical line through x. P(X < x) is the same as P(X ≤ x) and P(X > x) is
+the same as P(X ≥ x) for continuous distributions.
+Calculations of Probabilities
+Probabilities are calculated using technology. There are instructions given as necessary for the TI-83+ and TI-84 calculators.
+Chapter 6 | The Normal Distribution
+371
+
+NOTE
+To calculate the probability, use the probability tables provided in Appendix H without the use of technology. The
+tables include instructions for how to use them.
+Example 6.7
+If the area to the left is 0.0228, then the area to the right is 1 – 0.0228 = 0.9772.
+6.7 If the area to the left of x is 0.012, then what is the area to the right?
+Example 6.8
+The final exam scores in a statistics class were normally distributed with a mean of 63 and a standard deviation
+of five.
+a. Find the probability that a randomly selected student scored more than 65 on the exam.
+Solution 6.8
+a. Let X = a score on the final exam. X ~ N(63, 5), where μ = 63 and σ = 5.
+Draw a graph.
+Then, find P(x > 65).
+P(x > 65) = 0.3446
+Figure 6.5
+The probability that any student selected at random scores more than 65 is 0.3446.
+Go into 2nd DISTR.
+372
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+After pressing 2nd DISTR, press 2:normalcdf.
+The syntax for the instructions are as follows:
+normalcdf(lower value, upper value, mean, standard deviation) For this problem: normalcdf(65,1E99,63,5) =
+0.3446. You get 1E99 (= 1099) by pressing 1, the EE key (a 2nd key) and then 99. Or, you can enter 10^99
+instead. The number 1099 is way out in the right tail of the normal curve. We are calculating the area between
+65 and 1099. In some instances, the lower number of the area might be –1E99 (= –1099). The number –1099
+is way out in the left tail of the normal curve.
+HISTORICAL NOTE
+The TI probability program calculates a z-score and then the probability from the z-score. Before technology,
+the z-score was looked up in a standard normal probability table (because the math involved is too
+cumbersome) to find the probability. In this example, a standard normal table with area to the left of the
+z-score was used. You calculate the z-score and look up the area to the left. The probability is the area to the
+right.
+z = 65 – 63
+5
+= 0.4
+Area to the left is 0.6554.
+P(x > 65) = P(z > 0.4) = 1 – 0.6554 = 0.3446
+Find the percentile for a student scoring 65:
+*Press 2nd Distr
+*Press 2:normalcdf(
+*Enter lower bound, upper bound, mean, standard deviation followed by )
+*Press ENTER.
+For this Example, the steps are
+2nd Distr
+2:normalcdf(65,1,2nd EE,99,63,5) ENTER
+The probability that a selected student scored more than 65 is 0.3446.
+b. Find the probability that a randomly selected student scored less than 85.
+Solution 6.8
+b. Draw a graph.
+Then find P(x < 85), and shade the graph.
+Using a computer or calculator, find P(x < 85) = 1.
+normalcdf(0,85,63,5) = 1 (rounds to one)
+The probability that one student scores less than 85 is approximately one (or 100%).
+c. Find the 90th percentile (that is, find the score k that has 90% of the scores below k and 10% of the scores above
+k).
+Chapter 6 | The Normal Distribution
+373
+
+Solution 6.8
+c. Find the 90th percentile. For each problem or part of a problem, draw a new graph. Draw the x-axis. Shade the
+area that corresponds to the 90th percentile.
+Let k = the 90th percentile. The variable k is located on the x-axis. P(x < k) is the area to the left of k. The 90th
+percentile k separates the exam scores into those that are the same or lower than k and those that are the same or
+higher. Ninety percent of the test scores are the same or lower than k, and ten percent are the same or higher. The
+variable k is often called a critical value.
+k = 69.4
+Figure 6.6
+The 90th percentile is 69.4. This means that 90% of the test scores fall at or below 69.4 and 10% fall at or above.
+To get this answer on the calculator, follow this step:
+invNorm in 2nd DISTR. invNorm(area to the left, mean, standard deviation)
+For this problem, invNorm(0.90,63,5) = 69.4
+d. Find the 70th percentile (that is, find the score k such that 70% of scores are below k and 30% of the scores are
+above k).
+Solution 6.8
+d. Find the 70th percentile.
+Draw a new graph and label it appropriately. k = 65.6
+The 70th percentile is 65.6. This means that 70% of the test scores fall at or below 65.5 and 30% fall at or above.
+invNorm(0.70,63,5) = 65.6
+6.8 The golf scores for a school team were normally distributed with a mean of 68 and a standard deviation of three.
+Find the probability that a randomly selected golfer scored less than 65.
+374
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+Example 6.9
+A personal computer is used for office work at home, research, communication, personal finances, education,
+entertainment, social networking, and a myriad of other things. Suppose that the average number of hours a
+household personal computer is used for entertainment is two hours per day. Assume the times for entertainment
+are normally distributed and the standard deviation for the times is half an hour.
+a. Find the probability that a household personal computer is used for entertainment between 1.8 and 2.75 hours
+per day.
+Solution 6.9
+a. Let X = the amount of time (in hours) a household personal computer is used for entertainment. X ~ N(2, 0.5)
+where μ = 2 and σ = 0.5.
+Find P(1.8 < x < 2.75).
+The probability for which you are looking is the area between x = 1.8 and x = 2.75. P(1.8 < x < 2.75) = 0.5886
+Figure 6.7
+normalcdf(1.8,2.75,2,0.5) = 0.5886
+The probability that a household personal computer is used between 1.8 and 2.75 hours per day for entertainment
+is 0.5886.
+b. Find the maximum number of hours per day that the bottom quartile of households uses a personal computer
+for entertainment.
+Solution 6.9
+b. To find the maximum number of hours per day that the bottom quartile of households uses a personal computer
+for entertainment, find the 25th percentile, k, where P(x < k) = 0.25.
+Chapter 6 | The Normal Distribution
+375
+
+Figure 6.8
+invNorm(0.25,2,0.5) = 1.66
+The maximum number of hours per day that the bottom quartile of households uses a personal computer for
+entertainment is 1.66 hours.
+6.9 The golf scores for a school team were normally distributed with a mean of 68 and a standard deviation of three.
+Find the probability that a golfer scored between 66 and 70.
+Example 6.10
+In the United States the ages 13 to 55+ of smartphone users approximately follow a normal distribution with
+approximate mean and standard deviation of 36.9 years and 13.9 years, respectively.
+a. Determine the probability that a random smartphone user in the age range 13 to 55+ is between 23 and 64.7
+years old.
+Solution 6.10
+a. normalcdf(23,64.7,36.9,13.9) = 0.8186
+b. Determine the probability that a randomly selected smartphone user in the age range 13 to 55+ is at most 50.8
+years old.
+Solution 6.10
+b. normalcdf(–1099,50.8,36.9,13.9) = 0.8413
+c. Find the 80th percentile of this distribution, and interpret it in a complete sentence.
+Solution 6.10
+c.
+invNorm(0.80,36.9,13.9) = 48.6
+The 80th percentile is 48.6 years.
+376
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+80% of the smartphone users in the age range 13 – 55+ are 48.6 years old or less.
+6.10 Use the information in Example 6.10 to answer the following questions.
+a.
+Find the 30th percentile, and interpret it in a complete sentence.
+b.
+What is the probability that the age of a randomly selected smartphone user in the range 13 to 55+ is less than 27
+years old.
+Example 6.11
+In the United States the ages 13 to 55+ of smartphone users approximately follow a normal distribution with
+approximate mean and standard deviation of 36.9 years and 13.9 years respectively. Using this information,
+answer the following questions (round answers to one decimal place).
+a. Calculate the interquartile range (IQR).
+Solution 6.11
+a.
+IQR = Q3 – Q1
+Calculate Q3 = 75th percentile and Q1 = 25th percentile.
+invNorm(0.75,36.9,13.9) = Q3 = 46.2754
+invNorm(0.25,36.9,13.9) = Q1 = 27.5246
+IQR = Q3 – Q1 = 18.8
+b. Forty percent of the ages that range from 13 to 55+ are at least what age?
+Solution 6.11
+b.
+Find k where P(x ≥ k) = 0.40 ("At least" translates to "greater than or equal to.")
+0.40 = the area to the right.
+Area to the left = 1 – 0.40 = 0.60.
+The area to the left of k = 0.60.
+invNorm(0.60,36.9,13.9) = 40.4215.
+k = 40.4.
+Forty percent of the ages that range from 13 to 55+ are at least 40.4 years.
+6.11 Two thousand students took an exam. The scores on the exam have an approximate normal distribution with a
+mean μ = 81 points and standard deviation σ = 15 points.
+a.
+Calculate the first- and third-quartile scores for this exam.
+b.
+The middle 50% of the exam scores are between what two values?
+Chapter 6 | The Normal Distribution
+377
+
+Example 6.12
+A citrus farmer who grows mandarin oranges finds that the diameters of mandarin oranges harvested on his farm
+follow a normal distribution with a mean diameter of 5.85 cm and a standard deviation of 0.24 cm.
+a. Find the probability that a randomly selected mandarin orange from this farm has a diameter larger than 6.0
+cm. Sketch the graph.
+Solution 6.12
+a. normalcdf(6,10^99,5.85,0.24) = 0.2660
+Figure 6.9
+b. The middle 20% of mandarin oranges from this farm have diameters between ______ and ______.
+Solution 6.12
+b.
+1 – 0.20 = 0.80
+The tails of the graph of the normal distribution each have an area of 0.40.
+Find k1, the 40th percentile, and k2, the 60th percentile (0.40 + 0.20 = 0.60).
+k1 = invNorm(0.40,5.85,0.24) = 5.79 cm
+k2 = invNorm(0.60,5.85,0.24) = 5.91 cm
+c. Find the 90th percentile for the diameters of mandarin oranges, and interpret it in a complete sentence.
+Solution 6.12
+c. 6.16: Ninety percent of the diameter of the mandarin oranges is at most 6.16 cm.
+6.12 Using the information from Example 6.12, answer the following:
+a.
+The middle 40% of mandarin oranges from this farm are between ______ and ______.
+b.
+Find the 16th percentile and interpret it in a complete sentence.
+378
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+6.3 | Normal Distribution (Lap Times)
+Chapter 6 | The Normal Distribution
+379
+
+6.1 Normal Distribution (Lap Times)
+Class Time:
+Names:
+Student Learning Outcome
+•
+The student will compare and contrast empirical data and a theoretical distribution to determine if Terry Vogel's
+lap times fit a continuous distribution.
+Directions
+Round the relative frequencies and probabilities to four decimal places. Carry all other decimal answers to two places. 
+Collect the Data
+1.
+Use the data from Appendix C. Use a stratified sampling method by lap (races 1 to 20) and a random number
+generator to pick six lap times from each stratum. Record the lap times below for laps two to seven.
+_______ _______ _______ _______ _______ _______
+_______ _______ _______ _______ _______ _______
+_______ _______ _______ _______ _______ _______
+_______ _______ _______ _______ _______ _______
+_______ _______ _______ _______ _______ _______
+_______ _______ _______ _______ _______ _______
+Table 6.1
+2.
+Construct a histogram. Make five to six intervals. Sketch the graph using a ruler and pencil. Scale the axes.
+Figure 6.10
+3.
+Calculate the following:
+a.
+x¯ = _______
+b.
+s = _______
+4.
+Draw a smooth curve through the tops of the bars of the histogram. Write one to two complete sentences to
+380
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+describe the general shape of the curve. (Keep it simple. Does the graph go straight across, does it have a v-shape,
+does it have a hump in the middle or at either end, and so on?)
+Analyze the Distribution
+Using your sample mean, sample standard deviation, and histogram to help, what is the approximate theoretical
+distribution of the data?
+•
+X ~ _____(_____,_____)
+•
+How does the histogram help you arrive at the approximate distribution?
+Describe the Data
+Use the data you collected to complete the following statements.
+•
+The IQR goes from __________ to __________.
+•
+IQR = __________. (IQR = Q3 – Q1)
+•
+The 15th percentile is _______.
+•
+The 85th percentile is _______.
+•
+The median is _______.
+•
+The empirical probability that a randomly chosen lap time is more than 130 seconds is _______.
+•
+Explain the meaning of the 85th percentile of this data.
+Theoretical Distribution
+Using the theoretical distribution, complete the following statements. You should use a normal approximation based
+on your sample data.
+•
+The IQR goes from __________ to __________.
+•
+IQR = _______.
+•
+The 15th percentile is _______.
+•
+The 85th percentile is _______.
+•
+The median is _______.
+•
+The probability that a randomly chosen lap time is more than 130 seconds is _______.
+•
+Explain the meaning of the 85th percentile of this distribution.
+Discussion Questions
+Do the data from the section titled Collect the Data give a close approximation to the theoretical distribution in
+the section titled Analyze the Distribution? In complete sentences and comparing the result in the sections titled
+Describe the Data and Theoretical Distribution, explain why or why not.
+6.4 | Normal Distribution (Pinkie Length)
+Chapter 6 | The Normal Distribution
+381
+
+6.2 Normal Distribution (Pinkie Length)
+Class Time:
+Names:
+Student Learning Outcomes
+•
+The student will compare empirical data and a theoretical distribution to determine if data from the experiment
+follow a continuous distribution.
+Collect the Data
+Measure the length of your pinky finger (in centimeters).
+1.
+Randomly survey 30 adults for their pinky finger lengths. Round the lengths to the nearest 0.5 cm.
+_______ _______ _______ _______ _______
+_______ _______ _______ _______ _______
+_______ _______ _______ _______ _______
+_______ _______ _______ _______ _______
+_______ _______ _______ _______ _______
+_______ _______ _______ _______ _______
+Table 6.2
+2.
+Construct a histogram. Make five to six intervals. Sketch the graph using a ruler and pencil. Scale the axes.
+Figure 6.11
+3.
+Calculate the following.
+a.
+x¯ = _______
+b.
+s = _______
+4.
+Draw a smooth curve through the top of the bars of the histogram. Write one to two complete sentences to
+describe the general shape of the curve. (Keep it simple. Does the graph go straight across, does it have a v-shape,
+does it have a hump in the middle or at either end, and so on?)
+382
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+Analyze the Distribution
+Using your sample mean, sample standard deviation, and histogram, what was the approximate theoretical distribution
+of the data you collected?
+•
+X ~ _____(_____,_____)
+•
+How does the histogram help you arrive at the approximate distribution?
+Describe the Data
+Using the data you collected complete the following statements. (Hint: order the data)
+REMEMBER
+(IQR = Q3 – Q1)
+•
+IQR = _______
+•
+The 15th percentile is _______.
+•
+The 85th percentile is _______.
+•
+Median is _______.
+•
+What is the theoretical probability that a randomly chosen pinky length is more than 6.5 cm?
+•
+Explain the meaning of the 85th percentile of this data.
+Theoretical Distribution
+Using the theoretical distribution, complete the following statements. Use a normal approximation based on the sample
+mean and standard deviation.
+•
+IQR = _______
+•
+The 15th percentile is _______.
+•
+The 85th percentile is _______.
+•
+Median is _______.
+•
+What is the theoretical probability that a randomly chosen pinky length is more than 6.5 cm?
+•
+Explain the meaning of the 85th percentile of this data.
+Discussion Questions
+Do the data you collected give a close approximation to the theoretical distribution? In complete sentences and
+comparing the results in the sections titled Describe the Data and Theoretical Distribution, explain why or why
+not.
+Chapter 6 | The Normal Distribution
+383
+
+Normal Distribution
+Standard Normal Distribution
+z-score
+KEY TERMS
+a continuous random variable (RV) with pdf f(x) =
+1
+σ 2π e
+– (x –  µ )
+2σ2
+2
+, where μ is the mean of
+the distribution and σ is the standard deviation; notation: X ~ N(μ, σ). If μ = 0 and σ = 1, the RV is called the
+standard normal distribution.
+a continuous random variable (RV) X ~ N(0, 1); when X follows the standard normal
+distribution, it is often noted as Z ~ N(0, 1).
+the linear transformation of the form z = x –  µ
+σ
+; if this transformation is applied to any normal distribution X ~
+N(μ, σ) the result is the standard normal distribution Z ~ N(0,1). If this transformation is applied to any specific
+value x of the RV with mean μ and standard deviation σ, the result is called the z-score of x. The z-score allows us to
+compare data that are normally distributed but scaled differently.
+CHAPTER REVIEW
+6.1 The Standard Normal Distribution
+A z-score is a standardized value. Its distribution is the standard normal, Z ~ N(0, 1). The mean of the z-scores is zero and
+the standard deviation is one. If z is the z-score for a value x from the normal distribution N(µ, σ) then z tells you how many
+standard deviations x is above (greater than) or below (less than) µ.
+6.2 Using the Normal Distribution
+The normal distribution, which is continuous, is the most important of all the probability distributions. Its graph is bell-
+shaped. This bell-shaped curve is used in almost all disciplines. Since it is a continuous distribution, the total area under
+the curve is one. The parameters of the normal are the mean µ and the standard deviation σ. A special normal distribution,
+called the standard normal distribution is the distribution of z-scores. Its mean is zero, and its standard deviation is one.
+FORMULA REVIEW
+6.0 Introduction
+X ∼ N(μ, σ)
+μ = the mean; σ = the standard deviation
+6.1 The Standard Normal Distribution
+z = a standardized value (z-score)
+mean = 0; standard deviation = 1
+To find the kth percentile of X when the z-scores is known:
+k = μ + (z)σ
+z-score: z = x – µ
+σ
+Z = the random variable for z-scores
+Z ~ N(0, 1)
+6.2 Using the Normal Distribution
+Normal Distribution: X ~ N(µ, σ) where µ is the mean and
+σ is the standard deviation.
+Standard Normal Distribution: Z ~ N(0, 1).
+Calculator function for probability: normalcdf (lower x
+value of the area, upper x value of the area, mean, standard
+deviation)
+Calculator function for the kth percentile: k = invNorm (area
+to the left of k, mean, standard deviation)
+PRACTICE
+384
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+6.1 The Standard Normal Distribution
+1. A bottle of water contains 12.05 fluid ounces with a standard deviation of 0.01 ounces. Define the random variable X in
+words. X = ____________.
+2. A normal distribution has a mean of 61 and a standard deviation of 15. What is the median?
+3. X ~ N(1, 2)
+σ = _______
+4. A company manufactures rubber balls. The mean diameter of a ball is 12 cm with a standard deviation of 0.2 cm. Define
+the random variable X in words. X = ______________.
+5. X ~ N(–4, 1)
+What is the median?
+6. X ~ N(3, 5)
+σ = _______
+7. X ~ N(–2, 1)
+μ = _______
+8. What does a z-score measure?
+9. What does standardizing a normal distribution do to the mean?
+10. Is X ~ N(0, 1) a standardized normal distribution? Why or why not?
+11. What is the z-score of x = 12, if it is two standard deviations to the right of the mean?
+12. What is the z-score of x = 9, if it is 1.5 standard deviations to the left of the mean?
+13. What is the z-score of x = –2, if it is 2.78 standard deviations to the right of the mean?
+14. What is the z-score of x = 7, if it is 0.133 standard deviations to the left of the mean?
+15. Suppose X ~ N(2, 6). What value of x has a z-score of three?
+16. Suppose X ~ N(8, 1). What value of x has a z-score of –2.25?
+17. Suppose X ~ N(9, 5). What value of x has a z-score of –0.5?
+18. Suppose X ~ N(2, 3). What value of x has a z-score of –0.67?
+19. Suppose X ~ N(4, 2). What value of x is 1.5 standard deviations to the left of the mean?
+20. Suppose X ~ N(4, 2). What value of x is two standard deviations to the right of the mean?
+21. Suppose X ~ N(8, 9). What value of x is 0.67 standard deviations to the left of the mean?
+22. Suppose X ~ N(–1, 2). What is the z-score of x = 2?
+23. Suppose X ~ N(12, 6). What is the z-score of x = 2?
+24. Suppose X ~ N(9, 3). What is the z-score of x = 9?
+25. Suppose a normal distribution has a mean of six and a standard deviation of 1.5. What is the z-score of x = 5.5?
+26. In a normal distribution, x = 5 and z = –1.25. This tells you that x = 5 is ____ standard deviations to the ____ (right or
+left) of the mean.
+27. In a normal distribution, x = 3 and z = 0.67. This tells you that x = 3 is ____ standard deviations to the ____ (right or
+left) of the mean.
+28. In a normal distribution, x = –2 and z = 6. This tells you that x = –2 is ____ standard deviations to the ____ (right or
+left) of the mean.
+29. In a normal distribution, x = –5 and z = –3.14. This tells you that x = –5 is ____ standard deviations to the ____ (right
+or left) of the mean.
+30. In a normal distribution, x = 6 and z = –1.7. This tells you that x = 6 is ____ standard deviations to the ____ (right or
+left) of the mean.
+Chapter 6 | The Normal Distribution
+385
+
+31. About what percent of x values from a normal distribution lie within one standard deviation (left and right) of the mean
+of that distribution?
+32. About what percent of the x values from a normal distribution lie within two standard deviations (left and right) of the
+mean of that distribution?
+33. About what percent of x values lie between the second and third standard deviations (both sides)?
+34. Suppose X ~ N(15, 3). Between what x values does 68.27% of the data lie? The range of x values is centered at the mean
+of the distribution (i.e., 15).
+35. Suppose X ~ N(–3, 1). Between what x values does 95.45% of the data lie? The range of x values is centered at the mean
+of the distribution(i.e., –3).
+36. Suppose X ~ N(–3, 1). Between what x values does 34.14% of the data lie?
+37. About what percent of x values lie between the mean and three standard deviations?
+38. About what percent of x values lie between the mean and one standard deviation?
+39. About what percent of x values lie between the first and second standard deviations from the mean (both sides)?
+40. About what percent of x values lie betwween the first and third standard deviations(both sides)?
+Use the following information to answer the next two exercises: The life of Sunshine CD players is normally distributed
+with mean of 4.1 years and a standard deviation of 1.3 years. A CD player is guaranteed for three years. We are interested
+in the length of time a CD player lasts.
+41. Define the random variable X in words. X = _______________.
+42. X ~ _____(_____,_____)
+6.2 Using the Normal Distribution
+43. How would you represent the area to the left of one in a probability statement?
+Figure 6.12
+44. What is the area to the right of one?
+Figure 6.13
+45. Is P(x < 1) equal to P(x ≤ 1)? Why?
+386
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+46. How would you represent the area to the left of three in a probability statement?
+Figure 6.14
+47. What is the area to the right of three?
+Figure 6.15
+48. If the area to the left of x in a normal distribution is 0.123, what is the area to the right of x?
+49. If the area to the right of x in a normal distribution is 0.543, what is the area to the left of x?
+Use the following information to answer the next four exercises:
+X ~ N(54, 8)
+50. Find the probability that x > 56.
+51. Find the probability that x < 30.
+52. Find the 80th percentile.
+53. Find the 60th percentile.
+54. X ~ N(6, 2)
+Find the probability that x is between three and nine.
+55. X ~ N(–3, 4)
+Find the probability that x is between one and four.
+56. X ~ N(4, 5)
+Find the maximum of x in the bottom quartile.
+Chapter 6 | The Normal Distribution
+387
+
+57. Use the following information to answer the next three exercise: The life of Sunshine CD players is normally distributed
+with a mean of 4.1 years and a standard deviation of 1.3 years. A CD player is guaranteed for three years. We are interested
+in the length of time a CD player lasts. Find the probability that a CD player will break down during the guarantee period.
+a.
+Sketch the situation. Label and scale the axes. Shade the region corresponding to the probability.
+Figure 6.16
+b.
+P(0 < x < ____________) = ___________ (Use zero for the minimum value of x.)
+58. Find the probability that a CD player will last between 2.8 and six years.
+a.
+Sketch the situation. Label and scale the axes. Shade the region corresponding to the probability.
+Figure 6.17
+b.
+P(__________ < x < __________) = __________
+59. Find the 70th percentile of the distribution for the time a CD player lasts.
+a.
+Sketch the situation. Label and scale the axes. Shade the region corresponding to the lower 70%.
+Figure 6.18
+b.
+P(x < k) = __________ Therefore, k = _________
+388
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+HOMEWORK
+6.1 The Standard Normal Distribution
+Use the following information to answer the next two exercises: The patient recovery time from a particular surgical
+procedure is normally distributed with a mean of 5.3 days and a standard deviation of 2.1 days.
+60. What is the median recovery time?
+a.
+2.7
+b.
+5.3
+c.
+7.4
+d.
+2.1
+61. What is the z-score for a patient who takes ten days to recover?
+a.
+1.5
+b.
+0.2
+c.
+2.2
+d.
+7.3
+62. The length of time to find it takes to find a parking space at 9 A.M. follows a normal distribution with a mean of five
+minutes and a standard deviation of two minutes. If the mean is significantly greater than the standard deviation, which of
+the following statements is true?
+I.
+The data cannot follow the uniform distribution.
+II.
+The data cannot follow the exponential distribution..
+III.
+The data cannot follow the normal distribution.
+a.
+I only
+b.
+II only
+c.
+III only
+d.
+I, II, and III
+63. The heights of the 430 National Basketball Association players were listed on team rosters at the start of the 2005–2006
+season. The heights of basketball players have an approximate normal distribution with mean, µ = 79 inches and a standard
+deviation, σ = 3.89 inches. For each of the following heights, calculate the z-score and interpret it using complete sentences.
+a.
+77 inches
+b.
+85 inches
+c.
+If an NBA player reported his height had a z-score of 3.5, would you believe him? Explain your answer.
+64. The systolic blood pressure (given in millimeters) of males has an approximately normal distribution with mean µ =
+125 and standard deviation σ = 14. Systolic blood pressure for males follows a normal distribution.
+a.
+Calculate the z-scores for the male systolic blood pressures 100 and 150 millimeters.
+b.
+If a male friend of yours said he thought his systolic blood pressure was 2.5 standard deviations below the mean,
+but that he believed his blood pressure was between 100 and 150 millimeters, what would you say to him?
+65. Kyle’s doctor told him that the z-score for his systolic blood pressure is 1.75. Which of the following is the best
+interpretation of this standardized score? The systolic blood pressure (given in millimeters) of males has an approximately
+normal distribution with mean µ = 125 and standard deviation σ = 14. If X = a systolic blood pressure score then X ~ N (125,
+14).
+a.
+Which answer(s) is/are correct?
+i.
+Kyle’s systolic blood pressure is 175.
+ii.
+Kyle’s systolic blood pressure is 1.75 times the average blood pressure of men his age.
+iii.
+Kyle’s systolic blood pressure is 1.75 above the average systolic blood pressure of men his age.
+iv.
+Kyles’s systolic blood pressure is 1.75 standard deviations above the average systolic blood pressure for
+men.
+b.
+Calculate Kyle’s blood pressure.
+Chapter 6 | The Normal Distribution
+389
+
+66. Height and weight are two measurements used to track a child’s development. The World Health Organization measures
+child development by comparing the weights of children who are the same height and the same gender. In 2009, weights for
+all 80 cm girls in the reference population had a mean µ = 10.2 kg and standard deviation σ = 0.8 kg. Weights are normally
+distributed. X ~ N(10.2, 0.8). Calculate the z-scores that correspond to the following weights and interpret them.
+a.
+11 kg
+b.
+7.9 kg
+c.
+12.2 kg
+67. In 2005, 1,475,623 students heading to college took the SAT. The distribution of scores in the math section of the SAT
+follows a normal distribution with mean µ = 520 and standard deviation σ = 115.
+a.
+Calculate the z-score for an SAT score of 720. Interpret it using a complete sentence.
+b.
+What math SAT score is 1.5 standard deviations above the mean? What can you say about this SAT score?
+c.
+For 2012, the SAT math test had a mean of 514 and standard deviation 117. The ACT math test is an alternate to
+the SAT and is approximately normally distributed with mean 21 and standard deviation 5.3. If one person took
+the SAT math test and scored 700 and a second person took the ACT math test and scored 30, who did better with
+respect to the test they took?
+6.2 Using the Normal Distribution
+Use the following information to answer the next two exercises: The patient recovery time from a particular surgical
+procedure is normally distributed with a mean of 5.3 days and a standard deviation of 2.1 days.
+68. What is the probability of spending more than two days in recovery?
+a.
+0.0580
+b.
+0.8447
+c.
+0.0553
+d.
+0.9420
+69. The 90th percentile for recovery times is?
+a.
+8.89
+b.
+7.07
+c.
+7.99
+d.
+4.32
+Use the following information to answer the next three exercises: The length of time it takes to find a parking space at 9
+A.M. follows a normal distribution with a mean of five minutes and a standard deviation of two minutes.
+70. Based upon the given information and numerically justified, would you be surprised if it took less than one minute to
+find a parking space?
+a.
+Yes
+b.
+No
+c.
+Unable to determine
+71. Find the probability that it takes at least eight minutes to find a parking space.
+a.
+0.0001
+b.
+0.9270
+c.
+0.1862
+d.
+0.0668
+72. Seventy percent of the time, it takes more than how many minutes to find a parking space?
+a.
+1.24
+b.
+2.41
+c.
+3.95
+d.
+6.05
+73. According to a study done by De Anza students, the height for Asian adult males is normally distributed with an average
+of 66 inches and a standard deviation of 2.5 inches. Suppose one Asian adult male is randomly chosen. Let X = height of
+the individual.
+a.
+X ~ _____(_____,_____)
+b.
+Find the probability that the person is between 65 and 69 inches. Include a sketch of the graph, and write a
+probability statement.
+c.
+Would you expect to meet many Asian adult males over 72 inches? Explain why or why not, and justify your
+answer numerically.
+390
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+74. IQ is normally distributed with a mean of 100 and a standard deviation of 15. Suppose one individual is randomly
+chosen. Let X = IQ of an individual.
+a.
+X ~ _____(_____,_____)
+b.
+Find the probability that the person has an IQ greater than 120. Include a sketch of the graph, and write a
+probability statement.
+c.
+MENSA is an organization whose members have the top 2% of all IQs. Find the minimum IQ needed to qualify
+for the MENSA organization. Sketch the graph, and write the probability statement.
+d.
+The middle 50% of IQs fall between what two values? Sketch the graph and write the probability statement.
+75. The percent of fat calories that a person in America consumes each day is normally distributed with a mean of about 36
+and a standard deviation of 10. Suppose that one individual is randomly chosen. Let X = percent of fat calories.
+a.
+X ~ _____(_____,_____)
+b.
+Find the probability that the percent of fat calories a person consumes is more than 40. Graph the situation. Shade
+in the area to be determined.
+c.
+Find the maximum number for the lower quarter of percent of fat calories. Sketch the graph and write the
+probability statement.
+76. Suppose that the distance of fly balls hit to the outfield (in baseball) is normally distributed with a mean of 250 feet and
+a standard deviation of 50 feet.
+a.
+If X = distance in feet for a fly ball, then X ~ _____(_____,_____)
+b.
+If one fly ball is randomly chosen from this distribution, what is the probability that this ball traveled fewer than
+220 feet? Sketch the graph. Scale the horizontal axis X. Shade the region corresponding to the probability. Find
+the probability.
+c.
+Find the 80th percentile of the distribution of fly balls. Sketch the graph, and write the probability statement.
+77. In China, four-year-olds average three hours a day unsupervised. Most of the unsupervised children live in rural areas,
+considered safe. Suppose that the standard deviation is 1.5 hours and the amount of time spent alone is normally distributed.
+We randomly select one Chinese four-year-old living in a rural area. We are interested in the amount of time the child spends
+alone per day.
+a.
+In words, define the random variable X.
+b.
+X ~ _____(_____,_____)
+c.
+Find the probability that the child spends less than one hour per day unsupervised. Sketch the graph, and write the
+probability statement.
+d.
+What percent of the children spend over ten hours per day unsupervised?
+e.
+Seventy percent of the children spend at least how long per day unsupervised?
+78. In the 1992 presidential election, Alaska’s 40 election districts averaged 1,956.8 votes per district for President Clinton.
+The standard deviation was 572.3. (There are only 40 election districts in Alaska.) The distribution of the votes per district
+for President Clinton was bell-shaped. Let X = number of votes for President Clinton for an election district.
+a.
+State the approximate distribution of X.
+b.
+Is 1,956.8 a population mean or a sample mean? How do you know?
+c.
+Find the probability that a randomly selected district had fewer than 1,600 votes for President Clinton. Sketch the
+graph and write the probability statement.
+d.
+Find the probability that a randomly selected district had between 1,800 and 2,000 votes for President Clinton.
+e.
+Find the third quartile for votes for President Clinton.
+79. Suppose that the duration of a particular type of criminal trial is known to be normally distributed with a mean of 21
+days and a standard deviation of seven days.
+a.
+In words, define the random variable X.
+b.
+X ~ _____(_____,_____)
+c.
+If one of the trials is randomly chosen, find the probability that it lasted at least 24 days. Sketch the graph and
+write the probability statement.
+d.
+Sixty percent of all trials of this type are completed within how many days?
+Chapter 6 | The Normal Distribution
+391
+
+80. Terri Vogel, an amateur motorcycle racer, averages 129.71 seconds per 2.5 mile lap (in a seven-lap race) with a standard
+deviation of 2.28 seconds. The distribution of her race times is normally distributed. We are interested in one of her
+randomly selected laps.
+a.
+In words, define the random variable X.
+b.
+X ~ _____(_____,_____)
+c.
+Find the percent of her laps that are completed in less than 130 seconds.
+d.
+The fastest 3% of her laps are under _____.
+e.
+The middle 80% of her laps are from _______ seconds to _______ seconds.
+81. Thuy Dau, Ngoc Bui, Sam Su, and Lan Voung conducted a survey as to how long customers at Lucky claimed to wait
+in the checkout line until their turn. Let X = time in line. Table 6.3 displays the ordered real data (in minutes):
+0.50 4.25 5
+6
+7.25
+1.75 4.25 5.25 6
+7.25
+2
+4.25 5.25 6.25 7.25
+2.25 4.25 5.5
+6.25 7.75
+2.25 4.5
+5.5
+6.5
+8
+2.5
+4.75 5.5
+6.5
+8.25
+2.75 4.75 5.75 6.5
+9.5
+3.25 4.75 5.75 6.75 9.5
+3.75 5
+6
+6.75 9.75
+3.75 5
+6
+6.75 10.75
+Table 6.3
+a.
+Calculate the sample mean and the sample standard deviation.
+b.
+Construct a histogram.
+c.
+Draw a smooth curve through the midpoints of the tops of the bars.
+d.
+In words, describe the shape of your histogram and smooth curve.
+e.
+Let the sample mean approximate μ and the sample standard deviation approximate σ. The distribution of X can
+then be approximated by X ~ _____(_____,_____)
+f.
+Use the distribution in part e to calculate the probability that a person will wait fewer than 6.1 minutes.
+g.
+Determine the cumulative relative frequency for waiting less than 6.1 minutes.
+h.
+Why aren’t the answers to part f and part g exactly the same?
+i.
+Why are the answers to part f and part g as close as they are?
+j.
+If only ten customers has been surveyed rather than 50, do you think the answers to part f and part g would have
+been closer together or farther apart? Explain your conclusion.
+82. Suppose that Ricardo and Anita attend different colleges. Ricardo’s GPA is the same as the average GPA at his school.
+Anita’s GPA is 0.70 standard deviations above her school average. In complete sentences, explain why each of the following
+statements may be false.
+a.
+Ricardo’s actual GPA is lower than Anita’s actual GPA.
+b.
+Ricardo is not passing because his z-score is zero.
+c.
+Anita is in the 70th percentile of students at her college.
+392
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+83. Table 6.4 shows a sample of the maximum capacity (maximum number of spectators) of sports stadiums. The table
+does not include horse-racing or motor-racing stadiums.
+40,000 40,000 45,050 45,500 46,249 48,134
+49,133 50,071 50,096 50,466 50,832 51,100
+51,500 51,900 52,000 52,132 52,200 52,530
+52,692 53,864 54,000 55,000 55,000 55,000
+55,000 55,000 55,000 55,082 57,000 58,008
+59,680 60,000 60,000 60,492 60,580 62,380
+62,872 64,035 65,000 65,050 65,647 66,000
+66,161 67,428 68,349 68,976 69,372 70,107
+70,585 71,594 72,000 72,922 73,379 74,500
+75,025 76,212 78,000 80,000 80,000 82,300
+Table 6.4
+a.
+Calculate the sample mean and the sample standard deviation for the maximum capacity of sports stadiums (the
+data).
+b.
+Construct a histogram.
+c.
+Draw a smooth curve through the midpoints of the tops of the bars of the histogram.
+d.
+In words, describe the shape of your histogram and smooth curve.
+e.
+Let the sample mean approximate μ and the sample standard deviation approximate σ. The distribution of X can
+then be approximated by X ~ _____(_____,_____).
+f.
+Use the distribution in part e to calculate the probability that the maximum capacity of sports stadiums is less than
+67,000 spectators.
+g.
+Determine the cumulative relative frequency that the maximum capacity of sports stadiums is less than 67,000
+spectators. Hint: Order the data and count the sports stadiums that have a maximum capacity less than 67,000.
+Divide by the total number of sports stadiums in the sample.
+h.
+Why aren’t the answers to part f and part g exactly the same?
+84. An expert witness for a paternity lawsuit testifies that the length of a pregnancy is normally distributed with a mean of
+280 days and a standard deviation of 13 days. An alleged father was out of the country from 240 to 306 days before the
+birth of the child, so the pregnancy would have been less than 240 days or more than 306 days long if he was the father.
+The birth was uncomplicated, and the child needed no medical intervention. What is the probability that he was NOT the
+father? What is the probability that he could be the father? Calculate the z-scores first, and then use those to calculate the
+probability.
+85. A NUMMI assembly line, which has been operating since 1984, has built an average of 6,000 cars and trucks a week.
+Generally, 10% of the cars were defective coming off the assembly line. Suppose we draw a random sample of n = 100 cars.
+Let X represent the number of defective cars in the sample. What can we say about X in regard to the 68-95-99.7 empirical
+rule (one standard deviation, two standard deviations and three standard deviations from the mean are being referred to)?
+Assume a normal distribution for the defective cars in the sample.
+86. We flip a coin 100 times (n = 100) and note that it only comes up heads 20% (p = 0.20) of the time. The mean and
+standard deviation for the number of times the coin lands on heads is µ = 20 and σ = 4 (verify the mean and standard
+deviation). Solve the following:
+a.
+There is about a 68% chance that the number of heads will be somewhere between ___ and ___.
+b.
+There is about a ____chance that the number of heads will be somewhere between 12 and 28.
+c.
+There is about a ____ chance that the number of heads will be somewhere between eight and 32.
+87. A $1 scratch off lotto ticket will be a winner one out of five times. Out of a shipment of n = 190 lotto tickets, find the
+probability for the lotto tickets that there are
+a.
+somewhere between 34 and 54 prizes.
+b.
+somewhere between 54 and 64 prizes.
+c.
+more than 64 prizes.
+Chapter 6 | The Normal Distribution
+393
+
+88. Facebook provides a variety of statistics on its Web site that detail the growth and popularity of the site.
+On average, 28 percent of 18 to 34 year olds check their Facebook profiles before getting out of bed in the morning. Suppose
+this percentage follows a normal distribution with a standard deviation of five percent.
+a.
+Find the probability that the percent of 18 to 34-year-olds who check Facebook before getting out of bed in the
+morning is at least 30.
+b.
+Find the 95th percentile, and express it in a sentence.
+REFERENCES
+6.1 The Standard Normal Distribution
+“Blood Pressure of Males and Females.” StatCruch, 2013. Available online at http://www.statcrunch.com/5.0/
+viewreport.php?reportid=11960 (accessed May 14, 2013).
+“The Use of Epidemiological Tools in Conflict-affected populations: Open-access educational resources for policy-makers:
+Calculation
+of
+z-scores.”
+London
+School
+of
+Hygiene
+and
+Tropical
+Medicine,
+2009.
+Available
+online
+at
+http://conflict.lshtm.ac.uk/page_125.htm (accessed May 14, 2013).
+“2012
+College-Bound
+Seniors
+Total
+Group
+Profile
+Report.”
+CollegeBoard,
+2012.
+Available
+online
+at
+http://media.collegeboard.com/digitalServices/pdf/research/TotalGroup-2012.pdf (accessed May 14, 2013).
+“Digest of Education Statistics: ACT score average and standard deviations by sex and race/ethnicity and percentage of
+ACT test takers, by selected composite score ranges and planned fields of study: Selected years, 1995 through 2009.”
+National Center for Education Statistics. Available online at http://nces.ed.gov/programs/digest/d09/tables/dt09_147.asp
+(accessed May 14, 2013).
+Data from the San Jose Mercury News.
+Data from The World Almanac and Book of Facts.
+“List of stadiums by capacity.” Wikipedia. Available online at https://en.wikipedia.org/wiki/List_of_stadiums_by_capacity
+(accessed May 14, 2013).
+Data from the National Basketball Association. Available online at www.nba.com (accessed May 14, 2013).
+6.2 Using the Normal Distribution
+“Naegele’s rule.” Wikipedia. Available online at http://en.wikipedia.org/wiki/Naegele's_rule (accessed May 14, 2013).
+“403: NUMMI.” Chicago Public Media & Ira Glass, 2013. Available online at http://www.thisamericanlife.org/radio-
+archives/episode/403/nummi (accessed May 14, 2013).
+“Scratch-Off
+Lottery
+Ticket
+Playing
+Tips.”
+WinAtTheLottery.com,
+2013.
+Available
+online
+at
+http://www.winatthelottery.com/public/department40.cfm (accessed May 14, 2013).
+“Smart Phone Users, By The Numbers.” Visual.ly, 2013. Available online at http://visual.ly/smart-phone-users-numbers
+(accessed May 14, 2013).
+“Facebook Statistics.” Statistics Brain. Available online at http://www.statisticbrain.com/facebook-statistics/(accessed May
+14, 2013).
+SOLUTIONS
+1 ounces of water in a bottle
+3 2
+5 –4
+7 –2
+9 The mean becomes zero.
+394
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+11 z = 2
+13 z = 2.78
+15 x = 20
+17 x = 6.5
+19 x = 1
+21 x = 1.97
+23 z = –1.67
+25 z ≈ –0.33
+27 0.67, right
+29 3.14, left
+31 about 68%
+33 about 4%
+35 between –5 and –1
+37 about 50%
+39 about 27%
+41 The lifetime of a Sunshine CD player measured in years.
+43 P(x < 1)
+45 Yes, because they are the same in a continuous distribution: P(x = 1) = 0
+47 1 – P(x < 3) or P(x > 3)
+49 1 – 0.543 = 0.457
+51 0.0013
+53 56.03
+55 0.1186
+57
+a.
+Check student’s solution.
+b.
+3, 0.1979
+59
+a.
+Check student’s solution.
+b.
+0.70, 4.78 years
+61 c
+63
+a.
+Use the z-score formula. z = –0.5141. The height of 77 inches is 0.5141 standard deviations below the mean. An NBA
+player whose height is 77 inches is shorter than average.
+b.
+Use the z-score formula. z = 1.5424. The height 85 inches is 1.5424 standard deviations above the mean. An NBA
+player whose height is 85 inches is taller than average.
+c.
+Height = 79 + 3.5(3.89) = 92.615 inches, which is taller than 7 feet, 8 inches. There are very few NBA players this tall
+so the answer is no, not likely.
+65
+a.
+iv
+b.
+Kyle’s blood pressure is equal to 125 + (1.75)(14) = 149.5.
+67 Let X = an SAT math score and Y = an ACT math score.
+Chapter 6 | The Normal Distribution
+395
+
+a.
+X = 720 720 – 520
+15
+= 1.74 The exam score of 720 is 1.74 standard deviations above the mean of 520.
+b.
+z = 1.5
+The math SAT score is 520 + 1.5(115) ≈ 692.5. The exam score of 692.5 is 1.5 standard deviations above the mean of
+520.
+c.
+X – µ
+σ
+= 700 – 514
+117
+≈ 1.59, the z-score for the SAT. Y – µ
+σ
+= 30 – 21
+5.3
+≈ 1.70, the z-scores for the ACT. With respect
+to the test they took, the person who took the ACT did better (has the higher z-score).
+69 c
+71 d
+73
+a.
+X ~ N(66, 2.5)
+b.
+0.5404
+c.
+No, the probability that an Asian male is over 72 inches tall is 0.0082
+75
+a.
+X ~ N(36, 10)
+b.
+The probability that a person consumes more than 40% of their calories as fat is 0.3446.
+c.
+Approximately 25% of people consume less than 29.26% of their calories as fat.
+77
+a.
+X = number of hours that a Chinese four-year-old in a rural area is unsupervised during the day.
+b.
+X ~ N(3, 1.5)
+c.
+The probability that the child spends less than one hour a day unsupervised is 0.0918.
+d.
+The probability that a child spends over ten hours a day unsupervised is less than 0.0001.
+e.
+2.21 hours
+79
+a.
+X = the distribution of the number of days a particular type of criminal trial will take
+b.
+X ~ N(21, 7)
+c.
+The probability that a randomly selected trial will last more than 24 days is 0.3336.
+d.
+22.77
+81
+a.
+mean = 5.51, s = 2.15
+b.
+Check student's solution.
+c.
+Check student's solution.
+d.
+Check student's solution.
+e.
+X ~ N(5.51, 2.15)
+f.
+0.6029
+g.
+The cumulative frequency for less than 6.1 minutes is 0.64.
+h.
+The answers to part f and part g are not exactly the same, because the normal distribution is only an approximation to
+the real one.
+i.
+The answers to part f and part g are close, because a normal distribution is an excellent approximation when the sample
+size is greater than 30.
+j.
+The approximation would have been less accurate, because the smaller sample size means that the data does not fit
+396
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+normal curve as well.
+83
+1.
+mean = 60,136
+s = 10,468
+2.
+Answers will vary.
+3.
+Answers will vary.
+4.
+Answers will vary.
+5.
+X ~ N(60136, 10468)
+6.
+0.7440
+7.
+The cumulative relative frequency is 43/60 = 0.717.
+8.
+The answers for part f and part g are not the same, because the normal distribution is only an approximation.
+85
+n = 100; p = 0.1; q = 0.9
+μ = np = (100)(0.10) = 10
+σ =
+npq =
+(100)(0.1)(0.9) = 3
+i.
+z = ±1: x1 = µ + zσ = 10 + 1(3) = 13 and x2 = µ – zσ = 10 – 1(3) = 7. 68% of the defective cars will fall between seven
+and 13.
+ii.
+z = ±2: x1 = µ + zσ = 10 + 2(3) = 16 and x2 = µ – zσ = 10 – 2(3) = 4. 95 % of the defective cars will fall between four
+and 16
+iii.
+z = ±3: x1 = µ + zσ = 10 + 3(3) = 19 and x2 = µ – zσ = 10 – 3(3) = 1. 99.7% of the defective cars will fall between one
+and 19.
+87
+n = 190; p = 1
+5 = 0.2; q = 0.8
+μ = np = (190)(0.2) = 38
+σ =
+npq =
+(190)(0.2)(0.8) = 5.5136
+a.
+For this problem: P(34 < x < 54) = normalcdf(34,54,48,5.5136) = 0.7641
+b.
+For this problem: P(54 < x < 64) = normalcdf(54,64,48,5.5136) = 0.0018
+c.
+For this problem: P(x > 64) = normalcdf(64,1099,48,5.5136) = 0.0000012 (approximately 0)
+Chapter 6 | The Normal Distribution
+397
+
+398
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+12 | LINEAR REGRESSION
+AND CORRELATION
+Figure 12.1
+Linear regression and correlation can help you determine if an auto mechanic’s salary is related to his
+work experience. (credit: Joshua Rothhaas)
+Introduction
+Chapter Objectives
+By the end of this chapter, the student should be able to:
+•
+Discuss basic ideas of linear regression and correlation.
+•
+Create and interpret a line of best fit.
+•
+Calculate and interpret the correlation coefficient.
+•
+Calculate and interpret outliers.
+Professionals often want to know how two or more numeric variables are related. For example, is there a relationship
+between the grade on the second math exam a student takes and the grade on the final exam? If there is a relationship, what
+is the relationship and how strong is it?
+In another example, your income may be determined by your education, your profession, your years of experience, and your
+ability. The amount you pay a repair person for labor is often determined by an initial amount plus an hourly fee.
+Chapter 12 | Linear Regression and Correlation
+679
+
+The type of data described in the examples is bivariate data — "bi" for two variables. In reality, statisticians use
+multivariate data, meaning many variables.
+In this chapter, you will be studying the simplest form of regression, "linear regression" with one independent variable
+(x). This involves data that fits a line in two dimensions. You will also study correlation which measures how strong the
+relationship is.
+12.1 | Linear Equations
+Linear regression for two variables is based on a linear equation with one independent variable. The equation has the form:
+y = a + bx
+where a and b are constant numbers.
+The variable x is the independent variable, and y is the dependent variable. Typically, you choose a value to substitute
+for the independent variable and then solve for the dependent variable.
+Example 12.1
+The following examples are linear equations.
+y = 3 + 2x
+y = –0.01 + 1.2x
+12.1 Is the following an example of a linear equation?
+y = –0.125 – 3.5x
+The graph of a linear equation of the form y = a + bx is a straight line. Any line that is not vertical can be described by this
+equation.
+Example 12.2
+Graph the equation y = –1 + 2x.
+680
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+Figure 12.2
+12.2 Is the following an example of a linear equation? Why or why not?
+Figure 12.3
+Example 12.3
+Aaron's Word Processing Service (AWPS) does word processing. The rate for services is $32 per hour plus a
+$31.50 one-time charge. The total cost to a customer depends on the number of hours it takes to complete the job.
+Find the equation that expresses the total cost in terms of the number of hours required to complete the job.
+Solution 12.3
+Let x = the number of hours it takes to get the job done.
+Let y = the total cost to the customer.
+The $31.50 is a fixed cost. If it takes x hours to complete the job, then (32)(x) is the cost of the word processing
+only. The total cost is: y = 31.50 + 32x
+Chapter 12 | Linear Regression and Correlation
+681
+
+12.3 Emma’s Extreme Sports hires hang-gliding instructors and pays them a fee of $50 per class as well as $20 per
+student in the class. The total cost Emma pays depends on the number of students in a class. Find the equation that
+expresses the total cost in terms of the number of students in a class.
+Slope and Y-Intercept of a Linear Equation
+For the linear equation y = a + bx, b = slope and a = y-intercept. From algebra recall that the slope is a number that describes
+the steepness of a line, and the y-intercept is the y coordinate of the point (0, a) where the line crosses the y-axis.
+Figure 12.4
+Three possible graphs of y = a + bx. (a) If b > 0, the line slopes upward to the right. (b) If b = 0, the line
+is horizontal. (c) If b < 0, the line slopes downward to the right.
+Example 12.4
+Svetlana tutors to make extra money for college. For each tutoring session, she charges a one-time fee of $25
+plus $15 per hour of tutoring. A linear equation that expresses the total amount of money Svetlana earns for each
+session she tutors is y = 25 + 15x.
+What are the independent and dependent variables? What is the y-intercept and what is the slope? Interpret them
+using complete sentences.
+Solution 12.4
+The independent variable (x) is the number of hours Svetlana tutors each session. The dependent variable (y) is
+the amount, in dollars, Svetlana earns for each session.
+The y-intercept is 25 (a = 25). At the start of the tutoring session, Svetlana charges a one-time fee of $25 (this is
+when x = 0). The slope is 15 (b = 15). For each session, Svetlana earns $15 for each hour she tutors.
+12.4 Ethan repairs household appliances like dishwashers and refrigerators. For each visit, he charges $25 plus $20
+per hour of work. A linear equation that expresses the total amount of money Ethan earns per visit is y = 25 + 20x.
+What are the independent and dependent variables? What is the y-intercept and what is the slope? Interpret them using
+complete sentences.
+12.2 | Scatter Plots
+Before we take up the discussion of linear regression and correlation, we need to examine a way to display the relation
+between two variables x and y. The most common and easiest way is a scatter plot. The following example illustrates a
+scatter plot.
+682
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+Example 12.5
+In Europe and Asia, m-commerce is popular. M-commerce users have special mobile phones that work like
+electronic wallets as well as provide phone and Internet services. Users can do everything from paying for parking
+to buying a TV set or soda from a machine to banking to checking sports scores on the Internet. For the years
+2000 through 2004, was there a relationship between the year and the number of m-commerce users? Construct a
+scatter plot. Let x = the year and let y = the number of m-commerce users, in millions.
+x (year)
+y (# of users)
+2000
+0.5
+2002
+20.0
+2003
+33.0
+2004
+47.0
+Table 12.1
+(a) Table showing the number of m-
+commerce users (in millions) by year.
+(b) Scatter plot showing the number of m-commerce users (in millions) by
+year.
+Figure 12.5
+To create a scatter plot:
+1.
+Enter your X data into list L1 and your Y data into list L2.
+2.
+Press 2nd STATPLOT ENTER to use Plot 1. On the input screen for PLOT 1, highlight On and press ENTER.
+(Make sure the other plots are OFF.)
+3.
+For TYPE: highlight the very first icon, which is the scatter plot, and press ENTER.
+4.
+For Xlist:, enter L1 ENTER and for Ylist: L2 ENTER.
+5.
+For Mark: it does not matter which symbol you highlight, but the square is the easiest to see. Press ENTER.
+6.
+Make sure there are no other equations that could be plotted. Press Y = and clear any equations out.
+7.
+Press the ZOOM key and then the number 9 (for menu item "ZoomStat") ; the calculator will fit the window to
+the data. You can press WINDOW to see the scaling of the axes.
+12.5 Amelia plays basketball for her high school. She wants to improve to play at the college level. She notices that
+the number of points she scores in a game goes up in response to the number of hours she practices her jump shot each
+week. She records the following data:
+Chapter 12 | Linear Regression and Correlation
+683
+
+X (hours practicing jump shot)
+Y (points scored in a game)
+5
+15
+7
+22
+9
+28
+10
+31
+11
+33
+12
+36
+Table 12.2
+Construct a scatter plot and state if what Amelia thinks appears to be true.
+A scatter plot shows the direction of a relationship between the variables. A clear direction happens when there is either:
+•
+High values of one variable occurring with high values of the other variable or low values of one variable occurring
+with low values of the other variable.
+•
+High values of one variable occurring with low values of the other variable.
+You can determine the strength of the relationship by looking at the scatter plot and seeing how close the points are to
+a line, a power function, an exponential function, or to some other type of function. For a linear relationship there is an
+exception. Consider a scatter plot where all the points fall on a horizontal line providing a "perfect fit." The horizontal line
+would in fact show no relationship.
+When you look at a scatterplot, you want to notice the overall pattern and any deviations from the pattern. The following
+scatterplot examples illustrate these concepts.
+Figure 12.6
+Figure 12.7
+684
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+Figure 12.8
+In this chapter, we are interested in scatter plots that show a linear pattern. Linear patterns are quite common. The linear
+relationship is strong if the points are close to a straight line, except in the case of a horizontal line where there is no
+relationship. If we think that the points show a linear relationship, we would like to draw a line on the scatter plot. This
+line can be calculated through a process called linear regression. However, we only calculate a regression line if one of the
+variables helps to explain or predict the other variable. If x is the independent variable and y the dependent variable, then
+we can use a regression line to predict y for a given value of x
+12.3 | The Regression Equation
+Data rarely fit a straight line exactly. Usually, you must be satisfied with rough predictions. Typically, you have a set of data
+whose scatter plot appears to "fit" a straight line. This is called a Line of Best Fit or Least-Squares Line.
+If you know a person's pinky (smallest) finger length, do you think you could predict that person's height? Collect data
+from your class (pinky finger length, in inches). The independent variable, x, is pinky finger length and the dependent
+variable, y, is height. For each set of data, plot the points on graph paper. Make your graph big enough and use a ruler.
+Then "by eye" draw a line that appears to "fit" the data. For your line, pick two convenient points and use them to find
+the slope of the line. Find the y-intercept of the line by extending your line so it crosses the y-axis. Using the slopes and
+the y-intercepts, write your equation of "best fit." Do you think everyone will have the same equation? Why or why
+not? According to your equation, what is the predicted height for a pinky length of 2.5 inches?
+Example 12.6
+A random sample of 11 statistics students produced the following data, where x is the third exam score out of 80,
+and y is the final exam score out of 200. Can you predict the final exam score of a random student if you know
+the third exam score?
+Chapter 12 | Linear Regression and Correlation
+685
+
+x (third
+exam score)
+y (final exam
+score)
+65
+175
+67
+133
+71
+185
+71
+163
+66
+126
+75
+198
+67
+153
+70
+163
+71
+159
+69
+151
+69
+159
+Table 12.3
+(a) Table showing the scores on the
+final exam based on scores from the
+third exam.
+(b) Scatter plot showing the scores on the final exam based on scores from the
+third exam.
+Figure 12.9
+12.6 SCUBA divers have maximum dive times they cannot exceed when going to different depths. The data
+in Table 12.4 show different depths with the maximum dive times in minutes. Use your calculator to find the least
+squares regression line and predict the maximum dive time for 110 feet.
+X (depth in feet)
+Y (maximum dive time)
+50
+80
+60
+55
+70
+45
+80
+35
+90
+25
+100
+22
+Table 12.4
+The third exam score, x, is the independent variable and the final exam score, y, is the dependent variable. We will plot a
+regression line that best "fits" the data. If each of you were to fit a line "by eye," you would draw different lines. We can use
+what is called a least-squares regression line to obtain the best fit line.
+Consider the following diagram. Each point of data is of the the form (x, y) and each point ofthe line of best fit using least-
+686
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+squares linear regression has the form (x, ŷ).
+The ŷ is read "y hat" and is the estimated value of y. It is the value of y obtained using the regression line. It is not generally
+equal to y from data.
+Figure 12.10
+The term y0 – ŷ0 = ε0 is called the "error" or residual. It is not an error in the sense of a mistake. The absolute value
+of a residual measures the vertical distance between the actual value of y and the estimated value of y. In other words, it
+measures the vertical distance between the actual data point and the predicted point on the line.
+If the observed data point lies above the line, the residual is positive, and the line underestimates the actual data value for y.
+If the observed data point lies below the line, the residual is negative, and the line overestimates that actual data value for y.
+In the diagram in Figure 12.10, y0 – ŷ0 = ε0 is the residual for the point shown. Here the point lies above the line and the
+residual is positive.
+ε = the Greek letter epsilon
+For each data point, you can calculate the residuals or errors, yi - ŷi = εi for i = 1, 2, 3, ..., 11.
+Each |ε| is a vertical distance.
+For the example about the third exam scores and the final exam scores for the 11 statistics students, there are 11 data points.
+Therefore, there are 11 ε values. If yousquare each ε and add, you get
+(ε1)2 + (ε2)2 + ... + (ε11)2 =
+Σ
+i =  1
+11 ε2
+This is called the Sum of Squared Errors (SSE).
+Using calculus, you can determine the values of a and b that make the SSE a minimum. When you make the SSE a
+minimum, you have determined the points that are on the line of best fit. It turns out that the line of best fit has the equation:
+y^ = a + bx
+where a = y¯ − b x¯ and b = Σ(x − x¯ )(y − y¯ )
+Σ(x − x¯ )
+2
+.
+The sample means of the x values and the y values are x¯ and y¯ , respectively. The best fit line always passes through the
+point ( x¯ , y¯ ) .
+The slope b can be written as b = r⎛
+⎝
+sy
+sx
+⎞
+⎠ where sy = the standard deviation of the y values and sx = the standard deviation
+of the x values. r is the correlation coefficient, which is discussed in the next section.
+Least Squares Criteria for Best Fit
+The process of fitting the best-fit line is called linear regression. The idea behind finding the best-fit line is based on the
+assumption that the data are scattered about a straight line. The criteria for the best fit line is that the sum of the squared
+errors (SSE) is minimized, that is, made as small as possible. Any other line you might choose would have a higher SSE
+than the best fit line. This best fit line is called the least-squares regression line .
+Chapter 12 | Linear Regression and Correlation
+687
+
+NOTE
+Computer spreadsheets, statistical software, and many calculators can quickly calculate the best-fit line and
+create the graphs. The calculations tend to be tedious if done by hand. Instructions to use the TI-83, TI-83+, and
+TI-84+ calculators to find the best-fit line and create a scatterplot are shown at the end of this section.
+THIRD EXAM vs FINAL EXAM EXAMPLE:
+The graph of the line of best fit for the third-exam/final-exam example is as follows:
+Figure 12.11
+The least squares regression line (best-fit line) for the third-exam/final-exam example has the equation:
+y^ = − 173.51 + 4.83x
+REMINDER
+Remember, it is always important to plot a scatter diagram first. If the scatter plot indicates that there is a linear
+relationship between the variables, then it is reasonable to use a best fit line to make predictions for y given x within
+the domain of x-values in the sample data, but not necessarily for x-values outside that domain. You could use the
+line to predict the final exam score for a student who earned a grade of 73 on the third exam. You should NOT use the
+line to predict the final exam score for a student who earned a grade of 50 on the third exam, because 50 is not within
+the domain of the x-values in the sample data, which are between 65 and 75.
+UNDERSTANDING SLOPE
+The slope of the line, b, describes how changes in the variables are related. It is important to interpret the slope of the line
+in the context of the situation represented by the data. You should be able to write a sentence interpreting the slope in plain
+English.
+INTERPRETATION OF THE SLOPE: The slope of the best-fit line tells us how the dependent variable (y) changes for
+every one unit increase in the independent (x) variable, on average.
+THIRD EXAM vs FINAL EXAM EXAMPLE
+Slope: The slope of the line is b = 4.83.
+Interpretation: For a one-point increase in the score on the third exam, the final exam score increases by 4.83 points, on
+average.
+688
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+Using the Linear Regression T Test: LinRegTTest
+1.
+In the STAT list editor, enter the X data in list L1 and the Y data in list L2, paired so that the corresponding (x,y)
+values are next to each other in the lists. (If a particular pair of values is repeated, enter it as many times as it
+appears in the data.)
+2.
+On the STAT TESTS menu, scroll down with the cursor to select the LinRegTTest. (Be careful to select
+LinRegTTest, as some calculators may also have a different item called LinRegTInt.)
+3.
+On the LinRegTTest input screen enter: Xlist: L1 ; Ylist: L2 ; Freq: 1
+4.
+On the next line, at the prompt β or ρ, highlight "≠ 0" and press ENTER
+5.
+Leave the line for "RegEq:" blank
+6.
+Highlight Calculate and press ENTER.
+Figure 12.12
+The output screen contains a lot of information. For now we will focus on a few items from the output, and will return
+later to the other items.
+The second line says y = a + bx. Scroll down to find the values a = –173.513, and b = 4.8273; the equation of the best
+fit line is ŷ = –173.51 + 4.83x
+The two items at the bottom are r2 = 0.43969 and r = 0.663. For now, just note where to find these values; we will
+discuss them in the next two sections.
+Graphing the Scatterplot and Regression Line
+1.
+We are assuming your X data is already entered in list L1 and your Y data is in list L2
+2.
+Press 2nd STATPLOT ENTER to use Plot 1
+3.
+On the input screen for PLOT 1, highlight On, and press ENTER
+4.
+For TYPE: highlight the very first icon which is the scatterplot and press ENTER
+5.
+Indicate Xlist: L1 and Ylist: L2
+6.
+For Mark: it does not matter which symbol you highlight.
+7.
+Press the ZOOM key and then the number 9 (for menu item "ZoomStat") ; the calculator will fit the window to
+the data
+8.
+To graph the best-fit line, press the "Y=" key and type the equation –173.5 + 4.83X into equation Y1. (The X key
+is immediately left of the STAT key). Press ZOOM 9 again to graph it.
+Chapter 12 | Linear Regression and Correlation
+689
+
+9.
+Optional: If you want to change the viewing window, press the WINDOW key. Enter your desired window using
+Xmin, Xmax, Ymin, Ymax
+NOTE
+Another way to graph the line after you create a scatter plot is to use LinRegTTest.
+1.
+Make sure you have done the scatter plot. Check it on your screen.
+2.
+Go to LinRegTTest and enter the lists.
+3.
+At RegEq: press VARS and arrow over to Y-VARS. Press 1 for 1:Function. Press 1 for 1:Y1. Then arrow down
+to Calculate and do the calculation for the line of best fit.
+4.
+Press Y = (you will see the regression equation).
+5.
+Press GRAPH. The line will be drawn."
+The Correlation Coefficient r
+Besides looking at the scatter plot and seeing that a line seems reasonable, how can you tell if the line is a good predictor?
+Use the correlation coefficient as another indicator (besides the scatterplot) of the strength of the relationship between x and
+y.
+The correlation coefficient, r, developed by Karl Pearson in the early 1900s, is numerical and provides a measure of
+strength and direction of the linear association between the independent variable x and the dependent variable y.
+The correlation coefficient is calculated as
+r =
+nΣ(xy) − (Σx)(Σy)
+⎡
+⎣nΣx2 − (Σx)2⎤
+⎦
+⎡
+⎣nΣy2 − (Σy)2⎤
+⎦
+where n = the number of data points.
+If you suspect a linear relationship between x and y, then r can measure how strong the linear relationship is.
+What the VALUE of r tells us:
+•
+The value of r is always between –1 and +1: –1 ≤ r ≤ 1.
+•
+The size of the correlation r indicates the strength of the linear relationship between x and y. Values of r close to –1 or
+to +1 indicate a stronger linear relationship between x and y.
+•
+If r = 0 there is absolutely no linear relationship between x and y (no linear correlation).
+•
+If r = 1, there is perfect positive correlation. If r = –1, there is perfect negative correlation. In both these cases, all of
+the original data points lie on a straight line. Of course,in the real world, this will not generally happen.
+What the SIGN of r tells us
+•
+A positive value of r means that when x increases, y tends to increase and when x decreases, y tends to decrease
+(positive correlation).
+•
+A negative value of r means that when x increases, y tends to decrease and when x decreases, y tends to increase
+(negative correlation).
+•
+The sign of r is the same as the sign of the slope, b, of the best-fit line.
+NOTE
+Strong correlation does not suggest that x causes y or y causes x. We say "correlation does not imply causation."
+690
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+Figure 12.13 (a) A scatter plot showing data with a positive correlation. 0 < r < 1 (b) A scatter plot showing data with
+a negative correlation. –1 < r < 0 (c) A scatter plot showing data with zero correlation. r = 0
+The formula for r looks formidable. However, computer spreadsheets, statistical software, and many calculators can quickly
+calculate r. The correlation coefficient r is the bottom item in the output screens for the LinRegTTest on the TI-83, TI-83+,
+or TI-84+ calculator (see previous section for instructions).
+The Coefficient of Determination
+The variable r2 is called the coefficient of determination and is the square of the correlation coefficient, but is usually
+stated as a percent, rather than in decimal form. It has an interpretation in the context of the data:
+•
+r2 , when expressed as a percent, represents the percent of variation in the dependent (predicted) variable y that can
+be explained by variation in the independent (explanatory) variable x using the regression (best-fit) line.
+•
+1 – r2 , when expressed as a percentage, represents the percent of variation in y that is NOT explained by variation in
+x using the regression line. This can be seen as the scattering of the observed data points about the regression line.
+Consider the third exam/final exam example introduced in the previous section
+•
+The line of best fit is: ŷ = –173.51 + 4.83x
+•
+The correlation coefficient is r = 0.6631
+•
+The coefficient of determination is r2 = 0.66312 = 0.4397
+•
+Interpretation of r2 in the context of this example:
+•
+Approximately 44% of the variation (0.4397 is approximately 0.44) in the final-exam grades can be explained by the
+variation in the grades on the third exam, using the best-fit regression line.
+•
+Therefore, approximately 56% of the variation (1 – 0.44 = 0.56) in the final exam grades can NOT be explained by the
+variation in the grades on the third exam, using the best-fit regression line. (This is seen as the scattering of the points
+about the line.)
+12.4 | Testing the Significance of the Correlation
+Coefficient
+The correlation coefficient, r, tells us about the strength and direction of the linear relationship between x and y. However,
+the reliability of the linear model also depends on how many observed data points are in the sample. We need to look at
+both the value of the correlation coefficient r and the sample size n, together.
+We perform a hypothesis test of the "significance of the correlation coefficient" to decide whether the linear relationship
+in the sample data is strong enough to use to model the relationship in the population.
+The sample data are used to compute r, the correlation coefficient for the sample. If we had data for the entire population,
+we could find the population correlation coefficient. But because we have only have sample data, we cannot calculate
+the population correlation coefficient. The sample correlation coefficient, r, is our estimate of the unknown population
+correlation coefficient.
+The symbol for the population correlation coefficient is ρ, the Greek letter "rho."
+ρ = population correlation coefficient (unknown)
+r = sample correlation coefficient (known; calculated from sample data)
+The hypothesis test lets us decide whether the value of the population correlation coefficient ρ is "close to zero" or
+"significantly different from zero". We decide this based on the sample correlation coefficient r and the sample size n.
+If the test concludes that the correlation coefficient is significantly different from zero, we say that the
+Chapter 12 | Linear Regression and Correlation
+691
+
+correlation coefficient is "significant."
+•
+Conclusion: There is sufficient evidence to conclude that there is a significant linear relationship between x and y
+because the correlation coefficient is significantly different from zero.
+•
+What the conclusion means: There is a significant linear relationship between x and y. We can use the regression line
+to model the linear relationship between x and y in the population.
+If the test concludes that the correlation coefficient is not significantly different from zero (it is close to
+zero), we say that correlation coefficient is "not significant".
+•
+Conclusion: "There is insufficient evidence to conclude that there is a significant linear relationship between x and y
+because the correlation coefficient is not significantly different from zero."
+•
+What the conclusion means: There is not a significant linear relationship between x and y. Therefore, we CANNOT
+use the regression line to model a linear relationship between x and y in the population.
+NOTE
+•
+If r is significant and the scatter plot shows a linear trend, the line can be used to predict the value of y for values
+of x that are within the domain of observed x values.
+•
+If r is not significant OR if the scatter plot does not show a linear trend, the line should not be used for prediction.
+•
+If r is significant and if the scatter plot shows a linear trend, the line may NOT be appropriate or reliable for
+prediction OUTSIDE the domain of observed x values in the data.
+PERFORMING THE HYPOTHESIS TEST
+•
+Null Hypothesis: H0: ρ = 0
+•
+Alternate Hypothesis: Ha: ρ ≠ 0
+WHAT THE HYPOTHESES MEAN IN WORDS:
+•
+Null Hypothesis H0: The population correlation coefficient IS NOT significantly different from zero. There IS NOT
+a significant linear relationship(correlation) between x and y in the population.
+•
+Alternate Hypothesis Ha: The population correlation coefficient IS significantly DIFFERENT FROM zero. There IS
+A SIGNIFICANT LINEAR RELATIONSHIP (correlation) between x and y in the population.
+DRAWING A CONCLUSION:
+There are two methods of making the decision. The two methods are equivalent and give the same result.
+•
+Method 1: Using the p-value
+•
+Method 2: Using a table of critical values
+In this chapter of this textbook, we will always use a significance level of 5%, α = 0.05
+NOTE
+Using the p-value method, you could choose any appropriate significance level you want; you are not limited to using
+α = 0.05. But the table of critical values provided in this textbook assumes that we are using a significance level of 5%,
+α = 0.05. (If we wanted to use a different significance level than 5% with the critical value method, we would need
+different tables of critical values that are not provided in this textbook.)
+METHOD 1: Using a p-value to make a decision
+To calculate the p-value using LinRegTTEST:
+On the LinRegTTEST input screen, on the line prompt for β or ρ, highlight "≠ 0"
+The output screen shows the p-value on the line that reads "p =".
+(Most computer statistical software can calculate the p-value.)
+692
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+If the p-value is less than the significance level (α = 0.05):
+•
+Decision: Reject the null hypothesis.
+•
+Conclusion: "There is sufficient evidence to conclude that there is a significant linear relationship between x and y
+because the correlation coefficient is significantly different from zero."
+If the p-value is NOT less than the significance level (α = 0.05)
+•
+Decision: DO NOT REJECT the null hypothesis.
+•
+Conclusion: "There is insufficient evidence to conclude that there is a significant linear relationship between x and y
+because the correlation coefficient is NOT significantly different from zero."
+You will use technology to calculate the p-value. The following describes the calculations to compute the test
+statistics and the p-value:
+The p-value is calculated using a t-distribution with n - 2 degrees of freedom.
+The formula for the test statistic is t = r n − 2
+1 − r2 . The value of the test statistic, t, is shown in the computer or
+calculator output along with the p-value. The test statistic t has the same sign as the correlation coefficient r.
+The p-value is the combined area in both tails.
+An alternative way to calculate the p-value (p) given by LinRegTTest is the command 2*tcdf(abs(t),10^99, n-2) in 2nd
+DISTR.
+THIRD-EXAM vs FINAL-EXAM EXAMPLE: p-value method
+•
+Consider the third exam/final exam example.
+•
+The line of best fit is: ŷ = -173.51 + 4.83x with r = 0.6631 and there are n = 11 data points.
+•
+Can the regression line be used for prediction? Given a third exam score (x value), can we use the line to predict
+the final exam score (predicted y value)?
+H0: ρ = 0
+Ha: ρ ≠ 0
+α = 0.05
+•
+The p-value is 0.026 (from LinRegTTest on your calculator or from computer software).
+•
+The p-value, 0.026, is less than the significance level of α = 0.05.
+•
+Decision: Reject the Null Hypothesis H0
+•
+Conclusion: There is sufficient evidence to conclude that there is a significant linear relationship between the third
+exam score (x) and the final exam score (y) because the correlation coefficient is significantly different from zero.
+Because r is significant and the scatter plot shows a linear trend, the regression line can be used to predict final exam
+scores.
+METHOD 2: Using a table of Critical Values to make a decision
+The 95% Critical Values of the Sample Correlation Coefficient Table can be used to give you a good idea of
+whether the computed value of r is significant or not. Compare r to the appropriate critical value in the table. If r is not
+between the positive and negative critical values, then the correlation coefficient is significant. If r is significant, then you
+may want to use the line for prediction.
+Example 12.7
+Suppose you computed r = 0.801 using n = 10 data points.df = n - 2 = 10 - 2 = 8. The critical values associated
+with df = 8 are -0.632 and + 0.632. If r < negative critical value or r > positive critical value, then r issignificant.
+Since r = 0.801 and 0.801 > 0.632, r is significant and the line may be usedfor prediction. If you view this example
+on a number line, it will help you.
+Chapter 12 | Linear Regression and Correlation
+693
+
+Figure 12.14 r is not significant between -0.632 and +0.632. r = 0.801 > +0.632. Therefore, r is significant.
+12.7 For a given line of best fit, you computed that r = 0.6501 using n = 12 data points and the critical value is 0.576.
+Can the line be used for prediction? Why or why not?
+Example 12.8
+Suppose you computed r = –0.624 with 14 data points. df = 14 – 2 = 12. The critical values are –0.532 and 0.532.
+Since –0.624 < –0.532, r is significant and the line can be used for prediction
+Figure 12.15 r = –0.624 < -0.532. Therefore, r is significant.
+12.8 For a given line of best fit, you compute that r = 0.5204 using n = 9 data points, and the critical value is 0.666.
+Can the line be used for prediction? Why or why not?
+Example 12.9
+Suppose you computed r = 0.776 and n = 6. df = 6 – 2 = 4. The critical values are –0.811 and 0.811. Since –0.811
+< 0.776 < 0.811, r is not significant, and the line should not be used for prediction.
+Figure 12.16 -0.811 < r = 0.776 < 0.811. Therefore, r is not significant.
+12.9 For a given line of best fit, you compute that r = –0.7204 using n = 8 data points, and the critical value is =
+0.707. Can the line be used for prediction? Why or why not?
+694
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+THIRD-EXAM vs FINAL-EXAM EXAMPLE: critical value method
+Consider the third exam/final exam example. The line of best fit is: ŷ = –173.51+4.83x with r = 0.6631 and there are n
+= 11 data points. Can the regression line be used for prediction? Given a third-exam score (x value), can we use the line
+to predict the final exam score (predicted y value)?
+H0: ρ = 0
+Ha: ρ ≠ 0
+α = 0.05
+•
+Use the "95% Critical Value" table for r with df = n – 2 = 11 – 2 = 9.
+•
+The critical values are –0.602 and +0.602
+•
+Since 0.6631 > 0.602, r is significant.
+•
+Decision: Reject the null hypothesis.
+•
+Conclusion:There is sufficient evidence to conclude that there is a significant linear relationship between the third
+exam score (x) and the final exam score (y) because the correlation coefficient is significantly different from zero.
+Because r is significant and the scatter plot shows a linear trend, the regression line can be used to predict final exam
+scores.
+Example 12.10
+Suppose you computed the following correlation coefficients. Using the table at the end of the chapter, determine
+if r is significant and the line of best fit associated with each r can be used to predict a y value. If it helps, draw a
+number line.
+a.
+r = –0.567 and the sample size, n, is 19. The df = n – 2 = 17. The critical value is –0.456. –0.567 < –0.456
+so r is significant.
+b.
+r = 0.708 and the sample size, n, is nine. The df = n – 2 = 7. The critical value is 0.666. 0.708 > 0.666 so r is
+significant.
+c.
+r = 0.134 and the sample size, n, is 14. The df = 14 – 2 = 12. The critical value is 0.532. 0.134 is between
+–0.532 and 0.532 so r is not significant.
+d.
+r = 0 and the sample size, n, is five. No matter what the dfs are, r = 0 is between the two critical values so r
+is not significant.
+12.10 For a given line of best fit, you compute that r = 0 using n = 100 data points. Can the line be used for prediction?
+Why or why not?
+Assumptions in Testing the Significance of the Correlation Coefficient
+Testing the significance of the correlation coefficient requires that certain assumptions about the data are satisfied. The
+premise of this test is that the data are a sample of observed points taken from a larger population. We have not examined
+the entire population because it is not possible or feasible to do so. We are examining the sample to draw a conclusion about
+whether the linear relationship that we see between x and y in the sample data provides strong enough evidence so that we
+can conclude that there is a linear relationship between x and y in the population.
+The regression line equation that we calculate from the sample data gives the best-fit line for our particular sample. We
+want to use this best-fit line for the sample as an estimate of the best-fit line for the population. Examining the scatterplot
+and testing the significance of the correlation coefficient helps us determine if it is appropriate to do this.
+The assumptions underlying the test of significance are:
+•
+There is a linear relationship in the population that models the average value of y for varying values of x. In other
+words, the expected value of y for each particular value lies on a straight line in the population. (We do not know the
+Chapter 12 | Linear Regression and Correlation
+695
+
+equation for the line for the population. Our regression line from the sample is our best estimate of this line in the
+population.)
+•
+The y values for any particular x value are normally distributed about the line. This implies that there are more y values
+scattered closer to the line than are scattered farther away. Assumption (1) implies that these normal distributions are
+centered on the line: the means of these normal distributions of y values lie on the line.
+•
+The standard deviations of the population y values about the line are equal for each value of x. In other words, each of
+these normal distributions of y values has the same shape and spread about the line.
+•
+The residual errors are mutually independent (no pattern).
+•
+The data are produced from a well-designed, random sample or randomized experiment.
+Figure 12.17 The y values for each x value are normally distributed about the line with the same standard deviation.
+For each x value, the mean of the y values lies on the regression line. More y values lie near the line than are scattered
+further away from the line.
+12.5 | Prediction
+Recall the third exam/final exam example.
+We examined the scatterplot and showed that the correlation coefficient is significant. We found the equation of the best-fit
+line for the final exam grade as a function of the grade on the third-exam. We can now use the least-squares regression line
+for prediction.
+Suppose you want to estimate, or predict, the mean final exam score of statistics students who received 73 on the third
+exam. The exam scores (x-values) range from 65 to 75. Since 73 is between the x-values 65 and 75, substitute x = 73 into
+the equation. Then:
+y^ = − 173.51 + 4.83(73) = 179.08
+We predict that statistics students who earn a grade of 73 on the third exam will earn a grade of 179.08 on the final exam,
+on average.
+Example 12.11
+Recall the third exam/final exam example.
+a. What would you predict the final exam score to be for a student who scored a 66 on the third exam?
+Solution 12.11
+a. 145.27
+b. What would you predict the final exam score to be for a student who scored a 90 on the third exam?
+696
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+Solution 12.11
+b. The x values in the data are between 65 and 75. Ninety is outside of the domain of the observed x values in the
+data (independent variable), so you cannot reliably predict the final exam score for this student. (Even though it
+is possible to enter 90 into the equation for x and calculate a corresponding y value, the y value that you get will
+not be reliable.)
+To understand really how unreliable the prediction can be outside of the observed x values observed in the data,
+make the substitution x = 90 into the equation.
+y^ = –173.51 + 4.83⎛
+⎝90⎞
+⎠ = 261.19
+The final-exam score is predicted to be 261.19. The largest the final-exam score can be is 200.
+NOTE
+The process of predicting inside of the observed x values observed in the data is called interpolation. The
+process of predicting outside of the observed x values observed in the data is called extrapolation.
+12.11 Data are collected on the relationship between the number of hours per week practicing a musical instrument
+and scores on a math test. The line of best fit is as follows:
+ŷ = 72.5 + 2.8x
+What would you predict the score on a math test would be for a student who practices a musical instrument for five
+hours a week?
+12.6 | Outliers
+In some data sets, there are values (observed data points) called outliers. Outliers are observed data points that are far
+from the least squares line. They have large "errors", where the "error" or residual is the vertical distance from the line to
+the point.
+Outliers need to be examined closely. Sometimes, for some reason or another, they should not be included in the analysis
+of the data. It is possible that an outlier is a result of erroneous data. Other times, an outlier may hold valuable information
+about the population under study and should remain included in the data. The key is to examine carefully what causes a data
+point to be an outlier.
+Besides outliers, a sample may contain one or a few points that are called influential points. Influential points are observed
+data points that are far from the other observed data points in the horizontal direction. These points may have a big effect
+on the slope of the regression line. To begin to identify an influential point, you can remove it from the data set and see if
+the slope of the regression line is changed significantly.
+Computers and many calculators can be used to identify outliers from the data. Computer output for regression analysis will
+often identify both outliers and influential points so that you can examine them.
+Identifying Outliers
+We could guess at outliers by looking at a graph of the scatterplot and best fit-line. However, we would like some guideline
+as to how far away a point needs to be in order to be considered an outlier. As a rough rule of thumb, we can flag any
+point that is located further than two standard deviations above or below the best-fit line as an outlier. The standard
+deviation used is the standard deviation of the residuals or errors.
+We can do this visually in the scatter plot by drawing an extra pair of lines that are two standard deviations above and below
+the best-fit line. Any data points that are outside this extra pair of lines are flagged as potential outliers. Or we can do this
+Chapter 12 | Linear Regression and Correlation
+697
+
+numerically by calculating each residual and comparing it to twice the standard deviation. On the TI-83, 83+, or 84+, the
+graphical approach is easier. The graphical procedure is shown first, followed by the numerical calculations. You would
+generally need to use only one of these methods.
+Example 12.12
+In the third exam/final exam example, you can determine if there is an outlier or not. If there is an outlier,
+as an exercise, delete it and fit the remaining data to a new line. For this example, the new line ought to fit the
+remaining data better. This means the SSE should be smaller and the correlation coefficient ought to be closer to
+1 or –1.
+Solution 12.12
+Graphical Identification of Outliers
+With the TI-83, 83+, 84+ graphing calculators, it is easy to identify the outliers graphically and visually. If we
+were to measure the vertical distance from any data point to the corresponding point on the line of best fit and
+that distance were equal to 2s or more, then we would consider the data point to be "too far" from the line of best
+fit. We need to find and graph the lines that are two standard deviations below and above the regression line. Any
+points that are outside these two lines are outliers. We will call these lines Y2 and Y3:
+As we did with the equation of the regression line and the correlation coefficient, we will use technology to
+calculate this standard deviation for us. Using the LinRegTTest with this data, scroll down through the output
+screens to find s = 16.412.
+Line Y2 = –173.5 + 4.83x –2(16.4) and line Y3 = –173.5 + 4.83x + 2(16.4)
+where ŷ = –173.5 + 4.83x is the line of best fit. Y2 and Y3 have the same slope as the line of best fit.
+Graph the scatterplot with the best fit line in equation Y1, then enter the two extra lines as Y2 and Y3 in the
+"Y="equation editor and press ZOOM 9. You will find that the only data point that is not between lines Y2 and
+Y3 is the point x = 65, y = 175. On the calculator screen it is just barely outside these lines. The outlier is the
+student who had a grade of 65 on the third exam and 175 on the final exam; this point is further than two standard
+deviations away from the best-fit line.
+Sometimes a point is so close to the lines used to flag outliers on the graph that it is difficult to tell if the point is
+between or outside the lines. On a computer, enlarging the graph may help; on a small calculator screen, zooming
+in may make the graph clearer. Note that when the graph does not give a clear enough picture, you can use the
+numerical comparisons to identify outliers.
+Figure 12.18
+698
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+12.12 Identify the potential outlier in the scatter plot. The standard deviation of the residuals or errors is
+approximately 8.6.
+Figure 12.19
+Numerical Identification of Outliers
+In Table 12.5, the first two columns are the third-exam and final-exam data. The third column shows the predicted ŷ values
+calculated from the line of best fit: ŷ = –173.5 + 4.83x. The residuals, or errors, have been calculated in the fourth column
+of the table: observed y value−predicted y value = y − ŷ.
+s is the standard deviation of all the y − ŷ = ε values where n = the total number of data points. If each residual is calculated
+and squared, and the results are added, we get the SSE. The standard deviation of the residuals is calculated from the SSE
+as:
+s =
+SSE
+n − 2
+NOTE
+We divide by (n – 2) because the regression model involves two estimates.
+Rather than calculate the value of s ourselves, we can find s using the computer or calculator. For this example, the
+calculator function LinRegTTest found s = 16.4 as the standard deviation of the residuals 35; –17; 16; –6; –19; 9; 3; –1;
+–10; –9; –1.
+x
+y
+ŷ
+y – ŷ
+65
+175 140 175 – 140 = 35
+67
+133 150 133 – 150= –17
+71
+185 169 185 – 169 = 16
+71
+163 169 163 – 169 = –6
+Table 12.5
+Chapter 12 | Linear Regression and Correlation
+699
+
+x
+y
+ŷ
+y – ŷ
+66
+126 145 126 – 145 = –19
+75
+198 189 198 – 189 = 9
+67
+153 150 153 – 150 = 3
+70
+163 164 163 – 164 = –1
+71
+159 169 159 – 169 = –10
+69
+151 160 151 – 160 = –9
+69
+159 160 159 – 160 = –1
+Table 12.5
+We are looking for all data points for which the residual is greater than 2s = 2(16.4) = 32.8 or less than –32.8. Compare
+these values to the residuals in column four of the table. The only such data point is the student who had a grade of 65 on
+the third exam and 175 on the final exam; the residual for this student is 35.
+How does the outlier affect the best fit line?
+Numerically and graphically, we have identified the point (65, 175) as an outlier. We should re-examine the data for this
+point to see if there are any problems with the data. If there is an error, we should fix the error if possible, or delete the data.
+If the data is correct, we would leave it in the data set. For this problem, we will suppose that we examined the data and
+found that this outlier data was an error. Therefore we will continue on and delete the outlier, so that we can explore how it
+affects the results, as a learning experience.
+Compute a new best-fit line and correlation coefficient using the ten remaining points:
+On the TI-83, TI-83+, TI-84+ calculators, delete the outlier from L1 and L2. Using the LinRegTTest, the new line of best
+fit and the correlation coefficient are:
+ŷ = –355.19 + 7.39x and r = 0.9121
+The new line with r = 0.9121 is a stronger correlation than the original (r = 0.6631) because r = 0.9121 is closer to one. This
+means that the new line is a better fit to the ten remaining data values. The line can better predict the final exam score given
+the third exam score.
+Numerical Identification of Outliers: Calculating s and Finding Outliers
+Manually
+If you do not have the function LinRegTTest, then you can calculate the outlier in the first example by doing the following.
+First, square each |y – ŷ|
+The squares are 352; 172; 162; 62; 192; 92; 32; 12; 102; 92; 12
+Then, add (sum) all the |y – ŷ| squared terms using the formula
+Σ
+i  =  1
+11
+⎛
+⎝|yi − y^
+i|
+⎞
+⎠
+2
+=
+Σ
+i  =  1
+11
+εi
+2 (Recall that yi – ŷi = εi.)
+= 352 + 172 + 162 + 62 + 192 + 92 + 32 + 12 + 102 + 92 + 12
+= 2440 = SSE. The result, SSE is the Sum of Squared Errors.
+Next, calculate s, the standard deviation of all the y – ŷ = ε values where n = the total number of data points.
+The calculation is s =
+SSE
+n – 2 .
+For the third exam/final exam problem, s =
+2440
+11 – 2 = 16.47 .
+Next, multiply s by 2:
+(2)(16.47) = 32.94
+700
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+32.94 is 2 standard deviations away from the mean of the y – ŷ values.
+If we were to measure the vertical distance from any data point to the corresponding point on the line of best fit and that
+distance is at least 2s, then we would consider the data point to be "too far" from the line of best fit. We call that point a
+potential outlier.
+For the example, if any of the |y – ŷ| values are at least 32.94, the corresponding (x, y) data point is a potential outlier.
+For the third exam/final exam problem, all the |y – ŷ|'s are less than 31.29 except for the first one which is 35.
+35 > 31.29 That is, |y – ŷ| ≥ (2)(s)
+The point which corresponds to |y – ŷ| = 35 is (65, 175). Therefore, the data point (65,175) is a potential outlier. For this
+example, we will delete it. (Remember, we do not always delete an outlier.)
+NOTE
+When outliers are deleted, the researcher should either record that data was deleted, and why, or the researcher should
+provide results both with and without the deleted data. If data is erroneous and the correct values are known (e.g.,
+student one actually scored a 70 instead of a 65), then this correction can be made to the data.
+The next step is to compute a new best-fit line using the ten remaining points. The new line of best fit and the correlation
+coefficient are:
+ŷ = –355.19 + 7.39x and r = 0.9121
+Example 12.13
+Using this new line of best fit (based on the remaining ten data points in the third exam/final exam example),
+what would a student who receives a 73 on the third exam expect to receive on the final exam? Is this the same as
+the prediction made using the original line?
+Solution 12.13
+Using the new line of best fit, ŷ = –355.19 + 7.39(73) = 184.28. A student who scored 73 points on the third exam
+would expect to earn 184 points on the final exam.
+The original line predicted ŷ = –173.51 + 4.83(73) = 179.08 so the prediction using the new line with the outlier
+eliminated differs from the original prediction.
+12.13 The data points for the graph from the third exam/final exam example are as follows: (1, 5), (2, 7), (2, 6),
+(3, 9), (4, 12), (4, 13), (5, 18), (6, 19), (7, 12), and (7, 21). Remove the outlier and recalculate the line of best fit. Find
+the value of ŷ when x = 10.
+Example 12.14
+The Consumer Price Index (CPI) measures the average change over time in the prices paid by urban consumers
+for consumer goods and services. The CPI affects nearly all Americans because of the many ways it is used.
+One of its biggest uses is as a measure of inflation. By providing information about price changes in the Nation's
+economy to government, business, and labor, the CPI helps them to make economic decisions. The President,
+Congress, and the Federal Reserve Board use the CPI's trends to formulate monetary and fiscal policies. In the
+following table, x is the year and y is the CPI.
+Chapter 12 | Linear Regression and Correlation
+701
+
+x
+y
+x
+y
+1915 10.1 1969 36.7
+1926 17.7 1975 49.3
+1935 13.7 1979 72.6
+1940 14.7 1980 82.4
+1947 24.1 1986 109.6
+1952 26.5 1991 130.7
+1964 31.0 1999 166.6
+Table 12.6 Data
+a.
+Draw a scatterplot of the data.
+b.
+Calculate the least squares line. Write the equation in the form ŷ = a + bx.
+c.
+Draw the line on the scatterplot.
+d.
+Find the correlation coefficient. Is it significant?
+e.
+What is the average CPI for the year 1990?
+Solution 12.14
+a.
+See Figure 12.19.
+b.
+ŷ = –3204 + 1.662x is the equation of the line of best fit.
+c.
+r = 0.8694
+d.
+The number of data points is n = 14. Use the 95% Critical Values of the Sample Correlation Coefficient table
+at the end of Chapter 12. n – 2 = 12. The corresponding critical value is 0.532. Since 0.8694 > 0.532, r is
+significant.
+ŷ = –3204 + 1.662(1990) = 103.4 CPI
+e.
+Using the calculator LinRegTTest, we find that s = 25.4 ; graphing the lines Y2 = –3204 + 1.662X – 2(25.4)
+and Y3 = –3204 + 1.662X + 2(25.4) shows that no data values are outside those lines, identifying no outliers.
+(Note that the year 1999 was very close to the upper line, but still inside it.)
+Figure 12.20
+NOTE
+In the example, notice the pattern of the points compared to the line. Although the correlation coefficient is
+702
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+significant, the pattern in the scatterplot indicates that a curve would be a more appropriate model to use than
+a line. In this example, a statistician should prefer to use other methods to fit a curve to this data, rather than
+model the data with the line we found. In addition to doing the calculations, it is always important to look at
+the scatterplot when deciding whether a linear model is appropriate.
+If you are interested in seeing more years of data, visit the Bureau of Labor Statistics CPI website ftp://ftp.bls.gov/
+pub/special.requests/cpi/cpiai.txt; our data is taken from the column entitled "Annual Avg." (third column from
+the right). For example you could add more current years of data. Try adding the more recent years: 2004: CPI
+= 188.9; 2008: CPI = 215.3; 2011: CPI = 224.9. See how it affects the model. (Check: ŷ = –4436 + 2.295x; r =
+0.9018. Is r significant? Is the fit better with the addition of the new points?)
+12.14 The following table shows economic development measured in per capita income PCINC.
+Year
+PCINC
+Year
+PCINC
+1870
+340
+1920
+1050
+1880
+499
+1930
+1170
+1890
+592
+1940
+1364
+1900
+757
+1950
+1836
+1910
+927
+1960
+2132
+Table 12.7
+a.
+What are the independent and dependent variables?
+b.
+Draw a scatter plot.
+c.
+Use regression to find the line of best fit and the correlation coefficient.
+d.
+Interpret the significance of the correlation coefficient.
+e.
+Is there a linear relationship between the variables?
+f.
+Find the coefficient of determination and interpret it.
+g.
+What is the slope of the regression equation? What does it mean?
+h.
+Use the line of best fit to estimate PCINC for 1900, for 2000.
+i.
+Determine if there are any outliers.
+95% Critical Values of the Sample Correlation Coefficient Table
+Degrees of Freedom: n – 2
+Critical Values: (+ and –)
+1
+0.997
+2
+0.950
+3
+0.878
+Table 12.8
+Chapter 12 | Linear Regression and Correlation
+703
+
+Degrees of Freedom: n – 2
+Critical Values: (+ and –)
+4
+0.811
+5
+0.754
+6
+0.707
+7
+0.666
+8
+0.632
+9
+0.602
+10
+0.576
+11
+0.555
+12
+0.532
+13
+0.514
+14
+0.497
+15
+0.482
+16
+0.468
+17
+0.456
+18
+0.444
+19
+0.433
+20
+0.423
+21
+0.413
+22
+0.404
+23
+0.396
+24
+0.388
+25
+0.381
+26
+0.374
+27
+0.367
+28
+0.361
+29
+0.355
+30
+0.349
+40
+0.304
+50
+0.273
+60
+0.250
+70
+0.232
+80
+0.217
+90
+0.205
+100
+0.195
+Table 12.8
+12.7 | Regression (Distance from School)
+704
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+12.1 Regression (Distance from School)
+Class Time:
+Names:
+Student Learning Outcomes
+•
+The student will calculate and construct the line of best fit between two variables.
+•
+The student will evaluate the relationship between two variables to determine if that relationship is significant.
+Collect the Data
+Use eight members of your class for the sample. Collect bivariate data (distance an individual lives from school, the
+cost of supplies for the current term).
+1.
+Complete the table.
+Distance from school
+Cost of supplies this term
+Table 12.9
+2.
+Which variable should be the dependent variable and which should be the independent variable? Why?
+3.
+Graph “distance” vs. “cost.” Plot the points on the graph. Label both axes with words. Scale both axes.
+Figure 12.21
+Chapter 12 | Linear Regression and Correlation
+705
+
+Analyze the Data
+Enter your data into your calculator or computer. Write the linear equation, rounding to four decimal places.
+1.
+Calculate the following:
+a.
+a = ______
+b.
+b = ______
+c.
+correlation = ______
+d.
+n = ______
+e.
+equation: ŷ = ______
+f.
+Is the correlation significant? Why or why not? (Answer in one to three complete sentences.)
+2.
+Supply an answer for the following senarios:
+a.
+For a person who lives eight miles from campus, predict the total cost of supplies this term:
+b.
+For a person who lives eighty miles from campus, predict the total cost of supplies this term:
+3.
+Obtain the graph on your calculator or computer. Sketch the regression line.
+Figure 12.22
+Discussion Questions
+1.
+Answer each question in complete sentences.
+a.
+Does the line seem to fit the data? Why?
+b.
+What does the correlation imply about the relationship between the distance and the cost?
+2.
+Are there any outliers? If so, which point is an outlier?
+3.
+Should the outlier, if it exists, be removed? Why or why not?
+12.8 | Regression (Textbook Cost)
+706
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+12.2 Regression (Textbook Cost)
+Class Time:
+Names:
+Student Learning Outcomes
+•
+The student will calculate and construct the line of best fit between two variables.
+•
+The student will evaluate the relationship between two variables to determine if that relationship is significant.
+Collect the Data
+Survey ten textbooks. Collect bivariate data (number of pages in a textbook, the cost of the textbook).
+1.
+Complete the table.
+Number of pages
+Cost of textbook
+Table 12.10
+2.
+Which variable should be the dependent variable and which should be the independent variable? Why?
+3.
+Graph “pages” vs. “cost.” Plot the points on the graph in Analyze the Data. Label both axes with words. Scale
+both axes.
+Analyze the Data
+Enter your data into your calculator or computer. Write the linear equation, rounding to four decimal places.
+1.
+Calculate the following:
+a.
+a = ______
+b.
+b = ______
+c.
+correlation = ______
+d.
+n = ______
+e.
+equation: y = ______
+f.
+Is the correlation significant? Why or why not? (Answer in complete sentences.)
+2.
+Supply an answer for the following senarios:
+a.
+For a textbook with 400 pages, predict the cost.
+b.
+For a textbook with 600 pages, predict the cost.
+Chapter 12 | Linear Regression and Correlation
+707
+
+3.
+Obtain the graph on your calculator or computer. Sketch the regression line.
+Figure 12.23
+Discussion Questions
+1.
+Answer each question in complete sentences.
+a.
+Does the line seem to fit the data? Why?
+b.
+What does the correlation imply about the relationship between the number of pages and the cost?
+2.
+Are there any outliers? If so, which point(s) is an outlier?
+3.
+Should the outlier, if it exists, be removed? Why or why not?
+12.9 | Regression (Fuel Efficiency)
+708
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+12.3 Regression (Fuel Efficiency)
+Class Time:
+Names:
+Student Learning Outcomes
+•
+The student will calculate and construct the line of best fit between two variables.
+•
+The student will evaluate the relationship between two variables to determine if that relationship is significant.
+Collect the Data
+Find a reputable source that provides information on total fuel efficiency (in miles per gallon) and weight (in pounds)
+of new model cars with automatic transmissions. We will use this data to determine the relationship, if any, between
+the fuel efficiency of a car and its weight.
+1.
+Using your random number generator, randomly select 20 cars from the list and record their weights and fuel
+efficiency into Table 12.11.
+Weight
+Fuel Efficiency
+Table 12.11
+2.
+Which variable should be the dependent variable and which should be the independent variable? Why?
+3.
+By hand, do a scatterplot of “weight” vs. “fuel efficiency”. Plot the points on graph paper. Label both axes with
+Chapter 12 | Linear Regression and Correlation
+709
+
+words. Scale both axes accurately.
+Figure 12.24
+Analyze the Data
+Enter your data into your calculator or computer. Write the linear equation, rounding to 4 decimal places.
+1.
+Calculate the following:
+a.
+a = ______
+b.
+b = ______
+c.
+correlation = ______
+d.
+n = ______
+e.
+equation: ŷ = ______
+2.
+Obtain the graph of the regression line on your calculator. Sketch the regression line on the same axes as your
+scatter plot.
+Discussion Questions
+1.
+Is the correlation significant? Explain how you determined this in complete sentences.
+2.
+Is the relationship a positive one or a negative one? Explain how you can tell and what this means in terms of
+weight and fuel efficiency.
+3.
+In one or two complete sentences, what is the practical interpretation of the slope of the least squares line in terms
+of fuel efficiency and weight?
+4.
+For a car that weighs 4,000 pounds, predict its fuel efficiency. Include units.
+5.
+Can we predict the fuel efficiency of a car that weighs 10,000 pounds using the least squares line? Explain why
+or why not.
+6.
+Answer each question in complete sentences.
+a.
+Does the line seem to fit the data? Why or why not?
+b.
+What does the correlation imply about the relationship between fuel efficiency and weight of a car? Is this
+what you expected?
+7.
+Are there any outliers? If so, which point is an outlier?
+710
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+Coefficient of Correlation
+Outlier
+KEY TERMS
+a measure developed by Karl Pearson (early 1900s) that gives the strength of association
+between the independent variable and the dependent variable; the formula is:
+r =
+nΣ(xy) − (Σx)(Σy)
+⎡
+⎣nΣx2 − (Σx)2⎤
+⎦
+⎡
+⎣nΣy2 − (Σy)2⎤
+⎦
+where n is the number of data points. The coefficient cannot be more then 1 and less then –1. The closer the
+coefficient is to ±1, the stronger the evidence of a significant linear relationship between x and y.
+an observation that does not fit the rest of the data
+CHAPTER REVIEW
+12.1 Linear Equations
+The most basic type of association is a linear association. This type of relationship can be defined algebraically by the
+equations used, numerically with actual or predicted data values, or graphically from a plotted curve. (Lines are classified
+as straight curves.) Algebraically, a linear equation typically takes the form y = mx + b, where m and b are constants, x is
+the independent variable, y is the dependent variable. In a statistical context, a linear equation is written in the form y = a +
+bx, where a and b are the constants. This form is used to help readers distinguish the statistical context from the algebraic
+context. In the equation y = a + bx, the constant b that multiplies the x variable (b is called a coefficient) is called as the
+slope. The slope describes the rate of change between the independent and dependent variables; in other words, the rate of
+change describes the change that occurs in the dependent variable as the independent variable is changed. In the equation
+y = a + bx, the constant a is called as the y-intercept. Graphically, the y-intercept is the y coordinate of the point where the
+graph of the line crosses the y axis. At this point x = 0.
+The slope of a line is a value that describes the rate of change between the independent and dependent variables. The slope
+tells us how the dependent variable (y) changes for every one unit increase in the independent (x) variable, on average. The
+y-intercept is used to describe the dependent variable when the independent variable equals zero. Graphically, the slope is
+represented by three line types in elementary statistics.
+12.2 Scatter Plots
+Scatter plots are particularly helpful graphs when we want to see if there is a linear relationship among data points.
+They indicate both the direction of the relationship between the x variables and the y variables, and the strength of the
+relationship. We calculate the strength of the relationship between an independent variable and a dependent variable using
+linear regression.
+12.3 The Regression Equation
+A regression line, or a line of best fit, can be drawn on a scatter plot and used to predict outcomes for the x and y variables
+in a given data set or sample data. There are several ways to find a regression line, but usually the least-squares regression
+line is used because it creates a uniform line. Residuals, also called “errors,” measure the distance from the actual value of y
+and the estimated value of y. The Sum of Squared Errors, when set to its minimum, calculates the points on the line of best
+fit. Regression lines can be used to predict values within the given set of data, but should not be used to make predictions
+for values outside the set of data.
+The correlation coefficient r measures the strength of the linear association between x and y. The variable r has to be
+between –1 and +1. When r is positive, the x and y will tend to increase and decrease together. When r is negative, x will
+increase and y will decrease, or the opposite, x will decrease and y will increase. The coefficient of determination r2, is
+equal to the square of the correlation coefficient. When expressed as a percent, r2 represents the percent of variation in the
+dependent variable y that can be explained by variation in the independent variable x using the regression line.
+12.4 Testing the Significance of the Correlation Coefficient
+Linear regression is a procedure for fitting a straight line of the form ŷ = a + bx to data. The conditions for regression are:
+•
+Linear In the population, there is a linear relationship that models the average value of y for different values of x.
+•
+Independent The residuals are assumed to be independent.
+Chapter 12 | Linear Regression and Correlation
+711
+
+•
+Normal The y values are distributed normally for any value of x.
+•
+Equal variance The standard deviation of the y values is equal for each x value.
+•
+Random The data are produced from a well-designed random sample or randomized experiment.
+The slope b and intercept a of the least-squares line estimate the slope β and intercept α of the population (true) regression
+line. To estimate the population standard deviation of y, σ, use the standard deviation of the residuals, s. s =
+SEE
+n − 2 . The
+variable ρ (rho) is the population correlation coefficient. To test the null hypothesis H0: ρ = hypothesized value, use a linear
+regression t-test. The most common null hypothesis is H0: ρ = 0 which indicates there is no linear relationship between x
+and y in the population. The TI-83, 83+, 84, 84+ calculator function LinRegTTest can perform this test (STATS TESTS
+LinRegTTest).
+12.5 Prediction
+After determining the presence of a strong correlation coefficient and calculating the line of best fit, you can use the least
+squares regression line to make predictions about your data.
+12.6 Outliers
+To determine if a point is an outlier, do one of the following:
+1.
+Input the following equations into the TI 83, 83+,84, 84+:
+y1 = a + bx
+y2 = a + bx + 2s
+y3 = a + bx − 2s
+where s is the standard deviation of the residuals
+If any point is above y2 or below y3 then the point is considered to be an outlier.
+2.
+Use the residuals and compare their absolute values to 2s where s is the standard deviation of the residuals. If the
+absolute value of any residual is greater than or equal to 2s, then the corresponding point is an outlier.
+3.
+Note: The calculator function LinRegTTest (STATS TESTS LinRegTTest) calculates s.
+FORMULA REVIEW
+12.1 Linear Equations
+y = a + bx where a is the y-intercept and b is the slope. The
+variable x is the independent variable and y is the dependent
+variable.
+12.4 Testing the Significance of the Correlation
+Coefficient
+Least Squares Line or Line of Best Fit:
+y^ = a + bx
+where
+a = y-intercept
+b = slope
+Standard deviation of the residuals:
+s =
+SEE
+n − 2.
+where
+SSE = sum of squared errors
+n = the number of data points
+PRACTICE
+12.1 Linear Equations
+Use the following information to answer the next three exercises. A vacation resort rents SCUBA equipment to certified
+divers. The resort charges an up-front fee of $25 and another fee of $12.50 an hour.
+1. What are the dependent and independent variables?
+712
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+2. Find the equation that expresses the total fee in terms of the number of hours the equipment is rented.
+3. Graph the equation from Exercise 12.2.
+Use the following information to answer the next two exercises. A credit card company charges $10 when a payment is late,
+and $5 a day each day the payment remains unpaid.
+4. Find the equation that expresses the total fee in terms of the number of days the payment is late.
+5. Graph the equation from Exercise 12.4.
+6. Is the equation y = 10 + 5x – 3x2 linear? Why or why not?
+7. Which of the following equations are linear?
+a. y = 6x + 8
+b. y + 7 = 3x
+c. y – x = 8x2
+d. 4y = 8
+8. Does the graph show a linear equation? Why or why not?
+Figure 12.25
+Table 12.12 contains real data for the first two decades of flu reporting.
+Year
+# flu cases diagnosed # flu deaths
+Pre-1981 91
+29
+1981
+319
+121
+1982
+1,170
+453
+1983
+3,076
+1,482
+1984
+6,240
+3,466
+1985
+11,776
+6,878
+1986
+19,032
+11,987
+1987
+28,564
+16,162
+1988
+35,447
+20,868
+Table 12.12 Adults and Adolescents only,
+United States
+Chapter 12 | Linear Regression and Correlation
+713
+
+1989
+42,674
+27,591
+1990
+48,634
+31,335
+1991
+59,660
+36,560
+1992
+78,530
+41,055
+1993
+78,834
+44,730
+1994
+71,874
+49,095
+1995
+68,505
+49,456
+1996
+59,347
+38,510
+1997
+47,149
+20,736
+1998
+38,393
+19,005
+1999
+25,174
+18,454
+2000
+25,522
+17,347
+2001
+25,643
+17,402
+2002
+26,464
+16,371
+Total
+802,118
+489,093
+Table 12.12 Adults and Adolescents only,
+United States
+9. Use the columns "year" and "# flu cases diagnosed. Why is “year” the independent variable and “# flu cases diagnosed.”
+the dependent variable (instead of the reverse)?
+Use the following information to answer the next two exercises. A specialty cleaning company charges an equipment fee
+and an hourly labor fee. A linear equation that expresses the total amount of the fee the company charges for each session
+is y = 50 + 100x.
+10. What are the independent and dependent variables?
+11. What is the y-intercept and what is the slope? Interpret them using complete sentences.
+Use the following information to answer the next three questions. Due to erosion, a river shoreline is losing several thousand
+pounds of soil each year. A linear equation that expresses the total amount of soil lost per year is y = 12,000x.
+12. What are the independent and dependent variables?
+13. How many pounds of soil does the shoreline lose in a year?
+14. What is the y-intercept? Interpret its meaning.
+Use the following information to answer the next two exercises. The price of a single issue of stock can fluctuate throughout
+the day. A linear equation that represents the price of stock for Shipment Express is y = 15 – 1.5x where x is the number of
+hours passed in an eight-hour day of trading.
+15. What are the slope and y-intercept? Interpret their meaning.
+16. If you owned this stock, would you want a positive or negative slope? Why?
+714
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+12.2 Scatter Plots
+17. Does the scatter plot appear linear? Strong or weak? Positive or negative?
+Figure 12.26
+18. Does the scatter plot appear linear? Strong or weak? Positive or negative?
+Figure 12.27
+Chapter 12 | Linear Regression and Correlation
+715
+
+19. Does the scatter plot appear linear? Strong or weak? Positive or negative?
+Figure 12.28
+12.3 The Regression Equation
+Use the following information to answer the next five exercises. A random sample of ten professional athletes produced the
+following data where x is the number of endorsements the player has and y is the amount of money made (in millions of
+dollars).
+x
+y
+x
+y
+0
+2
+5
+12
+3
+8
+4
+9
+2
+7
+3
+9
+1
+3
+0
+3
+5
+13
+4
+10
+Table 12.13
+20. Draw a scatter plot of the data.
+21. Use regression to find the equation for the line of best fit.
+22. Draw the line of best fit on the scatter plot.
+23. What is the slope of the line of best fit? What does it represent?
+24. What is the y-intercept of the line of best fit? What does it represent?
+25. What does an r value of zero mean?
+26. When n = 2 and r = 1, are the data significant? Explain.
+27. When n = 100 and r = -0.89, is there a significant correlation? Explain.
+716
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+12.4 Testing the Significance of the Correlation Coefficient
+28. When testing the significance of the correlation coefficient, what is the null hypothesis?
+29. When testing the significance of the correlation coefficient, what is the alternative hypothesis?
+30. If the level of significance is 0.05 and the p-value is 0.04, what conclusion can you draw?
+12.5 Prediction
+Use the following information to answer the next two exercises. An electronics retailer used regression to find a simple
+model to predict sales growth in the first quarter of the new year (January through March). The model is good for 90 days,
+where x is the day. The model can be written as follows:
+ŷ = 101.32 + 2.48x where ŷ is in thousands of dollars.
+31. What would you predict the sales to be on day 60?
+32. What would you predict the sales to be on day 90?
+Use the following information to answer the next three exercises. A landscaping company is hired to mow the grass for
+several large properties. The total area of the properties combined is 1,345 acres. The rate at which one person can mow is
+as follows:
+ŷ = 1350 – 1.2x where x is the number of hours and ŷ represents the number of acres left to mow.
+33. How many acres will be left to mow after 20 hours of work?
+34. How many acres will be left to mow after 100 hours of work?
+35. How many hours will it take to mow all of the lawns? (When is ŷ = 0?)
+Table 12.14 contains real data for the first two decades of flu cases reporting.
+Year
+# flu cases diagnosed # flu deaths
+Pre-1981 91
+29
+1981
+319
+121
+1982
+1,170
+453
+1983
+3,076
+1,482
+1984
+6,240
+3,466
+1985
+11,776
+6,878
+1986
+19,032
+11,987
+1987
+28,564
+16,162
+1988
+35,447
+20,868
+1989
+42,674
+27,591
+1990
+48,634
+31,335
+1991
+59,660
+36,560
+1992
+78,530
+41,055
+1993
+78,834
+44,730
+1994
+71,874
+49,095
+1995
+68,505
+49,456
+Table 12.14 Adults and Adolescents only,
+United States
+Chapter 12 | Linear Regression and Correlation
+717
+
+1996
+59,347
+38,510
+1997
+47,149
+20,736
+1998
+38,393
+19,005
+1999
+25,174
+18,454
+2000
+25,522
+17,347
+2001
+25,643
+17,402
+2002
+26,464
+16,371
+Total
+802,118
+489,093
+Table 12.14 Adults and Adolescents only,
+United States
+36. Graph “year” versus “# flu cases diagnosed” (plot the scatter plot). Do not include pre-1981 data.
+37. Perform linear regression. What is the linear equation? Round to the nearest whole number.
+38. Find the correlation coefficient.
+a.
+r = ________
+39. Solve.
+a.
+When x = 1985, ŷ = _____
+b.
+When x = 1990, ŷ =_____
+c.
+When x = 1970, ŷ =______ Why doesn’t this answer make sense?
+40. Does the line seem to fit the data? Why or why not?
+41. What does the correlation imply about the relationship between time (years) and the number of diagnosed flu cases
+reported in the U.S.?
+42. Plot the two given points on the following graph. Then, connect the two points to form the regression line.
+Figure 12.29
+Obtain the graph on your calculator or computer.
+43. Write the equation: ŷ= ____________
+44. Hand draw a smooth curve on the graph that shows the flow of the data.
+45. Does the line seem to fit the data? Why or why not?
+46. Do you think a linear fit is best? Why or why not?
+47. What does the correlation imply about the relationship between time (years) and the number of diagnosed flu cases
+reported in the U.S.?
+718
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+48. Graph “year” vs. “# flu cases diagnosed.” Do not include pre-1981. Label both axes with words. Scale both axes.
+49. Enter your data into your calculator or computer. The pre-1981 data should not be included. Why is that so?
+Write the linear equation, rounding to four decimal places:
+50. Find the correlation coefficient.
+a.
+correlation = _____
+12.6 Outliers
+Use the following information to answer the next four exercises. The scatter plot shows the relationship between hours spent
+studying and exam scores. The line shown is the calculated line of best fit. The correlation coefficient is 0.69.
+Figure 12.30
+51. Do there appear to be any outliers?
+52. A point is removed, and the line of best fit is recalculated. The new correlation coefficient is 0.98. Does the point appear
+to have been an outlier? Why?
+53. What effect did the potential outlier have on the line of best fit?
+54. Are you more or less confident in the predictive ability of the new line of best fit?
+55. The Sum of Squared Errors for a data set of 18 numbers is 49. What is the standard deviation?
+56. The Standard Deviation for the Sum of Squared Errors for a data set is 9.8. What is the cutoff for the vertical distance
+that a point can be from the line of best fit to be considered an outlier?
+HOMEWORK
+12.1 Linear Equations
+57. For each of the following situations, state the independent variable and the dependent variable.
+a.
+A study is done to determine if elderly drivers are involved in more motor vehicle fatalities than other drivers.
+The number of fatalities per 100,000 drivers is compared to the age of drivers.
+b.
+A study is done to determine if the weekly grocery bill changes based on the number of family members.
+c.
+Insurance companies base life insurance premiums partially on the age of the applicant.
+d.
+Utility bills vary according to power consumption.
+e.
+A study is done to determine if a higher education reduces the crime rate in a population.
+Chapter 12 | Linear Regression and Correlation
+719
+
+58. Piece-rate systems are widely debated incentive payment plans. In a recent study of loan officer effectiveness, the
+following piece-rate system was examined:
+% of
+goal
+reached
+<
+80 80
+100
+120
+Incentive n/
+a
+$4,000 with an additional
+$125 added per percentage
+point from 81–99%
+$6,500 with an additional $125
+added per percentage point
+from 101–119%
+$9,500 with an additional $125
+added per percentage point
+starting at 121%
+Table 12.15
+If a loan officer makes 95% of his or her goal, write the linear function that applies based on the incentive plan table. In
+context, explain the y-intercept and slope.
+12.2 Scatter Plots
+59. The Gross Domestic Product Purchasing Power Parity is an indication of a country’s currency value compared to
+another country. Table 12.16 shows the GDP PPP of Cuba as compared to US dollars. Construct a scatter plot of the data.
+Year
+Cuba’s PPP
+Year
+Cuba’s PPP
+1999
+1,700
+2006
+4,000
+2000
+1,700
+2007
+11,000
+2002
+2,300
+2008
+9,500
+2003
+2,900
+2009
+9,700
+2004
+3,000
+2010
+9,900
+2005
+3,500
+Table 12.16
+60. The following table shows the poverty rates and cell phone usage in the United States. Construct a scatter plot of the
+data
+Year
+Poverty Rate
+Cellular Usage per Capita
+2003
+12.7
+54.67
+2005
+12.6
+74.19
+2007
+12
+84.86
+2009
+12
+90.82
+Table 12.17
+720
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+61. Does the higher cost of tuition translate into higher-paying jobs? The table lists the top ten colleges based on mid-career
+salary and the associated yearly tuition costs. Construct a scatter plot of the data.
+School
+Mid-Career Salary (in thousands)
+Yearly Tuition
+Princeton
+137
+28,540
+Harvey Mudd
+135
+40,133
+CalTech
+127
+39,900
+US Naval Academy 122
+0
+West Point
+120
+0
+MIT
+118
+42,050
+Lehigh University
+118
+43,220
+NYU-Poly
+117
+39,565
+Babson College
+117
+40,400
+Stanford
+114
+54,506
+Table 12.18
+62. If the level of significance is 0.05 and the p-value is 0.06, what conclusion can you draw?
+63. If there are 15 data points in a set of data, what is the number of degree of freedom?
+12.3 The Regression Equation
+64. What is the process through which we can calculate a line that goes through a scatter plot with a linear pattern?
+65. Explain what it means when a correlation has an r2 of 0.72.
+66. Can a coefficient of determination be negative? Why or why not?
+12.5 Prediction
+67. Recently, the annual number of driver deaths per 100,000 for the selected age groups was as follows:
+Age
+Number of Driver Deaths per 100,000
+16–19 38
+20–24 36
+25–34 24
+35–54 20
+55–74 18
+75+
+28
+Table 12.19
+a.
+For each age group, pick the midpoint of the interval for the x value. (For the 75+ group, use 80.)
+b.
+Using “ages” as the independent variable and “Number of driver deaths per 100,000” as the dependent variable,
+make a scatter plot of the data.
+c.
+Calculate the least squares (best–fit) line. Put the equation in the form of: ŷ = a + bx
+d.
+Find the correlation coefficient. Is it significant?
+e.
+Predict the number of deaths for ages 40 and 60.
+f.
+Based on the given data, is there a linear relationship between age of a driver and driver fatality rate?
+g.
+What is the slope of the least squares (best-fit) line? Interpret the slope.
+Chapter 12 | Linear Regression and Correlation
+721
+
+68. Table 12.20 shows the life expectancy for an individual born in the United States in certain years.
+Year of Birth
+Life Expectancy
+1930
+59.7
+1940
+62.9
+1950
+70.2
+1965
+69.7
+1973
+71.4
+1982
+74.5
+1987
+75
+1992
+75.7
+2010
+78.7
+Table 12.20
+a.
+Decide which variable should be the independent variable and which should be the dependent variable.
+b.
+Draw a scatter plot of the ordered pairs.
+c.
+Calculate the least squares line. Put the equation in the form of: ŷ = a + bx
+d.
+Find the correlation coefficient. Is it significant?
+e.
+Find the estimated life expectancy for an individual born in 1950 and for one born in 1982.
+f.
+Why aren’t the answers to part e the same as the values in Table 12.20 that correspond to those years?
+g.
+Use the two points in part e to plot the least squares line on your graph from part b.
+h.
+Based on the data, is there a linear relationship between the year of birth and life expectancy?
+i.
+Are there any outliers in the data?
+j.
+Using the least squares line, find the estimated life expectancy for an individual born in 1850. Does the least
+squares line give an accurate estimate for that year? Explain why or why not.
+k.
+What is the slope of the least-squares (best-fit) line? Interpret the slope.
+722
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+69. The maximum discount value of the Entertainment® card for the “Fine Dining” section, Edition ten, for various pages
+is given in Table 12.21
+Page number
+Maximum value ($)
+4
+16
+14
+19
+25
+15
+32
+17
+43
+19
+57
+15
+72
+16
+85
+15
+90
+17
+Table 12.21
+a.
+Decide which variable should be the independent variable and which should be the dependent variable.
+b.
+Draw a scatter plot of the ordered pairs.
+c.
+Calculate the least-squares line. Put the equation in the form of: ŷ = a + bx
+d.
+Find the correlation coefficient. Is it significant?
+e.
+Find the estimated maximum values for the restaurants on page ten and on page 70.
+f.
+Does it appear that the restaurants giving the maximum value are placed in the beginning of the “Fine Dining”
+section? How did you arrive at your answer?
+g.
+Suppose that there were 200 pages of restaurants. What do you estimate to be the maximum value for a restaurant
+listed on page 200?
+h.
+Is the least squares line valid for page 200? Why or why not?
+i.
+What is the slope of the least-squares (best-fit) line? Interpret the slope.
+Chapter 12 | Linear Regression and Correlation
+723
+
+70. Table 12.22 gives the gold medal times for every other Summer Olympics for the women’s 100-meter freestyle
+(swimming).
+Year
+Time (seconds)
+1912
+82.2
+1924
+72.4
+1932
+66.8
+1952
+66.8
+1960
+61.2
+1968
+60.0
+1976
+55.65
+1984
+55.92
+1992
+54.64
+2000
+53.8
+2008
+53.1
+Table 12.22
+a.
+Decide which variable should be the independent variable and which should be the dependent variable.
+b.
+Draw a scatter plot of the data.
+c.
+Does it appear from inspection that there is a relationship between the variables? Why or why not?
+d.
+Calculate the least squares line. Put the equation in the form of: ŷ = a + bx.
+e.
+Find the correlation coefficient. Is the decrease in times significant?
+f.
+Find the estimated gold medal time for 1932. Find the estimated time for 1984.
+g.
+Why are the answers from part f different from the chart values?
+h.
+Does it appear that a line is the best way to fit the data? Why or why not?
+i.
+Use the least-squares line to estimate the gold medal time for the next Summer Olympics. Do you think that your
+answer is reasonable? Why or why not?
+724
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+71.
+State
+# letters in
+name
+Year entered the
+Union
+Rank for entering the
+Union
+Area (square
+miles)
+Alabama
+7
+1819
+22
+52,423
+Colorado
+8
+1876
+38
+104,100
+Hawaii
+6
+1959
+50
+10,932
+Iowa
+4
+1846
+29
+56,276
+Maryland
+8
+1788
+7
+12,407
+Missouri
+8
+1821
+24
+69,709
+New Jersey
+9
+1787
+3
+8,722
+Ohio
+4
+1803
+17
+44,828
+South
+Carolina
+13
+1788
+8
+32,008
+Utah
+4
+1896
+45
+84,904
+Wisconsin
+9
+1848
+30
+65,499
+Table 12.23
+We are interested in whether or not the number of letters in a state name depends upon the year the state entered the Union.
+a.
+Decide which variable should be the independent variable and which should be the dependent variable.
+b.
+Draw a scatter plot of the data.
+c.
+Does it appear from inspection that there is a relationship between the variables? Why or why not?
+d.
+Calculate the least-squares line. Put the equation in the form of: ŷ = a + bx.
+e.
+Find the correlation coefficient. What does it imply about the significance of the relationship?
+f.
+Find the estimated number of letters (to the nearest integer) a state would have if it entered the Union in 1900.
+Find the estimated number of letters a state would have if it entered the Union in 1940.
+g.
+Does it appear that a line is the best way to fit the data? Why or why not?
+h.
+Use the least-squares line to estimate the number of letters a new state that enters the Union this year would have.
+Can the least squares line be used to predict it? Why or why not?
+Chapter 12 | Linear Regression and Correlation
+725
+
+12.6 Outliers
+72. The height (sidewalk to roof) of notable tall buildings in America is compared to the number of stories of the building
+(beginning at street level).
+Height (in feet)
+Stories
+1,050
+57
+428
+28
+362
+26
+529
+40
+790
+60
+401
+22
+380
+38
+1,454
+110
+1,127
+100
+700
+46
+Table 12.24
+a.
+Using “stories” as the independent variable and “height” as the dependent variable, make a scatter plot of the data.
+b.
+Does it appear from inspection that there is a relationship between the variables?
+c.
+Calculate the least squares line. Put the equation in the form of: ŷ = a + bx
+d.
+Find the correlation coefficient. Is it significant?
+e.
+Find the estimated heights for 32 stories and for 94 stories.
+f.
+Based on the data in Table 12.24, is there a linear relationship between the number of stories in tall buildings
+and the height of the buildings?
+g.
+Are there any outliers in the data? If so, which point(s)?
+h.
+What is the estimated height of a building with six stories? Does the least squares line give an accurate estimate
+of height? Explain why or why not.
+i.
+Based on the least squares line, adding an extra story is predicted to add about how many feet to a building?
+j.
+What is the slope of the least squares (best-fit) line? Interpret the slope.
+73. Ornithologists, scientists who study birds, tag sparrow hawks in 13 different colonies to study their population. They
+gather data for the percent of new sparrow hawks in each colony and the percent of those that have returned from migration.
+Percent return:74; 66; 81; 52; 73; 62; 52; 45; 62; 46; 60; 46; 38
+Percent new:5; 6; 8; 11; 12; 15; 16; 17; 18; 18; 19; 20; 20
+a.
+Enter the data into your calculator and make a scatter plot.
+b.
+Use your calculator’s regression function to find the equation of the least-squares regression line. Add this to your
+scatter plot from part a.
+c.
+Explain in words what the slope and y-intercept of the regression line tell us.
+d.
+How well does the regression line fit the data? Explain your response.
+e.
+Which point has the largest residual? Explain what the residual means in context. Is this point an outlier? An
+influential point? Explain.
+f.
+An ecologist wants to predict how many birds will join another colony of sparrow hawks to which 70% of the
+adults from the previous year have returned. What is the prediction?
+726
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+74. The following table shows data on average per capita coffee consumption and heart disease rate in a random sample of
+10 countries.
+Yearly coffee consumption in liters 2.5
+3.9
+2.9
+2.4
+2.9
+0.8
+9.1 2.7
+0.8
+0.7
+Death from heart diseases
+221 167 131 191 220 297 71
+172 211 300
+Table 12.25
+a.
+Enter the data into your calculator and make a scatter plot.
+b.
+Use your calculator’s regression function to find the equation of the least-squares regression line. Add this to your
+scatter plot from part a.
+c.
+Explain in words what the slope and y-intercept of the regression line tell us.
+d.
+How well does the regression line fit the data? Explain your response.
+e.
+Which point has the largest residual? Explain what the residual means in context. Is this point an outlier? An
+influential point? Explain.
+f.
+Do the data provide convincing evidence that there is a linear relationship between the amount of coffee consumed
+and the heart disease death rate? Carry out an appropriate test at a significance level of 0.05 to help answer this
+question.
+75. The following table consists of one student athlete’s time (in minutes) to swim 2000 yards and the student’s heart rate
+(beats per minute) after swimming on a random sample of 10 days:
+Swim Time
+Heart Rate
+34.12
+144
+35.72
+152
+34.72
+124
+34.05
+140
+34.13
+152
+35.73
+146
+36.17
+128
+35.57
+136
+35.37
+144
+35.57
+148
+Table 12.26
+a.
+Enter the data into your calculator and make a scatter plot.
+b.
+Use your calculator’s regression function to find the equation of the least-squares regression line. Add this to your
+scatter plot from part a.
+c.
+Explain in words what the slope and y-intercept of the regression line tell us.
+d.
+How well does the regression line fit the data? Explain your response.
+e.
+Which point has the largest residual? Explain what the residual means in context. Is this point an outlier? An
+influential point? Explain.
+Chapter 12 | Linear Regression and Correlation
+727
+
+76. A researcher is investigating whether population impacts homicide rate. He uses demographic data from Detroit, MI to
+compare homicide rates and the number of the population that are white males.
+Population Size
+Homicide rate per 100,000 people
+558,724
+8.6
+538,584
+8.9
+519,171
+8.52
+500,457
+8.89
+482,418
+13.07
+465,029
+14.57
+448,267
+21.36
+432,109
+28.03
+416,533
+31.49
+401,518
+37.39
+387,046
+46.26
+373,095
+47.24
+359,647
+52.33
+Table 12.27
+a.
+Use your calculator to construct a scatter plot of the data. What should the independent variable be? Why?
+b.
+Use your calculator’s regression function to find the equation of the least-squares regression line. Add this to your
+scatter plot.
+c.
+Discuss what the following mean in context.
+i.
+The slope of the regression equation
+ii.
+The y-intercept of the regression equation
+iii.
+The correlation r
+iv.
+The coefficient of determination r2.
+d.
+Do the data provide convincing evidence that there is a linear relationship between population size and homicide
+rate? Carry out an appropriate test at a significance level of 0.05 to help answer this question.
+728
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+77.
+School
+Mid-Career Salary (in thousands)
+Yearly Tuition
+Princeton
+137
+28,540
+Harvey Mudd
+135
+40,133
+CalTech
+127
+39,900
+US Naval Academy 122
+0
+West Point
+120
+0
+MIT
+118
+42,050
+Lehigh University
+118
+43,220
+NYU-Poly
+117
+39,565
+Babson College
+117
+40,400
+Stanford
+114
+54,506
+Table 12.28
+Using the data to determine the linear-regression line equation with the outliers removed. Is there a linear correlation for the
+data set with outliers removed? Justify your answer.
+REFERENCES
+12.1 Linear Equations
+Data from the Centers for Disease Control and Prevention.
+Data from the National Center for agency reporting flu cases and TB Prevention.
+12.5 Prediction
+Data from the Centers for Disease Control and Prevention.
+Data from the National Center for agency reporting flu cases and TB Prevention.
+Data from the United States Census Bureau. Available online at http://www.census.gov/compendia/statab/cats/
+transportation/motor_vehicle_accidents_and_fatalities.html
+Data from the National Center for Health Statistics.
+12.6 Outliers
+Data from the House Ways and Means Committee, the Health and Human Services Department.
+Data from Microsoft Bookshelf.
+Data from the United States Department of Labor, the Bureau of Labor Statistics.
+Data from the Physician’s Handbook, 1990.
+Data from the United States Department of Labor, the Bureau of Labor Statistics.
+BRINGING IT TOGETHER: HOMEWORK
+Chapter 12 | Linear Regression and Correlation
+729
+
+78. The average number of people in a family that attended college for various years is given in Table 12.29.
+Year
+Number of Family Members Attending College
+1969
+4.0
+1973
+3.6
+1975
+3.2
+1979
+3.0
+1983
+3.0
+1988
+3.0
+1991
+2.9
+Table 12.29
+a.
+Using “year” as the independent variable and “Number of Family Members Attending College” as the dependent
+variable, draw a scatter plot of the data.
+b.
+Calculate the least-squares line. Put the equation in the form of: ŷ = a + bx
+c.
+Find the correlation coefficient. Is it significant?
+d.
+Pick two years between 1969 and 1991 and find the estimated number of family members attending college.
+e.
+Based on the data in Table 12.29, is there a linear relationship between the year and the average number of
+family members attending college?
+f.
+Using the least-squares line, estimate the number of family members attending college for 1960 and 1995. Does
+the least-squares line give an accurate estimate for those years? Explain why or why not.
+g.
+Are there any outliers in the data?
+h.
+What is the estimated average number of family members attending college for 1986? Does the least squares line
+give an accurate estimate for that year? Explain why or why not.
+i.
+What is the slope of the least squares (best-fit) line? Interpret the slope.
+730
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+79. The percent of female wage and salary workers who are paid hourly rates is given in Table 12.30 for the years 1979
+to 1992.
+Year
+Percent of workers paid hourly rates
+1979
+61.2
+1980
+60.7
+1981
+61.3
+1982
+61.3
+1983
+61.8
+1984
+61.7
+1985
+61.8
+1986
+62.0
+1987
+62.7
+1990
+62.8
+1992
+62.9
+Table 12.30
+a.
+Using “year” as the independent variable and “percent” as the dependent variable, draw a scatter plot of the data.
+b.
+Does it appear from inspection that there is a relationship between the variables? Why or why not?
+c.
+Calculate the least-squares line. Put the equation in the form of: ŷ = a + bx
+d.
+Find the correlation coefficient. Is it significant?
+e.
+Find the estimated percents for 1991 and 1988.
+f.
+Based on the data, is there a linear relationship between the year and the percent of female wage and salary earners
+who are paid hourly rates?
+g.
+Are there any outliers in the data?
+h.
+What is the estimated percent for the year 2050? Does the least-squares line give an accurate estimate for that
+year? Explain why or why not.
+i.
+What is the slope of the least-squares (best-fit) line? Interpret the slope.
+Use the following information to answer the next two exercises. The cost of a leading liquid laundry detergent in different
+sizes is given in Table 12.31.
+Size (ounces)
+Cost ($)
+Cost per ounce
+16
+3.99
+32
+4.99
+64
+5.99
+200
+10.99
+Table 12.31
+Chapter 12 | Linear Regression and Correlation
+731
+
+80.
+a.
+Using “size” as the independent variable and “cost” as the dependent variable, draw a scatter plot.
+b.
+Does it appear from inspection that there is a relationship between the variables? Why or why not?
+c.
+Calculate the least-squares line. Put the equation in the form of: ŷ = a + bx
+d.
+Find the correlation coefficient. Is it significant?
+e.
+If the laundry detergent were sold in a 40-ounce size, find the estimated cost.
+f.
+If the laundry detergent were sold in a 90-ounce size, find the estimated cost.
+g.
+Does it appear that a line is the best way to fit the data? Why or why not?
+h.
+Are there any outliers in the given data?
+i.
+Is the least-squares line valid for predicting what a 300-ounce size of the laundry detergent would you cost? Why
+or why not?
+j.
+What is the slope of the least-squares (best-fit) line? Interpret the slope.
+81.
+a.
+Complete Table 12.31 for the cost per ounce of the different sizes.
+b.
+Using “size” as the independent variable and “cost per ounce” as the dependent variable, draw a scatter plot of
+the data.
+c.
+Does it appear from inspection that there is a relationship between the variables? Why or why not?
+d.
+Calculate the least-squares line. Put the equation in the form of: ŷ = a + bx
+e.
+Find the correlation coefficient. Is it significant?
+f.
+If the laundry detergent were sold in a 40-ounce size, find the estimated cost per ounce.
+g.
+If the laundry detergent were sold in a 90-ounce size, find the estimated cost per ounce.
+h.
+Does it appear that a line is the best way to fit the data? Why or why not?
+i.
+Are there any outliers in the the data?
+j.
+Is the least-squares line valid for predicting what a 300-ounce size of the laundry detergent would cost per ounce?
+Why or why not?
+k.
+What is the slope of the least-squares (best-fit) line? Interpret the slope.
+82. According to a flyer by a Prudential Insurance Company representative, the costs of approximate probate fees and taxes
+for selected net taxable estates are as follows:
+Net Taxable Estate ($)
+Approximate Probate Fees and Taxes ($)
+600,000
+30,000
+750,000
+92,500
+1,000,000
+203,000
+1,500,000
+438,000
+2,000,000
+688,000
+2,500,000
+1,037,000
+3,000,000
+1,350,000
+Table 12.32
+a.
+Decide which variable should be the independent variable and which should be the dependent variable.
+b.
+Draw a scatter plot of the data.
+c.
+Does it appear from inspection that there is a relationship between the variables? Why or why not?
+d.
+Calculate the least-squares line. Put the equation in the form of: ŷ = a + bx.
+e.
+Find the correlation coefficient. Is it significant?
+f.
+Find the estimated total cost for a next taxable estate of $1,000,000. Find the cost for $2,500,000.
+g.
+Does it appear that a line is the best way to fit the data? Why or why not?
+h.
+Are there any outliers in the data?
+i.
+Based on these results, what would be the probate fees and taxes for an estate that does not have any assets?
+j.
+What is the slope of the least-squares (best-fit) line? Interpret the slope.
+732
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+83. The following are advertised sale prices of color televisions at Anderson’s.
+Size (inches)
+Sale Price ($)
+9
+147
+20
+197
+27
+297
+31
+447
+35
+1177
+40
+2177
+60
+2497
+Table 12.33
+a.
+Decide which variable should be the independent variable and which should be the dependent variable.
+b.
+Draw a scatter plot of the data.
+c.
+Does it appear from inspection that there is a relationship between the variables? Why or why not?
+d.
+Calculate the least-squares line. Put the equation in the form of: ŷ = a + bx
+e.
+Find the correlation coefficient. Is it significant?
+f.
+Find the estimated sale price for a 32 inch television. Find the cost for a 50 inch television.
+g.
+Does it appear that a line is the best way to fit the data? Why or why not?
+h.
+Are there any outliers in the data?
+i.
+What is the slope of the least-squares (best-fit) line? Interpret the slope.
+84. Table 12.34 shows the average heights for American boy s in 1990.
+Age (years)
+Height (cm)
+birth
+50.8
+2
+83.8
+3
+91.4
+5
+106.6
+7
+119.3
+10
+137.1
+14
+157.5
+Table 12.34
+a.
+Decide which variable should be the independent variable and which should be the dependent variable.
+b.
+Draw a scatter plot of the data.
+c.
+Does it appear from inspection that there is a relationship between the variables? Why or why not?
+d.
+Calculate the least-squares line. Put the equation in the form of: ŷ = a + bx
+e.
+Find the correlation coefficient. Is it significant?
+f.
+Find the estimated average height for a one-year-old. Find the estimated average height for an eleven-year-old.
+g.
+Does it appear that a line is the best way to fit the data? Why or why not?
+h.
+Are there any outliers in the data?
+i.
+Use the least squares line to estimate the average height for a sixty-two-year-old man. Do you think that your
+answer is reasonable? Why or why not?
+j.
+What is the slope of the least-squares (best-fit) line? Interpret the slope.
+Chapter 12 | Linear Regression and Correlation
+733
+
+85.
+State
+# letters in
+name
+Year entered the
+Union
+Ranks for entering the
+Union
+Area (square
+miles)
+Alabama
+7
+1819
+22
+52,423
+Colorado
+8
+1876
+38
+104,100
+Hawaii
+6
+1959
+50
+10,932
+Iowa
+4
+1846
+29
+56,276
+Maryland
+8
+1788
+7
+12,407
+Missouri
+8
+1821
+24
+69,709
+New Jersey
+9
+1787
+3
+8,722
+Ohio
+4
+1803
+17
+44,828
+South
+Carolina
+13
+1788
+8
+32,008
+Utah
+4
+1896
+45
+84,904
+Wisconsin
+9
+1848
+30
+65,499
+Table 12.35
+We are interested in whether there is a relationship between the ranking of a state and the area of the state.
+a.
+What are the independent and dependent variables?
+b.
+What do you think the scatter plot will look like? Make a scatter plot of the data.
+c.
+Does it appear from inspection that there is a relationship between the variables? Why or why not?
+d.
+Calculate the least-squares line. Put the equation in the form of: ŷ = a + bx
+e.
+Find the correlation coefficient. What does it imply about the significance of the relationship?
+f.
+Find the estimated areas for Alabama and for Colorado. Are they close to the actual areas?
+g.
+Use the two points in part f to plot the least-squares line on your graph from part b.
+h.
+Does it appear that a line is the best way to fit the data? Why or why not?
+i.
+Are there any outliers?
+j.
+Use the least squares line to estimate the area of a new state that enters the Union. Can the least-squares line be
+used to predict it? Why or why not?
+k.
+Delete “Hawaii” and substitute “Alaska” for it. Alaska is the forty-ninth, state with an area of 656,424 square
+miles.
+l.
+Calculate the new least-squares line.
+m.
+Find the estimated area for Alabama. Is it closer to the actual area with this new least-squares line or with the
+previous one that included Hawaii? Why do you think that’s the case?
+n.
+Do you think that, in general, newer states are larger than the original states?
+SOLUTIONS
+1 dependent variable: fee amount; independent variable: time
+734
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+3
+Figure 12.31
+5
+Figure 12.32
+7 y = 6x + 8, 4y = 8, and y + 7 = 3x are all linear equations.
+9 The number of flu cases depends on the year. Therefore, year becomes the independent variable and the number of flu
+cases is the dependent variable.
+11 The y-intercept is 50 (a = 50). At the start of the cleaning, the company charges a one-time fee of $50 (this is when x =
+0). The slope is 100 (b = 100). For each session, the company charges $100 for each hour they clean.
+13 12,000 pounds of soil
+15 The slope is –1.5 (b = –1.5). This means the stock is losing value at a rate of $1.50 per hour. The y-intercept is $15 (a =
+15). This means the price of stock before the trading day was $15.
+17 The data appear to be linear with a strong, positive correlation.
+19 The data appear to have no correlation.
+21 ŷ = 2.23 + 1.99x
+23 The slope is 1.99 (b = 1.99). It means that for every endorsement deal a professional player gets, he gets an average of
+another $1.99 million in pay each year.
+25 It means that there is no correlation between the data sets.
+27 Yes, there are enough data points and the value of r is strong enough to show that there is a strong negative correlation
+between the data sets.
+29 Ha: ρ ≠ 0
+Chapter 12 | Linear Regression and Correlation
+735
+
+31 $250,120
+33 1,326 acres
+35 1,125 hours, or when x = 1,125
+37 Check student’s solution.
+39
+a.
+When x = 1985, ŷ = 25,52
+b.
+When x = 1990, ŷ = 34,275
+c.
+When x = 1970, ŷ = –725 Why doesn’t this answer make sense? The range of x values was 1981 to 2002; the year
+1970 is not in this range. The regression equation does not apply, because predicting for the year 1970 is extrapolation,
+which requires a different process. Also, a negative number does not make sense in this context, where we are
+predicting flu cases diagnosed.
+41 Also, the correlation r = 0.4526. If r is compared to the value in the 95% Critical Values of the Sample Correlation
+Coefficient Table, because r > 0.423, r is significant, and you would think that the line could be used for prediction. But the
+scatter plot indicates otherwise.
+43
+y^ = 3,448,225 + 1750x
+45 There was an increase in flu cases diagnosed until 1993. From 1993 through 2002, the number of flu cases diagnosed
+declined each year. It is not appropriate to use a linear regression line to fit to the data.
+47 Since there is no linear association between year and # of flu cases diagnosed, it is not appropriate to calculate a linear
+correlation coefficient. When there is a linear association and it is appropriate to calculate a correlation, we cannot say that
+one variable “causes” the other variable.
+49
+We don’t know if the pre-1981 data was collected from a single year. So we don’t have an accurate x value for this
+figure. Regression equation: ŷ (#Flu Cases) = –3,448,225 + 1749.777 (year)
+Coefficients
+Intercept
+–3,448,225
+X Variable 1 1,749.777
+Table 12.36
+51 Yes, there appears to be an outlier at (6, 58).
+53 The potential outlier flattened the slope of the line of best fit because it was below the data set. It made the line of best
+fit less accurate is a predictor for the data.
+55 s = 1.75
+57
+a.
+independent variable: age; dependent variable: fatalities
+b.
+independent variable: # of family members; dependent variable: grocery bill
+c.
+independent variable: age of applicant; dependent variable: insurance premium
+d.
+independent variable: power consumption; dependent variable: utility
+e.
+independent variable: higher education (years); dependent variable: crime rates
+59 Check student’s solution.
+61 For graph: check student’s solution. Note that tuition is the independent variable and salary is the dependent variable.
+63 13
+65 It means that 72% of the variation in the dependent variable (y) can be explained by the variation in the independent
+736
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+variable (x).
+67
+a.
+Age
+Number of Driver Deaths per 100,000
+16–19
+38
+20–24
+36
+25–34
+24
+35–54
+20
+55–74
+18
+75+
+28
+Table 12.37
+b.
+Check student’s solution.
+c.
+ŷ = 35.5818045 – 0.19182491x
+d.
+r = –0.57874
+For four df and alpha = 0.05, the LinRegTTest gives p-value = 0.2288 so we do not reject the null hypothesis; there is
+not a significant linear relationship between deaths and age.
+Using the table of critical values for the correlation coefficient, with four df, the critical value is 0.811. The correlation
+coefficient r = –0.57874 is not less than –0.811, so we do not reject the null hypothesis.
+e.
+There is not a linear relationship between the two variables, as evidenced by a p-value greater than 0.05.
+69
+a.
+We wonder if the better discounts appear earlier in the book so we select page as X and discount as Y.
+b.
+Check student’s solution.
+c.
+ŷ = 17.21757 – 0.01412x
+d.
+r = – 0.2752
+For seven df and alpha = 0.05, using LinRegTTest p-value = 0.4736 so we do not reject; there is a not a significant
+linear relationship between page and discount.
+Using the table of critical values for the correlation coefficient, with seven df, the critical value is 0.666. The
+correlation coefficient xi = –0.2752 is not less than 0.666 so we do not reject.
+e.
+There is not a significant linear correlation so it appears there is no relationship between the page and the amount of
+the discount.
+As the page number increases by one page, the discount decreases by $0.01412
+71
+a.
+Year is the independent or x variable; the number of letters is the dependent or y variable.
+b.
+Check student’s solution.
+c.
+no
+d.
+ŷ = 47.03 – 0.0216x
+e.
+–0.4280 The r-value indicates that there is not a significant correlation between the year the state entered the union and
+the number of letters in the name.
+f.
+No, the relationship does not appear to be linear; the correlation is not significant.
+73 a. and b. Check student’s solution. c. The slope of the regression line is -0.3031 with a y-intercept of 31.93. In context,
+the y-intercept indicates that when there are no returning sparrow hawks, there will be almost 32% new sparrow hawks,
+which doesn’t make sense since if there are no returning birds, then the new percentage would have to be 100% (this
+is an example of why we do not extrapolate). The slope tells us that for each percentage increase in returning birds, the
+Chapter 12 | Linear Regression and Correlation
+737
+
+percentage of new birds in the colony decreases by 30.3%. d. If we examine r2, we see that only 57.52% of the variation
+in the percent of new birds is explained by the model and the correlation coefficient, r = –.7584 only indicates a somewhat
+strong correlation between returning and new percentages. e. The ordered pair (66, 6) generates the largest residual of 6.0.
+This means that when the observed return percentage is 66%, our observed new percentage, 6%, is almost 6% less than
+the predicted new value of 11.98%. If we remove this data pair, we see only an adjusted slope of -.2789 and an adjusted
+intercept of 30.9816. In other words, even though this data generates the largest residual, it is not an outlier, nor is the data
+pair an influential point. f. If there are 70% returning birds, we would expect to see y = –.2789(70) + 30.9816 = 0.114 or
+11.4% new birds in the colony.
+75
+a.
+Check student’s solution.
+b.
+Check student’s solution.
+c.
+We have a slope of –1.4946 with a y-intercept of 193.88. The slope, in context, indicates that for each additional minute
+added to the swim time, the heart rate will decrease by 1.5 beats per minute. If the student is not swimming at all,
+the y-intercept indicates that his heart rate will be 193.88 beats per minute. While the slope has meaning (the longer it
+takes to swim 2,000 meters, the less effort the heart puts out), the y-intercept does not make sense. If the athlete is not
+swimming (resting), then his heart rate should be very low.
+d.
+Since only 1.5% of the heart rate variation is explained by this regression equation, we must conclude that this
+association is not explained with a linear relationship.
+e.
+The point (34.72, 124) generates the largest residual of –11.82. This means that our observed heart rate is almost 12
+beats less than our predicted rate of 136 beats per minute. When this point is removed, the slope becomes –2.953 with
+the y-intercept changing to 247.1616. While the linear association is still very weak, we see that the removed data pair
+can be considered an influential point in the sense that the y-intercept becomes more meaningful.
+77 If we remove the two service academies (the tuition is $0.00), we construct a new regression equation of y = –0.0009x
++ 160 with a correlation coefficient of 0.71397 and a coefficient of determination of 0.50976. This allows us to say there is
+a fairly strong linear association between tuition costs and salaries if the service academies are removed from the data set.
+79
+a.
+Check student's solution.
+b.
+yes
+c.
+ŷ = −266.8863+0.1656x
+d.
+0.9448; Yes
+e.
+62.8233; 62.3265
+f.
+yes
+g.
+no; (1987, 62.7)
+h.
+72.5937; no
+i.
+slope = 0.1656.
+As the year increases by one, the percent of workers paid hourly rates tends to increase by 0.1656.
+81
+a.
+Size (ounces)
+Cost ($)
+cents/oz
+16
+3.99
+24.94
+32
+4.99
+15.59
+64
+5.99
+9.36
+200
+10.99
+5.50
+Table 12.38
+738
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+b.
+Check student’s solution.
+c.
+There is a linear relationship for the sizes 16 through 64, but that linear trend does not continue to the 200-oz size.
+d.
+ŷ = 20.2368 – 0.0819x
+e.
+r = –0.8086
+f.
+40-oz: 16.96 cents/oz
+g.
+90-oz: 12.87 cents/oz
+h.
+The relationship is not linear; the least squares line is not appropriate.
+i.
+no outliers
+j.
+No, you would be extrapolating. The 300-oz size is outside the range of x.
+k.
+slope = –0.08194; for each additional ounce in size, the cost per ounce decreases by 0.082 cents.
+83
+a.
+Size is x, the independent variable, price is y, the dependent variable.
+b.
+Check student’s solution.
+c.
+The relationship does not appear to be linear.
+d.
+ŷ = –745.252 + 54.75569x
+e.
+r = 0.8944, yes it is significant
+f.
+32-inch: $1006.93, 50-inch: $1992.53
+g.
+No, the relationship does not appear to be linear. However, r is significant.
+h.
+no, the 60-inch TV
+i.
+For each additional inch, the price increases by $54.76
+Chapter 12 | Linear Regression and Correlation
+739
+
+85
+a.
+Let rank be the independent variable and area be the dependent variable.
+b.
+Check student’s solution.
+c.
+There appears to be a linear relationship, with one outlier.
+d.
+ŷ (area) = 24177.06 + 1010.478x
+e.
+r = 0.50047, r is not significant so there is no relationship between the variables.
+f.
+Alabama: 46407.576 Colorado: 62575.224
+g.
+Alabama estimate is closer than Colorado estimate.
+h.
+If the outlier is removed, there is a linear relationship.
+i.
+There is one outlier (Hawaii).
+j.
+rank 51: 75711.4; no
+k.
+Alabama
+7
+1819
+22
+52,423
+Colorado
+8
+1876
+38
+104,100
+Hawaii
+6
+1959
+50
+10,932
+Iowa
+4
+1846
+29
+56,276
+Maryland
+8
+1788
+7
+12,407
+Missouri
+8
+1821
+24
+69,709
+New Jersey
+9
+1787
+3
+8,722
+Ohio
+4
+1803
+17
+44,828
+South Carolina 13
+1788
+8
+32,008
+Utah
+4
+1896
+45
+84,904
+Wisconsin
+9
+1848
+30
+65,499
+Table 12.39
+l.
+ŷ = –87065.3 + 7828.532x
+m.
+Alabama: 85,162.404; the prior estimate was closer. Alaska is an outlier.
+n.
+yes, with the exception of Hawaii
+79
+a.
+Check student's solution.
+b.
+yes
+c.
+ŷ = −266.8863+0.1656x
+d.
+0.9448; Yes
+e.
+62.8233; 62.3265
+f.
+yes
+g.
+no; (1987, 62.7)
+h.
+72.5937; no
+i.
+slope = 0.1656.
+As the year increases by one, the percent of workers paid hourly rates tends to increase by 0.1656.
+81a.
+740
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+Size (ounces)
+Cost ($)
+cents/oz
+16
+3.99
+24.94
+32
+4.99
+15.59
+64
+5.99
+9.36
+200
+10.99
+5.50
+Table 12.40
+b.
+Check student’s solution.
+c.
+There is a linear relationship for the sizes 16 through 64, but that linear trend does not continue to the 200-oz size.
+d.
+ŷ = 20.2368 – 0.0819x
+e.
+r = –0.8086
+f.
+40-oz: 16.96 cents/oz
+g.
+90-oz: 12.87 cents/oz
+h.
+The relationship is not linear; the least squares line is not appropriate.
+i.
+no outliers
+j.
+No, you would be extrapolating. The 300-oz size is outside the range of x.
+k.
+slope = –0.08194; for each additional ounce in size, the cost per ounce decreases by 0.082 cents.
+83
+a.
+Size is x, the independent variable, price is y, the dependent variable.
+b.
+Check student’s solution.
+c.
+The relationship does not appear to be linear.
+d.
+ŷ = –745.252 + 54.75569x
+e.
+r = 0.8944, yes it is significant
+f.
+32-inch: $1006.93, 50-inch: $1992.53
+g.
+No, the relationship does not appear to be linear. However, r is significant.
+h.
+no, the 60-inch TV
+i.
+For each additional inch, the price increases by $54.76
+85
+a.
+Let rank be the independent variable and area be the dependent variable.
+b.
+Check student’s solution.
+c.
+There appears to be a linear relationship, with one outlier.
+d.
+ŷ (area) = 24177.06 + 1010.478x
+e.
+r = 0.50047, r is not significant so there is no relationship between the variables.
+f.
+Alabama: 46407.576 Colorado: 62575.224
+g.
+Alabama estimate is closer than Colorado estimate.
+h.
+If the outlier is removed, there is a linear relationship.
+i.
+There is one outlier (Hawaii).
+j.
+rank 51: 75711.4; no
+Chapter 12 | Linear Regression and Correlation
+741
+
+k.
+Alabama
+7
+1819
+22
+52,423
+Colorado
+8
+1876
+38
+104,100
+Hawaii
+6
+1959
+50
+10,932
+Iowa
+4
+1846
+29
+56,276
+Maryland
+8
+1788
+7
+12,407
+Missouri
+8
+1821
+24
+69,709
+New Jersey
+9
+1787
+3
+8,722
+Ohio
+4
+1803
+17
+44,828
+South Carolina 13
+1788
+8
+32,008
+Utah
+4
+1896
+45
+84,904
+Wisconsin
+9
+1848
+30
+65,499
+Table 12.41
+l.
+ŷ = –87065.3 + 7828.532x
+m.
+Alabama: 85,162.404; the prior estimate was closer. Alaska is an outlier.
+n.
+yes, with the exception of Hawaii
+742
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18

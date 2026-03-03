@@ -1,0 +1,1682 @@
+[
+  {
+    "query": "What is the mean of the standard normal distribution Z ~ N(0, 1)?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the standard deviation of the standard normal distribution?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "According to the Empirical Rule, approximately what percentage of x values lie within one standard deviation of the mean in a normal distribution?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "According to the Empirical Rule, approximately what percentage of x values lie within two standard deviations of the mean?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "According to the Empirical Rule, approximately what percentage of x values lie within three standard deviations of the mean?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What are the z-scores corresponding to ±1 standard deviation from the mean in a standard normal distribution?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What are the z-scores corresponding to ±2 standard deviations from the mean in a standard normal distribution?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What are the z-scores corresponding to ±3 standard deviations from the mean in a standard normal distribution?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "If X ~ N(5, 6) and x = 17, what is the z-score?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "If X ~ N(5, 6) and x = 1, what is the z-score (rounded to two decimal places)?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the formula for calculating a z-score from a value x in a normal distribution with mean μ and standard deviation σ?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What formula is used to find the kth percentile of X when the z-score is known?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In a normal distribution with mean 63 and standard deviation 5, what is the probability that a randomly selected value is greater than 65?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the third exam/final exam example, what is the equation of the least-squares regression line?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the third exam/final exam example, what is the value of the correlation coefficient r?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the third exam/final exam example, what is the coefficient of determination r²?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the third exam/final exam example, how many data points (n) were used?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the p-value for the significance test of the correlation coefficient in the third exam/final exam example?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What significance level α is used throughout Chapter 12 for hypothesis testing of the correlation coefficient?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the formula for the correlation coefficient r?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the range of possible values for the correlation coefficient r?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What does r = 0 indicate about the linear relationship between two variables?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What does r = 1 indicate about the linear relationship between two variables?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What does r = –1 indicate about the linear relationship between two variables?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the linear regression equation ŷ = a + bx, what does the slope b describe?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the linear regression equation y = a + bx, what does a represent geometrically?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the formula for the slope b of the least-squares regression line in terms of correlation coefficient r, sy, and sx?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What important point does the best-fit line always pass through?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the Sum of Squared Errors (SSE) minimized to achieve in linear regression?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the formula for the standard deviation of the residuals s in terms of SSE and n?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the third exam/final exam example with the outlier removed, what is the new equation of the best-fit line?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the third exam/final exam example with the outlier removed, what is the new correlation coefficient r?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the 2012 SAT verbal section, what was the mean score μ?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the 2012 SAT verbal section, what was the standard deviation σ?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What were the mean and standard deviation of heights for 15–18-year-old males from Chile in 2009–2010?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "For the IQ distribution, what are the mean and standard deviation given in the textbook?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the checkout line wait time example (Thuy Dau et al.), what was the sample mean calculated?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the checkout line wait time example, what was the sample standard deviation?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the NUMMI assembly line example, what was the mean number of defective cars per sample of n=100?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the NUMMI example, what is the standard deviation of defective cars per 100?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "For the CD player lifetime example, what is the mean lifetime?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "For the CD player lifetime example, what is the standard deviation?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the 90th percentile of the final exam score distribution with mean 63 and standard deviation 5?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the 70th percentile of the final exam score distribution with mean 63 and standard deviation 5?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the third exam/final exam example, which data point was identified as an outlier?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the standard deviation s of the residuals in the third exam/final exam example (before removing the outlier)?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In a normal distribution, if the area to the left of x is 0.0228, what is the area to the right?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the 80th percentile of a normal distribution with mean 36.9 and standard deviation 13.9?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "For the IQR of smartphone user ages (mean 36.9, sd 13.9), what is Q3?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "For the IQR of smartphone user ages (mean 36.9, sd 13.9), what is Q1?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the coin flip example (n=100, p=0.20), what are the mean and standard deviation of the number of heads?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the formula for the test statistic t used in testing significance of the correlation coefficient?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "For the Sports Stadiums data in Chapter 6, what was the sample mean maximum capacity?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the pregnancy length example, what is the mean number of days and standard deviation?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the probability that a randomly chosen mandarin orange has a diameter larger than 6.0 cm, given mean 5.85 cm and sd 0.24 cm?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "For a normal distribution with mean 68 and standard deviation 3 (golf scores), what is the probability that a score is less than 65?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the 25th percentile of a normal distribution with mean 2 and standard deviation 0.5?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the scratch-off lottery ticket example, what is the probability that a ticket wins?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "For Facebook usage (mean 28%, sd 5%), what is the probability that the usage is at least 30%?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the 95th percentile of the Facebook usage distribution with mean 28 and standard deviation 5?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the Consumer Price Index (CPI) regression example, what is the equation of the best-fit line?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the CPI example, what is the correlation coefficient r?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the CPI example, what is the estimated CPI for 1990?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What are the null and alternative hypotheses for testing the significance of the correlation coefficient?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In Chapter 12, what calculator function is used to find the least-squares regression line?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "For df = 8, what are the critical values of the correlation coefficient at the 95% level?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "For df = 12, what is the critical value of r at the 95% level?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What were the two variables used in the third exam/final exam example?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the height vs. stories regression example (Chapter 12), how many buildings are in the dataset?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the sparrow hawks study, how many colonies were tagged?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What percent of variation in the final exam grade is explained by the third exam score using the regression line?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the slope of the best-fit line in the third exam/final exam example?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the Aaron’s Word Processing Service example, what is the y-intercept of the cost equation?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In Svetlana’s tutoring equation y = 25 + 15x, what does x represent?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the linear regression equation for Svetlana’s tutoring, what is the slope?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the TI-83/84 calculator command to find cumulative normal probabilities?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the TI-83/84 calculator command to find a value at a given percentile?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "For the fat calories distribution with mean 36 and standard deviation 10, what is the maximum value for the lower 25%?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the 80th percentile of the fly ball distance distribution (mean 250, sd 50)?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the unemployment wait time (mean 3, sd 1.5), what is the probability of less than one hour unsupervised?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the Greek letter used to denote the population correlation coefficient?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What notation is used for a normal distribution with mean μ and standard deviation σ?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In Chapter 12, how many degrees of freedom are used in the t-test for the correlation coefficient with n data points?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the final exam scores example (μ = 63, σ = 5), what is the probability of scoring less than 85?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is a z-score, and what does it measure?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the standard normal distribution, and how is it denoted?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "Define the normal distribution and identify its two parameters.",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the Empirical Rule (also known as the 68-95-99.7 Rule)?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the probability density function of a normal distribution?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the cumulative distribution function P(X < x) and how is it interpreted?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What does it mean for a normal distribution to be “symmetric”?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "Define a percentile in the context of a normal distribution.",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the 90th percentile, and what does it mean in terms of data distribution?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is a critical value in the context of a normal distribution?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the standardization transformation, and what distribution does it produce?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is bivariate data?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is a scatter plot, and what information does it convey?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is a linear equation in the statistical context, and how is it written?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "Define the slope b in the context of a linear regression equation.",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the y-intercept in a linear regression equation, and how is it interpreted?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the least-squares regression line (line of best fit)?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the Sum of Squared Errors (SSE) in linear regression?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is a residual (error) in the context of linear regression?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What does ŷ (y-hat) represent in a regression equation?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the correlation coefficient r?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the coefficient of determination r²?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "How is r² interpreted as a percentage in the context of regression?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is 1 – r², and what does it represent?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is a positive correlation, and what does it imply about the relationship between x and y?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is a negative correlation, and what does it imply about the relationship between x and y?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What does the phrase “correlation does not imply causation” mean?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the population correlation coefficient ρ (rho)?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the null hypothesis H₀ in a test of significance for the correlation coefficient?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the alternative hypothesis Hₐ in a test of significance for the correlation coefficient?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is a p-value, and how is it used to make a decision in hypothesis testing?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What does it mean for a correlation coefficient to be “significant”?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What does it mean for a correlation coefficient to be “not significant”?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What are the assumptions required for testing the significance of the correlation coefficient?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is interpolation in the context of linear regression prediction?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is extrapolation in the context of linear regression prediction, and why is it unreliable?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is an outlier in the context of regression analysis?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is an influential point in linear regression, and how does it differ from an outlier?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "Define the standard deviation of the residuals s in the context of a regression model.",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the independent variable in a regression model?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the dependent variable in a regression model?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is multivariate data, and how does it differ from bivariate data?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the Least Squares Criterion in linear regression?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the IQR (Interquartile Range) and how is it calculated?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is a continuous random variable, and how does the normal distribution fit this definition?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the area under the entire normal distribution curve, and what does it represent?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What does it mean when we say the best-fit line “passes through the point (x̄, ȳ)”?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is a linear relationship in a statistical context?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the form of the standard linear equation in statistics (as opposed to algebra)?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the LinRegTTest on the TI-83/84 calculator, and what output does it provide?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the invNorm function on a calculator, and when is it used?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is normalcdf, and when is it used?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is a “well-designed random sample” in the context of regression assumptions?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is meant by “equal variance” in the regression assumptions?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "Define the term “direction” of a relationship as shown in a scatter plot.",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "Define the term “strength” of a relationship as shown in a scatter plot.",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What does the sign of r tell us about the direction of a linear relationship?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the coefficient of correlation, and who developed it?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the notation X ~ N(μ, σ), and what does each parameter represent?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the difference between σ (sigma) and s in the context of normal distributions and regression?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is “regression to the mean,” and what concept in this chapter is related to it?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What does the slope b = r(sy/sx) mean in words?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is meant by the “domain of observed x values” in regression prediction?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is a “line of best fit” and why is it called the “best”?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "Define a normal probability distribution in plain terms for a non-statistician.",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is a “standardized value” and how does standardization help compare different data sets?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What does it mean when the z-score of a value x is positive versus negative?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the bell curve, and in what fields is it commonly observed?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the 68-95-99.7 rule and why is it useful in practice?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "Define the concept of “variation” in the context of the coefficient of determination r².",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What does it mean for residuals to be “mutually independent” in regression?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In a regression context, what does it mean for y values to be “normally distributed about the line”?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is meant by “degrees of freedom” in the t-test for correlation significance?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the relationship between the sign of the slope b and the sign of the correlation coefficient r?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "Define a “random variable” X ~ N(μ, σ) in words.",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the practical meaning of the y-intercept when x = 0 in a real-world regression model?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the difference between a sample correlation coefficient r and a population correlation coefficient ρ?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the significance level α = 0.05 and what decision rule does it create in hypothesis testing?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What does “reject the null hypothesis” mean in plain language in the context of correlation testing?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What does “fail to reject the null hypothesis” mean in plain language in the context of correlation testing?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is a “95% Critical Value” table for r, and how is it used to determine significance?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the normal approximation and when is it considered appropriate to use?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is a stratified sampling method, and where is it used in the lab activity in Chapter 6?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the Consumer Price Index (CPI), and how is it used in the regression example?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the difference between the normal distribution N(μ, σ) and the standard normal distribution Z ~ N(0, 1)?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does a change in the mean μ affect the shape and position of the normal curve, compared to a change in the standard deviation σ?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the interpretation of a positive z-score versus a negative z-score.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the Empirical Rule differ for the 68%, 95%, and 99.7% intervals in terms of the number of standard deviations from the mean?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the area to the left of a value x [P(X < x)] with the area to the right [P(X > x)] in a normal distribution. What is their relationship?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "What is the difference between interpolation and extrapolation in regression prediction, and which is considered more reliable?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the least-squares regression line change when an outlier is removed? Compare the r values before and after removal in the third exam/final exam example.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the correlation coefficient r = 0.6631 (before removing the outlier) with r = 0.9121 (after removing it). What do these values tell us about the quality of each model?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "What is the difference between an outlier and an influential point in regression?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare P(X < x) and P(X ≤ x) for a continuous distribution. Are they the same or different? Why?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How do the slope and y-intercept of a regression line differ in their interpretations?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare a scatter plot showing r = 0.9 vs. one showing r = 0.3. How would these look visually, and what do they mean statistically?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does a regression line with a positive slope differ from one with a negative slope in terms of real-world interpretation?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the coefficient of determination r² = 0.44 versus r² = 0.91. What do these percentages mean about the explanatory power of the models?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "What are the similarities and differences between the p-value method and the critical value method for testing significance of r?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the normal distribution and the empirical (observed) distribution of data in a sample. Why might they differ?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the mean differ from the median in a perfectly symmetric normal distribution? What about in a skewed distribution?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the behavior of the normal curve when σ is large versus when σ is small. How does this affect the spread and height of the curve?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the z-score for x = 17 in X ~ N(5, 6) compare to the z-score for y = 4 in Y ~ N(2, 1)? What does this tell us about standardization?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the regression equation before and after removing the outlier (65, 175) from the third exam/final exam data. How does the slope change?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "What is the difference between bivariate data and multivariate data? Give examples from the textbook for each.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the roles of the independent variable (x) and the dependent variable (y) in a linear regression model.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the standard deviation of residuals s differ from the standard deviation of the original y values?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the null hypothesis (H₀: ρ = 0) and the alternative hypothesis (Hₐ: ρ ≠ 0) in words about what each claims about the population.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the IQR calculated from the theoretical normal distribution vs. the IQR calculated empirically from sample data. Why might these differ?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the least-squares regression line for the CPI data (r = 0.8694) compare in predictive quality to the third exam/final exam line (r = 0.6631)?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the use of a scatter plot versus the correlation coefficient r for assessing the linear relationship between two variables. What can each tell you that the other cannot?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "What is the difference between a data point that lies above the regression line versus one that lies below it? What does the sign of the residual tell us?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the normal distribution curve to a uniform distribution in terms of shape, mean, and probability calculation.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the percentage of x values between the 1st and 2nd standard deviations (~27%) compare to the percentage between the 2nd and 3rd standard deviations (~4.7%)? What does this tell us about extreme values?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the prediction accuracy of a regression model with r² = 0.72 vs. one with r² = 0.20. How confident should you be in each model’s predictions?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the standard normal distribution (Z) differ from a general normal distribution X ~ N(μ, σ) in terms of how probabilities are calculated?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare what the slope means in the Aaron’s Word Processing Service equation vs. the Svetlana tutoring equation. How is the real-world meaning of slope different?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the 25th percentile (Q1) compare to the 75th percentile (Q3) in a symmetric normal distribution? What is their relationship to the mean?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the SAT score of 700 (μ=514, σ=117) to the ACT score of 30 (μ=21, σ=5.3) using z-scores. Who performed better relative to their test?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the visual appearance of a scatter plot with a strong positive correlation vs. one with zero correlation. How do the points differ?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the value of the test statistic t in correlation testing relate to the size of the correlation r and the sample size n?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "What is the difference between using r (correlation coefficient) and r² (coefficient of determination) to evaluate a regression model?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare P(X > x) = 1 – P(X < x) with the complementary rule in general probability. How does the normal distribution make this calculation especially straightforward?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the regression line prediction at x = 73 differ before and after removing the outlier (65,175) in the third exam/final exam example?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the practical interpretation of the slope in a real-world regression (e.g., “for each additional story, height increases by ~13 feet”) with the mathematical definition of slope as “rise over run.”",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "In the sparrow hawk study, how does the regression equation for percent return vs. percent new birds compare to what an ecologist might intuitively expect? Does the data support this intuition?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the effect of a large sample size vs. a small sample size on the reliability of using the correlation coefficient r for prediction.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does a regression line with a slope close to 0 differ from one with a steep slope, in terms of what it tells us about the relationship between x and y?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the probabilities calculated using the theoretical normal distribution to those calculated from cumulative relative frequencies in the checkout line example. Why are they not exactly equal?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the normal distribution compare to the bell curve approximations used for binomial distributions (as in the coin flip and NUMMI examples)?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the concept of a “percentile” in a normal distribution to what it means in everyday language (e.g., “the 90th percentile student”).",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "What is the difference between using s (standard deviation of residuals) and 2s as a cutoff for identifying outliers in regression analysis?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the use of LinRegTTest and the critical values table as two methods for testing significance of r. Under what circumstances might one be preferred over the other?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the interpretation of ρ = 0 versus ρ ≠ 0 in terms of what they imply about the population relationship.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the meaning of the correlation coefficient r differ between r = 0.5 and r = –0.5? Are they equally strong? In what way do they differ?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the regression equation and the scatter plot as tools for predicting y from x. When is each most useful?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "In the normal distribution context, compare finding a probability P(X < x) to finding a percentile (given a probability, find x). How do these two types of problems differ in their computational approach?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does removing an outlier from the data change the SSE (Sum of Squared Errors)? Should it increase or decrease? Why?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the slope of the CPI regression line (b = 1.662) to the slope of the third exam/final exam line (b = 4.83). What are the different real-world meanings of these slopes?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the regression analysis of the mandarin orange data to the regression of the sports stadium data. In both cases, how does the distribution of the data affect the reliability of predictions?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the concept of a “residual” in regression compare to the concept of a “deviation from the mean” in descriptive statistics?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the Empirical Rule as applied to a distribution of exam scores versus a distribution of heights. How does the practical interpretation change even though the statistical rule is the same?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare what it means when the sign of r is positive vs. when it is negative in the context of physical measurements (e.g., height vs. weight, or car weight vs. fuel efficiency).",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "In the regression assumptions, compare the assumption of “normality of y values” to the assumption of “equal variance.” What would a violation of each look like on a scatter plot?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the meaning of “r is not significant” (insufficient evidence) differ from “r = 0” (no correlation)? Are they the same conclusion?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the effect of having n = 5 data points vs. n = 100 data points on the critical value for r at the 95% confidence level. What does this tell us about sample size and significance?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the regression line used for the sparrow hawk data (percent return vs. percent new) with the regression line used for the gold medal swimming data (year vs. time). In what ways are their interpretations similar and different?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the y-intercept of the regression line for life expectancy (Chapter 12) differ in interpretation from the y-intercept of a cost function (e.g., Aaron’s Word Processing Service)?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the coefficient of determination for the CPI data (r² ≈ 0.756) to that of the third exam/final exam data (r² ≈ 0.44). What does each value tell us about the fit of the model?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the practical meaning of a z-score of +2 versus a z-score of –2 for a medical measurement such as blood pressure or weight of a child.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the standard deviation σ serve different roles in the normal distribution formula compared to the standard deviation of residuals s in the regression model?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the probability of a value being more than 2 standard deviations above the mean vs. more than 3 standard deviations above the mean in a normal distribution. How extreme are these events?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the regression equation ŷ = –173.51 + 4.83x (with outlier) and ŷ = –355.19 + 7.39x (without outlier). What dramatic change occurred in both the slope and intercept?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the use of z-scores to compare SAT and ACT scores illustrate the broader concept of standardization? Compare this use to the standardization in a standard normal distribution.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the assumption that “data are normally distributed” in the context of the normal distribution chapter to the regression assumption that “y values are normally distributed about the regression line.”",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare a regression model for predicting sports stadium capacity (n=60) to a model for predicting checkout wait times (n=50). How does sample size affect confidence in the predictions?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the concept of a “best-fit line” in the context of regression to the concept of the “mean” in descriptive statistics. In what sense are both measures of “center”?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare and contrast the practical usefulness of a high r value (e.g., 0.95) in a small dataset (n=5) versus a moderate r value (e.g., 0.50) in a large dataset (n=100).",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the variability around the regression line (measured by s) compare to the overall variability in y (measured by sy)? What does a small s relative to sy tell us?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the meaning of the y-intercept in the regression of fly ball distances (theoretical) to the regression of SCUBA diving depths and times (practical). When does the y-intercept have real-world meaning?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare using the Empirical Rule approximation to using the exact normal distribution formula (normalcdf). When would you prefer each approach?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the regression of the percent of hourly workers over time (Chapter 12) compare to the regression of life expectancy over time in terms of slope direction and interpretation?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the calculation of the interquartile range (IQR) using the normal distribution (invNorm) with calculating it from raw data. What are the advantages and disadvantages of each method?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the “direction” indicated by the sign of the correlation r with the “strength” indicated by the magnitude |r|. Can a strong negative correlation be more meaningful than a weak positive one?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the sample correlation coefficient r as an estimate of ρ with other sample statistics (like x̄ estimating μ). What are the limitations of using a sample to estimate a population parameter?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the regression results for coffee consumption vs. heart disease across 10 countries (Chapter 12) with the regression for weight vs. fuel efficiency. In what ways are these two analyses structurally similar despite having different variables?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the Pearson correlation coefficient r compare to the coefficient of determination r² in terms of what information each provides and which is more intuitive to interpret?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the significance test for the correlation coefficient with a standard hypothesis test for a population mean. What elements do they share (null hypothesis, test statistic, p-value, conclusion), and where do they differ?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the concept of z-scores from the normal distribution chapter connect to the hypothesis testing of the correlation coefficient in Chapter 12? In what ways do both use standardization to make comparisons?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "A student scores 73 on the third exam. Using the regression equation from Chapter 12 and the concept of prediction from Chapter 6, explain the full process of predicting their final exam score and quantifying the uncertainty in that prediction.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does understanding the Empirical Rule (Chapter 6) help a researcher interpret the residuals of a regression model (Chapter 12)? Specifically, what percentage of residuals would you expect to fall within ±2s of the regression line?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "In the NUMMI automobile example, the number of defective cars follows approximately a normal distribution. Explain how the concepts of z-scores and the Empirical Rule can be used together to identify unusually high or low defect rates in the quality control process.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "The SAT and ACT are different tests with different scales. Using the concepts of z-scores (Chapter 6) and linear regression (Chapter 12), explain how a university admissions office could develop a unified model to predict college GPA from either test score.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How do the concepts of the coefficient of determination r² and the area under the normal distribution curve both express “proportion of something explained”? Develop an analogy that connects these two ideas.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "In the regression of CPI over time, the textbook notes that although r is significant, a curve would be a better model. Using knowledge of both the normal distribution and regression concepts, explain what statistical signals suggest this, and what might happen to residuals if we force a linear model.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "An ecologist is studying the sparrow hawk colony data. Integrate the concepts of outlier detection (Chapter 12), the meaning of residuals, and the normal distribution of errors to explain the full process of determining whether a data point is a true outlier versus natural variation.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the regression assumption that “y values are normally distributed about the line” (Chapter 12) directly connect to the properties of the normal distribution studied in Chapter 6? What would a violin plot of the y values at each x value look like if this assumption holds?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Using the concept of interpolation vs. extrapolation from Chapter 12 and the concept of the domain of a distribution from Chapter 6, explain why predictions outside the observed range of x values are unreliable even when r is significant.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How do the concepts of “sample size n” from both chapters (affecting z-scores in Chapter 6 and the significance of r in Chapter 12) work together to illustrate the fundamental statistical principle that larger samples give more reliable conclusions?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "A medical researcher wants to predict systolic blood pressure (normally distributed with μ = 125, σ = 14) from body mass index (BMI). Integrate the z-score framework from Chapter 6 with the regression framework from Chapter 12 to describe the full statistical approach, including hypothesis testing.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "The textbook mentions that “correlation does not imply causation.” Using examples from both Chapter 6 (distributions of natural phenomena) and Chapter 12 (regression of real-world data), construct a comprehensive argument for why this principle is essential in data analysis.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the detection and removal of an outlier (Chapter 12) change not just the regression line but also the distribution of residuals? Use the concepts of normal distribution (Chapter 6) to explain why a cleaner dataset may have residuals that better approximate normality.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Consider the checkout line wait time study. Using the normal approximation (Chapter 6) and the regression concepts (Chapter 12), explain the full analytical pipeline: from raw data collection to a predictive model, including how the normal distribution assumption is checked.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "In quality control, a manufacturing plant uses both the Empirical Rule (Chapter 6) and regression analysis (Chapter 12) to monitor production. Explain how these two tools can be used together to detect when a process is “out of control.”",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How do the concepts of percentile (Chapter 6) and prediction from a regression line (Chapter 12) both answer the question “what value of y should we expect?” even though they use different methods?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the concept of hypothesis testing for ρ from Chapter 12 with the concept of probability under the normal curve from Chapter 6. Explain how the p-value in the LinRegTTest is conceptually a normal/t-distribution probability.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "A sociologist is studying the relationship between education level and income. Use concepts from both Chapter 6 (normality of income distribution) and Chapter 12 (regression, significance testing, prediction) to outline a complete statistical study design and analysis plan.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the formula b = r(sy/sx) for the regression slope synthesize concepts from both correlation (r) and descriptive statistics (sy, sx)? What does this formula reveal about the relationship between the spread of x and y and the steepness of the regression line?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Consider the gold medal swimming times dataset. Using the regression analysis from Chapter 12 and the normal distribution concepts from Chapter 6, explain how you would (a) find the best-fit line, (b) test its significance, (c) make a prediction for a future year, and (d) quantify the uncertainty in that prediction using a probability statement.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "The textbook uses both graphical (scatter plot) and numerical (r value) methods to assess linear relationships. How do these two approaches complement each other, and how does the normal distribution underlie the theoretical framework that makes r’s significance test valid?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "In the Facebook usage example, the percentage of users who check Facebook before getting out of bed is normally distributed. Explain how the percentile concept (Chapter 6) and the concept of a regression model (Chapter 12) might together be used to segment users into marketing categories.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How do the concepts of “standard deviation of the distribution” (Chapter 6) and “standard deviation of the residuals” (Chapter 12) both represent variability, and how does minimizing the latter through the SSE criterion connect to the broader statistical goal of reducing uncertainty?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the ideas of outlier detection (Chapter 12) and the use of z-scores (Chapter 6) to propose a unified criterion for identifying unusual data points: specifically, explain how the rule of “residual > 2s” is analogous to identifying a data point with |z| > 2.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "The Consumer Price Index example shows a significant r but a potentially nonlinear relationship. Using the normal distribution concepts, explain how the distribution of residuals around the regression line can visually or numerically reveal when a linear model is not appropriate.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Consider a study predicting student performance (normally distributed) from hours of study. Integrate the z-score framework for individual predictions (Chapter 6) with the regression framework for group-level predictions (Chapter 12), explaining when each approach is most appropriate.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the coefficient of determination r² = 0.44 in the third exam/final exam example connect to the normal distribution concept of explaining variation? What does it mean that 56% of the variation in final exam scores is “unexplained,” and how does this relate to the spread of the normal distribution of scores?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "A public health analyst is studying coffee consumption and heart disease rates (Chapter 12). Integrate the concepts of significance testing (is r significant?), prediction (regression equation), and the normal distribution of residuals to provide a complete statistical assessment of whether coffee consumption is a useful predictor of heart disease risk.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How do the five regression assumptions (linearity, independence, normality, equal variance, random sample) connect to properties of the normal distribution (Chapter 6)? Specifically, explain how violating each assumption would distort the normal distribution of residuals.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the concepts of probability statements in the normal distribution (Chapter 6) with the prediction interval in regression (Chapter 12) to explain how a researcher can not only predict a value but also quantify confidence in that prediction.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "In the Alaska/Hawaii outlier analysis (problem 85, Chapter 12), explain how geographic and historical context, combined with statistical outlier detection and regression analysis, demonstrates the importance of integrating domain knowledge with quantitative methods.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the principle of minimizing SSE in regression (Chapter 12) parallel the principle of using the mean to minimize the sum of squared deviations in descriptive statistics? What deeper statistical principle do both reflect?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Consider the life expectancy vs. year of birth regression. Using knowledge from both chapters, explain how you would (a) assess normality of the data, (b) fit the regression, (c) test significance, and (d) interpret the practical meaning of the slope in terms of public health progress.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the concept of “area under the curve” in the normal distribution (Chapter 6) relate to the concept of “variation explained” by the regression line (Chapter 12)? Develop a conceptual bridge between these two ideas.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "A pollster conducts a survey on voter preferences. The results follow a normal distribution. Using concepts from both Chapter 6 (probabilities, percentiles) and Chapter 12 (predicting outcomes based on demographic variables), explain how a complete statistical analysis could predict election outcomes.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "In the textbook’s Pinkie Length lab (Chapter 6) and the Regression labs (Chapter 12), both involve collecting data and fitting distributions. Compare and synthesize these two activities in terms of what statistical questions they answer and what assumptions they require.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the t-test statistic formula t = r√(n–2)/√(1–r²) from Chapter 12 encode information from both correlation (r) and sample size (n) to produce a probability (p-value) from the t-distribution? How does this connect to the normal distribution (Chapter 6)?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "A company uses regression to predict quarterly sales (Chapter 12) and also assumes sales follow a normal distribution for probability calculations (Chapter 6). Explain how these two statistical frameworks are complementary and how a manager would use both together for business decision-making.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Integrating the Empirical Rule from Chapter 6 with the regression outlier detection method from Chapter 12, propose a comprehensive data quality check process that a statistician could apply to any new dataset before performing regression analysis.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How do the concepts of standardization (z-scores, Chapter 6) and normalization (regression coefficients, Chapter 12) both serve the goal of making data from different scales comparable? Give an example from the textbook where this comparability is crucial.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Consider the gender height data example (Chapter 6) and the weight-to-height regression for children (Chapter 12). Synthesize these two approaches to explain how a pediatrician could use both normal distribution percentiles AND a regression model to comprehensively assess a child’s growth.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "In regression, the parameter ρ represents the true population correlation, estimated by r from a sample. Drawing on the analogy from Chapter 6 (where μ is estimated by x̄), synthesize the concept of statistical inference: what are the philosophical similarities in estimating population parameters from samples in both chapters?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How do the concepts of “regression to the mean” (implied in regression analysis) and the normal distribution’s symmetry (Chapter 6) jointly explain why extreme scores on one measurement tend to be followed by less extreme scores on a subsequent measurement?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Using the Facebook usage and smartphone user age distributions from Chapter 6, along with regression concepts from Chapter 12, design a hypothetical study that predicts social media usage frequency from age. What statistical methods from both chapters would you apply?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "A pharmaceutical company tests drug effectiveness. Patient outcomes are normally distributed (Chapter 6), and the relationship between dosage and effectiveness is modeled with regression (Chapter 12). Synthesize both approaches to explain how the company would determine the optimal dosage range, including statistical significance testing and risk quantification.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the concept of “standard error” (used implicitly in the regression significance test, Chapter 12) connect to the concept of “standard deviation” in the normal distribution (Chapter 6)? What is the underlying role of both in quantifying uncertainty?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the entire analytical workflow from both chapters: starting from a real-world dataset, explain the sequential steps a statistician would take — checking normality (Chapter 6), fitting a regression line (Chapter 12), testing significance, making predictions, checking for outliers, and drawing conclusions — into a unified statistical methodology.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the use of the normal distribution to approximate the binomial (as in the coin flip and NUMMI examples, Chapter 6) relate to the Central Limit Theorem, and how does the Central Limit Theorem also justify the normality assumption in regression (Chapter 12)?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Consider the relationship between coffee consumption and heart disease. The data from Chapter 12 shows a negative correlation. Using the normal distribution framework (Chapter 6), explain how you would calculate the probability that a country with coffee consumption of 5 liters/year has a heart disease death rate below 150 per 100,000, integrating both regression prediction and normal probability calculation.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the concept of “degrees of freedom” connect both chapters? In Chapter 12, df = n–2 is used for the t-test. In Chapter 6, the t-distribution underlies the critical values. Explain how the concept of degrees of freedom reflects the loss of information when estimating parameters from samples.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "A climate scientist models global temperature as a function of CO₂ levels using regression (Chapter 12) and also models year-to-year temperature variation as normally distributed (Chapter 6). Synthesize these two perspectives to explain how both tools are needed for a complete picture: one for trend, one for variability around the trend.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How do the lessons from all regression assumptions in Chapter 12 (linearity, normality, equal variance, independence, random sampling) and the properties of the normal distribution in Chapter 6 together constitute the theoretical foundation for classical linear regression? What would happen to statistical inference if each assumption were violated?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "The concept of the “best fit” in regression (minimizing SSE) and the concept of the “most likely value” in normal distribution (the mean, where the curve peaks) both represent optimization. Synthesize these ideas to explain how statistics as a discipline is fundamentally about finding the “best description” of data under uncertainty.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "A data journalist is writing about wealth inequality. Income distributions are typically not normal (they are right-skewed), yet regression models are applied to income data. Using concepts from Chapter 6 (normality, transformations) and Chapter 12 (regression, assumptions), explain how a statistician would handle non-normal data before applying regression.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How do the real-world examples from Chapter 12 (CPI, life expectancy, gold medals, sparrow hawks) and the real-world examples from Chapter 6 (heights, IQ, blood pressure, shoe sizes) together illustrate the ubiquity of statistical modeling in diverse fields? Synthesize these examples to argue for statistical literacy as an essential skill in modern society.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "In educational assessment, both z-scores (for individual performance, Chapter 6) and regression (for predicting future performance from past performance, Chapter 12) are used. Synthesize these tools to design a comprehensive early-warning system for students at academic risk, integrating both individual-level and group-level statistical analysis.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the 68-95-99.7 rule (Chapter 6) and the concept of outliers identified by residuals > 2s (Chapter 12) reflect the same underlying principle about what constitutes “unusual” in statistics? Develop a unified conceptual framework for “statistical unusualness” that applies to both chapters.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Consider the driver fatality data by age group (Chapter 12). The data shows a non-linear pattern, yet linear regression was applied. Using concepts from Chapter 6 (normal distribution, skewness) and Chapter 12 (regression limitations), explain the dangers of applying linear regression to data with nonlinear patterns, and suggest what additional analyses would be appropriate.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the concept of the “population regression line” (Chapter 12) parallel the concept of the “true population distribution” (Chapter 6)? In both cases, we use samples to estimate unknown population parameters. Synthesize these ideas to explain the fundamental role of sampling in statistical inference.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "A criminologist studies the relationship between population size and homicide rates in Detroit (Chapter 12). The residuals of the regression may or may not be normally distributed (Chapter 6). Synthesize both concepts to explain how the criminologist would fully validate their model before drawing policy conclusions.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How do the skills of reading a scatter plot (Chapter 12) and reading a normal distribution curve (Chapter 6) together constitute the foundational visual literacy needed for data analysis? Synthesize these skills and explain what visual patterns each plot type can reveal that the other cannot.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the concepts of the y-intercept in regression (Chapter 12) with the concept of the mean as the “center” of a normal distribution (Chapter 6). When the y-intercept has no practical meaning (e.g., when x = 0 is outside the domain), how should a statistician communicate their results responsibly?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "The sparrow hawk regression (Chapter 12) and the normal distribution of bird population sizes (Chapter 6) are both used in ecology. Integrate these two statistical tools to explain how ecologists use both distributional modeling and predictive modeling to manage and forecast wildlife populations.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Consider the relationship between the regression significance test (testing H₀: ρ = 0) and the broader concept of hypothesis testing underpinning statistical inference. Using the normal distribution as the theoretical foundation (Chapter 6) and the correlation test as a specific application (Chapter 12), synthesize the universal logic of hypothesis testing in statistics.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the coefficient of determination r² connect to the concept of “signal vs. noise” in data? Use the normal distribution (Chapter 6) to characterize the “noise” (unexplained variation) and regression (Chapter 12) to characterize the “signal” (explained variation). Synthesize these ideas to explain how scientists extract meaningful patterns from noisy data.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "A student athlete tracks her jump shot practice and points scored (Chapter 12 scatter plot example). Integrating the concepts of normal distribution (her scores might be normally distributed, Chapter 6) and regression (predicting scores from practice hours, Chapter 12), design a statistically complete training optimization plan.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How do the limitations of extrapolation in regression (Chapter 12) and the limitations of applying the normal distribution outside the observed range (Chapter 6) reflect the same fundamental principle in statistics: that we should not make claims beyond the boundaries of our data?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the concept of the normal distribution’s bell curve (Chapter 6) with the distribution of points around the regression line (Chapter 12) to explain why both statistical tools, despite appearing different, are built on the same mathematical foundation of normally distributed errors.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "In the context of business analytics, a firm uses regression to predict revenue from advertising spend and also assumes that revenue follows a normal distribution. Integrate concepts from both chapters to explain how the firm would set sales targets (using percentiles, Chapter 6) and forecast future performance (using regression, Chapter 12).",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How do the concepts of “variation explained” (r², Chapter 12) and “probability of an outcome” (area under the curve, Chapter 6) both serve the goal of quantifying uncertainty in statistical models? Develop a synthesis that explains uncertainty quantification as a central theme in both chapters.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Consider the textbook’s entire discussion of the normal distribution (Chapter 6) and linear regression (Chapter 12) as two pillars of introductory statistics. Synthesize the key insights, methods, assumptions, and limitations of both to argue that together they provide a foundational toolkit for data-driven decision-making in any professional field.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the concept of the “best-fit line” that minimizes SSE (Chapter 12) relate philosophically to the concept of the “most efficient estimator” in classical statistics, and how does the normal distribution (Chapter 6) provide the theoretical justification for why minimizing SSE is optimal?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "A nutritionist analyzes the relationship between caloric intake and body weight. Caloric intake is approximately normally distributed (Chapter 6), and regression is used to predict weight from intake (Chapter 12). Synthesize both frameworks to explain: what the slope means, how to test if the relationship is real, and how to predict the weight of a person at the 90th percentile of caloric intake.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the empirical rule (Chapter 6) and the standard error of regression (Chapter 12) to explain why, in both contexts, data points that are more than two standard deviations away from the center (mean or regression line) deserve special scrutiny.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How do both chapters use the concept of “degrees of freedom” to adjust for sample size when estimating population parameters? Specifically, connect the formula s = √(SSE/(n–2)) in regression (Chapter 12) to the broader concept of unbiased estimation that also appears in the standard deviation formula s = √(Σ(x–x̄)²/(n–1)) from descriptive statistics.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Consider the relationship between alcohol consumption and traffic fatalities, or cigarette smoking and lung cancer — relationships that are clearly causal in reality but must be carefully analyzed statistically. Using the concepts of correlation (Chapter 12) and the normal distribution of outcomes (Chapter 6), explain how a statistician would rigorously establish evidence for such a relationship while acknowledging the statistical limitation that “correlation does not imply causation.”",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the entire intellectual arc of the two chapters: from the normal distribution as a model for naturally occurring phenomena (Chapter 6) to regression as a tool for modeling relationships between variables (Chapter 12). How do these two ideas together form a coherent statistical framework for understanding the world through data?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How do the normal distribution’s role in characterizing individual measurements and regression’s role in characterizing relationships between measurements complement each other in the design of scientific studies? Use examples from both chapters to argue that a complete statistical analysis requires both distributional and relational modeling.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Consider the textbook example of predicting a child’s height from their age (Chapter 12) and a child’s weight based on a normal distribution benchmark (Chapter 6). Synthesize these two analyses from a pediatric health perspective: how would a doctor use both tools to make a comprehensive assessment of whether a child’s growth is healthy?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "A data scientist working on an environmental study finds that pollution levels are normally distributed (Chapter 6) and that there is a significant regression relationship between industrial output and pollution levels (Chapter 12). Synthesize these findings to explain how the scientist would (a) set regulatory thresholds using percentiles, (b) predict future pollution from projected industrial output, and (c) test whether the relationship is statistically valid.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the interplay between the sample size n, the correlation r, and the significance level α in hypothesis testing for regression (Chapter 12) illustrate the fundamental statistical trade-off between Type I and Type II errors? Connect this trade-off to the concept of probability under the normal curve (Chapter 6).",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Synthesize all the major formulas from both chapters — the z-score formula, the normal distribution function, the regression equation ŷ = a + bx, the correlation formula, the SSE, and the t-test for ρ — into a unified narrative that explains how statistics moves from raw data to meaningful conclusions.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Reflecting on the entire textbook content from Chapters 6 and 12: How do the normal distribution and linear regression together represent a microcosm of statistical thinking — the ability to model uncertainty, measure relationships, test hypotheses, make predictions, and communicate findings responsibly? What philosophical and practical lessons do these two chapters teach about the role of statistics in knowledge creation?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  }
+]
