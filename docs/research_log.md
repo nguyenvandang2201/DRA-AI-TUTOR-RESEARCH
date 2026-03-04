@@ -2,3 +2,4 @@
 
 - 2026-03-03: Chuẩn bị môi trường làm việc và quy ước đặt tên file.
 - 2026-03-03: Chuẩn bị môi trường làm việc và quy ước đặt tên file.
+- 2026-03-04: Hiệu đính lỗi chính tả trong corpus Lịch sử thế giới.
