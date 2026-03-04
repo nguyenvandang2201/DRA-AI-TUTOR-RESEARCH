@@ -150,3 +150,135 @@ The empirical rule is also known as the 68-95-99.7 rule.
 368
 Chapter 6 | The Normal Distribution
 This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+Figure 6.3
+Example 6.3
+The mean height of 15 to 18-year-old males from Chile from 2009 to 2010 was 170 cm with a standard deviation
+of 6.28 cm. Male heights are known to follow a normal distribution. Let X = the height of a 15 to 18-year-old
+male from Chile in 2009 to 2010. Then X ~ N(170, 6.28).
+a. Suppose a 15 to 18-year-old male from Chile was 168 cm tall from 2009 to 2010. The z-score when x = 168 cm
+is z = _______. This z-score tells you that x = 168 is ________ standard deviations to the ________ (right or left)
+of the mean _____ (What is the mean?).
+Solution 6.3
+a. –0.32, 0.32, left, 170
+b. Suppose that the height of a 15 to 18-year-old male from Chile from 2009 to 2010 has a z-score of z = 1.27.
+What is the male’s height? The z-score (z = 1.27) tells you that the male’s height is ________ standard deviations
+to the __________ (right or left) of the mean.
+Solution 6.3
+b. 177.98 cm, 1.27, right
+6.3 Use the information in Example 6.3 to answer the following questions.
+a.
+Suppose a 15 to 18-year-old male from Chile was 176 cm tall from 2009 to 2010. The z-score when x = 176 cm
+is z = _______. This z-score tells you that x = 176 cm is ________ standard deviations to the ________ (right or
+left) of the mean _____ (What is the mean?).
+b.
+Suppose that the height of a 15 to 18-year-old male from Chile from 2009 to 2010 has a z-score of z = –2. What
+is the male’s height? The z-score (z = –2) tells you that the male’s height is ________ standard deviations to the
+__________ (right or left) of the mean.
+Example 6.4
+From 1984 to 1985, the mean height of 15 to 18-year-old males from Chile was 172.36 cm, and the standard
+deviation was 6.34 cm. Let Y = the height of 15 to 18-year-old males from 1984 to 1985. Then Y ~ N(172.36,
+6.34).
+Chapter 6 | The Normal Distribution
+369
+
+The mean height of 15 to 18-year-old males from Chile from 2009 to 2010 was 170 cm with a standard deviation
+of 6.28 cm. Male heights are known to follow a normal distribution. Let X = the height of a 15 to 18-year-old
+male from Chile in 2009 to 2010. Then X ~ N(170, 6.28).
+Find the z-scores for x = 160.58 cm and y = 162.85 cm. Interpret each z-score. What can you say about x = 160.58
+cm and y = 162.85 cm as they compare to their respective means and standard deviations?
+Solution 6.4
+The z-score for x = -160.58 is z = –1.5.
+The z-score for y = 162.85 is z = –1.5.
+Both x = 160.58 and y = 162.85 deviate the same number of standard deviations from their respective means and
+in the same direction.
+6.4 In 2012, 1,664,479 students took the SAT exam. The distribution of scores in the verbal section of the SAT had a
+mean µ = 496 and a standard deviation σ = 114. Let X = a SAT exam verbal section score in 2012. Then X ~ N(496,
+114).
+Find the z-scores for x1 = 325 and x2 = 366.21. Interpret each z-score. What can you say about x1 = 325 and x2 = 366.21
+as they compare to their respective means and standard deviations?
+Example 6.5
+Suppose x has a normal distribution with mean 50 and standard deviation 6.
+•
+About 68% of the x values lie within one standard deviation of the mean. Therefore, about 68% of the x
+values lie between –1σ = (–1)(6) = –6 and 1σ = (1)(6) = 6 of the mean 50. The values 50 – 6 = 44 and 50
++ 6 = 56 are within one standard deviation from the mean 50. The z-scores are –1 and +1 for 44 and 56,
+respectively.
+•
+About 95% of the x values lie within two standard deviations of the mean. Therefore, about 95% of the x
+values lie between –2σ = (–2)(6) = –12 and 2σ = (2)(6) = 12. The values 50 – 12 = 38 and 50 + 12 = 62 are
+within two standard deviations from the mean 50. The z-scores are –2 and +2 for 38 and 62, respectively.
+•
+About 99.7% of the x values lie within three standard deviations of the mean. Therefore, about 95% of the x
+values lie between –3σ = (–3)(6) = –18 and 3σ = (3)(6) = 18 from the mean 50. The values 50 – 18 = 32 and
+50 + 18 = 68 are within three standard deviations of the mean 50. The z-scores are –3 and +3 for 32 and 68,
+respectively.
+6.5 Suppose X has a normal distribution with mean 25 and standard deviation five. Between what values of x do 68%
+of the values lie?
+Example 6.6
+From 1984 to 1985, the mean height of 15 to 18-year-old males from Chile was 172.36 cm, and the standard
+deviation was 6.34 cm. Let Y = the height of 15 to 18-year-old males in 1984 to 1985. Then Y ~ N(172.36, 6.34).
+a.
+About 68% of the y values lie between what two values? These values are ________________. The z-scores
+370
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+are ________________, respectively.
+b.
+About 95% of the y values lie between what two values? These values are ________________. The z-scores
+are ________________ respectively.
+c.
+About 99.7% of the y values lie between what two values? These values are ________________. The
+z-scores are ________________, respectively.
+Solution 6.6
+a.
+About 68% of the values lie between 166.02 cm and 178.7 cm. The z-scores are –1 and 1.
+b.
+About 95% of the values lie between 159.68 cm and 185.04 cm. The z-scores are –2 and 2.
+c.
+About 99.7% of the values lie between 153.34 cm and 191.38 cm. The z-scores are –3 and 3.
+6.6 The scores on a college entrance exam have an approximate normal distribution with mean, µ = 52 points and a
+standard deviation, σ = 11 points.
+a.
+About 68% of the y values lie between what two values? These values are ________________. The z-scores are
+________________, respectively.
+b.
+About 95% of the y values lie between what two values? These values are ________________. The z-scores are
+________________, respectively.
+c.
+About 99.7% of the y values lie between what two values? These values are ________________. The z-scores
+are ________________, respectively.
+6.2 | Using the Normal Distribution
+The shaded area in the following graph indicates the area to the left of x. This area is represented by the probability P(X <
+x). Normal tables, computers, and calculators provide or calculate the probability P(X < x).
+Figure 6.4
+The area to the right is then P(X > x) = 1 – P(X < x). Remember, P(X < x) = Area to the left of the vertical line through x.
+P(X < x) = 1 – P(X < x) = Area to the right of the vertical line through x. P(X < x) is the same as P(X ≤ x) and P(X > x) is
+the same as P(X ≥ x) for continuous distributions.
+Calculations of Probabilities
+Probabilities are calculated using technology. There are instructions given as necessary for the TI-83+ and TI-84 calculators.
+Chapter 6 | The Normal Distribution
+371
+
+NOTE
+To calculate the probability, use the probability tables provided in Appendix H without the use of technology. The
+tables include instructions for how to use them.
+Example 6.7
+If the area to the left is 0.0228, then the area to the right is 1 – 0.0228 = 0.9772.
+6.7 If the area to the left of x is 0.012, then what is the area to the right?
+Example 6.8
+The final exam scores in a statistics class were normally distributed with a mean of 63 and a standard deviation
+of five.
+a. Find the probability that a randomly selected student scored more than 65 on the exam.
+Solution 6.8
+a. Let X = a score on the final exam. X ~ N(63, 5), where μ = 63 and σ = 5.
+Draw a graph.
+Then, find P(x > 65).
+P(x > 65) = 0.3446
+Figure 6.5
+The probability that any student selected at random scores more than 65 is 0.3446.
+Go into 2nd DISTR.
+372
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
