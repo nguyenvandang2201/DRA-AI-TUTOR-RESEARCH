@@ -141,3 +141,184 @@ CLEAR IT UP
 50
 3 • Demand and Supply
 Access for free at openstax.org
+
+Is supply the same as quantity supplied?
+In economic terminology, supply is not the same as quantity supplied. When economists refer to supply, they mean
+the relationship between a range of prices and the quantities supplied at those prices, a relationship that we can
+illustrate with a supply curve or a supply schedule. When economists refer to quantity supplied, they mean only a
+certain point on the supply curve, or one quantity on the supply schedule. In short, supply refers to the curve and
+quantity supplied refers to a (specific) point on the curve.
+Figure 3.3 illustrates the law of supply, again using the market for gasoline as an example. Like demand, we
+can illustrate supply using a table or a graph. A supply schedule is a table, like Table 3.2, that shows the
+quantity supplied at a range of different prices. Again, we measure price in dollars per gallon of gasoline and
+we measure quantity supplied in millions of gallons. A supply curve is a graphic illustration of the relationship
+between price, shown on the vertical axis, and quantity, shown on the horizontal axis. The supply schedule and
+the supply curve are just two different ways of showing the same information. Notice that the horizontal and
+vertical axes on the graph for the supply curve are the same as for the demand curve.
+FIGURE 3.3 A Supply Curve for Gasoline The supply schedule is the table that shows quantity supplied of gasoline
+at each price. As price rises, quantity supplied also increases, and vice versa. The supply curve (S) is created by
+graphing the points from the supply schedule and then connecting them. The upward slope of the supply curve
+illustrates the law of supply—that a higher price leads to a higher quantity supplied, and vice versa.
+Price (per gallon)
+Quantity Supplied (millions of gallons)
+$1.00
+500
+$1.20
+550
+$1.40
+600
+$1.60
+640
+$1.80
+680
+TABLE 3.2 Price and Supply of Gasoline
+CLEAR IT UP
+3.1 • Demand, Supply, and Equilibrium in Markets for Goods and Services
+51
+
+Price (per gallon)
+Quantity Supplied (millions of gallons)
+$2.00
+700
+$2.20
+720
+TABLE 3.2 Price and Supply of Gasoline
+The shape of supply curves will vary somewhat according to the product: steeper, flatter, straighter, or curved.
+Nearly all supply curves, however, share a basic similarity: they slope up from left to right and illustrate the law
+of supply: as the price rises, say, from $1.00 per gallon to $2.20 per gallon, the quantity supplied increases
+from 500 gallons to 720 gallons. Conversely, as the price falls, the quantity supplied decreases.
+Equilibrium—Where Demand and Supply Intersect
+Because the graphs for demand and supply curves both have price on the vertical axis and quantity on the
+horizontal axis, the demand curve and supply curve for a particular good or service can appear on the same
+graph. Together, demand and supply determine the price and the quantity that will be bought and sold in a
+market.
+Figure 3.4 illustrates the interaction of demand and supply in the market for gasoline. The demand curve (D) is
+identical to Figure 3.2. The supply curve (S) is identical to Figure 3.3. Table 3.3 contains the same information
+in tabular form.
+FIGURE 3.4 Demand and Supply for Gasoline The demand curve (D) and the supply curve (S) intersect at the
+equilibrium point E, with a price of $1.40 and a quantity of 600. The equilibrium price is the only price where
+quantity demanded is equal to quantity supplied. At a price above equilibrium like $1.80, quantity supplied exceeds
+the quantity demanded, so there is excess supply. At a price below equilibrium such as $1.20, quantity demanded
+exceeds quantity supplied, so there is excess demand.
+Price (per gallon)
+Quantity demanded (millions of gallons)
+Quantity supplied (millions of gallons)
+$1.00
+800
+500
+$1.20
+700
+550
+$1.40
+600
+600
+TABLE 3.3 Price, Quantity Demanded, and Quantity Supplied
+52
+3 • Demand and Supply
+Access for free at openstax.org
+
+Price (per gallon)
+Quantity demanded (millions of gallons)
+Quantity supplied (millions of gallons)
+$1.60
+550
+640
+$1.80
+500
+680
+$2.00
+460
+700
+$2.20
+420
+720
+TABLE 3.3 Price, Quantity Demanded, and Quantity Supplied
+Remember this: When two lines on a diagram cross, this intersection usually means something. The point
+where the supply curve (S) and the demand curve (D) cross, designated by point E in Figure 3.4, is called the
+equilibrium. The equilibrium price is the only price where the plans of consumers and the plans of producers
+agree—that is, where the amount of the product consumers want to buy (quantity demanded) is equal to the
+amount producers want to sell (quantity supplied). Economists call this common quantity the equilibrium
+quantity. At any other price, the quantity demanded does not equal the quantity supplied, so the market is not
+in equilibrium at that price.
+In Figure 3.4, the equilibrium price is $1.40 per gallon of gasoline and the equilibrium quantity is 600 million
+gallons. If you had only the demand and supply schedules, and not the graph, you could find the equilibrium by
+looking for the price level on the tables where the quantity demanded and the quantity supplied are equal.
+The word “equilibrium” means “balance.” If a market is at its equilibrium price and quantity, then it has no
+reason to move away from that point. However, if a market is not at equilibrium, then economic pressures arise
+to move the market toward the equilibrium price and the equilibrium quantity.
+Imagine, for example, that the price of a gallon of gasoline was above the equilibrium price—that is, instead of
+$1.40 per gallon, the price is $1.80 per gallon. The dashed horizontal line at the price of $1.80 in Figure 3.4
+illustrates this above-equilibrium price. At this higher price, the quantity demanded drops from 600 to 500.
+This decline in quantity reflects how consumers react to the higher price by finding ways to use less gasoline.
+Moreover, at this higher price of $1.80, the quantity of gasoline supplied rises from 600 to 680, as the higher
+price makes it more profitable for gasoline producers to expand their output. Now, consider how quantity
+demanded and quantity supplied are related at this above-equilibrium price. Quantity demanded has fallen to
+500 gallons, while quantity supplied has risen to 680 gallons. In fact, at any above-equilibrium price, the
+quantity supplied exceeds the quantity demanded. We call this an excess supply or a surplus.
+With a surplus, gasoline accumulates at gas stations, in tanker trucks, in pipelines, and at oil refineries. This
+accumulation puts pressure on gasoline sellers. If a surplus remains unsold, those firms involved in making
+and selling gasoline are not receiving enough cash to pay their workers and to cover their expenses. In this
+situation, some producers and sellers will want to cut prices, because it is better to sell at a lower price than not
+to sell at all. Once some sellers start cutting prices, others will follow to avoid losing sales. These price
+reductions in turn will stimulate a higher quantity demanded. Therefore, if the price is above the equilibrium
+level, incentives built into the structure of demand and supply will create pressures for the price to fall toward
+the equilibrium.
+Now suppose that the price is below its equilibrium level at $1.20 per gallon, as the dashed horizontal line at
+this price in Figure 3.4 shows. At this lower price, the quantity demanded increases from 600 to 700 as drivers
+take longer trips, spend more minutes warming up the car in the driveway in wintertime, stop sharing rides to
+work, and buy larger cars that get fewer miles to the gallon. However, the below-equilibrium price reduces
+gasoline producers’ incentives to produce and sell gasoline, and the quantity supplied falls from 600 to 550.
+3.1 • Demand, Supply, and Equilibrium in Markets for Goods and Services
+53
+
+When the price is below equilibrium, there is excess demand, or a shortage—that is, at the given price the
+quantity demanded, which has been stimulated by the lower price, now exceeds the quantity supplied, which
+has been depressed by the lower price. In this situation, eager gasoline buyers mob the gas stations, only to
+find many stations running short of fuel. Oil companies and gas stations recognize that they have an
+opportunity to make higher profits by selling what gasoline they have at a higher price. As a result, the price
+rises toward the equilibrium level. Read Demand, Supply, and Efficiency for more discussion on the
+importance of the demand and supply model.
+3.2 Shifts in Demand and Supply for Goods and Services
+LEARNING OBJECTIVES
+By the end of this section, you will be able to:
+•
+Identify factors that affect demand
+•
+Graph demand curves and demand shifts
+•
+Identify factors that affect supply
+•
+Graph supply curves and supply shifts
+The previous module explored how price affects the quantity demanded and the quantity supplied. The result
+was the demand curve and the supply curve. Price, however, is not the only factor that influences buyers’ and
+sellers’ decisions. For example, how is demand for vegetarian food affected if, say, health concerns cause more
+consumers to avoid eating meat? How is the supply of diamonds affected if diamond producers discover
+several new diamond mines? What are the major factors, in addition to the price, that influence demand or
+supply?
+LINK IT UP
+Visit this website (https://openstax.org/l/toothfish) to read a brief note on how marketing strategies can
+influence supply and demand of products.
+What Factors Affect Demand?
+We defined demand as the amount of some product a consumer is willing and able to purchase at each price.
+That suggests at least two factors that affect demand. Willingness to purchase suggests a desire, based on what
+economists call tastes and preferences. If you neither need nor want something, you will not buy it, and if you
+really like something, you will buy more of it than someone who does not share your strong preference for it.
+Ability to purchase suggests that income is important. Professors are usually able to afford better housing and
+transportation than students, because they have more income. Prices of related goods can affect demand also.
+If you need a new car, the price of a Honda may affect your demand for a Ford. Finally, the size or composition
+of the population can affect demand. The more children a family has, the greater their demand for clothing.
+The more driving-age children a family has, the greater their demand for car insurance, and the less for
+diapers and baby formula.
+These factors matter for both individual and market demand as a whole. Exactly how do these various factors
+affect demand, and how do we show the effects graphically? To answer those questions, we need the ceteris
+paribus assumption.
+The Ceteris Paribus Assumption
+A demand curve or a supply curve is a relationship between two, and only two, variables: quantity on the
+horizontal axis and price on the vertical axis. The assumption behind a demand curve or a supply curve is that
+no relevant economic factors, other than the product’s price, are changing. Economists call this assumption
+ceteris paribus, a Latin phrase meaning “other things being equal.” Any given demand or supply curve is
+based on the ceteris paribus assumption that all else is held equal. A demand curve or a supply curve is a
+relationship between two, and only two, variables when all other variables are kept constant. If all else is not
+54
+3 • Demand and Supply
+Access for free at openstax.org
