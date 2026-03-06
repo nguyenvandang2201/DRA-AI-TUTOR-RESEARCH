@@ -282,3 +282,118 @@ Go into 2nd DISTR.
 372
 Chapter 6 | The Normal Distribution
 This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+After pressing 2nd DISTR, press 2:normalcdf.
+The syntax for the instructions are as follows:
+normalcdf(lower value, upper value, mean, standard deviation) For this problem: normalcdf(65,1E99,63,5) =
+0.3446. You get 1E99 (= 1099) by pressing 1, the EE key (a 2nd key) and then 99. Or, you can enter 10^99
+instead. The number 1099 is way out in the right tail of the normal curve. We are calculating the area between
+65 and 1099. In some instances, the lower number of the area might be –1E99 (= –1099). The number –1099
+is way out in the left tail of the normal curve.
+HISTORICAL NOTE
+The TI probability program calculates a z-score and then the probability from the z-score. Before technology,
+the z-score was looked up in a standard normal probability table (because the math involved is too
+cumbersome) to find the probability. In this example, a standard normal table with area to the left of the
+z-score was used. You calculate the z-score and look up the area to the left. The probability is the area to the
+right.
+z = 65 – 63
+5
+= 0.4
+Area to the left is 0.6554.
+P(x > 65) = P(z > 0.4) = 1 – 0.6554 = 0.3446
+Find the percentile for a student scoring 65:
+*Press 2nd Distr
+*Press 2:normalcdf(
+*Enter lower bound, upper bound, mean, standard deviation followed by )
+*Press ENTER.
+For this Example, the steps are
+2nd Distr
+2:normalcdf(65,1,2nd EE,99,63,5) ENTER
+The probability that a selected student scored more than 65 is 0.3446.
+b. Find the probability that a randomly selected student scored less than 85.
+Solution 6.8
+b. Draw a graph.
+Then find P(x < 85), and shade the graph.
+Using a computer or calculator, find P(x < 85) = 1.
+normalcdf(0,85,63,5) = 1 (rounds to one)
+The probability that one student scores less than 85 is approximately one (or 100%).
+c. Find the 90th percentile (that is, find the score k that has 90% of the scores below k and 10% of the scores above
+k).
+Chapter 6 | The Normal Distribution
+373
+
+Solution 6.8
+c. Find the 90th percentile. For each problem or part of a problem, draw a new graph. Draw the x-axis. Shade the
+area that corresponds to the 90th percentile.
+Let k = the 90th percentile. The variable k is located on the x-axis. P(x < k) is the area to the left of k. The 90th
+percentile k separates the exam scores into those that are the same or lower than k and those that are the same or
+higher. Ninety percent of the test scores are the same or lower than k, and ten percent are the same or higher. The
+variable k is often called a critical value.
+k = 69.4
+Figure 6.6
+The 90th percentile is 69.4. This means that 90% of the test scores fall at or below 69.4 and 10% fall at or above.
+To get this answer on the calculator, follow this step:
+invNorm in 2nd DISTR. invNorm(area to the left, mean, standard deviation)
+For this problem, invNorm(0.90,63,5) = 69.4
+d. Find the 70th percentile (that is, find the score k such that 70% of scores are below k and 30% of the scores are
+above k).
+Solution 6.8
+d. Find the 70th percentile.
+Draw a new graph and label it appropriately. k = 65.6
+The 70th percentile is 65.6. This means that 70% of the test scores fall at or below 65.5 and 30% fall at or above.
+invNorm(0.70,63,5) = 65.6
+6.8 The golf scores for a school team were normally distributed with a mean of 68 and a standard deviation of three.
+Find the probability that a randomly selected golfer scored less than 65.
+374
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+Example 6.9
+A personal computer is used for office work at home, research, communication, personal finances, education,
+entertainment, social networking, and a myriad of other things. Suppose that the average number of hours a
+household personal computer is used for entertainment is two hours per day. Assume the times for entertainment
+are normally distributed and the standard deviation for the times is half an hour.
+a. Find the probability that a household personal computer is used for entertainment between 1.8 and 2.75 hours
+per day.
+Solution 6.9
+a. Let X = the amount of time (in hours) a household personal computer is used for entertainment. X ~ N(2, 0.5)
+where μ = 2 and σ = 0.5.
+Find P(1.8 < x < 2.75).
+The probability for which you are looking is the area between x = 1.8 and x = 2.75. P(1.8 < x < 2.75) = 0.5886
+Figure 6.7
+normalcdf(1.8,2.75,2,0.5) = 0.5886
+The probability that a household personal computer is used between 1.8 and 2.75 hours per day for entertainment
+is 0.5886.
+b. Find the maximum number of hours per day that the bottom quartile of households uses a personal computer
+for entertainment.
+Solution 6.9
+b. To find the maximum number of hours per day that the bottom quartile of households uses a personal computer
+for entertainment, find the 25th percentile, k, where P(x < k) = 0.25.
+Chapter 6 | The Normal Distribution
+375
+
+Figure 6.8
+invNorm(0.25,2,0.5) = 1.66
+The maximum number of hours per day that the bottom quartile of households uses a personal computer for
+entertainment is 1.66 hours.
+6.9 The golf scores for a school team were normally distributed with a mean of 68 and a standard deviation of three.
+Find the probability that a golfer scored between 66 and 70.
+Example 6.10
+In the United States the ages 13 to 55+ of smartphone users approximately follow a normal distribution with
+approximate mean and standard deviation of 36.9 years and 13.9 years, respectively.
+a. Determine the probability that a random smartphone user in the age range 13 to 55+ is between 23 and 64.7
+years old.
+Solution 6.10
+a. normalcdf(23,64.7,36.9,13.9) = 0.8186
+b. Determine the probability that a randomly selected smartphone user in the age range 13 to 55+ is at most 50.8
+years old.
+Solution 6.10
+b. normalcdf(–1099,50.8,36.9,13.9) = 0.8413
+c. Find the 80th percentile of this distribution, and interpret it in a complete sentence.
+Solution 6.10
+c.
+invNorm(0.80,36.9,13.9) = 48.6
+The 80th percentile is 48.6 years.
+376
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
