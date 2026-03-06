@@ -322,3 +322,158 @@ relationship between two, and only two, variables when all other variables are k
 54
 3 • Demand and Supply
 Access for free at openstax.org
+
+held equal, then the laws of supply and demand will not necessarily hold, as the following Clear It Up feature
+shows.
+When does ceteris paribus apply?
+We typically apply ceteris paribus when we observe how changes in price affect demand or supply, but we can apply
+ceteris paribus more generally. In the real world, demand and supply depend on more factors than just price. For
+example, a consumer’s demand depends on income and a producer’s supply depends on the cost of producing the
+product. How can we analyze the effect on demand or supply if multiple factors are changing at the same time—say
+price rises and income falls? The answer is that we examine the changes one at a time, assuming the other factors
+are held constant.
+For example, we can say that an increase in the price reduces the amount consumers will buy (assuming income,
+and anything else that affects demand, is unchanged). Additionally, a decrease in income reduces the amount
+consumers can afford to buy (assuming price, and anything else that affects demand, is unchanged). This is what the
+ceteris paribus assumption really means. In this particular case, after we analyze each factor separately, we can
+combine the results. The amount consumers buy falls for two reasons: first because of the higher price and second
+because of the lower income.
+How Does Income Affect Demand?
+Let’s use income as an example of how factors other than price affect demand. Figure 3.5 shows the initial
+demand for automobiles as D0. At point Q, for example, if the price is $20,000 per car, the quantity of cars
+demanded is 18 million. D0 also shows how the quantity of cars demanded would change as a result of a higher
+or lower price. For example, if the price of a car rose to $22,000, the quantity demanded would decrease to 17
+million, at point R.
+The original demand curve D0, like every demand curve, is based on the ceteris paribus assumption that no
+other economically relevant factors change. Now imagine that the economy expands in a way that raises the
+incomes of many people, making cars more affordable. How will this affect demand? How can we show this
+graphically?
+Return to Figure 3.5. The price of cars is still $20,000, but with higher incomes, the quantity demanded has
+now increased to 20 million cars, shown at point S. As a result of the higher income levels, the demand curve
+shifts to the right to the new demand curve D1, indicating an increase in demand. Table 3.4 shows clearly that
+this increased demand would occur at every price, not just the original one.
+CLEAR IT UP
+3.2 • Shifts in Demand and Supply for Goods and Services
+55
+
+FIGURE 3.5 Shifts in Demand: A Car Example Increased demand means that at every given price, the quantity
+demanded is higher, so that the demand curve shifts to the right from D0 to D1. Decreased demand means that at
+every given price, the quantity demanded is lower, so that the demand curve shifts to the left from D0 to D2.
+Price
+Decrease to D2
+Original Quantity Demanded D0
+Increase to D1
+$16,000
+17.6 million
+22.0 million
+24.0 million
+$18,000
+16.0 million
+20.0 million
+22.0 million
+$20,000
+14.4 million
+18.0 million
+20.0 million
+$22,000
+13.6 million
+17.0 million
+19.0 million
+$24,000
+13.2 million
+16.5 million
+18.5 million
+$26,000
+12.8 million
+16.0 million
+18.0 million
+TABLE 3.4 Price and Demand Shifts: A Car Example
+Now, imagine that the economy slows down so that many people lose their jobs or work fewer hours, reducing
+their incomes. In this case, the decrease in income would lead to a lower quantity of cars demanded at every
+given price, and the original demand curve D0 would shift left to D2. The shift from D0 to D2 represents such a
+decrease in demand: At any given price level, the quantity demanded is now lower. In this example, a price of
+$20,000 means 18 million cars sold along the original demand curve, but only 14.4 million sold after demand
+fell.
+When a demand curve shifts, it does not mean that the quantity demanded by every individual buyer changes
+by the same amount. In this example, not everyone would have higher or lower income and not everyone
+would buy or not buy an additional car. Instead, a shift in a demand curve captures a pattern for the market as
+a whole.
+In the previous section, we argued that higher income causes greater demand at every price. This is true for
+most goods and services. For some—luxury cars, vacations in Europe, and fine jewelry—the effect of a rise in
+income can be especially pronounced. A product whose demand rises when income rises, and vice versa, is
+called a normal good. A few exceptions to this pattern do exist. As incomes rise, many people will buy fewer
+56
+3 • Demand and Supply
+Access for free at openstax.org
+
+generic brand groceries and more name brand groceries. They are less likely to buy used cars and more likely
+to buy new cars. They will be less likely to rent an apartment and more likely to own a home. A product whose
+demand falls when income rises, and vice versa, is called an inferior good. In other words, when income
+increases, the demand curve shifts to the left.
+Other Factors That Shift Demand Curves
+Income is not the only factor that causes a shift in demand. Other factors that change demand include tastes
+and preferences, the composition or size of the population, the prices of related goods, and even expectations.
+A change in any one of the underlying factors that determine what quantity people are willing to buy at a given
+price will cause a shift in demand. Graphically, the new demand curve lies either to the right (an increase) or to
+the left (a decrease) of the original demand curve. Let’s look at these factors.
+Changing Tastes or Preferences
+From 1980 to 2021, the per-person consumption of chicken by Americans rose from 47 pounds per year to 97
+pounds per year, and consumption of beef fell from 76 pounds per year to 59 pounds per year, according to the
+U.S. Department of Agriculture (USDA). Changes like these are largely due to movements in taste, which
+change the quantity of a good demanded at every price: that is, they shift the demand curve for that good,
+rightward for chicken and leftward for beef.
+Changes in the Composition of the Population
+The proportion of elderly citizens in the United States population is rising. It rose from 9.8% in 1970 to 12.6%
+in 2000, and will be a projected (by the U.S. Census Bureau) 20% of the population by 2030. A society with
+relatively more children, like the United States in the 1960s, will have greater demand for goods and services
+like tricycles and day care facilities. A society with relatively more elderly persons, as the United States is
+projected to have by 2030, has a higher demand for nursing homes and hearing aids. Similarly, changes in the
+size of the population can affect the demand for housing and many other goods. Each of these changes in
+demand will be shown as a shift in the demand curve.
+Changes in the Prices of Related Goods
+Changes in the prices of related goods such as substitutes or complements also can affect the demand for a
+product. A substitute is a good or service that we can use in place of another good or service. As electronic
+books, like this one, become more available, you would expect to see a decrease in demand for traditional
+printed books. A lower price for a substitute decreases demand for the other product. For example, in recent
+years as the price of tablet computers has fallen, the quantity demanded has increased (because of the law of
+demand). Since people are purchasing tablets, there has been a decrease in demand for laptops, which we can
+show graphically as a leftward shift in the demand curve for laptops. A higher price for a substitute good has
+the reverse effect.
+Other goods are complements for each other, meaning we often use the goods together, because consumption
+of one good tends to enhance consumption of the other. Examples include breakfast cereal and milk;
+notebooks and pens or pencils, golf balls and golf clubs; gasoline and sport utility vehicles; and the five-way
+combination of bacon, lettuce, tomato, mayonnaise, and bread. If the price of golf clubs rises, since the
+quantity demanded of golf clubs falls (because of the law of demand), demand for a complement good like golf
+balls decreases, too. Similarly, a higher price for skis would shift the demand curve for a complement good like
+ski resort trips to the left, while a lower price for a complement has the reverse effect.
+Changes in Expectations about Future Prices or Other Factors that Affect Demand
+While it is clear that the price of a good affects the quantity demanded, it is also true that expectations about
+the future price (or expectations about tastes and preferences, income, and so on) can affect demand. For
+example, if people hear that a hurricane is coming, they may rush to the store to buy flashlight batteries and
+bottled water. If people learn that the price of a good like coffee is likely to rise in the future, they may head for
+3.2 • Shifts in Demand and Supply for Goods and Services
+57
+
+the store to stock up on coffee now. We show these changes in demand as shifts in the curve. Therefore, a shift
+in demand happens when a change in some economic factor (other than price) causes a different quantity to
+be demanded at every price. The following Work It Out feature shows how this happens.
+Shift in Demand
+A shift in demand means that at any price (and at every price), the quantity demanded will be different than it
+was before. Following is an example of a shift in demand due to an income increase.
+Step 1. Draw the graph of a demand curve for a normal good like pizza. Pick a price (like P0). Identify the
+corresponding Q0. See an example in Figure 3.6.
+FIGURE 3.6 Demand Curve We can use the demand curve to identify how much consumers would buy at any
+given price.
+Step 2. Suppose income increases. As a result of the change, are consumers going to buy more or less pizza? The
+answer is more. Draw a dotted horizontal line from the chosen price, through the original quantity demanded, to
+the new point with the new Q1. Draw a dotted vertical line down to the horizontal axis and label the new Q1.
+Figure 3.7 provides an example.
+FIGURE 3.7 Demand Curve with Income Increase With an increase in income, consumers will purchase larger
+quantities, pushing demand to the right.
+Step 3. Now, shift the curve through the new point. You will see that an increase in income causes an upward (or
+rightward) shift in the demand curve, so that at any price the quantities demanded will be higher, as Figure 3.8
+illustrates.
+WORK IT OUT
+58
+3 • Demand and Supply
+Access for free at openstax.org
