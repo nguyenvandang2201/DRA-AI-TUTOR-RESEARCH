@@ -397,3 +397,108 @@ The 80th percentile is 48.6 years.
 376
 Chapter 6 | The Normal Distribution
 This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+80% of the smartphone users in the age range 13 – 55+ are 48.6 years old or less.
+6.10 Use the information in Example 6.10 to answer the following questions.
+a.
+Find the 30th percentile, and interpret it in a complete sentence.
+b.
+What is the probability that the age of a randomly selected smartphone user in the range 13 to 55+ is less than 27
+years old.
+Example 6.11
+In the United States the ages 13 to 55+ of smartphone users approximately follow a normal distribution with
+approximate mean and standard deviation of 36.9 years and 13.9 years respectively. Using this information,
+answer the following questions (round answers to one decimal place).
+a. Calculate the interquartile range (IQR).
+Solution 6.11
+a.
+IQR = Q3 – Q1
+Calculate Q3 = 75th percentile and Q1 = 25th percentile.
+invNorm(0.75,36.9,13.9) = Q3 = 46.2754
+invNorm(0.25,36.9,13.9) = Q1 = 27.5246
+IQR = Q3 – Q1 = 18.8
+b. Forty percent of the ages that range from 13 to 55+ are at least what age?
+Solution 6.11
+b.
+Find k where P(x ≥ k) = 0.40 ("At least" translates to "greater than or equal to.")
+0.40 = the area to the right.
+Area to the left = 1 – 0.40 = 0.60.
+The area to the left of k = 0.60.
+invNorm(0.60,36.9,13.9) = 40.4215.
+k = 40.4.
+Forty percent of the ages that range from 13 to 55+ are at least 40.4 years.
+6.11 Two thousand students took an exam. The scores on the exam have an approximate normal distribution with a
+mean μ = 81 points and standard deviation σ = 15 points.
+a.
+Calculate the first- and third-quartile scores for this exam.
+b.
+The middle 50% of the exam scores are between what two values?
+Chapter 6 | The Normal Distribution
+377
+
+Example 6.12
+A citrus farmer who grows mandarin oranges finds that the diameters of mandarin oranges harvested on his farm
+follow a normal distribution with a mean diameter of 5.85 cm and a standard deviation of 0.24 cm.
+a. Find the probability that a randomly selected mandarin orange from this farm has a diameter larger than 6.0
+cm. Sketch the graph.
+Solution 6.12
+a. normalcdf(6,10^99,5.85,0.24) = 0.2660
+Figure 6.9
+b. The middle 20% of mandarin oranges from this farm have diameters between ______ and ______.
+Solution 6.12
+b.
+1 – 0.20 = 0.80
+The tails of the graph of the normal distribution each have an area of 0.40.
+Find k1, the 40th percentile, and k2, the 60th percentile (0.40 + 0.20 = 0.60).
+k1 = invNorm(0.40,5.85,0.24) = 5.79 cm
+k2 = invNorm(0.60,5.85,0.24) = 5.91 cm
+c. Find the 90th percentile for the diameters of mandarin oranges, and interpret it in a complete sentence.
+Solution 6.12
+c. 6.16: Ninety percent of the diameter of the mandarin oranges is at most 6.16 cm.
+6.12 Using the information from Example 6.12, answer the following:
+a.
+The middle 40% of mandarin oranges from this farm are between ______ and ______.
+b.
+Find the 16th percentile and interpret it in a complete sentence.
+378
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+6.3 | Normal Distribution (Lap Times)
+Chapter 6 | The Normal Distribution
+379
+
+6.1 Normal Distribution (Lap Times)
+Class Time:
+Names:
+Student Learning Outcome
+•
+The student will compare and contrast empirical data and a theoretical distribution to determine if Terry Vogel's
+lap times fit a continuous distribution.
+Directions
+Round the relative frequencies and probabilities to four decimal places. Carry all other decimal answers to two places. 
+Collect the Data
+1.
+Use the data from Appendix C. Use a stratified sampling method by lap (races 1 to 20) and a random number
+generator to pick six lap times from each stratum. Record the lap times below for laps two to seven.
+_______ _______ _______ _______ _______ _______
+_______ _______ _______ _______ _______ _______
+_______ _______ _______ _______ _______ _______
+_______ _______ _______ _______ _______ _______
+_______ _______ _______ _______ _______ _______
+_______ _______ _______ _______ _______ _______
+Table 6.1
+2.
+Construct a histogram. Make five to six intervals. Sketch the graph using a ruler and pencil. Scale the axes.
+Figure 6.10
+3.
+Calculate the following:
+a.
+x¯ = _______
+b.
+s = _______
+4.
+Draw a smooth curve through the tops of the bars of the histogram. Write one to two complete sentences to
+380
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
