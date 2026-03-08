@@ -477,3 +477,148 @@ WORK IT OUT
 58
 3 • Demand and Supply
 Access for free at openstax.org
+
+FIGURE 3.8 Demand Curve Shifted Right With an increase in income, consumers will purchase larger quantities,
+pushing demand to the right, and causing the demand curve to shift right.
+Summing Up Factors That Change Demand
+Figure 3.9 summarizes six factors that can shift demand curves. The direction of the arrows indicates whether
+the demand curve shifts represent an increase in demand or a decrease in demand. Notice that a change in the
+price of the good or service itself is not listed among the factors that can shift a demand curve. A change in the
+price of a good or service causes a movement along a specific demand curve, and it typically leads to some
+change in the quantity demanded, but it does not shift the demand curve.
+FIGURE 3.9 Factors That Shift Demand Curves (a) A list of factors that can cause an increase in demand from D0 to
+D1. (b) The same factors, if their direction is reversed, can cause a decrease in demand from D0 to D1.
+When a demand curve shifts, it will then intersect with a given supply curve at a different equilibrium price
+and quantity. We are, however, getting ahead of our story. Before discussing how changes in demand can affect
+equilibrium price and quantity, we first need to discuss shifts in supply curves.
+How Production Costs Affect Supply
+A supply curve shows how quantity supplied will change as the price rises and falls, assuming ceteris paribus
+so that no other economically relevant factors are changing. If other factors relevant to supply do change, then
+the entire supply curve will shift. Just as we described a shift in demand as a change in the quantity demanded
+at every price, a shift in supply means a change in the quantity supplied at every price.
+In thinking about the factors that affect supply, remember what motivates firms: profits, which are the
+difference between revenues and costs. A firm produces goods and services using combinations of labor,
+materials, and machinery, or what we call inputs or factors of production. If a firm faces lower costs of
+production, while the prices for the good or service the firm produces remain unchanged, a firm’s profits go
+3.2 • Shifts in Demand and Supply for Goods and Services
+59
+
+up. When a firm’s profits increase, it is more motivated to produce output, since the more it produces the more
+profit it will earn. When costs of production fall, a firm will tend to supply a larger quantity at any given price
+for its output. We can show this by the supply curve shifting to the right.
+Take, for example, a messenger company that delivers packages around a city. The company may find that
+buying gasoline is one of its main costs. If the price of gasoline falls, then the company will find it can deliver
+messages more cheaply than before. Since lower costs correspond to higher profits, the messenger company
+may now supply more of its services at any given price. For example, given the lower gasoline prices, the
+company can now serve a greater area, and increase its supply.
+Conversely, if a firm faces higher costs of production, then it will earn lower profits at any given selling price for
+its products. As a result, a higher cost of production typically causes a firm to supply a smaller quantity at any
+given price. In this case, the supply curve shifts to the left.
+Consider the supply for cars, shown by curve S0 in Figure 3.10. Point J indicates that if the price is $20,000, the
+quantity supplied will be 18 million cars. If the price rises to $22,000 per car, ceteris paribus, the quantity
+supplied will rise to 20 million cars, as point K on the S0 curve shows. We can show the same information in
+table form, as in Table 3.5.
+FIGURE 3.10 Shifts in Supply: A Car Example Decreased supply means that at every given price, the quantity
+supplied is lower, so that the supply curve shifts to the left, from S0 to S1. Increased supply means that at every
+given price, the quantity supplied is higher, so that the supply curve shifts to the right, from S0 to S2.
+Price
+Decrease to S1
+Original Quantity Supplied S0
+Increase to S2
+$16,000
+10.5 million
+12.0 million
+13.2 million
+$18,000
+13.5 million
+15.0 million
+16.5 million
+$20,000
+16.5 million
+18.0 million
+19.8 million
+$22,000
+18.5 million
+20.0 million
+22.0 million
+$24,000
+19.5 million
+21.0 million
+23.1 million
+$26,000
+20.5 million
+22.0 million
+24.2 million
+TABLE 3.5 Price and Shifts in Supply: A Car Example
+60
+3 • Demand and Supply
+Access for free at openstax.org
+
+Now, imagine that the price of steel, an important ingredient in manufacturing cars, rises, so that producing a
+car has become more expensive. At any given price for selling cars, car manufacturers will react by supplying a
+lower quantity. We can show this graphically as a leftward shift of supply, from S0 to S1, which indicates that at
+any given price, the quantity supplied decreases. In this example, at a price of $20,000, the quantity supplied
+decreases from 18 million on the original supply curve (S0) to 16.5 million on the supply curve S1, which is
+labeled as point L.
+Conversely, if the price of steel decreases, producing a car becomes less expensive. At any given price for
+selling cars, car manufacturers can now expect to earn higher profits, so they will supply a higher quantity. The
+shift of supply to the right, from S0 to S2, means that at all prices, the quantity supplied has increased. In this
+example, at a price of $20,000, the quantity supplied increases from 18 million on the original supply curve
+(S0) to 19.8 million on the supply curve S2, which is labeled M.
+Other Factors That Affect Supply
+In the example above, we saw that changes in the prices of inputs in the production process will affect the cost
+of production and thus the supply. Several other things affect the cost of production, too, such as changes in
+weather or other natural conditions, new technologies for production, and some government policies.
+Changes in weather and climate will affect the cost of production for many agricultural products. For example,
+in 2014 the Manchurian Plain in Northeastern China, which produces most of the country's wheat, corn, and
+soybeans, experienced its most severe drought in 50 years. A drought decreases the supply of agricultural
+products, which means that at any given price, a lower quantity will be supplied. Conversely, especially good
+weather would shift the supply curve to the right.
+When a firm discovers a new technology that allows the firm to produce at a lower cost, the supply curve will
+shift to the right, as well. For instance, in the 1960s a major scientific effort nicknamed the Green Revolution
+focused on breeding improved seeds for basic crops like wheat and rice. By the early 1990s, more than two-
+thirds of the wheat and rice in low-income countries around the world used these Green Revolution seeds—and
+the harvest was twice as high per acre. A technological improvement that reduces costs of production will shift
+supply to the right, so that a greater quantity will be produced at any given price.
+Government policies can affect the cost of production and the supply curve through taxes, regulations, and
+subsidies. For example, the U.S. government imposes a tax on alcoholic beverages that collects about $8 billion
+per year from producers. Businesses treat taxes as costs. Higher costs decrease supply for the reasons we
+discussed above. Other examples of policy that can affect cost are the wide array of government regulations
+that require firms to spend money to provide a cleaner environment or a safer workplace. Complying with
+regulations increases costs.
+A government subsidy, on the other hand, is the opposite of a tax. A subsidy occurs when the government pays
+a firm directly or reduces the firm’s taxes if the firm carries out certain actions. From the firm’s perspective,
+taxes or regulations are an additional cost of production that shifts supply to the left, leading the firm to
+produce a lower quantity at every given price. Government subsidies reduce the cost of production and
+increase supply at every given price, shifting supply to the right. The following Work It Out feature shows how
+this shift happens.
+Shift in Supply
+We know that a supply curve shows the minimum price a firm will accept to produce a given quantity of output.
+What happens to the supply curve when the cost of production goes up? Following is an example of a shift in
+supply due to a production cost increase. (We’ll introduce some other concepts regarding firm decision-making in
+WORK IT OUT
+3.2 • Shifts in Demand and Supply for Goods and Services
+61
+
+Chapters 7 and 8.)
+Step 1. Draw a graph of a supply curve for pizza. Pick a quantity (like Q0). If you draw a vertical line up from Q0 to
+the supply curve, you will see the price the firm chooses. Figure 3.11 provides an example.
+FIGURE 3.11 Supply Curve You can use a supply curve to show the minimum price a firm will accept to produce
+a given quantity of output.
+Step 2. Why did the firm choose that price and not some other? One way to think about this is that the price is
+composed of two parts. The first part is the cost of producing pizzas at the margin; in this case, the cost of
+producing the pizza, including cost of ingredients (e.g., dough, sauce, cheese, and pepperoni), the cost of the
+pizza oven, the shop rent, and the workers' wages. The second part is the firm’s desired profit, which is
+determined, among other factors, by the profit margins in that particular business. (Desired profit is not
+necessarily the same as economic profit, which will be explained in Chapter 7.) If you add these two parts
+together, you get the price the firm wishes to charge. The quantity Q0 and associated price P0 give you one point
+on the firm’s supply curve, as Figure 3.12 illustrates.
+FIGURE 3.12 Setting Prices The cost of production and the desired profit equal the price a firm will set for a
+product.
+Step 3. Now, suppose that the cost of production increases. Perhaps cheese has become more expensive by
+$0.75 per pizza. If that is true, the firm will want to raise its price by the amount of the increase in cost ($0.75).
+Draw this point on the supply curve directly above the initial point on the curve, but $0.75 higher, as Figure 3.13
+shows.
+62
+3 • Demand and Supply
+Access for free at openstax.org
