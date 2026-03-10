@@ -690,3 +690,122 @@ PRACTICE
 384
 Chapter 6 | The Normal Distribution
 This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+6.1 The Standard Normal Distribution
+1. A bottle of water contains 12.05 fluid ounces with a standard deviation of 0.01 ounces. Define the random variable X in
+words. X = ____________.
+2. A normal distribution has a mean of 61 and a standard deviation of 15. What is the median?
+3. X ~ N(1, 2)
+σ = _______
+4. A company manufactures rubber balls. The mean diameter of a ball is 12 cm with a standard deviation of 0.2 cm. Define
+the random variable X in words. X = ______________.
+5. X ~ N(–4, 1)
+What is the median?
+6. X ~ N(3, 5)
+σ = _______
+7. X ~ N(–2, 1)
+μ = _______
+8. What does a z-score measure?
+9. What does standardizing a normal distribution do to the mean?
+10. Is X ~ N(0, 1) a standardized normal distribution? Why or why not?
+11. What is the z-score of x = 12, if it is two standard deviations to the right of the mean?
+12. What is the z-score of x = 9, if it is 1.5 standard deviations to the left of the mean?
+13. What is the z-score of x = –2, if it is 2.78 standard deviations to the right of the mean?
+14. What is the z-score of x = 7, if it is 0.133 standard deviations to the left of the mean?
+15. Suppose X ~ N(2, 6). What value of x has a z-score of three?
+16. Suppose X ~ N(8, 1). What value of x has a z-score of –2.25?
+17. Suppose X ~ N(9, 5). What value of x has a z-score of –0.5?
+18. Suppose X ~ N(2, 3). What value of x has a z-score of –0.67?
+19. Suppose X ~ N(4, 2). What value of x is 1.5 standard deviations to the left of the mean?
+20. Suppose X ~ N(4, 2). What value of x is two standard deviations to the right of the mean?
+21. Suppose X ~ N(8, 9). What value of x is 0.67 standard deviations to the left of the mean?
+22. Suppose X ~ N(–1, 2). What is the z-score of x = 2?
+23. Suppose X ~ N(12, 6). What is the z-score of x = 2?
+24. Suppose X ~ N(9, 3). What is the z-score of x = 9?
+25. Suppose a normal distribution has a mean of six and a standard deviation of 1.5. What is the z-score of x = 5.5?
+26. In a normal distribution, x = 5 and z = –1.25. This tells you that x = 5 is ____ standard deviations to the ____ (right or
+left) of the mean.
+27. In a normal distribution, x = 3 and z = 0.67. This tells you that x = 3 is ____ standard deviations to the ____ (right or
+left) of the mean.
+28. In a normal distribution, x = –2 and z = 6. This tells you that x = –2 is ____ standard deviations to the ____ (right or
+left) of the mean.
+29. In a normal distribution, x = –5 and z = –3.14. This tells you that x = –5 is ____ standard deviations to the ____ (right
+or left) of the mean.
+30. In a normal distribution, x = 6 and z = –1.7. This tells you that x = 6 is ____ standard deviations to the ____ (right or
+left) of the mean.
+Chapter 6 | The Normal Distribution
+385
+
+31. About what percent of x values from a normal distribution lie within one standard deviation (left and right) of the mean
+of that distribution?
+32. About what percent of the x values from a normal distribution lie within two standard deviations (left and right) of the
+mean of that distribution?
+33. About what percent of x values lie between the second and third standard deviations (both sides)?
+34. Suppose X ~ N(15, 3). Between what x values does 68.27% of the data lie? The range of x values is centered at the mean
+of the distribution (i.e., 15).
+35. Suppose X ~ N(–3, 1). Between what x values does 95.45% of the data lie? The range of x values is centered at the mean
+of the distribution(i.e., –3).
+36. Suppose X ~ N(–3, 1). Between what x values does 34.14% of the data lie?
+37. About what percent of x values lie between the mean and three standard deviations?
+38. About what percent of x values lie between the mean and one standard deviation?
+39. About what percent of x values lie between the first and second standard deviations from the mean (both sides)?
+40. About what percent of x values lie betwween the first and third standard deviations(both sides)?
+Use the following information to answer the next two exercises: The life of Sunshine CD players is normally distributed
+with mean of 4.1 years and a standard deviation of 1.3 years. A CD player is guaranteed for three years. We are interested
+in the length of time a CD player lasts.
+41. Define the random variable X in words. X = _______________.
+42. X ~ _____(_____,_____)
+6.2 Using the Normal Distribution
+43. How would you represent the area to the left of one in a probability statement?
+Figure 6.12
+44. What is the area to the right of one?
+Figure 6.13
+45. Is P(x < 1) equal to P(x ≤ 1)? Why?
+386
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+46. How would you represent the area to the left of three in a probability statement?
+Figure 6.14
+47. What is the area to the right of three?
+Figure 6.15
+48. If the area to the left of x in a normal distribution is 0.123, what is the area to the right of x?
+49. If the area to the right of x in a normal distribution is 0.543, what is the area to the left of x?
+Use the following information to answer the next four exercises:
+X ~ N(54, 8)
+50. Find the probability that x > 56.
+51. Find the probability that x < 30.
+52. Find the 80th percentile.
+53. Find the 60th percentile.
+54. X ~ N(6, 2)
+Find the probability that x is between three and nine.
+55. X ~ N(–3, 4)
+Find the probability that x is between one and four.
+56. X ~ N(4, 5)
+Find the maximum of x in the bottom quartile.
+Chapter 6 | The Normal Distribution
+387
+
+57. Use the following information to answer the next three exercise: The life of Sunshine CD players is normally distributed
+with a mean of 4.1 years and a standard deviation of 1.3 years. A CD player is guaranteed for three years. We are interested
+in the length of time a CD player lasts. Find the probability that a CD player will break down during the guarantee period.
+a.
+Sketch the situation. Label and scale the axes. Shade the region corresponding to the probability.
+Figure 6.16
+b.
+P(0 < x < ____________) = ___________ (Use zero for the minimum value of x.)
+58. Find the probability that a CD player will last between 2.8 and six years.
+a.
+Sketch the situation. Label and scale the axes. Shade the region corresponding to the probability.
+Figure 6.17
+b.
+P(__________ < x < __________) = __________
+59. Find the 70th percentile of the distribution for the time a CD player lasts.
+a.
+Sketch the situation. Label and scale the axes. Shade the region corresponding to the lower 70%.
+Figure 6.18
+b.
+P(x < k) = __________ Therefore, k = _________
+388
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
