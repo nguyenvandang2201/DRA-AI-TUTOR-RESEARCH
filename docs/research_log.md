@@ -5,3 +5,4 @@
 - 2026-03-04: Hiệu đính lỗi chính tả trong corpus Lịch sử thế giới.
 - 2026-03-06: Hiệu đính lỗi chính tả trong corpus Lịch sử thế giới.
 - 2026-03-08: Rà soát tính nhất quán thuật ngữ trong corpus Thống kê nhập môn.
+- 2026-03-10: Hiệu đính lỗi chính tả trong corpus Kinh tế vi mô.
