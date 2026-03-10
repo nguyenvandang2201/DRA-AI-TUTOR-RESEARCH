@@ -502,3 +502,191 @@ Draw a smooth curve through the tops of the bars of the histogram. Write one to 
 380
 Chapter 6 | The Normal Distribution
 This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+describe the general shape of the curve. (Keep it simple. Does the graph go straight across, does it have a v-shape,
+does it have a hump in the middle or at either end, and so on?)
+Analyze the Distribution
+Using your sample mean, sample standard deviation, and histogram to help, what is the approximate theoretical
+distribution of the data?
+•
+X ~ _____(_____,_____)
+•
+How does the histogram help you arrive at the approximate distribution?
+Describe the Data
+Use the data you collected to complete the following statements.
+•
+The IQR goes from __________ to __________.
+•
+IQR = __________. (IQR = Q3 – Q1)
+•
+The 15th percentile is _______.
+•
+The 85th percentile is _______.
+•
+The median is _______.
+•
+The empirical probability that a randomly chosen lap time is more than 130 seconds is _______.
+•
+Explain the meaning of the 85th percentile of this data.
+Theoretical Distribution
+Using the theoretical distribution, complete the following statements. You should use a normal approximation based
+on your sample data.
+•
+The IQR goes from __________ to __________.
+•
+IQR = _______.
+•
+The 15th percentile is _______.
+•
+The 85th percentile is _______.
+•
+The median is _______.
+•
+The probability that a randomly chosen lap time is more than 130 seconds is _______.
+•
+Explain the meaning of the 85th percentile of this distribution.
+Discussion Questions
+Do the data from the section titled Collect the Data give a close approximation to the theoretical distribution in
+the section titled Analyze the Distribution? In complete sentences and comparing the result in the sections titled
+Describe the Data and Theoretical Distribution, explain why or why not.
+6.4 | Normal Distribution (Pinkie Length)
+Chapter 6 | The Normal Distribution
+381
+
+6.2 Normal Distribution (Pinkie Length)
+Class Time:
+Names:
+Student Learning Outcomes
+•
+The student will compare empirical data and a theoretical distribution to determine if data from the experiment
+follow a continuous distribution.
+Collect the Data
+Measure the length of your pinky finger (in centimeters).
+1.
+Randomly survey 30 adults for their pinky finger lengths. Round the lengths to the nearest 0.5 cm.
+_______ _______ _______ _______ _______
+_______ _______ _______ _______ _______
+_______ _______ _______ _______ _______
+_______ _______ _______ _______ _______
+_______ _______ _______ _______ _______
+_______ _______ _______ _______ _______
+Table 6.2
+2.
+Construct a histogram. Make five to six intervals. Sketch the graph using a ruler and pencil. Scale the axes.
+Figure 6.11
+3.
+Calculate the following.
+a.
+x¯ = _______
+b.
+s = _______
+4.
+Draw a smooth curve through the top of the bars of the histogram. Write one to two complete sentences to
+describe the general shape of the curve. (Keep it simple. Does the graph go straight across, does it have a v-shape,
+does it have a hump in the middle or at either end, and so on?)
+382
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+Analyze the Distribution
+Using your sample mean, sample standard deviation, and histogram, what was the approximate theoretical distribution
+of the data you collected?
+•
+X ~ _____(_____,_____)
+•
+How does the histogram help you arrive at the approximate distribution?
+Describe the Data
+Using the data you collected complete the following statements. (Hint: order the data)
+REMEMBER
+(IQR = Q3 – Q1)
+•
+IQR = _______
+•
+The 15th percentile is _______.
+•
+The 85th percentile is _______.
+•
+Median is _______.
+•
+What is the theoretical probability that a randomly chosen pinky length is more than 6.5 cm?
+•
+Explain the meaning of the 85th percentile of this data.
+Theoretical Distribution
+Using the theoretical distribution, complete the following statements. Use a normal approximation based on the sample
+mean and standard deviation.
+•
+IQR = _______
+•
+The 15th percentile is _______.
+•
+The 85th percentile is _______.
+•
+Median is _______.
+•
+What is the theoretical probability that a randomly chosen pinky length is more than 6.5 cm?
+•
+Explain the meaning of the 85th percentile of this data.
+Discussion Questions
+Do the data you collected give a close approximation to the theoretical distribution? In complete sentences and
+comparing the results in the sections titled Describe the Data and Theoretical Distribution, explain why or why
+not.
+Chapter 6 | The Normal Distribution
+383
+
+Normal Distribution
+Standard Normal Distribution
+z-score
+KEY TERMS
+a continuous random variable (RV) with pdf f(x) =
+1
+σ 2π e
+– (x –  µ )
+2σ2
+2
+, where μ is the mean of
+the distribution and σ is the standard deviation; notation: X ~ N(μ, σ). If μ = 0 and σ = 1, the RV is called the
+standard normal distribution.
+a continuous random variable (RV) X ~ N(0, 1); when X follows the standard normal
+distribution, it is often noted as Z ~ N(0, 1).
+the linear transformation of the form z = x –  µ
+σ
+; if this transformation is applied to any normal distribution X ~
+N(μ, σ) the result is the standard normal distribution Z ~ N(0,1). If this transformation is applied to any specific
+value x of the RV with mean μ and standard deviation σ, the result is called the z-score of x. The z-score allows us to
+compare data that are normally distributed but scaled differently.
+CHAPTER REVIEW
+6.1 The Standard Normal Distribution
+A z-score is a standardized value. Its distribution is the standard normal, Z ~ N(0, 1). The mean of the z-scores is zero and
+the standard deviation is one. If z is the z-score for a value x from the normal distribution N(µ, σ) then z tells you how many
+standard deviations x is above (greater than) or below (less than) µ.
+6.2 Using the Normal Distribution
+The normal distribution, which is continuous, is the most important of all the probability distributions. Its graph is bell-
+shaped. This bell-shaped curve is used in almost all disciplines. Since it is a continuous distribution, the total area under
+the curve is one. The parameters of the normal are the mean µ and the standard deviation σ. A special normal distribution,
+called the standard normal distribution is the distribution of z-scores. Its mean is zero, and its standard deviation is one.
+FORMULA REVIEW
+6.0 Introduction
+X ∼ N(μ, σ)
+μ = the mean; σ = the standard deviation
+6.1 The Standard Normal Distribution
+z = a standardized value (z-score)
+mean = 0; standard deviation = 1
+To find the kth percentile of X when the z-scores is known:
+k = μ + (z)σ
+z-score: z = x – µ
+σ
+Z = the random variable for z-scores
+Z ~ N(0, 1)
+6.2 Using the Normal Distribution
+Normal Distribution: X ~ N(µ, σ) where µ is the mean and
+σ is the standard deviation.
+Standard Normal Distribution: Z ~ N(0, 1).
+Calculator function for probability: normalcdf (lower x
+value of the area, upper x value of the area, mean, standard
+deviation)
+Calculator function for the kth percentile: k = invNorm (area
+to the left of k, mean, standard deviation)
+PRACTICE
+384
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
