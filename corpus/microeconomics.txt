@@ -622,3 +622,148 @@ shows.
 62
 3 • Demand and Supply
 Access for free at openstax.org
+
+FIGURE 3.13 Increasing Costs Leads to Increasing Price Because the cost of production and the desired profit
+equal the price a firm will set for a product, if the cost of production increases, the price for the product will also
+need to increase.
+Step 4. Shift the supply curve through this point. You will see that an increase in cost causes an upward (or a
+leftward) shift of the supply curve so that at any price, the quantities supplied will be smaller, as Figure 3.14
+illustrates.
+FIGURE 3.14 Supply Curve Shifts When the cost of production increases, the supply curve shifts upwardly to a
+new price level.
+Summing Up Factors That Change Supply
+Changes in the cost of inputs, natural disasters, new technologies, and the impact of government decisions all
+affect the cost of production. In turn, these factors affect how much firms are willing to supply at any given
+price.
+Figure 3.15 summarizes factors that change the supply of goods and services. Notice that a change in the price
+of the product itself is not among the factors that shift the supply curve. Although a change in price of a good or
+service typically causes a change in quantity supplied or a movement along the supply curve for that specific
+good or service, it does not cause the supply curve itself to shift.
+3.2 • Shifts in Demand and Supply for Goods and Services
+63
+
+FIGURE 3.15 Factors That Shift Supply Curves (a) A list of factors that can cause an increase in supply from S0 to
+S1. (b) The same factors, if their direction is reversed, can cause a decrease in supply from S0 to S1.
+Because demand and supply curves appear on a two-dimensional diagram with only price and quantity on the
+axes, an unwary visitor to the land of economics might be fooled into believing that economics is about only
+four topics: demand, supply, price, and quantity. However, demand and supply are really “umbrella” concepts:
+demand covers all the factors that affect demand, and supply covers all the factors that affect supply. We
+include factors other than price that affect demand and supply by using shifts in the demand or the supply
+curve. In this way, the two-dimensional demand and supply model becomes a powerful tool for analyzing a
+wide range of economic circumstances.
+3.3 Changes in Equilibrium Price and Quantity: The Four-Step Process
+LEARNING OBJECTIVES
+By the end of this section, you will be able to:
+•
+Identify equilibrium price and quantity through the four-step process
+•
+Graph equilibrium price and quantity
+•
+Contrast shifts of demand or supply and movements along a demand or supply curve
+•
+Graph demand and supply curves, including equilibrium price and quantity, based on real-world
+examples
+Let’s begin this discussion with a single economic event. It might be an event that affects demand, like a
+change in income, population, tastes, prices of substitutes or complements, or expectations about future
+prices. It might be an event that affects supply, like a change in natural conditions, input prices, or technology,
+or government policies that affect production. How does this economic event affect equilibrium price and
+quantity? We will analyze this question using a four-step process.
+Step 1. Draw a demand and supply model before the economic change took place. To establish the model
+requires four standard pieces of information: The law of demand, which tells us the slope of the demand curve
+is negative; the law of supply, which tells us that the slope of the supply curve is positive; the shift variables for
+demand; and the shift variables for supply. From this model, find the initial equilibrium values for price and
+quantity.
+Step 2. Decide whether the economic change you are analyzing affects demand or supply. In other words, does
+the event refer to something in the list of demand factors or supply factors?
+Step 3. Decide whether the effect on demand or supply causes the curve to shift to the right or to the left, and
+sketch the new demand or supply curve on the diagram. In other words, does the event increase or decrease
+the amount consumers want to buy or producers want to sell?
+Step 4. Identify the new equilibrium and then compare the original equilibrium price and quantity to the new
+equilibrium price and quantity.
+64
+3 • Demand and Supply
+Access for free at openstax.org
+
+Let’s consider one example that involves a shift in supply and one that involves a shift in demand. Then we will
+consider an example where both supply and demand shift.
+Good Weather for Salmon Fishing
+Suppose that during the summer of 2015, weather conditions were excellent for commercial salmon fishing off
+the California coast. Heavy rains meant higher than normal levels of water in the rivers, which helps the
+salmon to breed. Slightly cooler ocean temperatures stimulated the growth of plankton, the microscopic
+organisms at the bottom of the ocean food chain, providing everything in the ocean with a hearty food supply.
+The ocean stayed calm during fishing season, so commercial fishing operations did not lose many days to bad
+weather. How did these climate conditions affect the quantity and price of salmon? Figure 3.16 illustrates the
+four-step approach, which we explain below, to work through this problem. Table 3.6 also provides the
+information to work the problem.
+FIGURE 3.16 Good Weather for Salmon Fishing: The Four-Step Process Unusually good weather leads to changes
+in the price and quantity of salmon.
+Price per Pound
+Quantity Supplied in 2014
+Quantity Supplied in 2015
+Quantity Demanded
+$2.00
+80
+400
+840
+$2.25
+120
+480
+680
+$2.50
+160
+550
+550
+$2.75
+200
+600
+450
+$3.00
+230
+640
+350
+$3.25
+250
+670
+250
+$3.50
+270
+700
+200
+TABLE 3.6 Salmon Fishing
+Step 1. Draw a demand and supply model to illustrate the market for salmon in the year before the good
+weather conditions began. The demand curve D0 and the supply curve S0 show that the original equilibrium
+3.3 • Changes in Equilibrium Price and Quantity: The Four-Step Process
+65
+
+price is $3.25 per pound and the original equilibrium quantity is 250,000 fish. (This price per pound is what
+commercial buyers pay at the fishing docks. What consumers pay at the grocery is higher.)
+Step 2. Did the economic event affect supply or demand? Good weather is an example of a natural condition
+that affects supply.
+Step 3. Was the effect on supply an increase or a decrease? Good weather is a change in natural conditions that
+increases the quantity supplied at any given price. The supply curve shifts to the right, moving from the
+original supply curve S0 to the new supply curve S1, which Figure 3.16 and Table 3.6 show.
+Step 4. Compare the new equilibrium price and quantity to the original equilibrium. At the new equilibrium E1,
+the equilibrium price falls from $3.25 to $2.50, but the equilibrium quantity increases from 250,000 to
+550,000 salmon. Notice that the equilibrium quantity demanded increased, even though the demand curve
+did not move.
+In short, good weather conditions increased supply of the California commercial salmon. The result was a
+higher equilibrium quantity of salmon bought and sold in the market at a lower price.
+Newspapers and the Internet
+According to the Pew Research Center for People and the Press, increasingly more people, especially younger
+people, are obtaining their news from online and digital sources. The majority of U.S. adults now own
+smartphones or tablets, and most of those Americans say they use them in part to access the news. From 2004
+to 2012, the share of Americans who reported obtaining their news from digital sources increased from 24% to
+39%. How has this affected consumption of print news media, and radio and television news? Figure 3.17 and
+the text below illustrates using the four-step analysis to answer this question.
+FIGURE 3.17 The Print News Market: A Four-Step Analysis A change in tastes from print news sources to digital
+sources results in a leftward shift in demand for the former. The result is a decrease in both equilibrium price and
+quantity.
+Step 1. Develop a demand and supply model to think about what the market looked like before the event. The
+demand curve D0 and the supply curve S0 show the original relationships. In this case, we perform the analysis
+without specific numbers on the price and quantity axis.
+Step 2. Did the described change affect supply or demand? A change in tastes, from traditional news sources
+(print, radio, and television) to digital sources, caused a change in demand for the former.
+Step 3. Was the effect on demand positive or negative? A shift to digital news sources will tend to mean a lower
+66
+3 • Demand and Supply
+Access for free at openstax.org
