@@ -809,3 +809,315 @@ P(x < k) = __________ Therefore, k = _________
 388
 Chapter 6 | The Normal Distribution
 This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+HOMEWORK
+6.1 The Standard Normal Distribution
+Use the following information to answer the next two exercises: The patient recovery time from a particular surgical
+procedure is normally distributed with a mean of 5.3 days and a standard deviation of 2.1 days.
+60. What is the median recovery time?
+a.
+2.7
+b.
+5.3
+c.
+7.4
+d.
+2.1
+61. What is the z-score for a patient who takes ten days to recover?
+a.
+1.5
+b.
+0.2
+c.
+2.2
+d.
+7.3
+62. The length of time to find it takes to find a parking space at 9 A.M. follows a normal distribution with a mean of five
+minutes and a standard deviation of two minutes. If the mean is significantly greater than the standard deviation, which of
+the following statements is true?
+I.
+The data cannot follow the uniform distribution.
+II.
+The data cannot follow the exponential distribution..
+III.
+The data cannot follow the normal distribution.
+a.
+I only
+b.
+II only
+c.
+III only
+d.
+I, II, and III
+63. The heights of the 430 National Basketball Association players were listed on team rosters at the start of the 2005–2006
+season. The heights of basketball players have an approximate normal distribution with mean, µ = 79 inches and a standard
+deviation, σ = 3.89 inches. For each of the following heights, calculate the z-score and interpret it using complete sentences.
+a.
+77 inches
+b.
+85 inches
+c.
+If an NBA player reported his height had a z-score of 3.5, would you believe him? Explain your answer.
+64. The systolic blood pressure (given in millimeters) of males has an approximately normal distribution with mean µ =
+125 and standard deviation σ = 14. Systolic blood pressure for males follows a normal distribution.
+a.
+Calculate the z-scores for the male systolic blood pressures 100 and 150 millimeters.
+b.
+If a male friend of yours said he thought his systolic blood pressure was 2.5 standard deviations below the mean,
+but that he believed his blood pressure was between 100 and 150 millimeters, what would you say to him?
+65. Kyle’s doctor told him that the z-score for his systolic blood pressure is 1.75. Which of the following is the best
+interpretation of this standardized score? The systolic blood pressure (given in millimeters) of males has an approximately
+normal distribution with mean µ = 125 and standard deviation σ = 14. If X = a systolic blood pressure score then X ~ N (125,
+14).
+a.
+Which answer(s) is/are correct?
+i.
+Kyle’s systolic blood pressure is 175.
+ii.
+Kyle’s systolic blood pressure is 1.75 times the average blood pressure of men his age.
+iii.
+Kyle’s systolic blood pressure is 1.75 above the average systolic blood pressure of men his age.
+iv.
+Kyles’s systolic blood pressure is 1.75 standard deviations above the average systolic blood pressure for
+men.
+b.
+Calculate Kyle’s blood pressure.
+Chapter 6 | The Normal Distribution
+389
+
+66. Height and weight are two measurements used to track a child’s development. The World Health Organization measures
+child development by comparing the weights of children who are the same height and the same gender. In 2009, weights for
+all 80 cm girls in the reference population had a mean µ = 10.2 kg and standard deviation σ = 0.8 kg. Weights are normally
+distributed. X ~ N(10.2, 0.8). Calculate the z-scores that correspond to the following weights and interpret them.
+a.
+11 kg
+b.
+7.9 kg
+c.
+12.2 kg
+67. In 2005, 1,475,623 students heading to college took the SAT. The distribution of scores in the math section of the SAT
+follows a normal distribution with mean µ = 520 and standard deviation σ = 115.
+a.
+Calculate the z-score for an SAT score of 720. Interpret it using a complete sentence.
+b.
+What math SAT score is 1.5 standard deviations above the mean? What can you say about this SAT score?
+c.
+For 2012, the SAT math test had a mean of 514 and standard deviation 117. The ACT math test is an alternate to
+the SAT and is approximately normally distributed with mean 21 and standard deviation 5.3. If one person took
+the SAT math test and scored 700 and a second person took the ACT math test and scored 30, who did better with
+respect to the test they took?
+6.2 Using the Normal Distribution
+Use the following information to answer the next two exercises: The patient recovery time from a particular surgical
+procedure is normally distributed with a mean of 5.3 days and a standard deviation of 2.1 days.
+68. What is the probability of spending more than two days in recovery?
+a.
+0.0580
+b.
+0.8447
+c.
+0.0553
+d.
+0.9420
+69. The 90th percentile for recovery times is?
+a.
+8.89
+b.
+7.07
+c.
+7.99
+d.
+4.32
+Use the following information to answer the next three exercises: The length of time it takes to find a parking space at 9
+A.M. follows a normal distribution with a mean of five minutes and a standard deviation of two minutes.
+70. Based upon the given information and numerically justified, would you be surprised if it took less than one minute to
+find a parking space?
+a.
+Yes
+b.
+No
+c.
+Unable to determine
+71. Find the probability that it takes at least eight minutes to find a parking space.
+a.
+0.0001
+b.
+0.9270
+c.
+0.1862
+d.
+0.0668
+72. Seventy percent of the time, it takes more than how many minutes to find a parking space?
+a.
+1.24
+b.
+2.41
+c.
+3.95
+d.
+6.05
+73. According to a study done by De Anza students, the height for Asian adult males is normally distributed with an average
+of 66 inches and a standard deviation of 2.5 inches. Suppose one Asian adult male is randomly chosen. Let X = height of
+the individual.
+a.
+X ~ _____(_____,_____)
+b.
+Find the probability that the person is between 65 and 69 inches. Include a sketch of the graph, and write a
+probability statement.
+c.
+Would you expect to meet many Asian adult males over 72 inches? Explain why or why not, and justify your
+answer numerically.
+390
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+74. IQ is normally distributed with a mean of 100 and a standard deviation of 15. Suppose one individual is randomly
+chosen. Let X = IQ of an individual.
+a.
+X ~ _____(_____,_____)
+b.
+Find the probability that the person has an IQ greater than 120. Include a sketch of the graph, and write a
+probability statement.
+c.
+MENSA is an organization whose members have the top 2% of all IQs. Find the minimum IQ needed to qualify
+for the MENSA organization. Sketch the graph, and write the probability statement.
+d.
+The middle 50% of IQs fall between what two values? Sketch the graph and write the probability statement.
+75. The percent of fat calories that a person in America consumes each day is normally distributed with a mean of about 36
+and a standard deviation of 10. Suppose that one individual is randomly chosen. Let X = percent of fat calories.
+a.
+X ~ _____(_____,_____)
+b.
+Find the probability that the percent of fat calories a person consumes is more than 40. Graph the situation. Shade
+in the area to be determined.
+c.
+Find the maximum number for the lower quarter of percent of fat calories. Sketch the graph and write the
+probability statement.
+76. Suppose that the distance of fly balls hit to the outfield (in baseball) is normally distributed with a mean of 250 feet and
+a standard deviation of 50 feet.
+a.
+If X = distance in feet for a fly ball, then X ~ _____(_____,_____)
+b.
+If one fly ball is randomly chosen from this distribution, what is the probability that this ball traveled fewer than
+220 feet? Sketch the graph. Scale the horizontal axis X. Shade the region corresponding to the probability. Find
+the probability.
+c.
+Find the 80th percentile of the distribution of fly balls. Sketch the graph, and write the probability statement.
+77. In China, four-year-olds average three hours a day unsupervised. Most of the unsupervised children live in rural areas,
+considered safe. Suppose that the standard deviation is 1.5 hours and the amount of time spent alone is normally distributed.
+We randomly select one Chinese four-year-old living in a rural area. We are interested in the amount of time the child spends
+alone per day.
+a.
+In words, define the random variable X.
+b.
+X ~ _____(_____,_____)
+c.
+Find the probability that the child spends less than one hour per day unsupervised. Sketch the graph, and write the
+probability statement.
+d.
+What percent of the children spend over ten hours per day unsupervised?
+e.
+Seventy percent of the children spend at least how long per day unsupervised?
+78. In the 1992 presidential election, Alaska’s 40 election districts averaged 1,956.8 votes per district for President Clinton.
+The standard deviation was 572.3. (There are only 40 election districts in Alaska.) The distribution of the votes per district
+for President Clinton was bell-shaped. Let X = number of votes for President Clinton for an election district.
+a.
+State the approximate distribution of X.
+b.
+Is 1,956.8 a population mean or a sample mean? How do you know?
+c.
+Find the probability that a randomly selected district had fewer than 1,600 votes for President Clinton. Sketch the
+graph and write the probability statement.
+d.
+Find the probability that a randomly selected district had between 1,800 and 2,000 votes for President Clinton.
+e.
+Find the third quartile for votes for President Clinton.
+79. Suppose that the duration of a particular type of criminal trial is known to be normally distributed with a mean of 21
+days and a standard deviation of seven days.
+a.
+In words, define the random variable X.
+b.
+X ~ _____(_____,_____)
+c.
+If one of the trials is randomly chosen, find the probability that it lasted at least 24 days. Sketch the graph and
+write the probability statement.
+d.
+Sixty percent of all trials of this type are completed within how many days?
+Chapter 6 | The Normal Distribution
+391
+
+80. Terri Vogel, an amateur motorcycle racer, averages 129.71 seconds per 2.5 mile lap (in a seven-lap race) with a standard
+deviation of 2.28 seconds. The distribution of her race times is normally distributed. We are interested in one of her
+randomly selected laps.
+a.
+In words, define the random variable X.
+b.
+X ~ _____(_____,_____)
+c.
+Find the percent of her laps that are completed in less than 130 seconds.
+d.
+The fastest 3% of her laps are under _____.
+e.
+The middle 80% of her laps are from _______ seconds to _______ seconds.
+81. Thuy Dau, Ngoc Bui, Sam Su, and Lan Voung conducted a survey as to how long customers at Lucky claimed to wait
+in the checkout line until their turn. Let X = time in line. Table 6.3 displays the ordered real data (in minutes):
+0.50 4.25 5
+6
+7.25
+1.75 4.25 5.25 6
+7.25
+2
+4.25 5.25 6.25 7.25
+2.25 4.25 5.5
+6.25 7.75
+2.25 4.5
+5.5
+6.5
+8
+2.5
+4.75 5.5
+6.5
+8.25
+2.75 4.75 5.75 6.5
+9.5
+3.25 4.75 5.75 6.75 9.5
+3.75 5
+6
+6.75 9.75
+3.75 5
+6
+6.75 10.75
+Table 6.3
+a.
+Calculate the sample mean and the sample standard deviation.
+b.
+Construct a histogram.
+c.
+Draw a smooth curve through the midpoints of the tops of the bars.
+d.
+In words, describe the shape of your histogram and smooth curve.
+e.
+Let the sample mean approximate μ and the sample standard deviation approximate σ. The distribution of X can
+then be approximated by X ~ _____(_____,_____)
+f.
+Use the distribution in part e to calculate the probability that a person will wait fewer than 6.1 minutes.
+g.
+Determine the cumulative relative frequency for waiting less than 6.1 minutes.
+h.
+Why aren’t the answers to part f and part g exactly the same?
+i.
+Why are the answers to part f and part g as close as they are?
+j.
+If only ten customers has been surveyed rather than 50, do you think the answers to part f and part g would have
+been closer together or farther apart? Explain your conclusion.
+82. Suppose that Ricardo and Anita attend different colleges. Ricardo’s GPA is the same as the average GPA at his school.
+Anita’s GPA is 0.70 standard deviations above her school average. In complete sentences, explain why each of the following
+statements may be false.
+a.
+Ricardo’s actual GPA is lower than Anita’s actual GPA.
+b.
+Ricardo is not passing because his z-score is zero.
+c.
+Anita is in the 70th percentile of students at her college.
+392
+Chapter 6 | The Normal Distribution
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
