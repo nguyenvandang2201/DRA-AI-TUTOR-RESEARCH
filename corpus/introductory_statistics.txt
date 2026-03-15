@@ -1652,3 +1652,182 @@ and y is the final exam score out of 200. Can you predict the final exam score o
 the third exam score?
 Chapter 12 | Linear Regression and Correlation
 685
+
+x (third
+exam score)
+y (final exam
+score)
+65
+175
+67
+133
+71
+185
+71
+163
+66
+126
+75
+198
+67
+153
+70
+163
+71
+159
+69
+151
+69
+159
+Table 12.3
+(a) Table showing the scores on the
+final exam based on scores from the
+third exam.
+(b) Scatter plot showing the scores on the final exam based on scores from the
+third exam.
+Figure 12.9
+12.6 SCUBA divers have maximum dive times they cannot exceed when going to different depths. The data
+in Table 12.4 show different depths with the maximum dive times in minutes. Use your calculator to find the least
+squares regression line and predict the maximum dive time for 110 feet.
+X (depth in feet)
+Y (maximum dive time)
+50
+80
+60
+55
+70
+45
+80
+35
+90
+25
+100
+22
+Table 12.4
+The third exam score, x, is the independent variable and the final exam score, y, is the dependent variable. We will plot a
+regression line that best "fits" the data. If each of you were to fit a line "by eye," you would draw different lines. We can use
+what is called a least-squares regression line to obtain the best fit line.
+Consider the following diagram. Each point of data is of the the form (x, y) and each point ofthe line of best fit using least-
+686
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+squares linear regression has the form (x, ŷ).
+The ŷ is read "y hat" and is the estimated value of y. It is the value of y obtained using the regression line. It is not generally
+equal to y from data.
+Figure 12.10
+The term y0 – ŷ0 = ε0 is called the "error" or residual. It is not an error in the sense of a mistake. The absolute value
+of a residual measures the vertical distance between the actual value of y and the estimated value of y. In other words, it
+measures the vertical distance between the actual data point and the predicted point on the line.
+If the observed data point lies above the line, the residual is positive, and the line underestimates the actual data value for y.
+If the observed data point lies below the line, the residual is negative, and the line overestimates that actual data value for y.
+In the diagram in Figure 12.10, y0 – ŷ0 = ε0 is the residual for the point shown. Here the point lies above the line and the
+residual is positive.
+ε = the Greek letter epsilon
+For each data point, you can calculate the residuals or errors, yi - ŷi = εi for i = 1, 2, 3, ..., 11.
+Each |ε| is a vertical distance.
+For the example about the third exam scores and the final exam scores for the 11 statistics students, there are 11 data points.
+Therefore, there are 11 ε values. If yousquare each ε and add, you get
+(ε1)2 + (ε2)2 + ... + (ε11)2 =
+Σ
+i =  1
+11 ε2
+This is called the Sum of Squared Errors (SSE).
+Using calculus, you can determine the values of a and b that make the SSE a minimum. When you make the SSE a
+minimum, you have determined the points that are on the line of best fit. It turns out that the line of best fit has the equation:
+y^ = a + bx
+where a = y¯ − b x¯ and b = Σ(x − x¯ )(y − y¯ )
+Σ(x − x¯ )
+2
+.
+The sample means of the x values and the y values are x¯ and y¯ , respectively. The best fit line always passes through the
+point ( x¯ , y¯ ) .
+The slope b can be written as b = r⎛
+⎝
+sy
+sx
+⎞
+⎠ where sy = the standard deviation of the y values and sx = the standard deviation
+of the x values. r is the correlation coefficient, which is discussed in the next section.
+Least Squares Criteria for Best Fit
+The process of fitting the best-fit line is called linear regression. The idea behind finding the best-fit line is based on the
+assumption that the data are scattered about a straight line. The criteria for the best fit line is that the sum of the squared
+errors (SSE) is minimized, that is, made as small as possible. Any other line you might choose would have a higher SSE
+than the best fit line. This best fit line is called the least-squares regression line .
+Chapter 12 | Linear Regression and Correlation
+687
+
+NOTE
+Computer spreadsheets, statistical software, and many calculators can quickly calculate the best-fit line and
+create the graphs. The calculations tend to be tedious if done by hand. Instructions to use the TI-83, TI-83+, and
+TI-84+ calculators to find the best-fit line and create a scatterplot are shown at the end of this section.
+THIRD EXAM vs FINAL EXAM EXAMPLE:
+The graph of the line of best fit for the third-exam/final-exam example is as follows:
+Figure 12.11
+The least squares regression line (best-fit line) for the third-exam/final-exam example has the equation:
+y^ = − 173.51 + 4.83x
+REMINDER
+Remember, it is always important to plot a scatter diagram first. If the scatter plot indicates that there is a linear
+relationship between the variables, then it is reasonable to use a best fit line to make predictions for y given x within
+the domain of x-values in the sample data, but not necessarily for x-values outside that domain. You could use the
+line to predict the final exam score for a student who earned a grade of 73 on the third exam. You should NOT use the
+line to predict the final exam score for a student who earned a grade of 50 on the third exam, because 50 is not within
+the domain of the x-values in the sample data, which are between 65 and 75.
+UNDERSTANDING SLOPE
+The slope of the line, b, describes how changes in the variables are related. It is important to interpret the slope of the line
+in the context of the situation represented by the data. You should be able to write a sentence interpreting the slope in plain
+English.
+INTERPRETATION OF THE SLOPE: The slope of the best-fit line tells us how the dependent variable (y) changes for
+every one unit increase in the independent (x) variable, on average.
+THIRD EXAM vs FINAL EXAM EXAMPLE
+Slope: The slope of the line is b = 4.83.
+Interpretation: For a one-point increase in the score on the third exam, the final exam score increases by 4.83 points, on
+average.
+688
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+Using the Linear Regression T Test: LinRegTTest
+1.
+In the STAT list editor, enter the X data in list L1 and the Y data in list L2, paired so that the corresponding (x,y)
+values are next to each other in the lists. (If a particular pair of values is repeated, enter it as many times as it
+appears in the data.)
+2.
+On the STAT TESTS menu, scroll down with the cursor to select the LinRegTTest. (Be careful to select
+LinRegTTest, as some calculators may also have a different item called LinRegTInt.)
+3.
+On the LinRegTTest input screen enter: Xlist: L1 ; Ylist: L2 ; Freq: 1
+4.
+On the next line, at the prompt β or ρ, highlight "≠ 0" and press ENTER
+5.
+Leave the line for "RegEq:" blank
+6.
+Highlight Calculate and press ENTER.
+Figure 12.12
+The output screen contains a lot of information. For now we will focus on a few items from the output, and will return
+later to the other items.
+The second line says y = a + bx. Scroll down to find the values a = –173.513, and b = 4.8273; the equation of the best
+fit line is ŷ = –173.51 + 4.83x
+The two items at the bottom are r2 = 0.43969 and r = 0.663. For now, just note where to find these values; we will
+discuss them in the next two sections.
+Graphing the Scatterplot and Regression Line
+1.
+We are assuming your X data is already entered in list L1 and your Y data is in list L2
+2.
+Press 2nd STATPLOT ENTER to use Plot 1
+3.
+On the input screen for PLOT 1, highlight On, and press ENTER
+4.
+For TYPE: highlight the very first icon which is the scatterplot and press ENTER
+5.
+Indicate Xlist: L1 and Ylist: L2
+6.
+For Mark: it does not matter which symbol you highlight.
+7.
+Press the ZOOM key and then the number 9 (for menu item "ZoomStat") ; the calculator will fit the window to
+the data
+8.
+To graph the best-fit line, press the "Y=" key and type the equation –173.5 + 4.83X into equation Y1. (The X key
+is immediately left of the STAT key). Press ZOOM 9 again to graph it.
+Chapter 12 | Linear Regression and Correlation
+689
