@@ -1559,3 +1559,198 @@ TABLE 3.11
 86
 3 • Problems
 Access for free at openstax.org
+
+
+FIGURE 8.1 Depending on the competition and prices offered, a soybean farmer may choose to grow a different
+crop. (Credit: modification “Agronomist & Farmer Inspecting Weeds” by United Soybean Board/Flickr, CC BY 2.0)
+CHAPTER OBJECTIVES
+In this chapter, you will learn about:
+•
+Perfect Competition and Why It Matters
+•
+How Perfectly Competitive Firms Make Output Decisions
+•
+Entry and Exit Decisions in the Long Run
+•
+Efficiency in Perfectly Competitive Markets
+Introduction to Perfect Competition
+A Dime a Dozen
+When you were younger did you babysit, deliver papers, or mow the lawn for money? If so, you faced stiff
+competition from many other competitors who offered identical services. There was nothing to stop others from
+also offering their services.
+All of you charged the “going rate.” If you tried to charge more, your customers would simply buy from someone
+else. These conditions are very similar to the conditions agricultural growers face.
+8
+Perfect Competition
+BRING IT HOME
+
+Growing a crop may be more difficult to start than a babysitting or lawn mowing service, but growers face the same
+fierce competition. In the grand scale of world agriculture, farmers face competition from thousands of others
+because they sell an identical product. After all, winter wheat is winter wheat, but if they find it hard to make money
+with that crop, it is relatively easy for farmers to leave the marketplace for another crop. In this case, they do not sell
+the family farm, they switch crops.
+Take the case of the upper Midwest region of the United States—for many generations the area was called “King
+Wheat.” According to the United States Department of Agriculture National Agricultural Statistics Service, statistics
+by state, in 1997, 11.6 million acres of wheat and 780,000 acres of corn were planted in North Dakota. In the
+intervening 25 or so years has the mix of crops changed? Since it is relatively easy to switch crops, did farmers
+change what they planted in response to changes in relative crop prices? We will find out at chapter’s end.
+In the meantime, let's consider the topic of this chapter—the perfectly competitive market. This is a market in which
+entry and exit are relatively easy and competitors are “a dime a dozen.”
+Most businesses face two realities: no one is required to buy their products, and even customers who might
+want those products may buy from other businesses instead. Firms that operate in perfectly competitive
+markets face this reality. In this chapter, you will learn how such firms make decisions about how much to
+produce, how much profit they make, whether to stay in business or not, and many others. Industries differ
+from one another in terms of how many sellers there are in a specific market, how easy or difficult it is for a
+new firm to enter, and the type of products that they sell. Economists refer to this as an industry's market
+structure. In this chapter, we focus on perfect competition. However, in other chapters we will examine other
+industry types: Monopoly and Monopolistic Competition and Oligopoly.
+8.1 Perfect Competition and Why It Matters
+LEARNING OBJECTIVES
+By the end of this section, you will be able to:
+•
+Explain the characteristics of a perfectly competitive market
+•
+Discuss how perfectly competitive firms react in the short run and in the long run
+Firms are in perfect competition when the following conditions occur: (1) many firms produce identical
+products; (2) many buyers are available to buy the product, and many sellers are available to sell the product;
+(3) sellers and buyers have all relevant information to make rational decisions about the product that they are
+buying and selling; and (4) firms can enter and leave the market without any restrictions—in other words, there
+is free entry and exit into and out of the market.
+A perfectly competitive firm is known as a price taker, because the pressure of competing firms forces it to
+accept the prevailing equilibrium price in the market. If a firm in a perfectly competitive market raises the
+price of its product by so much as a penny, it will lose all of its sales to competitors. When a wheat grower, as
+we discussed in the Bring It Home feature, wants to know the going price of wheat, they have to check on the
+computer or listen to the radio. Supply and demand in the entire market solely determine the market price, not
+the individual farmer. A perfectly competitive firm must be a very small player in the overall market, so that it
+can increase or decrease output without noticeably affecting the overall quantity supplied and price in the
+market.
+A perfectly competitive market is a hypothetical extreme; however, producers in a number of industries do
+face many competitor firms selling highly similar goods, in which case they must often act as price takers.
+Economists often use agricultural markets as an example. The same crops that different farmers grow are
+largely interchangeable. According to the United States Department of Agriculture monthly reports, in
+December 2021, U.S. corn farmers received an average of $5.47 per bushel. A corn farmer who attempted to
+sell at $6.00 per bushel would not have found any buyers. A perfectly competitive firm will not sell below the
+equilibrium price either. Why should they when they can sell all they want at the higher price? Other examples
+188
+8 • Perfect Competition
+Access for free at openstax.org
+
+of agricultural markets that operate in close to perfectly competitive markets are small roadside produce
+markets and small organic farmers.
+LINK IT UP
+Visit this website (http://openstax.org/l/commodities) that reveals the current value of various commodities.
+This chapter examines how profit-seeking firms decide how much to produce in perfectly competitive
+markets. Such firms will analyze their costs as we discussed in the chapter on Production, Costs and Industry
+Structure. In the short run, the perfectly competitive firm will seek the quantity of output where profits are
+highest or, if profits are not possible, where losses are lowest.
+In the long run, positive economic profits will attract competition as other firms enter the market. Economic
+losses will cause firms to exit the market. Ultimately, perfectly competitive markets will attain long-run
+equilibrium when no new firms want to enter the market and existing firms do not want to leave the market, as
+economic profits have been driven down to zero.
+8.2 How Perfectly Competitive Firms Make Output Decisions
+LEARNING OBJECTIVES
+By the end of this section, you will be able to:
+•
+Calculate profits by comparing total revenue and total cost
+•
+Identify profits and losses with the average cost curve
+•
+Explain the shutdown point
+•
+Determine the price at which a firm should continue producing in the short run
+A perfectly competitive firm has only one major decision to make—namely, what quantity to produce. To
+understand this, consider a different way of writing out the basic definition of profit:
+Since a perfectly competitive firm must accept the price for its output as determined by the product’s market
+demand and supply, it cannot choose the price it charges. This is already determined in the profit equation,
+and so the perfectly competitive firm can sell any number of units at exactly the same price. It implies that the
+firm faces a perfectly elastic demand curve for its product: buyers are willing to buy any number of units of
+output from the firm at the market price. When the perfectly competitive firm chooses what quantity to
+produce, then this quantity—along with the prices prevailing in the market for output and inputs—will
+determine the firm’s total revenue, total costs, and ultimately, level of profits.
+Determining the Highest Profit by Comparing Total Revenue and Total Cost
+A perfectly competitive firm can sell as large a quantity as it wishes, as long as it accepts the prevailing market
+price. The formula above shows that total revenue depends on the quantity sold and the price charged. If the
+firm sells a higher quantity of output, then total revenue will increase. If the market price of the product
+increases, then total revenue also increases whatever the quantity of output sold. As an example of how a
+perfectly competitive firm decides what quantity to produce, consider the case of a small farmer who produces
+raspberries and sells them frozen for $4 per pack. Sales of one pack of raspberries will bring in $4, two packs
+will be $8, three packs will be $12, and so on. If, for example, the price of frozen raspberries doubles to $8 per
+pack, then sales of one pack of raspberries will be $8, two packs will be $16, three packs will be $24, and so on.
+Table 8.1 shows total revenue and total costs for the raspberry farm; these data also appear in Figure 8.2. The
+horizontal axis shows the quantity of frozen raspberries produced in packs. The vertical axis shows both total
+revenue and total costs, measured in dollars. The total cost curve intersects with the vertical axis at a value
+that shows the level of fixed costs, and then slopes upward. All these cost curves follow the same
+8.2 • How Perfectly Competitive Firms Make Output Decisions
+189
+
+characteristics as the curves that we covered in the Production, Costs and Industry Structure chapter.
+FIGURE 8.2 Total Cost and Total Revenue at the Raspberry Farm Total revenue for a perfectly competitive firm is a
+straight line sloping up. The slope is equal to the price of the good. Total cost also slopes up, but with some
+curvature. At higher levels of output, total cost begins to slope upward more steeply because of diminishing
+marginal returns. The maximum profit will occur at the quantity where the difference between total revenue and
+total cost is largest.
+Quantity
+(Q)
+Total Cost
+(TC)
+Total Revenue
+(TR)
+Profit
+0
+$62
+$0
+−$62
+10
+$90
+$40
+−$50
+20
+$110
+$80
+−$30
+30
+$126
+$120
+−$6
+40
+$138
+$160
+$22
+50
+$150
+$200
+$50
+60
+$165
+$240
+$75
+70
+$190
+$280
+$90
+80
+$230
+$320
+$90
+90
+$296
+$360
+$64
+100
+$400
+$400
+$0
+110
+$550
+$440
+$−110
+120
+$715
+$480
+$−235
+TABLE 8.1 Total Cost and Total Revenue at the
+Raspberry Farm
+Based on its total revenue and total cost curves, a perfectly competitive firm like the raspberry farm can
+190
+8 • Perfect Competition
+Access for free at openstax.org
