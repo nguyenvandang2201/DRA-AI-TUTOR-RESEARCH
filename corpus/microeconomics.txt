@@ -1754,3 +1754,216 @@ Based on its total revenue and total cost curves, a perfectly competitive firm l
 190
 8 • Perfect Competition
 Access for free at openstax.org
+
+calculate the quantity of output that will provide the highest level of profit. At any given quantity, total revenue
+minus total cost will equal profit. One way to determine the most profitable quantity to produce is to see at
+what quantity total revenue exceeds total cost by the largest amount. Figure 8.2 shows total revenue, total cost
+and profit using the data from Table 8.1. The vertical gap between total revenue and total cost is profit, for
+example, at Q = 60, TR = 240 and TC = 165. The difference is 75, which is the height of the profit curve at that
+output level. The firm doesn’t make a profit at every level of output. In this example, total costs will exceed total
+revenues at output levels from 0 to approximately 30, and so over this range of output, the firm will be making
+losses. At output levels from 40 to 100, total revenues exceed total costs, so the firm is earning profits.
+However, at any output greater than 100, total costs again exceed total revenues and the firm is making
+increasing losses. Total profits appear in the final column of Table 8.1. Maximum profit occurs at an output
+between 70 and 80, when profit equals $90.
+A higher price would mean that total revenue would be higher for every quantity sold. A lower price would
+mean that total revenue would be lower for every quantity sold. What happens if the price drops low enough so
+that the total revenue line is completely below the total cost curve; that is, at every level of output, total costs
+are higher than total revenues? In this instance, the best the firm can do is to suffer losses. However, a profit-
+maximizing firm will prefer the quantity of output where total revenues come closest to total costs and thus
+where the losses are smallest.
+(Later we will see that sometimes it will make sense for the firm to close, rather than stay in operation
+producing output.)
+Comparing Marginal Revenue and Marginal Costs
+The approach that we described in the previous section, using total revenue and total cost, is not the only
+approach to determining the profit maximizing level of output. In this section, we provide an alternative
+approach which uses marginal revenue and marginal cost.
+Firms often do not have the necessary data they need to draw a complete total cost curve for all levels of
+production. They cannot be sure of what total costs would look like if they, say, doubled production or cut
+production in half, because they have not tried it. Instead, firms experiment. They produce a slightly greater or
+lower quantity and observe how it affects profits. In economic terms, this practical approach to maximizing
+profits means examining how changes in production affect marginal revenue and marginal cost.
+Figure 8.3 presents the marginal revenue and marginal cost curves based on the total revenue and total cost in
+Table 8.1. The marginal revenue curve shows the additional revenue gained from selling one more unit. As
+mentioned before, a firm in perfect competition faces a perfectly elastic demand curve for its product—that is,
+the firm’s demand curve is a horizontal line drawn at the market price level. This also means that the firm’s
+marginal revenue curve is the same as the firm’s demand curve: Every time a consumer demands one more
+unit, the firm sells one more unit and revenue increases by exactly the same amount equal to the market price.
+In this example, every time the firm sells a pack of frozen raspberries, the firm’s revenue increases by $4.
+Table 8.2 shows an example of this. This condition only holds for price taking firms in perfect competition
+where:
+The formula for marginal revenue is:
+8.2 • How Perfectly Competitive Firms Make Output Decisions
+191
+
+Price
+Quantity
+Total Revenue
+Marginal Revenue
+$4
+1
+$4
+-
+$4
+2
+$8
+$4
+$4
+3
+$12
+$4
+$4
+4
+$16
+$4
+TABLE 8.2
+Notice that marginal revenue does not change as the firm produces more output. That is because under
+perfect competition, the price is determined through the interaction of supply and demand in the market and
+does not change as the farmer produces more (keeping in mind that, due to the relative small size of each firm,
+increasing their supply has no impact on the total market supply where price is determined).
+Since a perfectly competitive firm is a price taker, it can sell whatever quantity it wishes at the market-
+determined price. We calculate marginal cost, the cost per additional unit sold, by dividing the change in total
+cost by the change in quantity. The formula for marginal cost is:
+Ordinarily, marginal cost changes as the firm produces a greater quantity.
+In the raspberry farm example, in Figure 8.3 and Table 8.3, marginal cost at first declines as production
+increases from 10 to 20 to 30 to 40 packs of raspberries—which represents the area of increasing marginal
+returns that is not uncommon at low levels of production. At some point, though, marginal costs start to
+increase, displaying the typical pattern of diminishing marginal returns. If the firm is producing at a quantity
+where MR > MC, like 40 or 50 packs of raspberries, then it can increase profit by increasing output because the
+marginal revenue is exceeding the marginal cost. If the firm is producing at a quantity where MC > MR, like 90
+or 100 packs, then it can increase profit by reducing output because the reductions in marginal cost will
+exceed the reductions in marginal revenue. The firm’s profit-maximizing choice of output will occur where MR
+= MC (or at a choice close to that point).
+FIGURE 8.3 Marginal Revenues and Marginal Costs at the Raspberry Farm: Individual Farmer For a perfectly
+competitive firm, the marginal revenue (MR) curve is a horizontal line because it is equal to the price of the good,
+which is determined by the market, as Figure 8.4 illustrates. The marginal cost (MC) curve is sometimes initially
+192
+8 • Perfect Competition
+Access for free at openstax.org
+
+downward-sloping, if there is a region of increasing marginal returns at low levels of output, but is eventually
+upward-sloping at higher levels of output as diminishing marginal returns kick in.
+FIGURE 8.4 Supply, Demand, and Equilibrium Price in the Market for Raspberries The equilibrium price of
+raspberries is determined through the interaction of market supply and market demand at $4.00.
+Quantity
+Total Cost
+Marginal Cost
+Total Revenue
+Marginal Revenue
+Profit
+0
+$62
+-
+$0
+$4
+-$62
+10
+$90
+$2.80
+$40
+$4
+-$50
+20
+$110
+$2.00
+$80
+$4
+-$30
+30
+$126
+$1.60
+$120
+$4
+-$6
+40
+$138
+$1.20
+$160
+$4
+$22
+50
+$150
+$1.20
+$200
+$4
+$50
+60
+$165
+$1.50
+$240
+$4
+$75
+70
+$190
+$2.50
+$280
+$4
+$90
+80
+$230
+$4.00
+$320
+$4
+$90
+90
+$296
+$6.60
+$360
+$4
+$64
+100
+$400
+$10.40
+$400
+$4
+$0
+110
+$550
+$15.00
+$440
+$4
+-$110
+120
+$715
+$16.50
+$480
+$4
+-$235
+TABLE 8.3 Marginal Revenues and Marginal Costs at the Raspberry Farm
+In this example, the marginal revenue and marginal cost curves cross at a price of $4 and a quantity of 80
+produced. If the farmer started out producing at a level of 60, and then experimented with increasing
+production to 70, marginal revenues from the increase in production would exceed marginal costs—and so
+profits would rise. The farmer has an incentive to keep producing. At a level of output of 80, marginal cost and
+8.2 • How Perfectly Competitive Firms Make Output Decisions
+193
+
+marginal revenue are equal so profit doesn’t change. If the farmer then experimented further with increasing
+production from 80 to 90, he would find that marginal costs from the increase in production are greater than
+marginal revenues, and so profits would decline.
+The profit-maximizing choice for a perfectly competitive firm will occur at the level of output where marginal
+revenue is equal to marginal cost—that is, where MR = MC. This occurs at Q = 80 in the figure.
+Does Profit Maximization Occur at a Range of Output or a Specific Level of Output?
+Table 8.1 shows that maximum profit occurs at any output level between 70 and 80 units of output. But MR = MC
+occurs only at 80 units of output. How can we explain this slight discrepancy? As long as MR > MC, a profit-
+seeking firm should keep expanding production. Expanding production into the zone where MR < MC reduces
+economic profits. It’s true that profit is the same at Q = 70 and Q = 80, but it’s only when the firm goes beyond
+that Q that it will see that profits fall. Thus, MR = MC is the signal to stop expanding, so that is the level of output
+they should target.
+Because the marginal revenue received by a perfectly competitive firm is equal to the price P, we can also write
+the profit-maximizing rule for a perfectly competitive firm as a recommendation to produce at the quantity of
+output where P = MC.
+Profits and Losses with the Average Cost Curve
+Does maximizing profit (producing where MR = MC) imply an actual economic profit? The answer depends on
+the relationship between price and average total cost, which is the average profit or profit margin. If the
+market price is higher than the firm's average cost of production for that quantity produced, then the profit
+margin is positive and the firm will earn profits. Conversely, if the market price is lower than the average cost
+of production, the profit margin is negative and the firm will suffer losses. You might think that, in this
+situation, the firm may want to shut down immediately. Remember, however, that the firm has already paid for
+fixed costs, such as equipment, so it may continue to produce for a while and incur a loss. Table 8.3 continues
+the raspberry farm example. Figure 8.5 illustrates the three possible scenarios: (a) where price intersects
+marginal cost at a level above the average cost curve, (b) where price intersects marginal cost at a level equal to
+the average cost curve, and (c) where price intersects marginal cost at a level below the average cost curve.
+WORK IT OUT
+194
+8 • Perfect Competition
+Access for free at openstax.org
