@@ -1967,3 +1967,125 @@ WORK IT OUT
 194
 8 • Perfect Competition
 Access for free at openstax.org
+
+FIGURE 8.5 Price and Average Cost at the Raspberry Farm In (a), price intersects marginal cost above the average
+cost curve. Since price is greater than average cost, the firm is making a profit. In (b), price intersects marginal cost
+at the minimum point of the average cost curve. Since price is equal to average cost, the firm is breaking even. In (c),
+price intersects marginal cost below the average cost curve. Since price is less than average cost, the firm is making
+a loss.
+First consider a situation where the price is equal to $5 for a pack of frozen raspberries. The rule for a profit-
+maximizing perfectly competitive firm is to produce the level of output where Price= MR = MC, so the
+raspberry farmer will produce a quantity of approximately 85, which is labeled as E' in Figure 8.5 (a).
+Remember that the area of a rectangle is equal to its base multiplied by its height. The farm’s total revenue at
+this price will be shown by the rectangle from the origin over to a quantity of 85 packs (the base) up to point E'
+(the height), over to the price of $5, and back to the origin. The average cost of producing 80 packs is shown by
+point C or about $3.50. Total costs will be the quantity of 85 times the average cost of $3.50, which is shown by
+the area of the rectangle from the origin to a quantity of 90, up to point C, over to the vertical axis and down to
+the origin. The difference between total revenues and total costs is profits. Thus, profits will be the blue shaded
+rectangle on top.
+We calculate this as:
+8.2 • How Perfectly Competitive Firms Make Output Decisions
+195
+
+Or, we can calculate it as:
+Now consider Figure 8.5 (b), where the price has fallen to $2.75 for a pack of frozen raspberries. Again, the
+perfectly competitive firm will choose the level of output where Price = MR = MC, but in this case, the quantity
+produced will be 75. At this price and output level, where the marginal cost curve is crossing the average cost
+curve, the price the firm receives is exactly equal to its average cost of production. We call this the break even
+point.
+The farm’s total revenue at this price will be shown by the large shaded rectangle from the origin over to a
+quantity of 75 packs (the base) up to point E (the height), over to the price of $2.75, and back to the origin. The
+height of the average cost curve at Q = 75, i.e. point E, shows the average cost of producing this quantity. Total
+costs will be the quantity of 75 times the average cost of $2.75, which is shown by the area of the rectangle
+from the origin to a quantity of 75, up to point E, over to the vertical axis and down to the origin. It should be
+clear that the rectangles for total revenue and total cost are the same. Thus, the firm is making zero profit. The
+calculations are as follows:
+Or, we can calculate it as:
+In Figure 8.5 (c), the market price has fallen still further to $2.00 for a pack of frozen raspberries. At this price,
+marginal revenue intersects marginal cost at a quantity of 65. The farm’s total revenue at this price will be
+shown by the large shaded rectangle from the origin over to a quantity of 65 packs (the base) up to point E” (the
+height), over to the price of $2, and back to the origin. The average cost of producing 65 packs is shown by
+Point C” or shows the average cost of producing 50 packs is about $2.73. Total costs will be the quantity of 65
+times the average cost of $2.73, which the area of the rectangle from the origin to a quantity of 50, up to point
+C”, over to the vertical axis and down to the origin shows. It should be clear from examining the two rectangles
+that total revenue is less than total cost. Thus, the firm is losing money and the loss (or negative profit) will be
+the rose-shaded rectangle.
+The calculations are:
+Or:
+196
+8 • Perfect Competition
+Access for free at openstax.org
+
+If the market price that perfectly competitive firm receives leads it to produce at a quantity where the price is
+greater than average cost, the firm will earn profits. If the price the firm receives causes it to produce at a
+quantity where price equals average cost, which occurs at the minimum point of the AC curve, then the firm
+earns zero profits. Finally, if the price the firm receives leads it to produce at a quantity where the price is less
+than average cost, the firm will earn losses. Table 8.4 summarizes this.
+If...
+Then...
+Price > ATC
+Firm earns an economic profit
+Price = ATC
+Firm earns zero economic profit
+Price < ATC
+Firm earns a loss
+TABLE 8.4
+Which intersection should a firm choose?
+At a price of $2, MR intersects MC at two points: Q = 20 and Q = 65. It never makes sense for a firm to choose a level
+of output on the downward sloping part of the MC curve, because the profit is lower (the loss is bigger). Thus, the
+correct choice of output is Q = 65.
+The Shutdown Point
+The possibility that a firm may earn losses raises a question: Why can the firm not avoid losses by shutting
+down and not producing at all? The answer is that shutting down can reduce variable costs to zero, but in the
+short run, the firm has already paid for fixed costs. As a result, if the firm produces a quantity of zero, it would
+still make losses because it would still need to pay for its fixed costs. Therefore when a firm is experiencing
+losses, it must face a question: should it continue producing or should it shut down?
+As an example, consider the situation of the Yoga Center, which has signed a contract to rent space that costs
+$10,000 per month. If the firm decides to operate, its marginal costs for hiring yoga teachers is $15,000 for the
+month. If the firm shuts down, it must still pay the rent, but it would not need to hire labor. Table 8.5 shows
+three possible scenarios. In the first scenario, the Yoga Center does not have any clients, and therefore does not
+make any revenues, in which case it faces losses of $10,000 equal to the fixed costs. In the second scenario, the
+Yoga Center has clients that earn the center revenues of $10,000 for the month, but ultimately experiences
+losses of $15,000 due to having to hire yoga instructors to cover the classes. In the third scenario, the Yoga
+Center earns revenues of $20,000 for the month, but experiences losses of $5,000.
+In all three cases, the Yoga Center loses money. In all three cases, when the rental contract expires in the long
+run, assuming revenues do not improve, the firm should exit this business. In the short run, though, the
+decision varies depending on the level of losses and whether the firm can cover its variable costs. In scenario 1,
+the center does not have any revenues, so hiring yoga teachers would increase variable costs and losses, so it
+should shut down and only incur its fixed costs. In scenario 2, the center’s losses are greater because it does
+not make enough revenue to offset the increased variable costs, so it should shut down immediately and only
+incur its fixed costs. If price is below the minimum average variable cost, the firm must shut down. In contrast,
+in scenario 3 the revenue that the center can earn is high enough that the losses diminish when it remains
+open, so the center should remain open in the short run.
+CLEAR IT UP
+8.2 • How Perfectly Competitive Firms Make Output Decisions
+197
+
+Scenario 1
+If the center shuts down now, revenues are zero but it will not incur any variable costs and would only need to pay
+fixed costs of $10,000.
+Scenario 2
+The center earns revenues of $10,000, and variable costs are $15,000. The center should shut down now.
+Scenario 3
+The center earns revenues of $20,000, and variable costs are $15,000. The center should continue in business.
+TABLE 8.5 Should the Yoga Center Shut Down Now or Later?
+Figure 8.6 illustrates the lesson that remaining open requires the price to exceed the firm’s average variable
+cost. When the firm is operating below the break-even point, where price equals average cost, it is operating at
+a loss so it faces two options: continue to produce and lose money or shutdown. Which option is preferable?
+The one that loses the least money is the best choice.
+At a price of $2.00 per pack, as Figure 8.6 (a) illustrates, if the farm stays in operation it will produce at a level
+of 65 packs of raspberries, and it will make losses of $47.45 (as explained earlier). The alternative would be to
+shut down and lose all the fixed costs of $62.00. Since losing $47.45 is preferable to losing $62.00, the profit
+maximizing (or in this case the loss minimizing) choice is to stay in operation. The key reason is because price
+is above average variable cost. This means that at the current price the farm can pay all its variable costs, and
+have some revenue left over to pay some of the fixed costs. So the loss represents the part of the fixed costs the
+farm can’t pay, which is less than the entire fixed costs. However, if the price declined to $1.50 per pack, as
+Figure 8.6 (b) shows, and if the firm applied its rule of producing where P = MR = MC, it would produce a
+quantity of 60. This price is below average variable cost for this level of output. If the farmer cannot pay
+workers (the variable costs), then it has to shut down. At this price and output, total revenues would be $90
+(quantity of 60 times price of $1.50) and total cost would be $165, for overall losses of $75. If the farm shuts
+down, it must pay only its fixed costs of $62, so shutting down is preferable to selling at a price of $1.50 per
+pack.
+198
+8 • Perfect Competition
+Access for free at openstax.org
