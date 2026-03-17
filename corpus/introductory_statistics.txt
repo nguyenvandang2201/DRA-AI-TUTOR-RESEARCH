@@ -2053,3 +2053,156 @@ Since r = 0.801 and 0.801 > 0.632, r is significant and the line may be usedfor 
 on a number line, it will help you.
 Chapter 12 | Linear Regression and Correlation
 693
+
+Figure 12.14 r is not significant between -0.632 and +0.632. r = 0.801 > +0.632. Therefore, r is significant.
+12.7 For a given line of best fit, you computed that r = 0.6501 using n = 12 data points and the critical value is 0.576.
+Can the line be used for prediction? Why or why not?
+Example 12.8
+Suppose you computed r = –0.624 with 14 data points. df = 14 – 2 = 12. The critical values are –0.532 and 0.532.
+Since –0.624 < –0.532, r is significant and the line can be used for prediction
+Figure 12.15 r = –0.624 < -0.532. Therefore, r is significant.
+12.8 For a given line of best fit, you compute that r = 0.5204 using n = 9 data points, and the critical value is 0.666.
+Can the line be used for prediction? Why or why not?
+Example 12.9
+Suppose you computed r = 0.776 and n = 6. df = 6 – 2 = 4. The critical values are –0.811 and 0.811. Since –0.811
+< 0.776 < 0.811, r is not significant, and the line should not be used for prediction.
+Figure 12.16 -0.811 < r = 0.776 < 0.811. Therefore, r is not significant.
+12.9 For a given line of best fit, you compute that r = –0.7204 using n = 8 data points, and the critical value is =
+0.707. Can the line be used for prediction? Why or why not?
+694
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+THIRD-EXAM vs FINAL-EXAM EXAMPLE: critical value method
+Consider the third exam/final exam example. The line of best fit is: ŷ = –173.51+4.83x with r = 0.6631 and there are n
+= 11 data points. Can the regression line be used for prediction? Given a third-exam score (x value), can we use the line
+to predict the final exam score (predicted y value)?
+H0: ρ = 0
+Ha: ρ ≠ 0
+α = 0.05
+•
+Use the "95% Critical Value" table for r with df = n – 2 = 11 – 2 = 9.
+•
+The critical values are –0.602 and +0.602
+•
+Since 0.6631 > 0.602, r is significant.
+•
+Decision: Reject the null hypothesis.
+•
+Conclusion:There is sufficient evidence to conclude that there is a significant linear relationship between the third
+exam score (x) and the final exam score (y) because the correlation coefficient is significantly different from zero.
+Because r is significant and the scatter plot shows a linear trend, the regression line can be used to predict final exam
+scores.
+Example 12.10
+Suppose you computed the following correlation coefficients. Using the table at the end of the chapter, determine
+if r is significant and the line of best fit associated with each r can be used to predict a y value. If it helps, draw a
+number line.
+a.
+r = –0.567 and the sample size, n, is 19. The df = n – 2 = 17. The critical value is –0.456. –0.567 < –0.456
+so r is significant.
+b.
+r = 0.708 and the sample size, n, is nine. The df = n – 2 = 7. The critical value is 0.666. 0.708 > 0.666 so r is
+significant.
+c.
+r = 0.134 and the sample size, n, is 14. The df = 14 – 2 = 12. The critical value is 0.532. 0.134 is between
+–0.532 and 0.532 so r is not significant.
+d.
+r = 0 and the sample size, n, is five. No matter what the dfs are, r = 0 is between the two critical values so r
+is not significant.
+12.10 For a given line of best fit, you compute that r = 0 using n = 100 data points. Can the line be used for prediction?
+Why or why not?
+Assumptions in Testing the Significance of the Correlation Coefficient
+Testing the significance of the correlation coefficient requires that certain assumptions about the data are satisfied. The
+premise of this test is that the data are a sample of observed points taken from a larger population. We have not examined
+the entire population because it is not possible or feasible to do so. We are examining the sample to draw a conclusion about
+whether the linear relationship that we see between x and y in the sample data provides strong enough evidence so that we
+can conclude that there is a linear relationship between x and y in the population.
+The regression line equation that we calculate from the sample data gives the best-fit line for our particular sample. We
+want to use this best-fit line for the sample as an estimate of the best-fit line for the population. Examining the scatterplot
+and testing the significance of the correlation coefficient helps us determine if it is appropriate to do this.
+The assumptions underlying the test of significance are:
+•
+There is a linear relationship in the population that models the average value of y for varying values of x. In other
+words, the expected value of y for each particular value lies on a straight line in the population. (We do not know the
+Chapter 12 | Linear Regression and Correlation
+695
+
+equation for the line for the population. Our regression line from the sample is our best estimate of this line in the
+population.)
+•
+The y values for any particular x value are normally distributed about the line. This implies that there are more y values
+scattered closer to the line than are scattered farther away. Assumption (1) implies that these normal distributions are
+centered on the line: the means of these normal distributions of y values lie on the line.
+•
+The standard deviations of the population y values about the line are equal for each value of x. In other words, each of
+these normal distributions of y values has the same shape and spread about the line.
+•
+The residual errors are mutually independent (no pattern).
+•
+The data are produced from a well-designed, random sample or randomized experiment.
+Figure 12.17 The y values for each x value are normally distributed about the line with the same standard deviation.
+For each x value, the mean of the y values lies on the regression line. More y values lie near the line than are scattered
+further away from the line.
+12.5 | Prediction
+Recall the third exam/final exam example.
+We examined the scatterplot and showed that the correlation coefficient is significant. We found the equation of the best-fit
+line for the final exam grade as a function of the grade on the third-exam. We can now use the least-squares regression line
+for prediction.
+Suppose you want to estimate, or predict, the mean final exam score of statistics students who received 73 on the third
+exam. The exam scores (x-values) range from 65 to 75. Since 73 is between the x-values 65 and 75, substitute x = 73 into
+the equation. Then:
+y^ = − 173.51 + 4.83(73) = 179.08
+We predict that statistics students who earn a grade of 73 on the third exam will earn a grade of 179.08 on the final exam,
+on average.
+Example 12.11
+Recall the third exam/final exam example.
+a. What would you predict the final exam score to be for a student who scored a 66 on the third exam?
+Solution 12.11
+a. 145.27
+b. What would you predict the final exam score to be for a student who scored a 90 on the third exam?
+696
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+Solution 12.11
+b. The x values in the data are between 65 and 75. Ninety is outside of the domain of the observed x values in the
+data (independent variable), so you cannot reliably predict the final exam score for this student. (Even though it
+is possible to enter 90 into the equation for x and calculate a corresponding y value, the y value that you get will
+not be reliable.)
+To understand really how unreliable the prediction can be outside of the observed x values observed in the data,
+make the substitution x = 90 into the equation.
+y^ = –173.51 + 4.83⎛
+⎝90⎞
+⎠ = 261.19
+The final-exam score is predicted to be 261.19. The largest the final-exam score can be is 200.
+NOTE
+The process of predicting inside of the observed x values observed in the data is called interpolation. The
+process of predicting outside of the observed x values observed in the data is called extrapolation.
+12.11 Data are collected on the relationship between the number of hours per week practicing a musical instrument
+and scores on a math test. The line of best fit is as follows:
+ŷ = 72.5 + 2.8x
+What would you predict the score on a math test would be for a student who practices a musical instrument for five
+hours a week?
+12.6 | Outliers
+In some data sets, there are values (observed data points) called outliers. Outliers are observed data points that are far
+from the least squares line. They have large "errors", where the "error" or residual is the vertical distance from the line to
+the point.
+Outliers need to be examined closely. Sometimes, for some reason or another, they should not be included in the analysis
+of the data. It is possible that an outlier is a result of erroneous data. Other times, an outlier may hold valuable information
+about the population under study and should remain included in the data. The key is to examine carefully what causes a data
+point to be an outlier.
+Besides outliers, a sample may contain one or a few points that are called influential points. Influential points are observed
+data points that are far from the other observed data points in the horizontal direction. These points may have a big effect
+on the slope of the regression line. To begin to identify an influential point, you can remove it from the data set and see if
+the slope of the regression line is changed significantly.
+Computers and many calculators can be used to identify outliers from the data. Computer output for regression analysis will
+often identify both outliers and influential points so that you can examine them.
+Identifying Outliers
+We could guess at outliers by looking at a graph of the scatterplot and best fit-line. However, we would like some guideline
+as to how far away a point needs to be in order to be considered an outlier. As a rough rule of thumb, we can flag any
+point that is located further than two standard deviations above or below the best-fit line as an outlier. The standard
+deviation used is the standard deviation of the residuals or errors.
+We can do this visually in the scatter plot by drawing an extra pair of lines that are two standard deviations above and below
+the best-fit line. Any data points that are outside this extra pair of lines are flagged as potential outliers. Or we can do this
+Chapter 12 | Linear Regression and Correlation
+697
