@@ -2206,3 +2206,180 @@ We can do this visually in the scatter plot by drawing an extra pair of lines th
 the best-fit line. Any data points that are outside this extra pair of lines are flagged as potential outliers. Or we can do this
 Chapter 12 | Linear Regression and Correlation
 697
+
+numerically by calculating each residual and comparing it to twice the standard deviation. On the TI-83, 83+, or 84+, the
+graphical approach is easier. The graphical procedure is shown first, followed by the numerical calculations. You would
+generally need to use only one of these methods.
+Example 12.12
+In the third exam/final exam example, you can determine if there is an outlier or not. If there is an outlier,
+as an exercise, delete it and fit the remaining data to a new line. For this example, the new line ought to fit the
+remaining data better. This means the SSE should be smaller and the correlation coefficient ought to be closer to
+1 or –1.
+Solution 12.12
+Graphical Identification of Outliers
+With the TI-83, 83+, 84+ graphing calculators, it is easy to identify the outliers graphically and visually. If we
+were to measure the vertical distance from any data point to the corresponding point on the line of best fit and
+that distance were equal to 2s or more, then we would consider the data point to be "too far" from the line of best
+fit. We need to find and graph the lines that are two standard deviations below and above the regression line. Any
+points that are outside these two lines are outliers. We will call these lines Y2 and Y3:
+As we did with the equation of the regression line and the correlation coefficient, we will use technology to
+calculate this standard deviation for us. Using the LinRegTTest with this data, scroll down through the output
+screens to find s = 16.412.
+Line Y2 = –173.5 + 4.83x –2(16.4) and line Y3 = –173.5 + 4.83x + 2(16.4)
+where ŷ = –173.5 + 4.83x is the line of best fit. Y2 and Y3 have the same slope as the line of best fit.
+Graph the scatterplot with the best fit line in equation Y1, then enter the two extra lines as Y2 and Y3 in the
+"Y="equation editor and press ZOOM 9. You will find that the only data point that is not between lines Y2 and
+Y3 is the point x = 65, y = 175. On the calculator screen it is just barely outside these lines. The outlier is the
+student who had a grade of 65 on the third exam and 175 on the final exam; this point is further than two standard
+deviations away from the best-fit line.
+Sometimes a point is so close to the lines used to flag outliers on the graph that it is difficult to tell if the point is
+between or outside the lines. On a computer, enlarging the graph may help; on a small calculator screen, zooming
+in may make the graph clearer. Note that when the graph does not give a clear enough picture, you can use the
+numerical comparisons to identify outliers.
+Figure 12.18
+698
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+12.12 Identify the potential outlier in the scatter plot. The standard deviation of the residuals or errors is
+approximately 8.6.
+Figure 12.19
+Numerical Identification of Outliers
+In Table 12.5, the first two columns are the third-exam and final-exam data. The third column shows the predicted ŷ values
+calculated from the line of best fit: ŷ = –173.5 + 4.83x. The residuals, or errors, have been calculated in the fourth column
+of the table: observed y value−predicted y value = y − ŷ.
+s is the standard deviation of all the y − ŷ = ε values where n = the total number of data points. If each residual is calculated
+and squared, and the results are added, we get the SSE. The standard deviation of the residuals is calculated from the SSE
+as:
+s =
+SSE
+n − 2
+NOTE
+We divide by (n – 2) because the regression model involves two estimates.
+Rather than calculate the value of s ourselves, we can find s using the computer or calculator. For this example, the
+calculator function LinRegTTest found s = 16.4 as the standard deviation of the residuals 35; –17; 16; –6; –19; 9; 3; –1;
+–10; –9; –1.
+x
+y
+ŷ
+y – ŷ
+65
+175 140 175 – 140 = 35
+67
+133 150 133 – 150= –17
+71
+185 169 185 – 169 = 16
+71
+163 169 163 – 169 = –6
+Table 12.5
+Chapter 12 | Linear Regression and Correlation
+699
+
+x
+y
+ŷ
+y – ŷ
+66
+126 145 126 – 145 = –19
+75
+198 189 198 – 189 = 9
+67
+153 150 153 – 150 = 3
+70
+163 164 163 – 164 = –1
+71
+159 169 159 – 169 = –10
+69
+151 160 151 – 160 = –9
+69
+159 160 159 – 160 = –1
+Table 12.5
+We are looking for all data points for which the residual is greater than 2s = 2(16.4) = 32.8 or less than –32.8. Compare
+these values to the residuals in column four of the table. The only such data point is the student who had a grade of 65 on
+the third exam and 175 on the final exam; the residual for this student is 35.
+How does the outlier affect the best fit line?
+Numerically and graphically, we have identified the point (65, 175) as an outlier. We should re-examine the data for this
+point to see if there are any problems with the data. If there is an error, we should fix the error if possible, or delete the data.
+If the data is correct, we would leave it in the data set. For this problem, we will suppose that we examined the data and
+found that this outlier data was an error. Therefore we will continue on and delete the outlier, so that we can explore how it
+affects the results, as a learning experience.
+Compute a new best-fit line and correlation coefficient using the ten remaining points:
+On the TI-83, TI-83+, TI-84+ calculators, delete the outlier from L1 and L2. Using the LinRegTTest, the new line of best
+fit and the correlation coefficient are:
+ŷ = –355.19 + 7.39x and r = 0.9121
+The new line with r = 0.9121 is a stronger correlation than the original (r = 0.6631) because r = 0.9121 is closer to one. This
+means that the new line is a better fit to the ten remaining data values. The line can better predict the final exam score given
+the third exam score.
+Numerical Identification of Outliers: Calculating s and Finding Outliers
+Manually
+If you do not have the function LinRegTTest, then you can calculate the outlier in the first example by doing the following.
+First, square each |y – ŷ|
+The squares are 352; 172; 162; 62; 192; 92; 32; 12; 102; 92; 12
+Then, add (sum) all the |y – ŷ| squared terms using the formula
+Σ
+i  =  1
+11
+⎛
+⎝|yi − y^
+i|
+⎞
+⎠
+2
+=
+Σ
+i  =  1
+11
+εi
+2 (Recall that yi – ŷi = εi.)
+= 352 + 172 + 162 + 62 + 192 + 92 + 32 + 12 + 102 + 92 + 12
+= 2440 = SSE. The result, SSE is the Sum of Squared Errors.
+Next, calculate s, the standard deviation of all the y – ŷ = ε values where n = the total number of data points.
+The calculation is s =
+SSE
+n – 2 .
+For the third exam/final exam problem, s =
+2440
+11 – 2 = 16.47 .
+Next, multiply s by 2:
+(2)(16.47) = 32.94
+700
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+32.94 is 2 standard deviations away from the mean of the y – ŷ values.
+If we were to measure the vertical distance from any data point to the corresponding point on the line of best fit and that
+distance is at least 2s, then we would consider the data point to be "too far" from the line of best fit. We call that point a
+potential outlier.
+For the example, if any of the |y – ŷ| values are at least 32.94, the corresponding (x, y) data point is a potential outlier.
+For the third exam/final exam problem, all the |y – ŷ|'s are less than 31.29 except for the first one which is 35.
+35 > 31.29 That is, |y – ŷ| ≥ (2)(s)
+The point which corresponds to |y – ŷ| = 35 is (65, 175). Therefore, the data point (65,175) is a potential outlier. For this
+example, we will delete it. (Remember, we do not always delete an outlier.)
+NOTE
+When outliers are deleted, the researcher should either record that data was deleted, and why, or the researcher should
+provide results both with and without the deleted data. If data is erroneous and the correct values are known (e.g.,
+student one actually scored a 70 instead of a 65), then this correction can be made to the data.
+The next step is to compute a new best-fit line using the ten remaining points. The new line of best fit and the correlation
+coefficient are:
+ŷ = –355.19 + 7.39x and r = 0.9121
+Example 12.13
+Using this new line of best fit (based on the remaining ten data points in the third exam/final exam example),
+what would a student who receives a 73 on the third exam expect to receive on the final exam? Is this the same as
+the prediction made using the original line?
+Solution 12.13
+Using the new line of best fit, ŷ = –355.19 + 7.39(73) = 184.28. A student who scored 73 points on the third exam
+would expect to earn 184 points on the final exam.
+The original line predicted ŷ = –173.51 + 4.83(73) = 179.08 so the prediction using the new line with the outlier
+eliminated differs from the original prediction.
+12.13 The data points for the graph from the third exam/final exam example are as follows: (1, 5), (2, 7), (2, 6),
+(3, 9), (4, 12), (4, 13), (5, 18), (6, 19), (7, 12), and (7, 21). Remove the outlier and recalculate the line of best fit. Find
+the value of ŷ when x = 10.
+Example 12.14
+The Consumer Price Index (CPI) measures the average change over time in the prices paid by urban consumers
+for consumer goods and services. The CPI affects nearly all Americans because of the many ways it is used.
+One of its biggest uses is as a measure of inflation. By providing information about price changes in the Nation's
+economy to government, business, and labor, the CPI helps them to make economic decisions. The President,
+Congress, and the Federal Reserve Board use the CPI's trends to formulate monetary and fiscal policies. In the
+following table, x is the year and y is the CPI.
+Chapter 12 | Linear Regression and Correlation
+701
