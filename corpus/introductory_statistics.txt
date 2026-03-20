@@ -2383,3 +2383,214 @@ Congress, and the Federal Reserve Board use the CPI's trends to formulate moneta
 following table, x is the year and y is the CPI.
 Chapter 12 | Linear Regression and Correlation
 701
+
+x
+y
+x
+y
+1915 10.1 1969 36.7
+1926 17.7 1975 49.3
+1935 13.7 1979 72.6
+1940 14.7 1980 82.4
+1947 24.1 1986 109.6
+1952 26.5 1991 130.7
+1964 31.0 1999 166.6
+Table 12.6 Data
+a.
+Draw a scatterplot of the data.
+b.
+Calculate the least squares line. Write the equation in the form ŷ = a + bx.
+c.
+Draw the line on the scatterplot.
+d.
+Find the correlation coefficient. Is it significant?
+e.
+What is the average CPI for the year 1990?
+Solution 12.14
+a.
+See Figure 12.19.
+b.
+ŷ = –3204 + 1.662x is the equation of the line of best fit.
+c.
+r = 0.8694
+d.
+The number of data points is n = 14. Use the 95% Critical Values of the Sample Correlation Coefficient table
+at the end of Chapter 12. n – 2 = 12. The corresponding critical value is 0.532. Since 0.8694 > 0.532, r is
+significant.
+ŷ = –3204 + 1.662(1990) = 103.4 CPI
+e.
+Using the calculator LinRegTTest, we find that s = 25.4 ; graphing the lines Y2 = –3204 + 1.662X – 2(25.4)
+and Y3 = –3204 + 1.662X + 2(25.4) shows that no data values are outside those lines, identifying no outliers.
+(Note that the year 1999 was very close to the upper line, but still inside it.)
+Figure 12.20
+NOTE
+In the example, notice the pattern of the points compared to the line. Although the correlation coefficient is
+702
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+significant, the pattern in the scatterplot indicates that a curve would be a more appropriate model to use than
+a line. In this example, a statistician should prefer to use other methods to fit a curve to this data, rather than
+model the data with the line we found. In addition to doing the calculations, it is always important to look at
+the scatterplot when deciding whether a linear model is appropriate.
+If you are interested in seeing more years of data, visit the Bureau of Labor Statistics CPI website ftp://ftp.bls.gov/
+pub/special.requests/cpi/cpiai.txt; our data is taken from the column entitled "Annual Avg." (third column from
+the right). For example you could add more current years of data. Try adding the more recent years: 2004: CPI
+= 188.9; 2008: CPI = 215.3; 2011: CPI = 224.9. See how it affects the model. (Check: ŷ = –4436 + 2.295x; r =
+0.9018. Is r significant? Is the fit better with the addition of the new points?)
+12.14 The following table shows economic development measured in per capita income PCINC.
+Year
+PCINC
+Year
+PCINC
+1870
+340
+1920
+1050
+1880
+499
+1930
+1170
+1890
+592
+1940
+1364
+1900
+757
+1950
+1836
+1910
+927
+1960
+2132
+Table 12.7
+a.
+What are the independent and dependent variables?
+b.
+Draw a scatter plot.
+c.
+Use regression to find the line of best fit and the correlation coefficient.
+d.
+Interpret the significance of the correlation coefficient.
+e.
+Is there a linear relationship between the variables?
+f.
+Find the coefficient of determination and interpret it.
+g.
+What is the slope of the regression equation? What does it mean?
+h.
+Use the line of best fit to estimate PCINC for 1900, for 2000.
+i.
+Determine if there are any outliers.
+95% Critical Values of the Sample Correlation Coefficient Table
+Degrees of Freedom: n – 2
+Critical Values: (+ and –)
+1
+0.997
+2
+0.950
+3
+0.878
+Table 12.8
+Chapter 12 | Linear Regression and Correlation
+703
+
+Degrees of Freedom: n – 2
+Critical Values: (+ and –)
+4
+0.811
+5
+0.754
+6
+0.707
+7
+0.666
+8
+0.632
+9
+0.602
+10
+0.576
+11
+0.555
+12
+0.532
+13
+0.514
+14
+0.497
+15
+0.482
+16
+0.468
+17
+0.456
+18
+0.444
+19
+0.433
+20
+0.423
+21
+0.413
+22
+0.404
+23
+0.396
+24
+0.388
+25
+0.381
+26
+0.374
+27
+0.367
+28
+0.361
+29
+0.355
+30
+0.349
+40
+0.304
+50
+0.273
+60
+0.250
+70
+0.232
+80
+0.217
+90
+0.205
+100
+0.195
+Table 12.8
+12.7 | Regression (Distance from School)
+704
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+12.1 Regression (Distance from School)
+Class Time:
+Names:
+Student Learning Outcomes
+•
+The student will calculate and construct the line of best fit between two variables.
+•
+The student will evaluate the relationship between two variables to determine if that relationship is significant.
+Collect the Data
+Use eight members of your class for the sample. Collect bivariate data (distance an individual lives from school, the
+cost of supplies for the current term).
+1.
+Complete the table.
+Distance from school
+Cost of supplies this term
+Table 12.9
+2.
+Which variable should be the dependent variable and which should be the independent variable? Why?
+3.
+Graph “distance” vs. “cost.” Plot the points on the graph. Label both axes with words. Scale both axes.
+Figure 12.21
+Chapter 12 | Linear Regression and Correlation
+705
