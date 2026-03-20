@@ -2594,3 +2594,133 @@ Graph “distance” vs. “cost.” Plot the points on the graph. Label both ax
 Figure 12.21
 Chapter 12 | Linear Regression and Correlation
 705
+
+Analyze the Data
+Enter your data into your calculator or computer. Write the linear equation, rounding to four decimal places.
+1.
+Calculate the following:
+a.
+a = ______
+b.
+b = ______
+c.
+correlation = ______
+d.
+n = ______
+e.
+equation: ŷ = ______
+f.
+Is the correlation significant? Why or why not? (Answer in one to three complete sentences.)
+2.
+Supply an answer for the following senarios:
+a.
+For a person who lives eight miles from campus, predict the total cost of supplies this term:
+b.
+For a person who lives eighty miles from campus, predict the total cost of supplies this term:
+3.
+Obtain the graph on your calculator or computer. Sketch the regression line.
+Figure 12.22
+Discussion Questions
+1.
+Answer each question in complete sentences.
+a.
+Does the line seem to fit the data? Why?
+b.
+What does the correlation imply about the relationship between the distance and the cost?
+2.
+Are there any outliers? If so, which point is an outlier?
+3.
+Should the outlier, if it exists, be removed? Why or why not?
+12.8 | Regression (Textbook Cost)
+706
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+12.2 Regression (Textbook Cost)
+Class Time:
+Names:
+Student Learning Outcomes
+•
+The student will calculate and construct the line of best fit between two variables.
+•
+The student will evaluate the relationship between two variables to determine if that relationship is significant.
+Collect the Data
+Survey ten textbooks. Collect bivariate data (number of pages in a textbook, the cost of the textbook).
+1.
+Complete the table.
+Number of pages
+Cost of textbook
+Table 12.10
+2.
+Which variable should be the dependent variable and which should be the independent variable? Why?
+3.
+Graph “pages” vs. “cost.” Plot the points on the graph in Analyze the Data. Label both axes with words. Scale
+both axes.
+Analyze the Data
+Enter your data into your calculator or computer. Write the linear equation, rounding to four decimal places.
+1.
+Calculate the following:
+a.
+a = ______
+b.
+b = ______
+c.
+correlation = ______
+d.
+n = ______
+e.
+equation: y = ______
+f.
+Is the correlation significant? Why or why not? (Answer in complete sentences.)
+2.
+Supply an answer for the following senarios:
+a.
+For a textbook with 400 pages, predict the cost.
+b.
+For a textbook with 600 pages, predict the cost.
+Chapter 12 | Linear Regression and Correlation
+707
+
+3.
+Obtain the graph on your calculator or computer. Sketch the regression line.
+Figure 12.23
+Discussion Questions
+1.
+Answer each question in complete sentences.
+a.
+Does the line seem to fit the data? Why?
+b.
+What does the correlation imply about the relationship between the number of pages and the cost?
+2.
+Are there any outliers? If so, which point(s) is an outlier?
+3.
+Should the outlier, if it exists, be removed? Why or why not?
+12.9 | Regression (Fuel Efficiency)
+708
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+12.3 Regression (Fuel Efficiency)
+Class Time:
+Names:
+Student Learning Outcomes
+•
+The student will calculate and construct the line of best fit between two variables.
+•
+The student will evaluate the relationship between two variables to determine if that relationship is significant.
+Collect the Data
+Find a reputable source that provides information on total fuel efficiency (in miles per gallon) and weight (in pounds)
+of new model cars with automatic transmissions. We will use this data to determine the relationship, if any, between
+the fuel efficiency of a car and its weight.
+1.
+Using your random number generator, randomly select 20 cars from the list and record their weights and fuel
+efficiency into Table 12.11.
+Weight
+Fuel Efficiency
+Table 12.11
+2.
+Which variable should be the dependent variable and which should be the independent variable? Why?
+3.
+By hand, do a scatterplot of “weight” vs. “fuel efficiency”. Plot the points on graph paper. Label both axes with
+Chapter 12 | Linear Regression and Correlation
+709
