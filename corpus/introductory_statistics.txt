@@ -2724,3 +2724,214 @@ Which variable should be the dependent variable and which should be the independ
 By hand, do a scatterplot of “weight” vs. “fuel efficiency”. Plot the points on graph paper. Label both axes with
 Chapter 12 | Linear Regression and Correlation
 709
+
+words. Scale both axes accurately.
+Figure 12.24
+Analyze the Data
+Enter your data into your calculator or computer. Write the linear equation, rounding to 4 decimal places.
+1.
+Calculate the following:
+a.
+a = ______
+b.
+b = ______
+c.
+correlation = ______
+d.
+n = ______
+e.
+equation: ŷ = ______
+2.
+Obtain the graph of the regression line on your calculator. Sketch the regression line on the same axes as your
+scatter plot.
+Discussion Questions
+1.
+Is the correlation significant? Explain how you determined this in complete sentences.
+2.
+Is the relationship a positive one or a negative one? Explain how you can tell and what this means in terms of
+weight and fuel efficiency.
+3.
+In one or two complete sentences, what is the practical interpretation of the slope of the least squares line in terms
+of fuel efficiency and weight?
+4.
+For a car that weighs 4,000 pounds, predict its fuel efficiency. Include units.
+5.
+Can we predict the fuel efficiency of a car that weighs 10,000 pounds using the least squares line? Explain why
+or why not.
+6.
+Answer each question in complete sentences.
+a.
+Does the line seem to fit the data? Why or why not?
+b.
+What does the correlation imply about the relationship between fuel efficiency and weight of a car? Is this
+what you expected?
+7.
+Are there any outliers? If so, which point is an outlier?
+710
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+Coefficient of Correlation
+Outlier
+KEY TERMS
+a measure developed by Karl Pearson (early 1900s) that gives the strength of association
+between the independent variable and the dependent variable; the formula is:
+r =
+nΣ(xy) − (Σx)(Σy)
+⎡
+⎣nΣx2 − (Σx)2⎤
+⎦
+⎡
+⎣nΣy2 − (Σy)2⎤
+⎦
+where n is the number of data points. The coefficient cannot be more then 1 and less then –1. The closer the
+coefficient is to ±1, the stronger the evidence of a significant linear relationship between x and y.
+an observation that does not fit the rest of the data
+CHAPTER REVIEW
+12.1 Linear Equations
+The most basic type of association is a linear association. This type of relationship can be defined algebraically by the
+equations used, numerically with actual or predicted data values, or graphically from a plotted curve. (Lines are classified
+as straight curves.) Algebraically, a linear equation typically takes the form y = mx + b, where m and b are constants, x is
+the independent variable, y is the dependent variable. In a statistical context, a linear equation is written in the form y = a +
+bx, where a and b are the constants. This form is used to help readers distinguish the statistical context from the algebraic
+context. In the equation y = a + bx, the constant b that multiplies the x variable (b is called a coefficient) is called as the
+slope. The slope describes the rate of change between the independent and dependent variables; in other words, the rate of
+change describes the change that occurs in the dependent variable as the independent variable is changed. In the equation
+y = a + bx, the constant a is called as the y-intercept. Graphically, the y-intercept is the y coordinate of the point where the
+graph of the line crosses the y axis. At this point x = 0.
+The slope of a line is a value that describes the rate of change between the independent and dependent variables. The slope
+tells us how the dependent variable (y) changes for every one unit increase in the independent (x) variable, on average. The
+y-intercept is used to describe the dependent variable when the independent variable equals zero. Graphically, the slope is
+represented by three line types in elementary statistics.
+12.2 Scatter Plots
+Scatter plots are particularly helpful graphs when we want to see if there is a linear relationship among data points.
+They indicate both the direction of the relationship between the x variables and the y variables, and the strength of the
+relationship. We calculate the strength of the relationship between an independent variable and a dependent variable using
+linear regression.
+12.3 The Regression Equation
+A regression line, or a line of best fit, can be drawn on a scatter plot and used to predict outcomes for the x and y variables
+in a given data set or sample data. There are several ways to find a regression line, but usually the least-squares regression
+line is used because it creates a uniform line. Residuals, also called “errors,” measure the distance from the actual value of y
+and the estimated value of y. The Sum of Squared Errors, when set to its minimum, calculates the points on the line of best
+fit. Regression lines can be used to predict values within the given set of data, but should not be used to make predictions
+for values outside the set of data.
+The correlation coefficient r measures the strength of the linear association between x and y. The variable r has to be
+between –1 and +1. When r is positive, the x and y will tend to increase and decrease together. When r is negative, x will
+increase and y will decrease, or the opposite, x will decrease and y will increase. The coefficient of determination r2, is
+equal to the square of the correlation coefficient. When expressed as a percent, r2 represents the percent of variation in the
+dependent variable y that can be explained by variation in the independent variable x using the regression line.
+12.4 Testing the Significance of the Correlation Coefficient
+Linear regression is a procedure for fitting a straight line of the form ŷ = a + bx to data. The conditions for regression are:
+•
+Linear In the population, there is a linear relationship that models the average value of y for different values of x.
+•
+Independent The residuals are assumed to be independent.
+Chapter 12 | Linear Regression and Correlation
+711
+
+•
+Normal The y values are distributed normally for any value of x.
+•
+Equal variance The standard deviation of the y values is equal for each x value.
+•
+Random The data are produced from a well-designed random sample or randomized experiment.
+The slope b and intercept a of the least-squares line estimate the slope β and intercept α of the population (true) regression
+line. To estimate the population standard deviation of y, σ, use the standard deviation of the residuals, s. s =
+SEE
+n − 2 . The
+variable ρ (rho) is the population correlation coefficient. To test the null hypothesis H0: ρ = hypothesized value, use a linear
+regression t-test. The most common null hypothesis is H0: ρ = 0 which indicates there is no linear relationship between x
+and y in the population. The TI-83, 83+, 84, 84+ calculator function LinRegTTest can perform this test (STATS TESTS
+LinRegTTest).
+12.5 Prediction
+After determining the presence of a strong correlation coefficient and calculating the line of best fit, you can use the least
+squares regression line to make predictions about your data.
+12.6 Outliers
+To determine if a point is an outlier, do one of the following:
+1.
+Input the following equations into the TI 83, 83+,84, 84+:
+y1 = a + bx
+y2 = a + bx + 2s
+y3 = a + bx − 2s
+where s is the standard deviation of the residuals
+If any point is above y2 or below y3 then the point is considered to be an outlier.
+2.
+Use the residuals and compare their absolute values to 2s where s is the standard deviation of the residuals. If the
+absolute value of any residual is greater than or equal to 2s, then the corresponding point is an outlier.
+3.
+Note: The calculator function LinRegTTest (STATS TESTS LinRegTTest) calculates s.
+FORMULA REVIEW
+12.1 Linear Equations
+y = a + bx where a is the y-intercept and b is the slope. The
+variable x is the independent variable and y is the dependent
+variable.
+12.4 Testing the Significance of the Correlation
+Coefficient
+Least Squares Line or Line of Best Fit:
+y^ = a + bx
+where
+a = y-intercept
+b = slope
+Standard deviation of the residuals:
+s =
+SEE
+n − 2.
+where
+SSE = sum of squared errors
+n = the number of data points
+PRACTICE
+12.1 Linear Equations
+Use the following information to answer the next three exercises. A vacation resort rents SCUBA equipment to certified
+divers. The resort charges an up-front fee of $25 and another fee of $12.50 an hour.
+1. What are the dependent and independent variables?
+712
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+2. Find the equation that expresses the total fee in terms of the number of hours the equipment is rented.
+3. Graph the equation from Exercise 12.2.
+Use the following information to answer the next two exercises. A credit card company charges $10 when a payment is late,
+and $5 a day each day the payment remains unpaid.
+4. Find the equation that expresses the total fee in terms of the number of days the payment is late.
+5. Graph the equation from Exercise 12.4.
+6. Is the equation y = 10 + 5x – 3x2 linear? Why or why not?
+7. Which of the following equations are linear?
+a. y = 6x + 8
+b. y + 7 = 3x
+c. y – x = 8x2
+d. 4y = 8
+8. Does the graph show a linear equation? Why or why not?
+Figure 12.25
+Table 12.12 contains real data for the first two decades of flu reporting.
+Year
+# flu cases diagnosed # flu deaths
+Pre-1981 91
+29
+1981
+319
+121
+1982
+1,170
+453
+1983
+3,076
+1,482
+1984
+6,240
+3,466
+1985
+11,776
+6,878
+1986
+19,032
+11,987
+1987
+28,564
+16,162
+1988
+35,447
+20,868
+Table 12.12 Adults and Adolescents only,
+United States
+Chapter 12 | Linear Regression and Correlation
+713
