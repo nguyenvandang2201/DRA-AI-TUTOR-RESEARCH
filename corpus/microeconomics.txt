@@ -2863,3 +2863,191 @@ TABLE 8.13
 210
 8 • Self-Check Questions
 Access for free at openstax.org
+
+4. Suppose that the market price increases to $6, as Table 8.14 shows. What would happen to the profit-
+maximizing output level?
+Quantity
+Total Cost
+Fixed Cost
+Variable Cost
+Marginal Cost
+Total Revenue
+Marginal Revenue
+0
+$62
+$62
+-
+-
+$0
+-
+10
+$90
+$62
+$28
+$2.80
+$60
+$6.00
+20
+$110
+$62
+$48
+$2.00
+$120
+$6.00
+30
+$126
+$62
+$64
+$1.60
+$180
+$6.00
+40
+$144
+$62
+$82
+$1.80
+$240
+$6.00
+50
+$166
+$62
+$104
+$2.20
+$300
+$6.00
+60
+$192
+$62
+$130
+$2.60
+$360
+$6.00
+70
+$224
+$62
+$162
+$3.20
+$420
+$6.00
+80
+$264
+$62
+$202
+$4.00
+$480
+$6.00
+90
+$324
+$62
+$262
+$6.00
+$540
+$6.00
+100
+$404
+$62
+$342
+$8.00
+$600
+$6.00
+TABLE 8.14
+5. Explain in words why a profit-maximizing firm will not choose to produce at a quantity where marginal
+cost exceeds marginal revenue.
+6. A firm’s marginal cost curve above the average variable cost curve is equal to the firm’s individual supply
+curve. This means that every time a firm receives a price from the market it will be willing to supply the
+amount of output where the price equals marginal cost. What happens to the firm’s individual supply
+curve if marginal costs increase?
+7. If new technology in a perfectly competitive market brings about a substantial reduction in costs of
+production, how will this affect the market?
+8. A market in perfect competition is in long-run equilibrium. What happens to the market if labor unions
+are able to increase wages for workers?
+9. Productive efficiency and allocative efficiency are two concepts achieved in the long run in a perfectly
+competitive market. These are the two reasons why we call them “perfect.” How would you use these two
+concepts to analyze other market structures and label them “imperfect?”
+10. Explain how the profit-maximizing rule of setting P = MC leads a perfectly competitive market to be
+allocatively efficient.
+Review Questions
+11. A single firm in a perfectly competitive market is relatively small compared to the rest of the market. What
+does this mean? How “small” is “small”?
+12. What are the four basic assumptions of perfect competition? Explain in words what they imply for a
+perfectly competitive firm.
+8 • Review Questions
+211
+
+13. What is a “price taker” firm?
+14. How does a perfectly competitive firm decide what price to charge?
+15. What prevents a perfectly competitive firm from seeking higher profits by increasing the price that it
+charges?
+16. How does a perfectly competitive firm calculate total revenue?
+17. Briefly explain the reason for the shape of a marginal revenue curve for a perfectly competitive firm.
+18. What two rules does a perfectly competitive firm apply to determine its profit-maximizing quantity of
+output?
+19. How does the average cost curve help to show whether a firm is making profits or losses?
+20. What two lines on a cost curve diagram intersect at the zero-profit point?
+21. Should a firm shut down immediately if it is making losses?
+22. How does the average variable cost curve help a firm know whether it should shut down immediately?
+23. What two lines on a cost curve diagram intersect at the shutdown point?
+24. Why does entry occur?
+25. Why does exit occur?
+26. Do entry and exit occur in the short run, the long run, both, or neither?
+27. What price will a perfectly competitive firm end up charging in the long run? Why?
+28. Will a perfectly competitive market display productive efficiency? Why or why not?
+29. Will a perfectly competitive market display allocative efficiency? Why or why not?
+Critical Thinking Questions
+30. Finding a life partner is a complicated process that may take many years. It is hard to think of this process
+as being part of a very complex market, with a demand and a supply for partners. Think about how this
+market works and some of its characteristics, such as search costs. Would you consider it a perfectly
+competitive market?
+31. Can you name five examples of perfectly competitive markets? Why or why not?
+32. Your company operates in a perfectly competitive market. You have been told that advertising can help
+you increase your sales in the short run. Would you create an aggressive advertising campaign for your
+product?
+33. Since a perfectly competitive firm can sell as much as it wishes at the market price, why can the firm not
+simply increase its profits by selling an extremely high quantity?
+34. Many firms in the United States file for bankruptcy every year, yet they still continue operating. Why would
+they do this instead of completely shutting down?
+35. Why will profits for firms in a perfectly competitive industry tend to vanish in the long run?
+36. Why will losses for firms in a perfectly competitive industry tend to vanish in the long run?
+37. Assuming that the market for cigarettes is in perfect competition, what does allocative and productive
+efficiency imply in this case? What does it not imply?
+212
+8 • Critical Thinking Questions
+Access for free at openstax.org
+
+38. In the argument for why perfect competition is allocatively efficient, the price that people are willing to
+pay represents the gains to society and the marginal cost to the firm represents the costs to society. Can
+you think of some social costs or issues that are not included in the marginal cost to the firm? Or some
+social gains that are not included in what people pay for a good?
+Problems
+39. The AAA Aquarium Co. sells aquariums for $20 each. Fixed costs of production are $20. The total variable
+costs are $20 for one aquarium, $25 for two units, $35 for the three units, $50 for four units, and $80 for
+five units. In the form of a table, calculate total revenue, marginal revenue, total cost, and marginal cost for
+each output level (one to five units). What is the profit-maximizing quantity of output? On one diagram,
+sketch the total revenue and total cost curves. On another diagram, sketch the marginal revenue and
+marginal cost curves.
+40. Perfectly competitive firm Doggies Paradise Inc. sells winter coats for dogs. Dog coats sell for $72 each.
+The fixed costs of production are $100. The total variable costs are $64 for one unit, $84 for two units,
+$114 for three units, $184 for four units, and $270 for five units. In the form of a table, calculate total
+revenue, marginal revenue, total cost and marginal cost for each output level (one to five units). On one
+diagram, sketch the total revenue and total cost curves. On another diagram, sketch the marginal revenue
+and marginal cost curves. What is the profit maximizing quantity?
+41. A computer company produces affordable, easy-to-use home computer systems and has fixed costs of
+$250. The marginal cost of producing computers is $700 for the first computer, $250 for the second, $300
+for the third, $350 for the fourth, $400 for the fifth, $450 for the sixth, and $500 for the seventh.
+a.
+Create a table that shows the company’s output, total cost, marginal cost, average cost, variable cost,
+and average variable cost.
+b.
+At what price is the zero-profit point? At what price is the shutdown point?
+c.
+If the company sells the computers for $500, is it making a profit or a loss? How big is the profit or
+loss? Sketch a graph with AC, MC, and AVC curves to illustrate your answer and show the profit or loss.
+d.
+If the firm sells the computers for $300, is it making a profit or a loss? How big is the profit or loss?
+Sketch a graph with AC, MC, and AVC curves to illustrate your answer and show the profit or loss.
+8 • Problems
+213
+
+214
+8 • Problems
+Access for free at openstax.org
