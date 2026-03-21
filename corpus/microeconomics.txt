@@ -2655,3 +2655,211 @@ Allocative efficiency means that among the points on the production possibility 
 206
 8 • Perfect Competition
 Access for free at openstax.org
+
+socially preferred—at least in a particular and specific sense. In a perfectly competitive market, price will be
+equal to the marginal cost of production. Think about the price that one pays for a good as a measure of the
+social benefit one receives for that good; after all, willingness to pay conveys what the good is worth to a buyer.
+Then think about the marginal cost of producing the good as representing not just the cost for the firm, but
+more broadly as the social cost of producing that good. When perfectly competitive firms follow the rule that
+profits are maximized by producing at the quantity where price is equal to marginal cost, they are thus
+ensuring that the social benefits they receive from producing a good are in line with the social costs of
+production.
+To explore what economists mean by allocative efficiency, it is useful to walk through an example. Begin by
+assuming that the market for wholesale flowers is perfectly competitive, and so P = MC. Now, consider what it
+would mean if firms in that market produced a lesser quantity of flowers. At a lesser quantity, marginal costs
+will not yet have increased as much, so that price will exceed marginal cost; that is, P > MC. In that situation,
+the benefit to society as a whole of producing additional goods, as measured by the willingness of consumers
+to pay for marginal units of a good, would be higher than the cost of the inputs of labor and physical capital
+needed to produce the marginal good. In other words, the gains to society as a whole from producing
+additional marginal units will be greater than the costs.
+Conversely, consider what it would mean if, compared to the level of output at the allocatively efficient choice
+when P = MC, firms produced a greater quantity of flowers. At a greater quantity, marginal costs of production
+will have increased so that P < MC. In that case, the marginal costs of producing additional flowers is greater
+than the benefit to society as measured by what people are willing to pay. For society as a whole, since the costs
+are outstripping the benefits, it will make sense to produce a lower quantity of such goods.
+When perfectly competitive firms maximize their profits by producing the quantity where P = MC, they also
+assure that the benefits to consumers of what they are buying, as measured by the price they are willing to pay,
+is equal to the costs to society of producing the marginal units, as measured by the marginal costs the firm
+must pay—and thus that allocative efficiency holds.
+We should view the statements that a perfectly competitive market in the long run will feature both productive
+and allocative efficiency with a degree of skepticism about its truth. Remember, economists are using the
+concept of “efficiency” in a particular and specific sense, not as a synonym for “desirable in every way.” For
+one thing, consumers’ ability to pay reflects the income distribution in a particular society. For example, a
+person with a low income may not be able to purchase their own car because they have insufficient income.
+Perfect competition, in the long run, is a hypothetical benchmark. For market structures such as monopoly,
+monopolistic competition, and oligopoly, which are more frequently observed in the real world than perfect
+competition, firms will not always produce at the minimum of average cost, nor will they always set price equal
+to marginal cost. Thus, these other competitive situations will not produce productive and allocative efficiency.
+Moreover, real-world markets include many issues that are assumed away in the model of perfect competition,
+including pollution, inventions of new technology, poverty which may make some people unable to pay for
+basic necessities of life, government programs like national defense or education, discrimination in labor
+markets, and buyers and sellers who must deal with imperfect and unclear information. We explore these
+issues in other chapters. However, the theoretical efficiency of perfect competition does provide a useful
+benchmark for comparing the issues that arise from these real-world problems.
+A Dime a Dozen
+A quick glance at Table 8.12 reveals the dramatic increase in North Dakota corn production—almost a tenfold
+increase since 1972. Recent allocation of land to corn (as of mid-2019) is estimated to have increased to more than
+BRING IT HOME
+8.4 • Efficiency in Perfectly Competitive Markets
+207
+
+4 million acres. Taking into consideration that corn typically yields two to three times as many bushels per acre as
+wheat, it is obvious there has been a significant increase in bushels of corn. Why the increase in corn acreage?
+Converging prices.
+Year
+Corn (millions of acres)
+1972
+495,000
+2013
+3,850,000
+TABLE 8.12 (Source: USDA
+National Agricultural Statistics
+Service)
+Historically, wheat prices have been higher than corn prices, offsetting wheat’s lower yield per acre. However, in
+recent years wheat and corn prices have been converging. In April 2013, Agweek reported the gap was just 71 cents
+per bushel. As the difference in price narrowed, switching to the production of higher yield per acre of corn simply
+made good business sense. Erik Younggren, president of the National Association of Wheat Growers said in the
+Agweek article, “I don't think we're going to see mile after mile of waving amber fields [of wheat] anymore." (Until
+wheat prices rise, we will probably be seeing field after field of tasseled corn.)
+208
+8 • Perfect Competition
+Access for free at openstax.org
+
+Key Terms
+break even point level of output where the marginal cost curve intersects the average cost curve at the
+minimum point of AC; if the price is at this point, the firm is earning zero economic profits
+entry the long-run process of firms entering an industry in response to industry profits
+exit the long-run process of firms reducing production and shutting down in response to industry losses
+long-run equilibrium where all firms earn zero economic profits producing the output level where P = MR =
+MC and P = AC
+marginal revenue the additional revenue gained from selling one more unit
+market structure the conditions in an industry, such as number of sellers, how easy or difficult it is for a new
+firm to enter, and the type of products that are sold
+perfect competition each firm faces many competitors that sell identical products
+price taker a firm in a perfectly competitive market that must take the prevailing market price as given
+shutdown point level of output where the marginal cost curve intersects the average variable cost curve at the
+minimum point of AVC; if the price is below this point, the firm should shut down immediately
+Key Concepts and Summary
+8.1 Perfect Competition and Why It Matters
+A perfectly competitive firm is a price taker, which means that it must accept the equilibrium price at which it
+sells goods. If a perfectly competitive firm attempts to charge even a tiny amount more than the market price,
+it will be unable to make any sales. In a perfectly competitive market there are thousands of sellers, easy entry,
+and identical products. A short-run production period is when firms are producing with some fixed inputs.
+Long-run equilibrium in a perfectly competitive industry occurs after all firms have entered and exited the
+industry and seller profits are driven to zero.
+Perfect competition means that there are many sellers, there is easy entry and exiting of firms, products are
+identical from one seller to another, and sellers are price takers.
+8.2 How Perfectly Competitive Firms Make Output Decisions
+As a perfectly competitive firm produces a greater quantity of output, its total revenue steadily increases at a
+constant rate determined by the given market price. Profits will be highest (or losses will be smallest) at the
+quantity of output where total revenues exceed total costs by the greatest amount (or where total revenues fall
+short of total costs by the smallest amount). Alternatively, profits will be highest where marginal revenue,
+which is price for a perfectly competitive firm, is equal to marginal cost. If the market price faced by a perfectly
+competitive firm is above average cost at the profit-maximizing quantity of output, then the firm is making
+profits. If the market price is below average cost at the profit-maximizing quantity of output, then the firm is
+making losses.
+If the market price is equal to average cost at the profit-maximizing level of output, then the firm is making
+zero profits. We call the point where the marginal cost curve crosses the average cost curve, at the minimum of
+the average cost curve, the “zero profit point.” If the market price that a perfectly competitive firm faces is
+below average variable cost at the profit-maximizing quantity of output, then the firm should shut down
+operations immediately. If the market price that a perfectly competitive firm faces is above average variable
+cost, but below average cost, then the firm should continue producing in the short run, but exit in the long run.
+We call the point where the marginal cost curve crosses the average variable cost curve the shutdown point.
+8.3 Entry and Exit Decisions in the Long Run
+In the long run, firms will respond to profits through a process of entry, where existing firms expand output
+and new firms enter the market. Conversely, firms will react to losses in the long run through a process of exit,
+in which existing firms cease production altogether. Through the process of entry in response to profits and
+exit in response to losses, the price level in a perfectly competitive market will move toward the zero-profit
+8 • Key Terms
+209
+
+point, where the marginal cost curve crosses the AC curve at the minimum of the average cost curve.
+The long-run supply curve shows the long-run output supplied by firms in three different types of industries:
+constant cost, increasing cost, and decreasing cost.
+8.4 Efficiency in Perfectly Competitive Markets
+Long-run equilibrium in perfectly competitive markets meets two important conditions: allocative efficiency
+and productive efficiency. These two conditions have important implications. First, resources are allocated to
+their best alternative use. Second, they provide the maximum satisfaction attainable by society.
+Self-Check Questions
+1. Firms in a perfectly competitive market are said to be “price takers”—that is, once the market determines
+an equilibrium price for the product, firms must accept this price. If you sell a product in a perfectly
+competitive market, but you are not happy with its price, would you raise the price, even by a cent?
+2. Would independent trucking fit the characteristics of a perfectly competitive industry?
+3. Look at Table 8.13. What would happen to the firm’s profits if the market price increases to $6 per pack of
+raspberries?
+Quantity
+Total Cost
+Fixed Cost
+Variable Cost
+Total Revenue
+Profit
+0
+$62
+$62
+-
+$0
+−$62
+10
+$90
+$62
+$28
+$60
+−$30
+20
+$110
+$62
+$48
+$120
+$10
+30
+$126
+$62
+$64
+$180
+$54
+40
+$144
+$62
+$82
+$240
+$96
+50
+$166
+$62
+$104
+$300
+$134
+60
+$192
+$62
+$130
+$360
+$168
+70
+$224
+$62
+$162
+$420
+$196
+80
+$264
+$62
+$202
+$480
+$216
+90
+$324
+$62
+$262
+$540
+$216
+100
+$404
+$62
+$342
+$600
+$196
+TABLE 8.13
+210
+8 • Self-Check Questions
+Access for free at openstax.org
