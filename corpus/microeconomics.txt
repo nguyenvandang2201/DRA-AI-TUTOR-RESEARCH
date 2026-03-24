@@ -3194,3 +3194,186 @@ diamonds. Although in recent years they have experienced growing competition, th
 218
 9 • Monopoly
 Access for free at openstax.org
+
+diamond market is still considerable.
+Legal Monopoly
+For some products, the government erects barriers to entry by prohibiting or limiting competition. Under U.S.
+law, no organization but the U.S. Postal Service is legally allowed to deliver first-class mail. Many states or cities
+have laws or regulations that allow households a choice of only one electric company, one water company, and
+one company to pick up the garbage. Most legal monopolies are utilities—products necessary for everyday
+life—that are socially beneficial. As a consequence, the government allows producers to become regulated
+monopolies, to ensure that customers have access to an appropriate amount of these products or services.
+Additionally, legal monopolies are often subject to economies of scale, so it makes sense to allow only one
+provider.
+Promoting Innovation
+Innovation takes time and resources to achieve. Suppose a company invests in research and development and
+finds the cure for the common cold. In this world of near ubiquitous information, other companies could take
+the formula, produce the drug, and because they did not incur the costs of research and development (R&D),
+undercut the price of the company that discovered the drug. Given this possibility, many firms would choose
+not to invest in research and development, and as a result, the world would have less innovation. To prevent
+this from happening, the Constitution of the United States specifies in Article I, Section 8: “The Congress shall
+have Power . . . to Promote the Progress of Science and Useful Arts, by securing for limited Times to Authors
+and Inventors the Exclusive Right to their Writings and Discoveries.” Congress used this power to create the
+U.S. Patent and Trademark Office, as well as the U.S. Copyright Office. A patent gives the inventor the exclusive
+legal right to make, use, or sell the invention for a limited time. In the United States, exclusive patent rights last
+for 20 years. The idea is to provide limited monopoly power so that innovative firms can recoup their
+investment in R&D, but then to allow other firms to produce the product more cheaply once the patent expires.
+A trademark is an identifying symbol or name for a particular good, like Chiquita bananas, Chevrolet cars, or
+the Nike “swoosh” that appears on shoes and athletic gear. Between 2003 and 2019, roughly 6.8 million
+trademarks were registered with the U.S. government. A firm can renew a trademark repeatedly, as long as it
+remains in active use.
+A copyright, according to the U.S. Copyright Office, “is a form of protection provided by the laws of the United
+States for ‘original works of authorship’ including literary, dramatic, musical, architectural, cartographic,
+choreographic, pantomimic, pictorial, graphic, sculptural, and audiovisual creations.” No one can reproduce,
+display, or perform a copyrighted work without the author's permission. Copyright protection ordinarily lasts
+for the life of the author plus 70 years.
+Roughly speaking, patent law covers inventions and copyright protects books, songs, and art. However, in
+certain areas, like the invention of new software, it has been unclear whether patent or copyright protection
+should apply. There is also a body of law known as trade secrets. Even if a company does not have a patent on
+an invention, competing firms are not allowed to steal their secrets. One famous trade secret is the formula for
+Coca-Cola, which is not protected under copyright or patent law, but is simply kept secret by the company.
+Taken together, we call this combination of patents, trademarks, copyrights, and trade secret law intellectual
+property, because it implies ownership over an idea, concept, or image, not a physical piece of property like a
+house or a car. Countries around the world have enacted laws to protect intellectual property, although the
+time periods and exact provisions of such laws vary across countries. There are ongoing negotiations, both
+through the World Intellectual Property Organization (WIPO) and through international treaties, to bring
+greater harmony to the intellectual property laws of different countries to determine the extent to which those
+in other countries will respect patents and copyrights of those in other countries.
+Government limitations on competition used to be more common in the United States. For most of the
+9.1 • How Monopolies Form: Barriers to Entry
+219
+
+twentieth century, only one phone company—AT&T—was legally allowed to provide local and long distance
+service. From the 1930s to the 1970s, one set of federal regulations limited which destinations airlines could
+choose to fly to and what fares they could charge. Another set of regulations limited the interest rates that
+banks could pay to depositors; yet another specified how much trucking firms could charge customers.
+What products we consider utilities depends, in part, on the available technology. Fifty years ago, telephone
+companies provided local and long distance service over wires. It did not make much sense to have many
+companies building multiple wiring systems across towns and the entire country. AT&T lost its monopoly on
+long distance service when the technology for providing phone service changed from wires to microwave and
+satellite transmission, so that multiple firms could use the same transmission mechanism. The same thing
+happened to local service, especially in recent years, with the growth in cellular phone systems.
+The combination of improvements in production technologies and a general sense that the markets could
+provide services adequately led to a wave of deregulation, starting in the late 1970s and continuing into the
+1990s. This wave eliminated or reduced government restrictions on the firms that could enter, the prices that
+they could charge, and the quantities that many industries could produce, including telecommunications,
+airlines, trucking, banking, and electricity.
+Around the world, from Europe to Latin America to Africa and Asia, many governments continue to control
+and limit competition in what those governments perceive to be key industries, including airlines, banks, steel
+companies, oil companies, and telephone companies.
+LINK IT UP
+Vist this website (http://openstax.org/l/patents) for examples of some pretty bizarre patents.
+Intimidating Potential Competition
+Businesses have developed a number of schemes for creating barriers to entry by deterring potential
+competitors from entering the market. One method is known as predatory pricing, in which a firm uses the
+threat of sharp price cuts to discourage competition. Predatory pricing is a violation of U.S. antitrust law, but it
+is difficult to prove.
+Consider a large airline that provides most of the flights between two particular cities. A new, small start-up
+airline decides to offer service between these two cities. The large airline immediately slashes prices on this
+route to the bone, so that the new entrant cannot make any money. After the new entrant has gone out of
+business, the incumbent firm can raise prices again.
+After the company repeats this pattern once or twice, potential new entrants may decide that it is not wise to
+try to compete. Small airlines often accuse larger airlines of predatory pricing: in the early 2000s, for example,
+ValuJet accused Delta of predatory pricing, Frontier accused United, and Reno Air accused Northwest. In 2015,
+the Justice Department ruled against American Express and Mastercard for imposing restrictions on retailers
+that encouraged customers to use lower swipe fees on credit transactions.
+In some cases, large advertising budgets can also act as a way of discouraging the competition. If the only way
+to launch a successful new national cola drink is to spend more than the promotional budgets of Coca-Cola and
+Pepsi Cola, not too many companies will try. A firmly established brand name can be difficult to dislodge.
+Summing Up Barriers to Entry
+Table 9.1 lists the barriers to entry that we have discussed. This list is not exhaustive, since firms have proved
+to be highly creative in inventing business practices that discourage competition. When barriers to entry exist,
+perfect competition is no longer a reasonable description of how an industry works. When barriers to entry are
+high enough, monopoly can result.
+220
+9 • Monopoly
+Access for free at openstax.org
+
+Barrier to Entry
+Government Role?
+Example
+Natural monopoly
+Government often responds with regulation
+(or ownership)
+Water and electric companies
+Control of a physical
+resource
+No
+DeBeers for diamonds
+Legal monopoly
+Yes
+Post office, past regulation of airlines
+and trucking
+Patent, trademark, and
+copyright
+Yes, through protection of intellectual
+property
+New drugs or software
+Intimidating potential
+competitors
+Somewhat
+Predatory pricing; well-known brand
+names
+TABLE 9.1 Barriers to Entry
+9.2 How a Profit-Maximizing Monopoly Chooses Output and Price
+LEARNING OBJECTIVES
+By the end of this section, you will be able to:
+•
+Explain the perceived demand curve for a perfect competitor and a monopoly
+•
+Analyze a demand curve for a monopoly and determine the output that maximizes profit and revenue
+•
+Calculate marginal revenue and marginal cost
+•
+Explain allocative efficiency as it pertains to the efficiency of a monopoly
+Consider a monopoly firm, comfortably surrounded by barriers to entry so that it need not fear competition
+from other producers. How will this monopoly choose its profit-maximizing quantity of output, and what price
+will it charge? Profits for the monopolist, like any firm, will be equal to total revenues minus total costs. We can
+analyze the pattern of costs for the monopoly within the same framework as the costs of a perfectly
+competitive firm—that is, by using total cost, fixed cost, variable cost, marginal cost, average cost, and average
+variable cost. However, because a monopoly faces no competition, its situation and its decision process will
+differ from that of a perfectly competitive firm. (The Clear It Up feature discusses how hard it is sometimes to
+define “market” in a monopoly situation.)
+Demand Curves Perceived by a Perfectly Competitive Firm and by a Monopoly
+A perfectly competitive firm acts as a price taker, so we calculate total revenue taking the given market price
+and multiplying it by the quantity of output that the firm chooses. The demand curve as it is perceived by a
+perfectly competitive firm appears in Figure 9.3 (a). The flat perceived demand curve means that, from the
+viewpoint of the perfectly competitive firm, it could sell either a relatively low quantity like Ql or a relatively
+high quantity like Qh at the market price P.
+9.2 • How a Profit-Maximizing Monopoly Chooses Output and Price
+221
+
+FIGURE 9.3 The Perceived Demand Curve for a Perfect Competitor and a Monopolist (a) A perfectly competitive
+firm perceives the demand curve that it faces to be flat. The flat shape means that the firm can sell either a low
+quantity (Ql) or a high quantity (Qh) at exactly the same price (P). (b) A monopolist perceives the demand curve that
+it faces to be the same as the market demand curve, which for most goods is downward-sloping. Thus, if the
+monopolist chooses a high level of output (Qh), it can charge only a relatively low price (PI). Conversely, if the
+monopolist chooses a low level of output (Ql), it can then charge a higher price (Ph). The challenge for the
+monopolist is to choose the combination of price and quantity that maximizes profits.
+What defines the market?
+A monopoly is a firm that sells all or nearly all of the goods and services in a given market. However, what defines
+the “market”?
+In a famous 1947 case, the federal government accused the DuPont company of having a monopoly in the
+cellophane market, pointing out that DuPont produced 75% of the cellophane in the United States. DuPont
+countered that even though it had a 75% market share in cellophane, it had less than a 20% share of the “flexible
+packaging materials,” which includes all other moisture-proof papers, films, and foils. In 1956, after years of legal
+appeals, the U.S. Supreme Court held that the broader market definition was more appropriate, and it dismissed the
+case against DuPont.
+Questions over how to define the market continue today. True, Microsoft in the 1990s had a dominant share of the
+software for computer operating systems, but in the total market for all computer software and services, including
+everything from games to scientific programs, the Microsoft share was only about 14% in 2014. The Greyhound bus
+company may have a near-monopoly on the market for intercity bus transportation, but it is only a small share of the
+market for intercity transportation if that market includes private cars, airplanes, and railroad service. DeBeers has a
+monopoly in diamonds, but it is a much smaller share of the total market for precious gemstones and an even
+smaller share of the total market for jewelry. A small town in the country may have only one gas station: is this gas
+station a “monopoly,” or does it compete with gas stations that might be five, 10, or 50 miles away?
+In general, if a firm produces a product without close substitutes, then we can consider the firm a monopoly
+producer in a single market. However, if buyers have a range of similar—even if not identical—options available from
+other firms, then the firm is not a monopoly. Still, arguments over whether substitutes are close or not close can be
+controversial.
+While a monopolist can charge any price for its product, nonetheless the demand for the firm’s product
+constrains the price. No monopolist, even one that is thoroughly protected by high barriers to entry, can
+CLEAR IT UP
+222
+9 • Monopoly
+Access for free at openstax.org
