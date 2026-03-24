@@ -3362,3 +3362,237 @@ g.
 What is the slope of the least squares (best-fit) line? Interpret the slope.
 Chapter 12 | Linear Regression and Correlation
 721
+
+68. Table 12.20 shows the life expectancy for an individual born in the United States in certain years.
+Year of Birth
+Life Expectancy
+1930
+59.7
+1940
+62.9
+1950
+70.2
+1965
+69.7
+1973
+71.4
+1982
+74.5
+1987
+75
+1992
+75.7
+2010
+78.7
+Table 12.20
+a.
+Decide which variable should be the independent variable and which should be the dependent variable.
+b.
+Draw a scatter plot of the ordered pairs.
+c.
+Calculate the least squares line. Put the equation in the form of: ŷ = a + bx
+d.
+Find the correlation coefficient. Is it significant?
+e.
+Find the estimated life expectancy for an individual born in 1950 and for one born in 1982.
+f.
+Why aren’t the answers to part e the same as the values in Table 12.20 that correspond to those years?
+g.
+Use the two points in part e to plot the least squares line on your graph from part b.
+h.
+Based on the data, is there a linear relationship between the year of birth and life expectancy?
+i.
+Are there any outliers in the data?
+j.
+Using the least squares line, find the estimated life expectancy for an individual born in 1850. Does the least
+squares line give an accurate estimate for that year? Explain why or why not.
+k.
+What is the slope of the least-squares (best-fit) line? Interpret the slope.
+722
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+69. The maximum discount value of the Entertainment® card for the “Fine Dining” section, Edition ten, for various pages
+is given in Table 12.21
+Page number
+Maximum value ($)
+4
+16
+14
+19
+25
+15
+32
+17
+43
+19
+57
+15
+72
+16
+85
+15
+90
+17
+Table 12.21
+a.
+Decide which variable should be the independent variable and which should be the dependent variable.
+b.
+Draw a scatter plot of the ordered pairs.
+c.
+Calculate the least-squares line. Put the equation in the form of: ŷ = a + bx
+d.
+Find the correlation coefficient. Is it significant?
+e.
+Find the estimated maximum values for the restaurants on page ten and on page 70.
+f.
+Does it appear that the restaurants giving the maximum value are placed in the beginning of the “Fine Dining”
+section? How did you arrive at your answer?
+g.
+Suppose that there were 200 pages of restaurants. What do you estimate to be the maximum value for a restaurant
+listed on page 200?
+h.
+Is the least squares line valid for page 200? Why or why not?
+i.
+What is the slope of the least-squares (best-fit) line? Interpret the slope.
+Chapter 12 | Linear Regression and Correlation
+723
+
+70. Table 12.22 gives the gold medal times for every other Summer Olympics for the women’s 100-meter freestyle
+(swimming).
+Year
+Time (seconds)
+1912
+82.2
+1924
+72.4
+1932
+66.8
+1952
+66.8
+1960
+61.2
+1968
+60.0
+1976
+55.65
+1984
+55.92
+1992
+54.64
+2000
+53.8
+2008
+53.1
+Table 12.22
+a.
+Decide which variable should be the independent variable and which should be the dependent variable.
+b.
+Draw a scatter plot of the data.
+c.
+Does it appear from inspection that there is a relationship between the variables? Why or why not?
+d.
+Calculate the least squares line. Put the equation in the form of: ŷ = a + bx.
+e.
+Find the correlation coefficient. Is the decrease in times significant?
+f.
+Find the estimated gold medal time for 1932. Find the estimated time for 1984.
+g.
+Why are the answers from part f different from the chart values?
+h.
+Does it appear that a line is the best way to fit the data? Why or why not?
+i.
+Use the least-squares line to estimate the gold medal time for the next Summer Olympics. Do you think that your
+answer is reasonable? Why or why not?
+724
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+71.
+State
+# letters in
+name
+Year entered the
+Union
+Rank for entering the
+Union
+Area (square
+miles)
+Alabama
+7
+1819
+22
+52,423
+Colorado
+8
+1876
+38
+104,100
+Hawaii
+6
+1959
+50
+10,932
+Iowa
+4
+1846
+29
+56,276
+Maryland
+8
+1788
+7
+12,407
+Missouri
+8
+1821
+24
+69,709
+New Jersey
+9
+1787
+3
+8,722
+Ohio
+4
+1803
+17
+44,828
+South
+Carolina
+13
+1788
+8
+32,008
+Utah
+4
+1896
+45
+84,904
+Wisconsin
+9
+1848
+30
+65,499
+Table 12.23
+We are interested in whether or not the number of letters in a state name depends upon the year the state entered the Union.
+a.
+Decide which variable should be the independent variable and which should be the dependent variable.
+b.
+Draw a scatter plot of the data.
+c.
+Does it appear from inspection that there is a relationship between the variables? Why or why not?
+d.
+Calculate the least-squares line. Put the equation in the form of: ŷ = a + bx.
+e.
+Find the correlation coefficient. What does it imply about the significance of the relationship?
+f.
+Find the estimated number of letters (to the nearest integer) a state would have if it entered the Union in 1900.
+Find the estimated number of letters a state would have if it entered the Union in 1940.
+g.
+Does it appear that a line is the best way to fit the data? Why or why not?
+h.
+Use the least-squares line to estimate the number of letters a new state that enters the Union this year would have.
+Can the least squares line be used to predict it? Why or why not?
+Chapter 12 | Linear Regression and Correlation
+725
