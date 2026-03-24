@@ -3127,3 +3127,238 @@ Table 12.14 Adults and Adolescents only,
 United States
 Chapter 12 | Linear Regression and Correlation
 717
+
+1996
+59,347
+38,510
+1997
+47,149
+20,736
+1998
+38,393
+19,005
+1999
+25,174
+18,454
+2000
+25,522
+17,347
+2001
+25,643
+17,402
+2002
+26,464
+16,371
+Total
+802,118
+489,093
+Table 12.14 Adults and Adolescents only,
+United States
+36. Graph “year” versus “# flu cases diagnosed” (plot the scatter plot). Do not include pre-1981 data.
+37. Perform linear regression. What is the linear equation? Round to the nearest whole number.
+38. Find the correlation coefficient.
+a.
+r = ________
+39. Solve.
+a.
+When x = 1985, ŷ = _____
+b.
+When x = 1990, ŷ =_____
+c.
+When x = 1970, ŷ =______ Why doesn’t this answer make sense?
+40. Does the line seem to fit the data? Why or why not?
+41. What does the correlation imply about the relationship between time (years) and the number of diagnosed flu cases
+reported in the U.S.?
+42. Plot the two given points on the following graph. Then, connect the two points to form the regression line.
+Figure 12.29
+Obtain the graph on your calculator or computer.
+43. Write the equation: ŷ= ____________
+44. Hand draw a smooth curve on the graph that shows the flow of the data.
+45. Does the line seem to fit the data? Why or why not?
+46. Do you think a linear fit is best? Why or why not?
+47. What does the correlation imply about the relationship between time (years) and the number of diagnosed flu cases
+reported in the U.S.?
+718
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+48. Graph “year” vs. “# flu cases diagnosed.” Do not include pre-1981. Label both axes with words. Scale both axes.
+49. Enter your data into your calculator or computer. The pre-1981 data should not be included. Why is that so?
+Write the linear equation, rounding to four decimal places:
+50. Find the correlation coefficient.
+a.
+correlation = _____
+12.6 Outliers
+Use the following information to answer the next four exercises. The scatter plot shows the relationship between hours spent
+studying and exam scores. The line shown is the calculated line of best fit. The correlation coefficient is 0.69.
+Figure 12.30
+51. Do there appear to be any outliers?
+52. A point is removed, and the line of best fit is recalculated. The new correlation coefficient is 0.98. Does the point appear
+to have been an outlier? Why?
+53. What effect did the potential outlier have on the line of best fit?
+54. Are you more or less confident in the predictive ability of the new line of best fit?
+55. The Sum of Squared Errors for a data set of 18 numbers is 49. What is the standard deviation?
+56. The Standard Deviation for the Sum of Squared Errors for a data set is 9.8. What is the cutoff for the vertical distance
+that a point can be from the line of best fit to be considered an outlier?
+HOMEWORK
+12.1 Linear Equations
+57. For each of the following situations, state the independent variable and the dependent variable.
+a.
+A study is done to determine if elderly drivers are involved in more motor vehicle fatalities than other drivers.
+The number of fatalities per 100,000 drivers is compared to the age of drivers.
+b.
+A study is done to determine if the weekly grocery bill changes based on the number of family members.
+c.
+Insurance companies base life insurance premiums partially on the age of the applicant.
+d.
+Utility bills vary according to power consumption.
+e.
+A study is done to determine if a higher education reduces the crime rate in a population.
+Chapter 12 | Linear Regression and Correlation
+719
+
+58. Piece-rate systems are widely debated incentive payment plans. In a recent study of loan officer effectiveness, the
+following piece-rate system was examined:
+% of
+goal
+reached
+<
+80 80
+100
+120
+Incentive n/
+a
+$4,000 with an additional
+$125 added per percentage
+point from 81–99%
+$6,500 with an additional $125
+added per percentage point
+from 101–119%
+$9,500 with an additional $125
+added per percentage point
+starting at 121%
+Table 12.15
+If a loan officer makes 95% of his or her goal, write the linear function that applies based on the incentive plan table. In
+context, explain the y-intercept and slope.
+12.2 Scatter Plots
+59. The Gross Domestic Product Purchasing Power Parity is an indication of a country’s currency value compared to
+another country. Table 12.16 shows the GDP PPP of Cuba as compared to US dollars. Construct a scatter plot of the data.
+Year
+Cuba’s PPP
+Year
+Cuba’s PPP
+1999
+1,700
+2006
+4,000
+2000
+1,700
+2007
+11,000
+2002
+2,300
+2008
+9,500
+2003
+2,900
+2009
+9,700
+2004
+3,000
+2010
+9,900
+2005
+3,500
+Table 12.16
+60. The following table shows the poverty rates and cell phone usage in the United States. Construct a scatter plot of the
+data
+Year
+Poverty Rate
+Cellular Usage per Capita
+2003
+12.7
+54.67
+2005
+12.6
+74.19
+2007
+12
+84.86
+2009
+12
+90.82
+Table 12.17
+720
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+61. Does the higher cost of tuition translate into higher-paying jobs? The table lists the top ten colleges based on mid-career
+salary and the associated yearly tuition costs. Construct a scatter plot of the data.
+School
+Mid-Career Salary (in thousands)
+Yearly Tuition
+Princeton
+137
+28,540
+Harvey Mudd
+135
+40,133
+CalTech
+127
+39,900
+US Naval Academy 122
+0
+West Point
+120
+0
+MIT
+118
+42,050
+Lehigh University
+118
+43,220
+NYU-Poly
+117
+39,565
+Babson College
+117
+40,400
+Stanford
+114
+54,506
+Table 12.18
+62. If the level of significance is 0.05 and the p-value is 0.06, what conclusion can you draw?
+63. If there are 15 data points in a set of data, what is the number of degree of freedom?
+12.3 The Regression Equation
+64. What is the process through which we can calculate a line that goes through a scatter plot with a linear pattern?
+65. Explain what it means when a correlation has an r2 of 0.72.
+66. Can a coefficient of determination be negative? Why or why not?
+12.5 Prediction
+67. Recently, the annual number of driver deaths per 100,000 for the selected age groups was as follows:
+Age
+Number of Driver Deaths per 100,000
+16–19 38
+20–24 36
+25–34 24
+35–54 20
+55–74 18
+75+
+28
+Table 12.19
+a.
+For each age group, pick the midpoint of the interval for the x value. (For the 75+ group, use 80.)
+b.
+Using “ages” as the independent variable and “Number of driver deaths per 100,000” as the dependent variable,
+make a scatter plot of the data.
+c.
+Calculate the least squares (best–fit) line. Put the equation in the form of: ŷ = a + bx
+d.
+Find the correlation coefficient. Is it significant?
+e.
+Predict the number of deaths for ages 40 and 60.
+f.
+Based on the given data, is there a linear relationship between age of a driver and driver fatality rate?
+g.
+What is the slope of the least squares (best-fit) line? Interpret the slope.
+Chapter 12 | Linear Regression and Correlation
+721
