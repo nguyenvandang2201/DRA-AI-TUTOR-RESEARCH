@@ -17,3 +17,4 @@
 - 2026-03-20: Rà soát tính nhất quán thuật ngữ trong corpus Thống kê nhập môn.
 - 2026-03-21: Đối chiếu đoạn văn corpus Kinh tế vi mô với nguồn tham khảo gốc.
 - 2026-03-23: Hiệu đính lỗi chính tả trong corpus Kinh tế vi mô.
+- 2026-03-24: Hiệu đính lỗi chính tả trong corpus Lịch sử thế giới.
