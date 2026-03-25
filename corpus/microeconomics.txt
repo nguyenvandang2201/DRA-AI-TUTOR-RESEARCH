@@ -3610,3 +3610,198 @@ WORK IT OUT
 226
 9 • Monopoly
 Access for free at openstax.org
+
+Quantity
+Q
+Marginal Revenue
+MR
+Marginal Cost
+MC
+Marginal Profit
+MP
+Total Profit
+P
+5
+400
+400
+0
+2,350
+6
+200
+850
+−650
+1,700
+7
+0
+1,500
+−1,500
+200
+8
+−200
+2,400
+−2,600
+−2,400
+TABLE 9.4 Marginal Revenue, Marginal Cost, Marginal and Total Profit
+Table 9.4 repeats the marginal cost and marginal revenue data from Table 9.3, and adds two more columns:
+Marginal profit is the profitability of each additional unit sold. We define it as marginal revenue minus marginal
+cost. Finally, total profit is the sum of marginal profits. As long as marginal profit is positive, producing more
+output will increase total profits. When marginal profit turns negative, producing more output will decrease total
+profits. Total profit is maximized where marginal revenue equals marginal cost. In this example, maximum profit
+occurs at 5 units of output.
+A perfectly competitive firm will also find its profit-maximizing level of output where MR = MC. The key difference
+with a perfectly competitive firm is that in the case of perfect competition, marginal revenue is equal to price (MR
+= P), while for a monopolist, marginal revenue is not equal to the price, because changes in quantity of output
+affect the price.
+Illustrating Monopoly Profits
+It is straightforward to calculate profits of given numbers for total revenue and total cost. However, the size of
+monopoly profits can also be illustrated graphically with Figure 9.6, which takes the marginal cost and
+marginal revenue curves from the previous exhibit and adds an average cost curve and the monopolist’s
+perceived demand curve. Table 9.5 shows the data for these curves.
+Quantity
+Q
+Demand
+P
+Marginal Revenue
+MR
+Marginal Cost
+MC
+Average Cost
+AC
+1
+1,200
+1,200
+500
+500
+2
+1,100
+1,000
+275
+388
+3
+1,000
+800
+225
+333
+4
+900
+600
+250
+313
+5
+800
+400
+400
+330
+6
+700
+200
+850
+417
+7
+600
+0
+1,500
+571
+8
+500
+–200
+2,400
+800
+TABLE 9.5
+9.2 • How a Profit-Maximizing Monopoly Chooses Output and Price
+227
+
+FIGURE 9.6 Illustrating Profits at the HealthPill Monopoly This figure begins with the same marginal revenue and
+marginal cost curves from the HealthPill monopoly from Figure 9.5. It then adds an average cost curve and the
+demand curve that the monopolist faces. The HealthPill firm first chooses the quantity where MR = MC. In this
+example, the quantity is 5. The monopolist then decides what price to charge by looking at the demand curve it
+faces. The large box, with quantity on the horizontal axis and demand (which shows the price) on the vertical axis,
+shows total revenue for the firm. The lighter-shaded box, which is quantity on the horizontal axis and average cost of
+production on the vertical axis shows the firm's total costs. The large total revenue box minus the smaller total cost
+box leaves the darkly shaded box that shows total profits. Since the price charged is above average cost, the firm is
+earning positive profits.
+Figure 9.7 illustrates the three-step process where a monopolist: selects the profit-maximizing quantity to
+produce; decides what price to charge; determines total revenue, total cost, and profit.
+Step 1: The Monopolist Determines Its Profit-Maximizing Level of Output
+The firm can use the points on the demand curve D to calculate total revenue, and then, based on total
+revenue, calculate its marginal revenue curve. The profit-maximizing quantity will occur where MR = MC—or at
+the last possible point before marginal costs start exceeding marginal revenue. On Figure 9.6, MR = MC occurs
+at an output of 5.
+Step 2: The Monopolist Decides What Price to Charge
+The monopolist will charge what the market is willing to pay. A dotted line drawn straight up from the profit-
+maximizing quantity to the demand curve shows the profit-maximizing price which, in Figure 9.6, is $800.
+This price is above the average cost curve, which shows that the firm is earning profits.
+Step 3: Calculate Total Revenue, Total Cost, and Profit
+Total revenue is the overall shaded box, where the width of the box is the quantity sold and the height is the
+price. In Figure 9.6, this is 5 x $800 = $4000. In Figure 9.6, the bottom part of the shaded box, which is shaded
+more lightly, shows total costs; that is, quantity on the horizontal axis multiplied by average cost on the vertical
+axis or 5 x $330 = $1650. The larger box of total revenues minus the smaller box of total costs will equal profits,
+which the darkly shaded box shows. Using the numbers gives $4000 - $1650 = $2350. In a perfectly
+competitive market, the forces of entry would erode this profit in the long run. However, a monopolist is
+protected by barriers to entry. In fact, one obvious sign of a possible monopoly is when a firm earns profits
+year after year, while doing more or less the same thing, without ever seeing increased competition eroding
+those profits.
+228
+9 • Monopoly
+Access for free at openstax.org
+
+FIGURE 9.7 How a Profit-Maximizing Monopoly Decides Price In Step 1, the monopoly chooses the profit-
+maximizing level of output Q1, by choosing the quantity where MR = MC. In Step 2, the monopoly decides how much
+to charge for output level Q1 by drawing a line straight up from Q1 to point R on its perceived demand curve. Thus,
+the monopoly will charge a price (P1). In Step 3, the monopoly identifies its profit. Total revenue will be Q1 multiplied
+by P1. Total cost will be Q1 multiplied by the average cost of producing Q1, which point S shows on the average cost
+curve to be P2. Profits will be the total revenue rectangle minus the total cost rectangle, which the shaded zone in
+the figure shows.
+Why is a monopolist’s marginal revenue always less than the price?
+The marginal revenue curve for a monopolist always lies beneath the market demand curve. To understand why,
+think about increasing the quantity along the demand curve by one unit, so that you take one step down the demand
+curve to a slightly higher quantity but a slightly lower price. A demand curve is not sequential: It is not that first we
+sell Q1 at a higher price, and then we sell Q2 at a lower price. Rather, a demand curve is conditional: If we charge the
+higher price, we would sell Q1. If, instead, we charge a lower price (on all the units that we sell), we would sell Q2.
+When we think about increasing the quantity sold by one unit, marginal revenue is affected in two ways. First, we
+sell one additional unit at the new market price. Second, all the previous units, which we sold at the higher price,
+now sell for less. Because of the lower price on all units sold, the marginal revenue of selling a unit is less than the
+price of that unit—and the marginal revenue curve is below the demand curve. Tip: For a straight-line demand curve,
+MR and demand have the same vertical intercept. As output increases, marginal revenue decreases twice as fast as
+demand, so that the horizontal intercept of MR is halfway to the horizontal intercept of demand. You can see this in
+the Figure 9.8.
+CLEAR IT UP
+9.2 • How a Profit-Maximizing Monopoly Chooses Output and Price
+229
+
+FIGURE 9.8 The Monopolist’s Marginal Revenue Curve versus Demand Curve Because the market demand curve is
+conditional, the marginal revenue curve for a monopolist lies beneath the demand curve.
+The Inefficiency of Monopoly
+Most people criticize monopolies because they charge too high a price, but what economists object to is that
+monopolies do not supply enough output to be allocatively efficient. To understand why a monopoly is
+inefficient, it is useful to compare it with the benchmark model of perfect competition.
+Allocative efficiency is an economic concept regarding efficiency at the social or societal level. It refers to
+producing the optimal quantity of some output, the quantity where the marginal benefit to society of one more
+unit just equals the marginal cost. The rule of profit maximization in a world of perfect competition was for
+each firm to produce the quantity of output where P = MC, where the price (P) is a measure of how much buyers
+value the good and the marginal cost (MC) is a measure of what marginal units cost society to produce.
+Following this rule assures allocative efficiency. If P > MC, then the marginal benefit to society (as measured by
+P) is greater than the marginal cost to society of producing additional units, and a greater quantity should be
+produced. However, in the case of monopoly, price is always greater than marginal cost at the profit-
+maximizing level of output, as you can see by looking back at Figure 9.6. Thus, consumers do not benefit from
+a monopoly because it will sell a lower quantity in the market, at a higher price, than would have been the case
+in a perfectly competitive market.
+The problem of inefficiency for monopolies often runs even deeper than these issues, and also involves
+incentives for efficiency over longer periods of time. There are counterbalancing incentives here. On one side,
+firms may strive for new inventions and new intellectual property because they want to become monopolies
+and earn high profits—at least for a few years until the competition catches up. In this way, monopolies may
+come to exist because of competitive pressures on firms. However, once a barrier to entry is in place, a
+monopoly that does not need to fear competition can just produce the same old products in the same old
+way—while still ringing up a healthy rate of profit. John Hicks, who won the Nobel Prize for economics in 1972,
+wrote in 1935: “The best of all monopoly profits is a quiet life.” He did not mean the comment in a
+complimentary way. He meant that monopolies may bank their profits and slack off on trying to please their
+customers.
+When AT&T provided all of the local and long-distance phone service in the United States, along with
+manufacturing most of the phone equipment, the payment plans and types of phones did not change much.
+The old joke was that you could have any color phone you wanted, as long as it was black. However, in 1982,
+government litigation split up AT&T into a number of local phone companies, a long-distance phone company,
+and a phone equipment manufacturer. An explosion of innovation followed. Services like call waiting, caller ID,
+three-way calling, voice mail through the phone company, mobile phones, and wireless connections to the
+230
+9 • Monopoly
+Access for free at openstax.org
