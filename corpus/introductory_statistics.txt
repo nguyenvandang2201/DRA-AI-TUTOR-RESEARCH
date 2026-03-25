@@ -3596,3 +3596,254 @@ Use the least-squares line to estimate the number of letters a new state that en
 Can the least squares line be used to predict it? Why or why not?
 Chapter 12 | Linear Regression and Correlation
 725
+
+12.6 Outliers
+72. The height (sidewalk to roof) of notable tall buildings in America is compared to the number of stories of the building
+(beginning at street level).
+Height (in feet)
+Stories
+1,050
+57
+428
+28
+362
+26
+529
+40
+790
+60
+401
+22
+380
+38
+1,454
+110
+1,127
+100
+700
+46
+Table 12.24
+a.
+Using “stories” as the independent variable and “height” as the dependent variable, make a scatter plot of the data.
+b.
+Does it appear from inspection that there is a relationship between the variables?
+c.
+Calculate the least squares line. Put the equation in the form of: ŷ = a + bx
+d.
+Find the correlation coefficient. Is it significant?
+e.
+Find the estimated heights for 32 stories and for 94 stories.
+f.
+Based on the data in Table 12.24, is there a linear relationship between the number of stories in tall buildings
+and the height of the buildings?
+g.
+Are there any outliers in the data? If so, which point(s)?
+h.
+What is the estimated height of a building with six stories? Does the least squares line give an accurate estimate
+of height? Explain why or why not.
+i.
+Based on the least squares line, adding an extra story is predicted to add about how many feet to a building?
+j.
+What is the slope of the least squares (best-fit) line? Interpret the slope.
+73. Ornithologists, scientists who study birds, tag sparrow hawks in 13 different colonies to study their population. They
+gather data for the percent of new sparrow hawks in each colony and the percent of those that have returned from migration.
+Percent return:74; 66; 81; 52; 73; 62; 52; 45; 62; 46; 60; 46; 38
+Percent new:5; 6; 8; 11; 12; 15; 16; 17; 18; 18; 19; 20; 20
+a.
+Enter the data into your calculator and make a scatter plot.
+b.
+Use your calculator’s regression function to find the equation of the least-squares regression line. Add this to your
+scatter plot from part a.
+c.
+Explain in words what the slope and y-intercept of the regression line tell us.
+d.
+How well does the regression line fit the data? Explain your response.
+e.
+Which point has the largest residual? Explain what the residual means in context. Is this point an outlier? An
+influential point? Explain.
+f.
+An ecologist wants to predict how many birds will join another colony of sparrow hawks to which 70% of the
+adults from the previous year have returned. What is the prediction?
+726
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+74. The following table shows data on average per capita coffee consumption and heart disease rate in a random sample of
+10 countries.
+Yearly coffee consumption in liters 2.5
+3.9
+2.9
+2.4
+2.9
+0.8
+9.1 2.7
+0.8
+0.7
+Death from heart diseases
+221 167 131 191 220 297 71
+172 211 300
+Table 12.25
+a.
+Enter the data into your calculator and make a scatter plot.
+b.
+Use your calculator’s regression function to find the equation of the least-squares regression line. Add this to your
+scatter plot from part a.
+c.
+Explain in words what the slope and y-intercept of the regression line tell us.
+d.
+How well does the regression line fit the data? Explain your response.
+e.
+Which point has the largest residual? Explain what the residual means in context. Is this point an outlier? An
+influential point? Explain.
+f.
+Do the data provide convincing evidence that there is a linear relationship between the amount of coffee consumed
+and the heart disease death rate? Carry out an appropriate test at a significance level of 0.05 to help answer this
+question.
+75. The following table consists of one student athlete’s time (in minutes) to swim 2000 yards and the student’s heart rate
+(beats per minute) after swimming on a random sample of 10 days:
+Swim Time
+Heart Rate
+34.12
+144
+35.72
+152
+34.72
+124
+34.05
+140
+34.13
+152
+35.73
+146
+36.17
+128
+35.57
+136
+35.37
+144
+35.57
+148
+Table 12.26
+a.
+Enter the data into your calculator and make a scatter plot.
+b.
+Use your calculator’s regression function to find the equation of the least-squares regression line. Add this to your
+scatter plot from part a.
+c.
+Explain in words what the slope and y-intercept of the regression line tell us.
+d.
+How well does the regression line fit the data? Explain your response.
+e.
+Which point has the largest residual? Explain what the residual means in context. Is this point an outlier? An
+influential point? Explain.
+Chapter 12 | Linear Regression and Correlation
+727
+
+76. A researcher is investigating whether population impacts homicide rate. He uses demographic data from Detroit, MI to
+compare homicide rates and the number of the population that are white males.
+Population Size
+Homicide rate per 100,000 people
+558,724
+8.6
+538,584
+8.9
+519,171
+8.52
+500,457
+8.89
+482,418
+13.07
+465,029
+14.57
+448,267
+21.36
+432,109
+28.03
+416,533
+31.49
+401,518
+37.39
+387,046
+46.26
+373,095
+47.24
+359,647
+52.33
+Table 12.27
+a.
+Use your calculator to construct a scatter plot of the data. What should the independent variable be? Why?
+b.
+Use your calculator’s regression function to find the equation of the least-squares regression line. Add this to your
+scatter plot.
+c.
+Discuss what the following mean in context.
+i.
+The slope of the regression equation
+ii.
+The y-intercept of the regression equation
+iii.
+The correlation r
+iv.
+The coefficient of determination r2.
+d.
+Do the data provide convincing evidence that there is a linear relationship between population size and homicide
+rate? Carry out an appropriate test at a significance level of 0.05 to help answer this question.
+728
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+77.
+School
+Mid-Career Salary (in thousands)
+Yearly Tuition
+Princeton
+137
+28,540
+Harvey Mudd
+135
+40,133
+CalTech
+127
+39,900
+US Naval Academy 122
+0
+West Point
+120
+0
+MIT
+118
+42,050
+Lehigh University
+118
+43,220
+NYU-Poly
+117
+39,565
+Babson College
+117
+40,400
+Stanford
+114
+54,506
+Table 12.28
+Using the data to determine the linear-regression line equation with the outliers removed. Is there a linear correlation for the
+data set with outliers removed? Justify your answer.
+REFERENCES
+12.1 Linear Equations
+Data from the Centers for Disease Control and Prevention.
+Data from the National Center for agency reporting flu cases and TB Prevention.
+12.5 Prediction
+Data from the Centers for Disease Control and Prevention.
+Data from the National Center for agency reporting flu cases and TB Prevention.
+Data from the United States Census Bureau. Available online at http://www.census.gov/compendia/statab/cats/
+transportation/motor_vehicle_accidents_and_fatalities.html
+Data from the National Center for Health Statistics.
+12.6 Outliers
+Data from the House Ways and Means Committee, the Health and Human Services Department.
+Data from Microsoft Bookshelf.
+Data from the United States Department of Labor, the Bureau of Labor Statistics.
+Data from the Physician’s Handbook, 1990.
+Data from the United States Department of Labor, the Bureau of Labor Statistics.
+BRINGING IT TOGETHER: HOMEWORK
+Chapter 12 | Linear Regression and Correlation
+729
