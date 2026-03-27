@@ -3805,3 +3805,184 @@ three-way calling, voice mail through the phone company, mobile phones, and wire
 230
 9 • Monopoly
 Access for free at openstax.org
+
+internet all became available. Companies offered a wide range of payment plans, as well. It was no longer true
+that all phones were black. Instead, phones came in a wide variety of shapes and colors. The end of the
+telephone monopoly brought lower prices, a greater quantity of services, and also a wave of innovation aimed
+at attracting and pleasing customers.
+The Rest is History
+In the opening case, we presented the East India Company and the Confederate States as a monopoly or near
+monopoly provider of a good. Nearly every American schoolchild knows the result of the “unwelcome visit” the
+“Mohawks” bestowed upon Boston Harbor’s tea-bearing ships—the Boston Tea Party. Regarding the cotton industry,
+we also know Great Britain remained neutral during the Civil War, taking neither side during the conflict.
+Did the monopoly nature of these business have unintended and historical consequences? Might the American
+Revolution have been deterred, if the East India Company had sailed the tea-bearing ships back to England? Might
+the southern states have made different decisions had they not been so confident “King Cotton” would force
+diplomatic recognition of the Confederate States of America? Of course, it is not possible to definitively answer
+these questions. We cannot roll back the clock and try a different scenario. We can, however, consider the monopoly
+nature of these businesses and the roles they played and hypothesize about what might have occurred under
+different circumstances.
+Perhaps if there had been legal free tea trade, the colonists would have seen things differently. There was smuggled
+Dutch tea in the colonial market. If the colonists had been able to freely purchase Dutch tea, they would have paid
+lower prices and avoided the tax.
+What about the cotton monopoly? With one in five jobs in Great Britain depending on Southern cotton and the
+Confederate States as nearly the sole provider of that cotton, why did Great Britain remain neutral during the Civil
+War? At the beginning of the war, Britain simply drew down massive stores of cotton. These stockpiles lasted until
+near the end of 1862. Why did Britain not recognize the Confederacy at that point? Two reasons: The Emancipation
+Proclamation and new sources of cotton. Having outlawed slavery throughout the United Kingdom in 1833, it was
+politically impossible for Great Britain, empty cotton warehouses or not, to recognize, diplomatically, the
+Confederate States. In addition, during the two years it took to draw down the stockpiles, Britain expanded cotton
+imports from India, Egypt, and Brazil.
+Monopoly sellers often see no threats to their superior marketplace position. In these examples did the power of the
+monopoly hide other possibilities from the decision makers? Perhaps. As a result of their actions, this is how history
+unfolded.
+BRING IT HOME
+9.2 • How a Profit-Maximizing Monopoly Chooses Output and Price
+231
+
+Key Terms
+allocative efficiency producing the optimal quantity of some output; the quantity where the marginal benefit
+to society of one more unit just equals the marginal cost
+barriers to entry the legal, technological, or market forces that may discourage or prevent potential
+competitors from entering a market
+copyright a form of legal protection to prevent copying, for commercial purposes, original works of
+authorship, including books and music
+deregulation removing government controls over setting prices and quantities in certain industries
+intellectual property the body of law including patents, trademarks, copyrights, and trade secret law that
+protect the right of inventors to produce and sell their inventions
+legal monopoly legal prohibitions against competition, such as regulated monopolies and intellectual
+property protection
+marginal profit profit of one more unit of output, computed as marginal revenue minus marginal cost
+monopoly a situation in which one firm produces all of the output in a market
+natural monopoly economic conditions in the industry, for example, economies of scale or control of a critical
+resource, that limit effective competition
+patent a government rule that gives the inventor the exclusive legal right to make, use, or sell the invention for
+a limited time
+predatory pricing when an existing firm uses sharp but temporary price cuts to discourage new competition
+trade secrets methods of production kept secret by the producing firm
+trademark an identifying symbol or name for a particular good and can only be used by the firm that
+registered that trademark
+Key Concepts and Summary
+9.1 How Monopolies Form: Barriers to Entry
+Barriers to entry prevent or discourage competitors from entering the market. These barriers include:
+economies of scale that lead to natural monopoly; control of a physical resource; legal restrictions on
+competition; patent, trademark and copyright protection; and practices to intimidate the competition like
+predatory pricing. Intellectual property refers to legally guaranteed ownership of an idea, rather than a
+physical item. The laws that protect intellectual property include patents, copyrights, trademarks, and trade
+secrets. A natural monopoly arises when economies of scale persist over a large enough range of output that if
+one firm supplies the entire market, no other firm can enter without facing a cost disadvantage.
+9.2 How a Profit-Maximizing Monopoly Chooses Output and Price
+A monopolist is not a price taker, because when it decides what quantity to produce, it also determines the
+market price. For a monopolist, total revenue is relatively low at low quantities of output, because it is not
+selling much. Total revenue is also relatively low at very high quantities of output, because a very high quantity
+will sell only at a low price. Thus, total revenue for a monopolist will start low, rise, and then decline. The
+marginal revenue for a monopolist from selling additional units will decline. Each additional unit a monopolist
+sells will push down the overall market price, and as it sells more units, this lower price applies to increasingly
+more units.
+The monopolist will select the profit-maximizing level of output where MR = MC, and then charge the price for
+that quantity of output as determined by the market demand curve. If that price is above average cost, the
+monopolist earns positive profits.
+Monopolists are not productively efficient, because they do not produce at the minimum of the average cost
+curve. Monopolists are not allocatively efficient, because they do not produce at the quantity where P = MC. As
+a result, monopolists produce less, at a higher average cost, and charge a higher price than would a
+combination of firms in a perfectly competitive industry. Monopolists also may lack incentives for innovation,
+232
+9 • Key Terms
+Access for free at openstax.org
+
+because they need not fear entry.
+Self-Check Questions
+1. Classify the following as a government-enforced barrier to entry, a barrier to entry that is not government-
+enforced, or a situation that does not involve a barrier to entry.
+a.
+A patented invention
+b.
+A popular but easily copied restaurant recipe
+c.
+An industry where economies of scale are very small compared to the size of demand in the market
+d.
+A well-established reputation for slashing prices in response to new entry
+e.
+A well-respected brand name that has been carefully built up over many years
+2. Classify the following as a government-enforced barrier to entry, a barrier to entry that is not government-
+enforced, or a situation that does not involve a barrier to entry.
+a.
+A city passes a law on how many licenses it will issue for taxicabs
+b.
+A city passes a law that all taxicab drivers must pass a driving safety test and have insurance
+c.
+A well-known trademark
+d.
+Owning a spring that offers very pure water
+e.
+An industry where economies of scale are very large compared to the size of demand in the market
+3. Suppose the local electrical utility, a legal monopoly based on economies of scale, was split into four firms
+of equal size, with the idea that eliminating the monopoly would promote competitive pricing of electricity.
+What do you anticipate would happen to prices?
+4. If Congress reduced the period of patent protection from 20 years to 10 years, what would likely happen to
+the amount of private research and development?
+5. Suppose demand for a monopoly’s product falls so that its profit-maximizing price is below average
+variable cost. How much output should the firm supply? Hint: Draw the graph.
+6. Imagine a monopolist could charge a different price to every customer based on how much the customer is
+willing to pay. How would this affect monopoly profits?
+Review Questions
+7. How is monopoly different from perfect competition?
+8. What is a barrier to entry? Give some examples.
+9. What is a natural monopoly?
+10. What is a legal monopoly?
+11. What is predatory pricing?
+12. How is intellectual property different from other property?
+13. What legal mechanisms protect intellectual property?
+14. In what sense is a natural monopoly “natural”?
+15. How is the demand curve perceived by a perfectly competitive firm different from the demand curve
+perceived by a monopolist?
+16. How does the demand curve perceived by a monopolist compare with the market demand curve?
+17. Is a monopolist a price taker? Explain briefly.
+18. What is the usual shape of a total revenue curve for a monopolist? Why?
+9 • Self-Check Questions
+233
+
+19. What is the usual shape of a marginal revenue curve for a monopolist? Why?
+20. How can a monopolist identify the profit-maximizing level of output if it knows its total revenue and total
+cost curves?
+21. How can a monopolist identify the profit-maximizing level of output if it knows its marginal revenue and
+marginal costs?
+22. When a monopolist identifies its profit-maximizing quantity of output, how does it decide what price to
+charge?
+23. Is a monopolist allocatively efficient? Why or why not?
+24. How does the quantity produced and price charged by a monopolist compare to that of a perfectly
+competitive firm?
+Critical Thinking Questions
+25. ALCOA does not have the monopoly power it once had. How do you suppose their barriers to entry were
+weakened?
+26. Why are generic pharmaceuticals significantly cheaper than name brand ones?
+27. For many years, the Justice Department has tried to break up large firms like IBM, Microsoft, and most
+recently Google, on the grounds that their large market share made them essentially monopolies. In a
+global market, where U.S. firms compete with firms from other countries, would this policy make the same
+sense as it might in a purely domestic context?
+28. Intellectual property laws are intended to promote innovation, but some economists, such as Milton
+Friedman, have argued that such laws are not desirable. In the United States, there is no intellectual
+property protection for food recipes or for fashion designs. Considering the state of these two industries,
+and bearing in mind the discussion of the inefficiency of monopolies, can you think of any reasons why
+intellectual property laws might hinder innovation in some cases?
+29. Imagine that you are managing a small firm and thinking about entering the market of a monopolist. The
+monopolist is currently charging a high price, and you have calculated that you can make a nice profit
+charging 10% less than the monopolist. Before you go ahead and challenge the monopolist, what
+possibility should you consider for how the monopolist might react?
+30. If a monopoly firm is earning profits, how much would you expect these profits to be diminished by entry
+in the long run?
+Problems
+31. Return to Figure 9.2. Suppose P0 is $10 and P1 is $11. Suppose a new firm with the same LRAC curve as
+the incumbent tries to break into the market by selling 4,000 units of output. Estimate from the graph
+what the new firm’s average cost of producing output would be. If the incumbent continues to produce
+6,000 units, how much output would the two firms supply to the market? Estimate what would happen to
+the market price as a result of the supply of both the incumbent firm and the new entrant. Approximately
+how much profit would each firm earn?
+32. Draw the demand curve, marginal revenue, and marginal cost curves from Figure 9.6, and identify the
+quantity of output the monopoly wishes to supply and the price it will charge. Suppose demand for the
+monopoly’s product increases dramatically. Draw the new demand curve. What happens to the marginal
+revenue as a result of the increase in demand? What happens to the marginal cost curve? Identify the new
+profit-maximizing quantity and price. Does the answer make sense to you?
+234
+9 • Critical Thinking Questions
+Access for free at openstax.org
