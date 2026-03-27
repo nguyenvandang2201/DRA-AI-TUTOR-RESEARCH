@@ -3847,3 +3847,279 @@ Data from the United States Department of Labor, the Bureau of Labor Statistics.
 BRINGING IT TOGETHER: HOMEWORK
 Chapter 12 | Linear Regression and Correlation
 729
+
+78. The average number of people in a family that attended college for various years is given in Table 12.29.
+Year
+Number of Family Members Attending College
+1969
+4.0
+1973
+3.6
+1975
+3.2
+1979
+3.0
+1983
+3.0
+1988
+3.0
+1991
+2.9
+Table 12.29
+a.
+Using “year” as the independent variable and “Number of Family Members Attending College” as the dependent
+variable, draw a scatter plot of the data.
+b.
+Calculate the least-squares line. Put the equation in the form of: ŷ = a + bx
+c.
+Find the correlation coefficient. Is it significant?
+d.
+Pick two years between 1969 and 1991 and find the estimated number of family members attending college.
+e.
+Based on the data in Table 12.29, is there a linear relationship between the year and the average number of
+family members attending college?
+f.
+Using the least-squares line, estimate the number of family members attending college for 1960 and 1995. Does
+the least-squares line give an accurate estimate for those years? Explain why or why not.
+g.
+Are there any outliers in the data?
+h.
+What is the estimated average number of family members attending college for 1986? Does the least squares line
+give an accurate estimate for that year? Explain why or why not.
+i.
+What is the slope of the least squares (best-fit) line? Interpret the slope.
+730
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+79. The percent of female wage and salary workers who are paid hourly rates is given in Table 12.30 for the years 1979
+to 1992.
+Year
+Percent of workers paid hourly rates
+1979
+61.2
+1980
+60.7
+1981
+61.3
+1982
+61.3
+1983
+61.8
+1984
+61.7
+1985
+61.8
+1986
+62.0
+1987
+62.7
+1990
+62.8
+1992
+62.9
+Table 12.30
+a.
+Using “year” as the independent variable and “percent” as the dependent variable, draw a scatter plot of the data.
+b.
+Does it appear from inspection that there is a relationship between the variables? Why or why not?
+c.
+Calculate the least-squares line. Put the equation in the form of: ŷ = a + bx
+d.
+Find the correlation coefficient. Is it significant?
+e.
+Find the estimated percents for 1991 and 1988.
+f.
+Based on the data, is there a linear relationship between the year and the percent of female wage and salary earners
+who are paid hourly rates?
+g.
+Are there any outliers in the data?
+h.
+What is the estimated percent for the year 2050? Does the least-squares line give an accurate estimate for that
+year? Explain why or why not.
+i.
+What is the slope of the least-squares (best-fit) line? Interpret the slope.
+Use the following information to answer the next two exercises. The cost of a leading liquid laundry detergent in different
+sizes is given in Table 12.31.
+Size (ounces)
+Cost ($)
+Cost per ounce
+16
+3.99
+32
+4.99
+64
+5.99
+200
+10.99
+Table 12.31
+Chapter 12 | Linear Regression and Correlation
+731
+
+80.
+a.
+Using “size” as the independent variable and “cost” as the dependent variable, draw a scatter plot.
+b.
+Does it appear from inspection that there is a relationship between the variables? Why or why not?
+c.
+Calculate the least-squares line. Put the equation in the form of: ŷ = a + bx
+d.
+Find the correlation coefficient. Is it significant?
+e.
+If the laundry detergent were sold in a 40-ounce size, find the estimated cost.
+f.
+If the laundry detergent were sold in a 90-ounce size, find the estimated cost.
+g.
+Does it appear that a line is the best way to fit the data? Why or why not?
+h.
+Are there any outliers in the given data?
+i.
+Is the least-squares line valid for predicting what a 300-ounce size of the laundry detergent would you cost? Why
+or why not?
+j.
+What is the slope of the least-squares (best-fit) line? Interpret the slope.
+81.
+a.
+Complete Table 12.31 for the cost per ounce of the different sizes.
+b.
+Using “size” as the independent variable and “cost per ounce” as the dependent variable, draw a scatter plot of
+the data.
+c.
+Does it appear from inspection that there is a relationship between the variables? Why or why not?
+d.
+Calculate the least-squares line. Put the equation in the form of: ŷ = a + bx
+e.
+Find the correlation coefficient. Is it significant?
+f.
+If the laundry detergent were sold in a 40-ounce size, find the estimated cost per ounce.
+g.
+If the laundry detergent were sold in a 90-ounce size, find the estimated cost per ounce.
+h.
+Does it appear that a line is the best way to fit the data? Why or why not?
+i.
+Are there any outliers in the the data?
+j.
+Is the least-squares line valid for predicting what a 300-ounce size of the laundry detergent would cost per ounce?
+Why or why not?
+k.
+What is the slope of the least-squares (best-fit) line? Interpret the slope.
+82. According to a flyer by a Prudential Insurance Company representative, the costs of approximate probate fees and taxes
+for selected net taxable estates are as follows:
+Net Taxable Estate ($)
+Approximate Probate Fees and Taxes ($)
+600,000
+30,000
+750,000
+92,500
+1,000,000
+203,000
+1,500,000
+438,000
+2,000,000
+688,000
+2,500,000
+1,037,000
+3,000,000
+1,350,000
+Table 12.32
+a.
+Decide which variable should be the independent variable and which should be the dependent variable.
+b.
+Draw a scatter plot of the data.
+c.
+Does it appear from inspection that there is a relationship between the variables? Why or why not?
+d.
+Calculate the least-squares line. Put the equation in the form of: ŷ = a + bx.
+e.
+Find the correlation coefficient. Is it significant?
+f.
+Find the estimated total cost for a next taxable estate of $1,000,000. Find the cost for $2,500,000.
+g.
+Does it appear that a line is the best way to fit the data? Why or why not?
+h.
+Are there any outliers in the data?
+i.
+Based on these results, what would be the probate fees and taxes for an estate that does not have any assets?
+j.
+What is the slope of the least-squares (best-fit) line? Interpret the slope.
+732
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+83. The following are advertised sale prices of color televisions at Anderson’s.
+Size (inches)
+Sale Price ($)
+9
+147
+20
+197
+27
+297
+31
+447
+35
+1177
+40
+2177
+60
+2497
+Table 12.33
+a.
+Decide which variable should be the independent variable and which should be the dependent variable.
+b.
+Draw a scatter plot of the data.
+c.
+Does it appear from inspection that there is a relationship between the variables? Why or why not?
+d.
+Calculate the least-squares line. Put the equation in the form of: ŷ = a + bx
+e.
+Find the correlation coefficient. Is it significant?
+f.
+Find the estimated sale price for a 32 inch television. Find the cost for a 50 inch television.
+g.
+Does it appear that a line is the best way to fit the data? Why or why not?
+h.
+Are there any outliers in the data?
+i.
+What is the slope of the least-squares (best-fit) line? Interpret the slope.
+84. Table 12.34 shows the average heights for American boy s in 1990.
+Age (years)
+Height (cm)
+birth
+50.8
+2
+83.8
+3
+91.4
+5
+106.6
+7
+119.3
+10
+137.1
+14
+157.5
+Table 12.34
+a.
+Decide which variable should be the independent variable and which should be the dependent variable.
+b.
+Draw a scatter plot of the data.
+c.
+Does it appear from inspection that there is a relationship between the variables? Why or why not?
+d.
+Calculate the least-squares line. Put the equation in the form of: ŷ = a + bx
+e.
+Find the correlation coefficient. Is it significant?
+f.
+Find the estimated average height for a one-year-old. Find the estimated average height for an eleven-year-old.
+g.
+Does it appear that a line is the best way to fit the data? Why or why not?
+h.
+Are there any outliers in the data?
+i.
+Use the least squares line to estimate the average height for a sixty-two-year-old man. Do you think that your
+answer is reasonable? Why or why not?
+j.
+What is the slope of the least-squares (best-fit) line? Interpret the slope.
+Chapter 12 | Linear Regression and Correlation
+733
