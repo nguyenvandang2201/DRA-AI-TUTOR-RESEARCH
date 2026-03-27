@@ -4123,3 +4123,255 @@ j.
 What is the slope of the least-squares (best-fit) line? Interpret the slope.
 Chapter 12 | Linear Regression and Correlation
 733
+
+85.
+State
+# letters in
+name
+Year entered the
+Union
+Ranks for entering the
+Union
+Area (square
+miles)
+Alabama
+7
+1819
+22
+52,423
+Colorado
+8
+1876
+38
+104,100
+Hawaii
+6
+1959
+50
+10,932
+Iowa
+4
+1846
+29
+56,276
+Maryland
+8
+1788
+7
+12,407
+Missouri
+8
+1821
+24
+69,709
+New Jersey
+9
+1787
+3
+8,722
+Ohio
+4
+1803
+17
+44,828
+South
+Carolina
+13
+1788
+8
+32,008
+Utah
+4
+1896
+45
+84,904
+Wisconsin
+9
+1848
+30
+65,499
+Table 12.35
+We are interested in whether there is a relationship between the ranking of a state and the area of the state.
+a.
+What are the independent and dependent variables?
+b.
+What do you think the scatter plot will look like? Make a scatter plot of the data.
+c.
+Does it appear from inspection that there is a relationship between the variables? Why or why not?
+d.
+Calculate the least-squares line. Put the equation in the form of: ŷ = a + bx
+e.
+Find the correlation coefficient. What does it imply about the significance of the relationship?
+f.
+Find the estimated areas for Alabama and for Colorado. Are they close to the actual areas?
+g.
+Use the two points in part f to plot the least-squares line on your graph from part b.
+h.
+Does it appear that a line is the best way to fit the data? Why or why not?
+i.
+Are there any outliers?
+j.
+Use the least squares line to estimate the area of a new state that enters the Union. Can the least-squares line be
+used to predict it? Why or why not?
+k.
+Delete “Hawaii” and substitute “Alaska” for it. Alaska is the forty-ninth, state with an area of 656,424 square
+miles.
+l.
+Calculate the new least-squares line.
+m.
+Find the estimated area for Alabama. Is it closer to the actual area with this new least-squares line or with the
+previous one that included Hawaii? Why do you think that’s the case?
+n.
+Do you think that, in general, newer states are larger than the original states?
+SOLUTIONS
+1 dependent variable: fee amount; independent variable: time
+734
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+3
+Figure 12.31
+5
+Figure 12.32
+7 y = 6x + 8, 4y = 8, and y + 7 = 3x are all linear equations.
+9 The number of flu cases depends on the year. Therefore, year becomes the independent variable and the number of flu
+cases is the dependent variable.
+11 The y-intercept is 50 (a = 50). At the start of the cleaning, the company charges a one-time fee of $50 (this is when x =
+0). The slope is 100 (b = 100). For each session, the company charges $100 for each hour they clean.
+13 12,000 pounds of soil
+15 The slope is –1.5 (b = –1.5). This means the stock is losing value at a rate of $1.50 per hour. The y-intercept is $15 (a =
+15). This means the price of stock before the trading day was $15.
+17 The data appear to be linear with a strong, positive correlation.
+19 The data appear to have no correlation.
+21 ŷ = 2.23 + 1.99x
+23 The slope is 1.99 (b = 1.99). It means that for every endorsement deal a professional player gets, he gets an average of
+another $1.99 million in pay each year.
+25 It means that there is no correlation between the data sets.
+27 Yes, there are enough data points and the value of r is strong enough to show that there is a strong negative correlation
+between the data sets.
+29 Ha: ρ ≠ 0
+Chapter 12 | Linear Regression and Correlation
+735
+
+31 $250,120
+33 1,326 acres
+35 1,125 hours, or when x = 1,125
+37 Check student’s solution.
+39
+a.
+When x = 1985, ŷ = 25,52
+b.
+When x = 1990, ŷ = 34,275
+c.
+When x = 1970, ŷ = –725 Why doesn’t this answer make sense? The range of x values was 1981 to 2002; the year
+1970 is not in this range. The regression equation does not apply, because predicting for the year 1970 is extrapolation,
+which requires a different process. Also, a negative number does not make sense in this context, where we are
+predicting flu cases diagnosed.
+41 Also, the correlation r = 0.4526. If r is compared to the value in the 95% Critical Values of the Sample Correlation
+Coefficient Table, because r > 0.423, r is significant, and you would think that the line could be used for prediction. But the
+scatter plot indicates otherwise.
+43
+y^ = 3,448,225 + 1750x
+45 There was an increase in flu cases diagnosed until 1993. From 1993 through 2002, the number of flu cases diagnosed
+declined each year. It is not appropriate to use a linear regression line to fit to the data.
+47 Since there is no linear association between year and # of flu cases diagnosed, it is not appropriate to calculate a linear
+correlation coefficient. When there is a linear association and it is appropriate to calculate a correlation, we cannot say that
+one variable “causes” the other variable.
+49
+We don’t know if the pre-1981 data was collected from a single year. So we don’t have an accurate x value for this
+figure. Regression equation: ŷ (#Flu Cases) = –3,448,225 + 1749.777 (year)
+Coefficients
+Intercept
+–3,448,225
+X Variable 1 1,749.777
+Table 12.36
+51 Yes, there appears to be an outlier at (6, 58).
+53 The potential outlier flattened the slope of the line of best fit because it was below the data set. It made the line of best
+fit less accurate is a predictor for the data.
+55 s = 1.75
+57
+a.
+independent variable: age; dependent variable: fatalities
+b.
+independent variable: # of family members; dependent variable: grocery bill
+c.
+independent variable: age of applicant; dependent variable: insurance premium
+d.
+independent variable: power consumption; dependent variable: utility
+e.
+independent variable: higher education (years); dependent variable: crime rates
+59 Check student’s solution.
+61 For graph: check student’s solution. Note that tuition is the independent variable and salary is the dependent variable.
+63 13
+65 It means that 72% of the variation in the dependent variable (y) can be explained by the variation in the independent
+736
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+variable (x).
+67
+a.
+Age
+Number of Driver Deaths per 100,000
+16–19
+38
+20–24
+36
+25–34
+24
+35–54
+20
+55–74
+18
+75+
+28
+Table 12.37
+b.
+Check student’s solution.
+c.
+ŷ = 35.5818045 – 0.19182491x
+d.
+r = –0.57874
+For four df and alpha = 0.05, the LinRegTTest gives p-value = 0.2288 so we do not reject the null hypothesis; there is
+not a significant linear relationship between deaths and age.
+Using the table of critical values for the correlation coefficient, with four df, the critical value is 0.811. The correlation
+coefficient r = –0.57874 is not less than –0.811, so we do not reject the null hypothesis.
+e.
+There is not a linear relationship between the two variables, as evidenced by a p-value greater than 0.05.
+69
+a.
+We wonder if the better discounts appear earlier in the book so we select page as X and discount as Y.
+b.
+Check student’s solution.
+c.
+ŷ = 17.21757 – 0.01412x
+d.
+r = – 0.2752
+For seven df and alpha = 0.05, using LinRegTTest p-value = 0.4736 so we do not reject; there is a not a significant
+linear relationship between page and discount.
+Using the table of critical values for the correlation coefficient, with seven df, the critical value is 0.666. The
+correlation coefficient xi = –0.2752 is not less than 0.666 so we do not reject.
+e.
+There is not a significant linear correlation so it appears there is no relationship between the page and the amount of
+the discount.
+As the page number increases by one page, the discount decreases by $0.01412
+71
+a.
+Year is the independent or x variable; the number of letters is the dependent or y variable.
+b.
+Check student’s solution.
+c.
+no
+d.
+ŷ = 47.03 – 0.0216x
+e.
+–0.4280 The r-value indicates that there is not a significant correlation between the year the state entered the union and
+the number of letters in the name.
+f.
+No, the relationship does not appear to be linear; the correlation is not significant.
+73 a. and b. Check student’s solution. c. The slope of the regression line is -0.3031 with a y-intercept of 31.93. In context,
+the y-intercept indicates that when there are no returning sparrow hawks, there will be almost 32% new sparrow hawks,
+which doesn’t make sense since if there are no returning birds, then the new percentage would have to be 100% (this
+is an example of why we do not extrapolate). The slope tells us that for each percentage increase in returning birds, the
+Chapter 12 | Linear Regression and Correlation
+737
