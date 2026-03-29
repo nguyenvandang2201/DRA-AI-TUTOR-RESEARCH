@@ -20,3 +20,4 @@
 - 2026-03-24: Hiệu đính lỗi chính tả trong corpus Lịch sử thế giới.
 - 2026-03-25: Rà soát tính nhất quán thuật ngữ trong corpus Lịch sử thế giới.
 - 2026-03-27: Đối chiếu đoạn văn corpus Thống kê nhập môn với nguồn tham khảo gốc.
+- 2026-03-29: Bổ sung ghi chú nguồn tham chiếu cho corpus Kinh tế vi mô.
