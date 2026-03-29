@@ -4375,3 +4375,304 @@ which doesn’t make sense since if there are no returning birds, then the new p
 is an example of why we do not extrapolate). The slope tells us that for each percentage increase in returning birds, the
 Chapter 12 | Linear Regression and Correlation
 737
+
+percentage of new birds in the colony decreases by 30.3%. d. If we examine r2, we see that only 57.52% of the variation
+in the percent of new birds is explained by the model and the correlation coefficient, r = –.7584 only indicates a somewhat
+strong correlation between returning and new percentages. e. The ordered pair (66, 6) generates the largest residual of 6.0.
+This means that when the observed return percentage is 66%, our observed new percentage, 6%, is almost 6% less than
+the predicted new value of 11.98%. If we remove this data pair, we see only an adjusted slope of -.2789 and an adjusted
+intercept of 30.9816. In other words, even though this data generates the largest residual, it is not an outlier, nor is the data
+pair an influential point. f. If there are 70% returning birds, we would expect to see y = –.2789(70) + 30.9816 = 0.114 or
+11.4% new birds in the colony.
+75
+a.
+Check student’s solution.
+b.
+Check student’s solution.
+c.
+We have a slope of –1.4946 with a y-intercept of 193.88. The slope, in context, indicates that for each additional minute
+added to the swim time, the heart rate will decrease by 1.5 beats per minute. If the student is not swimming at all,
+the y-intercept indicates that his heart rate will be 193.88 beats per minute. While the slope has meaning (the longer it
+takes to swim 2,000 meters, the less effort the heart puts out), the y-intercept does not make sense. If the athlete is not
+swimming (resting), then his heart rate should be very low.
+d.
+Since only 1.5% of the heart rate variation is explained by this regression equation, we must conclude that this
+association is not explained with a linear relationship.
+e.
+The point (34.72, 124) generates the largest residual of –11.82. This means that our observed heart rate is almost 12
+beats less than our predicted rate of 136 beats per minute. When this point is removed, the slope becomes –2.953 with
+the y-intercept changing to 247.1616. While the linear association is still very weak, we see that the removed data pair
+can be considered an influential point in the sense that the y-intercept becomes more meaningful.
+77 If we remove the two service academies (the tuition is $0.00), we construct a new regression equation of y = –0.0009x
++ 160 with a correlation coefficient of 0.71397 and a coefficient of determination of 0.50976. This allows us to say there is
+a fairly strong linear association between tuition costs and salaries if the service academies are removed from the data set.
+79
+a.
+Check student's solution.
+b.
+yes
+c.
+ŷ = −266.8863+0.1656x
+d.
+0.9448; Yes
+e.
+62.8233; 62.3265
+f.
+yes
+g.
+no; (1987, 62.7)
+h.
+72.5937; no
+i.
+slope = 0.1656.
+As the year increases by one, the percent of workers paid hourly rates tends to increase by 0.1656.
+81
+a.
+Size (ounces)
+Cost ($)
+cents/oz
+16
+3.99
+24.94
+32
+4.99
+15.59
+64
+5.99
+9.36
+200
+10.99
+5.50
+Table 12.38
+738
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+b.
+Check student’s solution.
+c.
+There is a linear relationship for the sizes 16 through 64, but that linear trend does not continue to the 200-oz size.
+d.
+ŷ = 20.2368 – 0.0819x
+e.
+r = –0.8086
+f.
+40-oz: 16.96 cents/oz
+g.
+90-oz: 12.87 cents/oz
+h.
+The relationship is not linear; the least squares line is not appropriate.
+i.
+no outliers
+j.
+No, you would be extrapolating. The 300-oz size is outside the range of x.
+k.
+slope = –0.08194; for each additional ounce in size, the cost per ounce decreases by 0.082 cents.
+83
+a.
+Size is x, the independent variable, price is y, the dependent variable.
+b.
+Check student’s solution.
+c.
+The relationship does not appear to be linear.
+d.
+ŷ = –745.252 + 54.75569x
+e.
+r = 0.8944, yes it is significant
+f.
+32-inch: $1006.93, 50-inch: $1992.53
+g.
+No, the relationship does not appear to be linear. However, r is significant.
+h.
+no, the 60-inch TV
+i.
+For each additional inch, the price increases by $54.76
+Chapter 12 | Linear Regression and Correlation
+739
+
+85
+a.
+Let rank be the independent variable and area be the dependent variable.
+b.
+Check student’s solution.
+c.
+There appears to be a linear relationship, with one outlier.
+d.
+ŷ (area) = 24177.06 + 1010.478x
+e.
+r = 0.50047, r is not significant so there is no relationship between the variables.
+f.
+Alabama: 46407.576 Colorado: 62575.224
+g.
+Alabama estimate is closer than Colorado estimate.
+h.
+If the outlier is removed, there is a linear relationship.
+i.
+There is one outlier (Hawaii).
+j.
+rank 51: 75711.4; no
+k.
+Alabama
+7
+1819
+22
+52,423
+Colorado
+8
+1876
+38
+104,100
+Hawaii
+6
+1959
+50
+10,932
+Iowa
+4
+1846
+29
+56,276
+Maryland
+8
+1788
+7
+12,407
+Missouri
+8
+1821
+24
+69,709
+New Jersey
+9
+1787
+3
+8,722
+Ohio
+4
+1803
+17
+44,828
+South Carolina 13
+1788
+8
+32,008
+Utah
+4
+1896
+45
+84,904
+Wisconsin
+9
+1848
+30
+65,499
+Table 12.39
+l.
+ŷ = –87065.3 + 7828.532x
+m.
+Alabama: 85,162.404; the prior estimate was closer. Alaska is an outlier.
+n.
+yes, with the exception of Hawaii
+79
+a.
+Check student's solution.
+b.
+yes
+c.
+ŷ = −266.8863+0.1656x
+d.
+0.9448; Yes
+e.
+62.8233; 62.3265
+f.
+yes
+g.
+no; (1987, 62.7)
+h.
+72.5937; no
+i.
+slope = 0.1656.
+As the year increases by one, the percent of workers paid hourly rates tends to increase by 0.1656.
+81a.
+740
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
+
+Size (ounces)
+Cost ($)
+cents/oz
+16
+3.99
+24.94
+32
+4.99
+15.59
+64
+5.99
+9.36
+200
+10.99
+5.50
+Table 12.40
+b.
+Check student’s solution.
+c.
+There is a linear relationship for the sizes 16 through 64, but that linear trend does not continue to the 200-oz size.
+d.
+ŷ = 20.2368 – 0.0819x
+e.
+r = –0.8086
+f.
+40-oz: 16.96 cents/oz
+g.
+90-oz: 12.87 cents/oz
+h.
+The relationship is not linear; the least squares line is not appropriate.
+i.
+no outliers
+j.
+No, you would be extrapolating. The 300-oz size is outside the range of x.
+k.
+slope = –0.08194; for each additional ounce in size, the cost per ounce decreases by 0.082 cents.
+83
+a.
+Size is x, the independent variable, price is y, the dependent variable.
+b.
+Check student’s solution.
+c.
+The relationship does not appear to be linear.
+d.
+ŷ = –745.252 + 54.75569x
+e.
+r = 0.8944, yes it is significant
+f.
+32-inch: $1006.93, 50-inch: $1992.53
+g.
+No, the relationship does not appear to be linear. However, r is significant.
+h.
+no, the 60-inch TV
+i.
+For each additional inch, the price increases by $54.76
+85
+a.
+Let rank be the independent variable and area be the dependent variable.
+b.
+Check student’s solution.
+c.
+There appears to be a linear relationship, with one outlier.
+d.
+ŷ (area) = 24177.06 + 1010.478x
+e.
+r = 0.50047, r is not significant so there is no relationship between the variables.
+f.
+Alabama: 46407.576 Colorado: 62575.224
+g.
+Alabama estimate is closer than Colorado estimate.
+h.
+If the outlier is removed, there is a linear relationship.
+i.
+There is one outlier (Hawaii).
+j.
+rank 51: 75711.4; no
+Chapter 12 | Linear Regression and Correlation
+741
