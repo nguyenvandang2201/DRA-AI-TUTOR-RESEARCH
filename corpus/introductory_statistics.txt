@@ -4676,3 +4676,69 @@ j.
 rank 51: 75711.4; no
 Chapter 12 | Linear Regression and Correlation
 741
+
+k.
+Alabama
+7
+1819
+22
+52,423
+Colorado
+8
+1876
+38
+104,100
+Hawaii
+6
+1959
+50
+10,932
+Iowa
+4
+1846
+29
+56,276
+Maryland
+8
+1788
+7
+12,407
+Missouri
+8
+1821
+24
+69,709
+New Jersey
+9
+1787
+3
+8,722
+Ohio
+4
+1803
+17
+44,828
+South Carolina 13
+1788
+8
+32,008
+Utah
+4
+1896
+45
+84,904
+Wisconsin
+9
+1848
+30
+65,499
+Table 12.41
+l.
+ŷ = –87065.3 + 7828.532x
+m.
+Alabama: 85,162.404; the prior estimate was closer. Alaska is an outlier.
+n.
+yes, with the exception of Hawaii
+742
+Chapter 12 | Linear Regression and Correlation
+This OpenStax book is available for free at http://cnx.org/content/col11562/1.18
