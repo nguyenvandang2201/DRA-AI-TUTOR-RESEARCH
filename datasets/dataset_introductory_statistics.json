@@ -18,5 +18,25 @@
     "query": "According to the Empirical Rule, approximately what percentage of x values lie within two standard deviations of the mean?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "According to the Empirical Rule, approximately what percentage of x values lie within three standard deviations of the mean?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What are the z-scores corresponding to ±1 standard deviation from the mean in a standard normal distribution?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What are the z-scores corresponding to ±2 standard deviations from the mean in a standard normal distribution?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What are the z-scores corresponding to ±3 standard deviations from the mean in a standard normal distribution?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
