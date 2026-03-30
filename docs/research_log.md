@@ -22,3 +22,4 @@
 - 2026-03-27: Đối chiếu đoạn văn corpus Thống kê nhập môn với nguồn tham khảo gốc.
 - 2026-03-29: Bổ sung ghi chú nguồn tham chiếu cho corpus Kinh tế vi mô.
 - 2026-03-29: Soát lại độ khó (factual/analytical) của truy vấn Thống kê nhập môn.
+- 2026-03-30: Rà soát cân bằng nhãn 0/1 cho truy vấn Kinh tế vi mô.
