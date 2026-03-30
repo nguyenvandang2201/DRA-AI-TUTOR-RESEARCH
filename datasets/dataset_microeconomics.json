@@ -18,5 +18,25 @@
     "query": "According to the demand schedule in Table 3.1, what is the quantity demanded of gasoline when the price is $1.00 per gallon?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "According to the demand schedule in Table 3.1, what is the quantity demanded of gasoline when the price is $2.20 per gallon?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "According to the supply schedule in Table 3.2, what is the quantity supplied of gasoline when the price is $1.00 per gallon?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "According to the supply schedule in Table 3.2, what is the quantity supplied of gasoline when the price is $2.20 per gallon?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is the equilibrium price in the gasoline market example presented in the textbook?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
