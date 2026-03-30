@@ -18,5 +18,25 @@
     "query": "Who was the nineteen-year-old Bosnian Serb who shot Archduke Franz Ferdinand and his wife Sophie?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "In what year did Germany and Austria-Hungary go to war, resulting in Prussia annexing several German states?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What treaty forced France to pay a large war indemnity and cede Alsace and Lorraine to Prussia after the Franco-Prussian War?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was the name of the new class of British warship that debuted in 1906 and revolutionized naval warfare?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "How many rounds per minute could the Maxim-designed machine guns of World War I fire?",
+    "domain": "World History",
+    "label": 0
   }
 ]
