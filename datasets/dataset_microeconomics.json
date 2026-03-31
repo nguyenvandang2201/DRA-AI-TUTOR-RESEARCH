@@ -38,5 +38,25 @@
     "query": "What is the equilibrium price in the gasoline market example presented in the textbook?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "What is the equilibrium quantity in the gasoline market example presented in the textbook?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What were total U.S. organic food sales reported by the Organic Trade Association in 1990?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What were total U.S. organic food sales reported by the Organic Trade Association in 2020?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What percentage of 2020 organic sales were food products, according to the Organic Trade Association?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
