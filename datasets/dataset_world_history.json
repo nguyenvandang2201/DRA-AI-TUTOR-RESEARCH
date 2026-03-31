@@ -38,5 +38,25 @@
     "query": "How many rounds per minute could the Maxim-designed machine guns of World War I fire?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "What percentage of gas-related deaths in WWI were caused by phosgene gas, according to historians?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "In what month and year did the British introduce tanks on the battlefield for the first time?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "By 1917, approximately what percentage of the world's merchant ships had German U-boats destroyed?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "How many Russian prisoners did Germany capture at the Battle of Tannenberg?",
+    "domain": "World History",
+    "label": 0
   }
 ]
