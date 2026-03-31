@@ -38,5 +38,25 @@
     "query": "What are the z-scores corresponding to ±3 standard deviations from the mean in a standard normal distribution?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "If X ~ N(5, 6) and x = 17, what is the z-score?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "If X ~ N(5, 6) and x = 1, what is the z-score (rounded to two decimal places)?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the formula for calculating a z-score from a value x in a normal distribution with mean μ and standard deviation σ?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What formula is used to find the kth percentile of X when the z-score is known?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
