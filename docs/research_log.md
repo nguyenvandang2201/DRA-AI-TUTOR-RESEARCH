@@ -24,3 +24,4 @@
 - 2026-03-29: Soát lại độ khó (factual/analytical) của truy vấn Thống kê nhập môn.
 - 2026-03-30: Rà soát cân bằng nhãn 0/1 cho truy vấn Kinh tế vi mô.
 - 2026-03-31: Rà soát cân bằng nhãn 0/1 cho truy vấn Lịch sử thế giới.
+- 2026-04-01: Đối chiếu trường domain với nội dung câu hỏi Lịch sử thế giới.
