@@ -58,5 +58,25 @@
     "query": "What percentage of 2020 organic sales were food products, according to the Organic Trade Association?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "In the organic apple price example, how much does an organic Fuji apple cost per pound?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "In the organic apple price example, how much does a conventional Fuji apple cost per pound?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "In the bicycle market example (Table 3.8), what is the equilibrium price?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "In the bicycle market example (Table 3.8), what is the equilibrium quantity?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
