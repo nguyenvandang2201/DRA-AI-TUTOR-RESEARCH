@@ -78,5 +78,25 @@
     "query": "In the bicycle market example (Table 3.8), what is the equilibrium quantity?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "In the bread market example (Table 3.11), what is the equilibrium price?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "In the bread market example (Table 3.11), what is the equilibrium quantity?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is the original equilibrium price per ticket in the movie theater price floor example?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is the original equilibrium quantity in the movie theater price floor example?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
