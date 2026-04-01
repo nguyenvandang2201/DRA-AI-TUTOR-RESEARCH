@@ -58,5 +58,25 @@
     "query": "How many Russian prisoners did Germany capture at the Battle of Tannenberg?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "How many casualties did Austria-Hungary suffer during the siege of Przemyśl and surrounding fighting?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was the length, in miles, of the trench system at its greatest extent on the Western Front?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "On what date did Austria-Hungary declare war on Serbia, officially beginning WWI?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was the total number of soldiers who died in WWI across all nations?",
+    "domain": "World History",
+    "label": 0
   }
 ]
