@@ -78,5 +78,25 @@
     "query": "In the third exam/final exam example, what is the coefficient of determination r²?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "In the third exam/final exam example, how many data points (n) were used?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the p-value for the significance test of the correlation coefficient in the third exam/final exam example?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What significance level α is used throughout Chapter 12 for hypothesis testing of the correlation coefficient?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the formula for the correlation coefficient r?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
