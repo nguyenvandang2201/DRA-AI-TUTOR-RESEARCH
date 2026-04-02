@@ -98,5 +98,25 @@
     "query": "What was the name of the German submarine that torpedoed the RMS Lusitania in 1915?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "How many U.S. citizens died when the Lusitania was sunk in May 1915?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "How many ships participated in the Battle of Jutland, the only major surface naval engagement of WWI?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "In what year did the United States pass the Espionage Act, limiting anti-war speech?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "How many people were prosecuted under the U.S. Sedition Act of 1918?",
+    "domain": "World History",
+    "label": 0
   }
 ]
