@@ -98,5 +98,25 @@
     "query": "What is the original equilibrium quantity in the movie theater price floor example?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "What price floor is imposed in the movie theater example?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "After the $12 price floor in the movie theater example, to what level does quantity demanded fall?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "In the price ceiling example illustrated in Figure 3.24(a), what is the original equilibrium price?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "In the price ceiling example illustrated in Figure 3.24(a), what is the original equilibrium quantity?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
