@@ -78,5 +78,25 @@
     "query": "What was the total number of soldiers who died in WWI across all nations?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "How many civilians, including women and children, were killed by German troops during the invasion of Belgium?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "In what year did Japan attack and capture the German colonial port at Qingdao on the Chinese coast?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "How many Chinese laborers were brought to Europe during WWI to repair equipment and dig trenches?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was the name of the German submarine that torpedoed the RMS Lusitania in 1915?",
+    "domain": "World History",
+    "label": 0
   }
 ]
