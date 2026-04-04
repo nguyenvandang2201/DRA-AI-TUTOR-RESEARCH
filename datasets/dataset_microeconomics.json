@@ -118,5 +118,25 @@
     "query": "In the price ceiling example illustrated in Figure 3.24(a), what is the original equilibrium quantity?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "What price ceiling is imposed in the Figure 3.24(a) example?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "After the price ceiling in Figure 3.24(a), what quantity do firms in the market produce?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "In what year did the U.S. government split up AT&T into multiple companies?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "In what year did Alfred Marshall write about supply and demand and the scissors analogy?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
