@@ -118,5 +118,25 @@
     "query": "What does r = –1 indicate about the linear relationship between two variables?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "In the linear regression equation ŷ = a + bx, what does the slope b describe?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the linear regression equation y = a + bx, what does a represent geometrically?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the formula for the slope b of the least-squares regression line in terms of correlation coefficient r, sy, and sx?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What important point does the best-fit line always pass through?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
