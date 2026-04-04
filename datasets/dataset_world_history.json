@@ -118,5 +118,25 @@
     "query": "How many people were prosecuted under the U.S. Sedition Act of 1918?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "How many years was Eugene V. Debs sentenced to prison for his anti-war comments?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What were the approximate casualties suffered by France at the Battle of Verdun (1916)?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was the total number of casualties from both sides combined at the Battle of the Somme?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "In what year did the February Revolution break out in Russia, leading to the abdication of Tsar Nicholas II?",
+    "domain": "World History",
+    "label": 0
   }
 ]
