@@ -26,3 +26,4 @@
 - 2026-03-31: Rà soát cân bằng nhãn 0/1 cho truy vấn Lịch sử thế giới.
 - 2026-04-01: Đối chiếu trường domain với nội dung câu hỏi Lịch sử thế giới.
 - 2026-04-02: Đối chiếu trường domain với nội dung câu hỏi Thống kê nhập môn.
+- 2026-04-04: Đối chiếu trường domain với nội dung câu hỏi Thống kê nhập môn.
