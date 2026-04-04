@@ -138,5 +138,25 @@
     "query": "In what year did Alfred Marshall write about supply and demand and the scissors analogy?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "What is the market price of frozen raspberries used as the example in Chapter 8?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What are the fixed costs of the raspberry farm in the Chapter 8 example?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "According to Table 8.1, at what output levels does the raspberry farm earn its maximum profit of $90?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "At what price does the raspberry farm break even (earn zero economic profit)?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
