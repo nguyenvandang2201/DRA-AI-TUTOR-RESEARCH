@@ -138,5 +138,25 @@
     "query": "What important point does the best-fit line always pass through?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "What is the Sum of Squared Errors (SSE) minimized to achieve in linear regression?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the formula for the standard deviation of the residuals s in terms of SSE and n?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the third exam/final exam example with the outlier removed, what is the new equation of the best-fit line?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the third exam/final exam example with the outlier removed, what is the new correlation coefficient r?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
