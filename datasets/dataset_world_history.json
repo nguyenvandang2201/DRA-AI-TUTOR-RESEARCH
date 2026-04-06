@@ -158,5 +158,25 @@
     "query": "How many casualties did Russia suffer during WWI?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "How many soldiers of all nations died in WWI?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "How many German soldiers died each day on the Western Front during WWI on average?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "In what city was the signing of the Treaty of Versailles, which ended WWI, held?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What year did Germany withdraw from the League of Nations following Hitler's referendum?",
+    "domain": "World History",
+    "label": 0
   }
 ]
