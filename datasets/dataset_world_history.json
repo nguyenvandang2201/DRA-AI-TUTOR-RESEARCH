@@ -138,5 +138,25 @@
     "query": "In what year did the February Revolution break out in Russia, leading to the abdication of Tsar Nicholas II?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "What was the name of the new Russian national legislature created after the 1905 Revolution?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "Under the Treaty of Brest-Litovsk (1918), which territories did Russia give up to the Central powers?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "On what exact date and time did the WWI armistice take effect, ending the fighting?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "How many casualties did Russia suffer during WWI?",
+    "domain": "World History",
+    "label": 0
   }
 ]
