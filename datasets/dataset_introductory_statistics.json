@@ -158,5 +158,25 @@
     "query": "In the third exam/final exam example with the outlier removed, what is the new correlation coefficient r?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "In the 2012 SAT verbal section, what was the mean score μ?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the 2012 SAT verbal section, what was the standard deviation σ?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What were the mean and standard deviation of heights for 15–18-year-old males from Chile in 2009–2010?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "For the IQ distribution, what are the mean and standard deviation given in the textbook?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
