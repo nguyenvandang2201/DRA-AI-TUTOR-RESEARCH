@@ -27,3 +27,4 @@
 - 2026-04-01: Đối chiếu trường domain với nội dung câu hỏi Lịch sử thế giới.
 - 2026-04-02: Đối chiếu trường domain với nội dung câu hỏi Thống kê nhập môn.
 - 2026-04-04: Đối chiếu trường domain với nội dung câu hỏi Thống kê nhập môn.
+- 2026-04-06: Chạy thử script kiểm tra JSON cho Kinh tế vi mô, không phát hiện lỗi.
