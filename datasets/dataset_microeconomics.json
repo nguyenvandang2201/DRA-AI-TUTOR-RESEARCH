@@ -158,5 +158,25 @@
     "query": "At what price does the raspberry farm break even (earn zero economic profit)?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "What is the break-even quantity for the raspberry farm?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is the minimum average variable cost (shutdown price) for the raspberry farm, according to Table 8.6?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "According to Table 8.3, at what output level does MR equal MC for the raspberry farm?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "In the Work It Out example (Tables 8.7–8.11), what is the given market price?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
