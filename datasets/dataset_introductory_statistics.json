@@ -178,5 +178,25 @@
     "query": "For the IQ distribution, what are the mean and standard deviation given in the textbook?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "In the checkout line wait time example (Thuy Dau et al.), what was the sample mean calculated?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the checkout line wait time example, what was the sample standard deviation?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the NUMMI assembly line example, what was the mean number of defective cars per sample of n=100?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the NUMMI example, what is the standard deviation of defective cars per 100?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
