@@ -178,5 +178,25 @@
     "query": "What year did Germany withdraw from the League of Nations following Hitler's referendum?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "How many British 'pals' units were devastated at the Battle of the Somme in 1916?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "How many French people and Belgians had left their homes by the end of 1914 due to the war?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "In what year did Britain extend the right to vote to property-owning women over thirty?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "How many soldiers were in Germany's active military force at the outbreak of WWI?",
+    "domain": "World History",
+    "label": 0
   }
 ]
