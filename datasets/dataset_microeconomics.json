@@ -178,5 +178,25 @@
     "query": "In the Work It Out example (Tables 8.7–8.11), what is the given market price?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "What is the profit-maximizing quantity in the Work It Out example?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is the maximum profit in the Work It Out example?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "According to the U.S. Small Business Administration data cited in the text, how many new firms entered in 2011?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "According to the U.S. Small Business Administration data cited in the text, how many firms failed in 2011?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
