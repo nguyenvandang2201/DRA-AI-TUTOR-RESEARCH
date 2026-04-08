@@ -29,3 +29,4 @@
 - 2026-04-04: Đối chiếu trường domain với nội dung câu hỏi Thống kê nhập môn.
 - 2026-04-06: Chạy thử script kiểm tra JSON cho Kinh tế vi mô, không phát hiện lỗi.
 - 2026-04-08: Rà soát cân bằng nhãn 0/1 cho truy vấn Lịch sử thế giới.
+- 2026-04-08: Soát lại độ khó (factual/analytical) của truy vấn Lịch sử thế giới.
