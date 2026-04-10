@@ -198,5 +198,25 @@
     "query": "According to the U.S. Small Business Administration data cited in the text, how many firms failed in 2011?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "According to U.S. Department of Agriculture data cited for December 2021, what average price did U.S. corn farmers receive per bushel?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "In 1997, how many acres of wheat were planted in North Dakota?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "In 1997, how many acres of corn were planted in North Dakota?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "According to Table 8.12, how many acres of corn were planted in North Dakota in 1972?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
