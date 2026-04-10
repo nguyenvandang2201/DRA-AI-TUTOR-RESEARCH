@@ -218,5 +218,25 @@
     "query": "What is the 70th percentile of the final exam score distribution with mean 63 and standard deviation 5?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "In the third exam/final exam example, which data point was identified as an outlier?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the standard deviation s of the residuals in the third exam/final exam example (before removing the outlier)?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In a normal distribution, if the area to the left of x is 0.0228, what is the area to the right?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the 80th percentile of a normal distribution with mean 36.9 and standard deviation 13.9?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
