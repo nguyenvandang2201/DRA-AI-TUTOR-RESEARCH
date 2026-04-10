@@ -198,5 +198,25 @@
     "query": "In the NUMMI example, what is the standard deviation of defective cars per 100?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "For the CD player lifetime example, what is the mean lifetime?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "For the CD player lifetime example, what is the standard deviation?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the 90th percentile of the final exam score distribution with mean 63 and standard deviation 5?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the 70th percentile of the final exam score distribution with mean 63 and standard deviation 5?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
