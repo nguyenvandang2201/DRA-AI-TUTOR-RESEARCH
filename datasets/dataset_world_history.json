@@ -198,5 +198,25 @@
     "query": "How many soldiers were in Germany's active military force at the outbreak of WWI?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "What was the size of the British Expeditionary Force that arrived in France in August 1914?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "How many British women volunteered for the Women's Land Army during WWI?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What were the total casualties from both sides at the Gallipoli campaign?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "How many Canadian soldiers were killed at the Battle of Vimy Ridge in April 1917?",
+    "domain": "World History",
+    "label": 0
   }
 ]
