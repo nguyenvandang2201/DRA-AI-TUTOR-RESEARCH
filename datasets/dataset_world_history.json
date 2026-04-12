@@ -218,5 +218,25 @@
     "query": "How many Canadian soldiers were killed at the Battle of Vimy Ridge in April 1917?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "What was the size of the German force (troops, tanks, aircraft) committed to the Battle of the Bulge?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "In what year did Japan detonate explosives along the South Manchuria Railway to justify invading Manchuria?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was the name of the truce signed between China and Japan on May 22, 1933, creating a demilitarized zone?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "On what date did Japanese forces enter and begin their reign of terror in Nanjing?",
+    "domain": "World History",
+    "label": 0
   }
 ]
