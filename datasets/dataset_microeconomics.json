@@ -218,5 +218,25 @@
     "query": "According to Table 8.12, how many acres of corn were planted in North Dakota in 1972?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "According to Table 8.12, how many acres of corn were planted in North Dakota in 2013?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "In April 2013, what was the price gap between wheat and corn per bushel reported by Agweek?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "In the Yoga Center Scenario 1 (no clients), what are the losses the center incurs?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "In the Yoga Center Scenario 2, what are the revenues earned?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
