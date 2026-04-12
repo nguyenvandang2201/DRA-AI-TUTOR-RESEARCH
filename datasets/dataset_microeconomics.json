@@ -238,5 +238,25 @@
     "query": "In the Yoga Center Scenario 2, what are the revenues earned?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "In the Yoga Center Scenario 3, what are the revenues earned?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "How long does a U.S. patent grant exclusive legal rights to an inventor?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "How long does copyright protection ordinarily last under U.S. law?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "Between 2003 and 2019, how many trademarks were registered with the U.S. government?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
