@@ -238,5 +238,25 @@
     "query": "On what date did Japanese forces enter and begin their reign of terror in Nanjing?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "How many Chinese women and girls did foreign witnesses in Nanjing estimate were raped?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "How many people died when Chiang Kai-shek ordered the opening of the Yellow River dikes?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "How much restitution did Japan pay the United States after sinking the USS Panay gunboat?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "On what date did Germany and the Soviet Union sign the German-Soviet Nonaggression Pact?",
+    "domain": "World History",
+    "label": 0
   }
 ]
