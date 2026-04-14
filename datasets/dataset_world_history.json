@@ -258,5 +258,25 @@
     "query": "On what date did Germany and the Soviet Union sign the German-Soviet Nonaggression Pact?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "On what date did Germany invade Poland, triggering WWII?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "How many troops did Germany assemble for Operation Barbarossa, the invasion of the Soviet Union?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "In the first two days of Operation Barbarossa, how many Soviet planes were destroyed on the ground?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "How many days did the siege of Leningrad last?",
+    "domain": "World History",
+    "label": 0
   }
 ]
