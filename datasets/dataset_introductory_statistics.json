@@ -258,5 +258,25 @@
     "query": "What is the formula for the test statistic t used in testing significance of the correlation coefficient?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "For the Sports Stadiums data in Chapter 6, what was the sample mean maximum capacity?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the pregnancy length example, what is the mean number of days and standard deviation?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the probability that a randomly chosen mandarin orange has a diameter larger than 6.0 cm, given mean 5.85 cm and sd 0.24 cm?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "For a normal distribution with mean 68 and standard deviation 3 (golf scores), what is the probability that a score is less than 65?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
