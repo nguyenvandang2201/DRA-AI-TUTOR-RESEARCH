@@ -258,5 +258,25 @@
     "query": "Between 2003 and 2019, how many trademarks were registered with the U.S. government?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "What share of the U.S. cellophane market did DuPont hold when the government filed the 1947 antitrust case?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What was DuPont's approximate share of the 'flexible packaging materials' market in the 1947 case?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "In what year did the U.S. Supreme Court rule in favor of DuPont's broader market definition?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What was Microsoft's approximate market share in total computer software and services in 2014, as cited in the text?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
