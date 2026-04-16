@@ -298,5 +298,25 @@
     "query": "What is the 95th percentile of the Facebook usage distribution with mean 28 and standard deviation 5?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "In the Consumer Price Index (CPI) regression example, what is the equation of the best-fit line?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the CPI example, what is the correlation coefficient r?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the CPI example, what is the estimated CPI for 1990?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What are the null and alternative hypotheses for testing the significance of the correlation coefficient?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
