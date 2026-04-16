@@ -278,5 +278,25 @@
     "query": "For a normal distribution with mean 68 and standard deviation 3 (golf scores), what is the probability that a score is less than 65?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "What is the 25th percentile of a normal distribution with mean 2 and standard deviation 0.5?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the scratch-off lottery ticket example, what is the probability that a ticket wins?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "For Facebook usage (mean 28%, sd 5%), what is the probability that the usage is at least 30%?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the 95th percentile of the Facebook usage distribution with mean 28 and standard deviation 5?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
