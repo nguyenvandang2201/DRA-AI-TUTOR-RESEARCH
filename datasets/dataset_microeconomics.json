@@ -298,5 +298,25 @@
     "query": "What price does HealthPill charge at its profit-maximizing output level?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "What is HealthPill's total revenue at the profit-maximizing output of 5 units?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is HealthPill's total cost at the profit-maximizing output of 5 units?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is HealthPill's total economic profit at Q=5?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "In Table 9.3, at what output level does HealthPill's marginal revenue become zero?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
