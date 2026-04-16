@@ -278,5 +278,25 @@
     "query": "What was Microsoft's approximate market share in total computer software and services in 2014, as cited in the text?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "In the HealthPill example (Table 9.2), what is total revenue when HealthPill sells 6 units?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "In the HealthPill example (Table 9.2), what is total revenue when HealthPill sells 7 units?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is the profit-maximizing output level for the HealthPill monopoly?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What price does HealthPill charge at its profit-maximizing output level?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
