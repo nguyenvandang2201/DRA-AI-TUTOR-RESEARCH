@@ -33,3 +33,4 @@
 - 2026-04-10: Đối chiếu trường domain với nội dung câu hỏi Thống kê nhập môn.
 - 2026-04-12: Chạy thử script kiểm tra JSON cho Thống kê nhập môn, không phát hiện lỗi.
 - 2026-04-14: Kiểm tra trùng lặp câu hỏi trong batch truy vấn Kinh tế vi mô.
+- 2026-04-16: Chạy thử script kiểm tra JSON cho Lịch sử thế giới, không phát hiện lỗi.
