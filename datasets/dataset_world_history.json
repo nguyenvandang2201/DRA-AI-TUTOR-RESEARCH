@@ -278,5 +278,25 @@
     "query": "How many days did the siege of Leningrad last?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "How many people perished in Leningrad during the siege, overall?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "How many Allied troops were evacuated during the Dunkirk evacuation in June 1940?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "On what date did Japan attack Pearl Harbor?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "How many people were killed and injured in the Pearl Harbor attack combined?",
+    "domain": "World History",
+    "label": 0
   }
 ]
