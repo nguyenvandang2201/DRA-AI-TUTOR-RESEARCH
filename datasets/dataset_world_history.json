@@ -318,5 +318,25 @@
     "query": "How many Jewish people and members of other minority groups were murdered in the Holocaust?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "How many children did the Kindertransport rescue from Nazi Germany before the war?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "In what year did the United States impose an oil and gas embargo on Japan?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "How many civilian and military casualties did the United States suffer at Pearl Harbor?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was the date of the D-Day invasion at Normandy?",
+    "domain": "World History",
+    "label": 0
   }
 ]
