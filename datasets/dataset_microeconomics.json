@@ -318,5 +318,25 @@
     "query": "In Table 9.3, at what output level does HealthPill's marginal revenue become zero?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "In Table 9.3, what is HealthPill's marginal revenue from selling the 1st unit?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "In Table 9.3, what is HealthPill's marginal cost of producing the 5th unit?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "At what output level does HealthPill's marginal cost equal its marginal revenue?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "In Table 9.4, what is HealthPill's total profit at Q=4?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
