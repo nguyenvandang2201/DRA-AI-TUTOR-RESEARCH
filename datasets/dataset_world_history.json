@@ -298,5 +298,25 @@
     "query": "How many people were killed and injured in the Pearl Harbor attack combined?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "How many Japanese aircraft carriers were lost at the Battle of Midway in June 1942?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "In what year was the Wannsee Conference held, at which the Final Solution was decided?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "How many people were sent to Auschwitz-Birkenau, and how many of them died there?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "How many Jewish people and members of other minority groups were murdered in the Holocaust?",
+    "domain": "World History",
+    "label": 0
   }
 ]
