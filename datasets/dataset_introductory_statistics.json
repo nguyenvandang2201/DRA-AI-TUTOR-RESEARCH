@@ -318,5 +318,25 @@
     "query": "What are the null and alternative hypotheses for testing the significance of the correlation coefficient?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "In Chapter 12, what calculator function is used to find the least-squares regression line?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "For df = 8, what are the critical values of the correlation coefficient at the 95% level?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "For df = 12, what is the critical value of r at the 95% level?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What were the two variables used in the third exam/final exam example?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
