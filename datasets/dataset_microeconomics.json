@@ -338,5 +338,25 @@
     "query": "In Table 9.4, what is HealthPill's total profit at Q=4?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "In Table 9.4, what is HealthPill's marginal profit from the 3rd unit?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "In what year did John Hicks win the Nobel Prize for Economics?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "In what year did the U.S. Department of Justice rule against American Express and Mastercard for imposing restrictions on retailers?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What share of the most commonly sold personal computers did the Windows system run on in 2013, according to the text?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
