@@ -358,5 +358,25 @@
     "query": "What share of the most commonly sold personal computers did the Windows system run on in 2013, according to the text?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "In Table 9.5, what is the average cost (AC) for HealthPill at Q=5?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "In Table 9.3, what is HealthPill's marginal cost of producing the 2nd unit?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "In Table 9.5, what is HealthPill's demand price (P) at Q=3?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "In the natural monopoly airplane example (Figure 9.2), at what output range does the industry show constant returns to scale?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
