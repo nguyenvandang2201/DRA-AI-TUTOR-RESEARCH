@@ -358,5 +358,25 @@
     "query": "What is the slope of the best-fit line in the third exam/final exam example?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "In the Aaron’s Word Processing Service example, what is the y-intercept of the cost equation?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In Svetlana’s tutoring equation y = 25 + 15x, what does x represent?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the linear regression equation for Svetlana’s tutoring, what is the slope?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the TI-83/84 calculator command to find cumulative normal probabilities?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
