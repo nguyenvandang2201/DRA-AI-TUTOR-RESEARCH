@@ -338,5 +338,25 @@
     "query": "What was the date of the D-Day invasion at Normandy?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "By the second day of D-Day, approximately how many Allied troops had linked up in a continuous line?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "On what date did Hitler commit suicide?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "When was the atomic bomb first successfully tested in the Trinity Test in New Mexico?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "How many people were killed instantly when the atomic bomb 'Little Boy' was dropped on Hiroshima?",
+    "domain": "World History",
+    "label": 0
   }
 ]
