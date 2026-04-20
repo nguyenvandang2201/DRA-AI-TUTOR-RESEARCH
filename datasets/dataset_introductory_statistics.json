@@ -378,5 +378,25 @@
     "query": "What is the TI-83/84 calculator command to find cumulative normal probabilities?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "What is the TI-83/84 calculator command to find a value at a given percentile?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "For the fat calories distribution with mean 36 and standard deviation 10, what is the maximum value for the lower 25%?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the 80th percentile of the fly ball distance distribution (mean 250, sd 50)?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the unemployment wait time (mean 3, sd 1.5), what is the probability of less than one hour unsupervised?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
