@@ -378,5 +378,25 @@
     "query": "How many forced laborers from different countries fell under German control during WWII?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "How many children were evacuated from London during the German blitz?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was the unemployment rate in the United States in 1939, and how low did it drop by 1943?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "How many women served in some branch of the U.S. military during WWII?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "How many Soviet women served in frontline combat positions during WWII?",
+    "domain": "World History",
+    "label": 0
   }
 ]
