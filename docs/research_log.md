@@ -37,3 +37,4 @@
 - 2026-04-18: Chạy thử script kiểm tra JSON cho Lịch sử thế giới, không phát hiện lỗi.
 - 2026-04-19: Soát lại độ khó (factual/analytical) của truy vấn Thống kê nhập môn.
 - 2026-04-19: Kiểm tra trùng lặp câu hỏi trong batch truy vấn Thống kê nhập môn.
+- 2026-04-20: Rà soát cân bằng nhãn 0/1 cho truy vấn Kinh tế vi mô.
