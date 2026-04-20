@@ -378,5 +378,25 @@
     "query": "In the natural monopoly airplane example (Figure 9.2), at what output range does the industry show constant returns to scale?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "At what price per pack does the raspberry farm face losses of $47.45 if it continues to produce at Q=65?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "In the gasoline demand schedule (Table 3.1), what is the quantity demanded when the price is $1.60 per gallon?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "In the gasoline supply schedule (Table 3.2), what is the quantity supplied when the price is $1.80 per gallon?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "According to Table 8.1, what is the total cost for the raspberry farm at Q=0?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
