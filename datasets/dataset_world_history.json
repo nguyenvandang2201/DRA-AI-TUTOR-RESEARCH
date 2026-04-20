@@ -358,5 +358,25 @@
     "query": "How many people were killed instantly when the atomic bomb 'Little Boy' was dropped on Hiroshima?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "How many people were killed immediately when 'Fat Man' was dropped on Nagasaki?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What were the total deaths in the Soviet Union due to WWII (military and civilian)?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "How many American soldiers died in WWII?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "How many forced laborers from different countries fell under German control during WWII?",
+    "domain": "World History",
+    "label": 0
   }
 ]
