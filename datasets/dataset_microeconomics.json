@@ -418,5 +418,25 @@
     "query": "In the cheddar cheese market (Table 3.9), what is the equilibrium quantity?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "What is the definition of 'demand' according to economists in the context of goods and services markets?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is 'quantity demanded' and how does it differ from demand?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is the 'law of demand' in microeconomics?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is a 'demand schedule' in economics?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
