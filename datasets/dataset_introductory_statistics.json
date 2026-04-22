@@ -398,5 +398,25 @@
     "query": "In the unemployment wait time (mean 3, sd 1.5), what is the probability of less than one hour unsupervised?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "What is the Greek letter used to denote the population correlation coefficient?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What notation is used for a normal distribution with mean μ and standard deviation σ?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In Chapter 12, how many degrees of freedom are used in the t-test for the correlation coefficient with n data points?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In the final exam scores example (μ = 63, σ = 5), what is the probability of scoring less than 85?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
