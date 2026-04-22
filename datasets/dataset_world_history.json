@@ -398,5 +398,25 @@
     "query": "How many Soviet women served in frontline combat positions during WWII?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "How many bombing runs did the Soviet Night Witches women's air unit conduct during WWII?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "In what year was the United Nations established, and in what city?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "How many defendants were indicted at the Nuremberg Trials, and how many were convicted?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "How long did the U.S. occupation of Japan last after WWII?",
+    "domain": "World History",
+    "label": 0
   }
 ]
