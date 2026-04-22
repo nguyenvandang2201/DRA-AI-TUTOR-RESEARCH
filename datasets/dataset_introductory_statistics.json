@@ -418,5 +418,25 @@
     "query": "In the final exam scores example (μ = 63, σ = 5), what is the probability of scoring less than 85?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "What is a z-score, and what does it measure?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the standard normal distribution, and how is it denoted?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "Define the normal distribution and identify its two parameters.",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the Empirical Rule (also known as the 68-95-99.7 Rule)?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
