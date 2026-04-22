@@ -398,5 +398,25 @@
     "query": "According to Table 8.1, what is the total cost for the raspberry farm at Q=0?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "According to Table 8.1, what is the total cost for the raspberry farm at Q=80?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "According to Table 8.1, what is the profit for the raspberry farm at Q=100?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "In the cheddar cheese market (Table 3.9), what is the equilibrium price per pound?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "In the cheddar cheese market (Table 3.9), what is the equilibrium quantity?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
