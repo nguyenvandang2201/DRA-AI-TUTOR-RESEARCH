@@ -418,5 +418,25 @@
     "query": "How long did the U.S. occupation of Japan last after WWII?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "What is the 'Concert of Europe,' and what role did it play in maintaining stability in the nineteenth century?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is a 'bloc' in international politics, and how did the European blocs form before WWI?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is the Triple Alliance, and which countries formed it?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is the Triple Entente, and what were its origins?",
+    "domain": "World History",
+    "label": 0
   }
 ]
