@@ -438,5 +438,25 @@
     "query": "What is a 'demand schedule' in economics?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "What is a 'demand curve' and how is it constructed?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is the definition of 'supply' as used by economists?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is 'quantity supplied' and how does it differ from supply?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is the 'law of supply' in microeconomics?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
