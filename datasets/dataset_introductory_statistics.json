@@ -438,5 +438,25 @@
     "query": "What is the Empirical Rule (also known as the 68-95-99.7 Rule)?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "What is the probability density function of a normal distribution?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the cumulative distribution function P(X < x) and how is it interpreted?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What does it mean for a normal distribution to be “symmetric”?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "Define a percentile in the context of a normal distribution.",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
