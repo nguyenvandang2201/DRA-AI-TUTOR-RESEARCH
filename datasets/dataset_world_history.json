@@ -438,5 +438,25 @@
     "query": "What is the Triple Entente, and what were its origins?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "What is the Schlieffen Plan, and what was its strategic logic?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What does the term 'total war' mean, and how did WWI exemplify this concept?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is pan-Slavic nationalism, and how did it influence events in the Balkans before WWI?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is the 'sick man of Europe,' and why was this label applied to the Ottoman Empire?",
+    "domain": "World History",
+    "label": 0
   }
 ]
