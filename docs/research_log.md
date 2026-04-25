@@ -40,3 +40,4 @@
 - 2026-04-20: Rà soát cân bằng nhãn 0/1 cho truy vấn Kinh tế vi mô.
 - 2026-04-22: Kiểm tra trùng lặp câu hỏi trong batch truy vấn Lịch sử thế giới.
 - 2026-04-23: Kiểm tra trùng lặp câu hỏi trong batch truy vấn Lịch sử thế giới.
+- 2026-04-25: Chạy thử script kiểm tra JSON cho Thống kê nhập môn, không phát hiện lỗi.
