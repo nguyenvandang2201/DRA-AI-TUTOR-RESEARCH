@@ -458,5 +458,25 @@
     "query": "What is the 'law of supply' in microeconomics?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "What is a 'supply schedule' in economics?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is a 'supply curve' and what does its shape represent?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is 'price' as defined in microeconomic theory?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is 'equilibrium' in a market for goods and services?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
