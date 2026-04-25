@@ -458,5 +458,25 @@
     "query": "What is the 'sick man of Europe,' and why was this label applied to the Ottoman Empire?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "What was the Balkan League, and who were its founding members?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was the Black Hand organization, and what were its political aims?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is a 'blank check' in diplomacy, and how did Germany's blank check to Austria-Hungary contribute to WWI?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is the term 'shell shock,' and how does it relate to modern psychological diagnoses?",
+    "domain": "World History",
+    "label": 0
   }
 ]
