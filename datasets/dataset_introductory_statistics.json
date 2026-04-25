@@ -458,5 +458,25 @@
     "query": "Define a percentile in the context of a normal distribution.",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "What is the 90th percentile, and what does it mean in terms of data distribution?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is a critical value in the context of a normal distribution?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the standardization transformation, and what distribution does it produce?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is bivariate data?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
