@@ -478,5 +478,25 @@
     "query": "What is bivariate data?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "What is a scatter plot, and what information does it convey?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is a linear equation in the statistical context, and how is it written?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "Define the slope b in the context of a linear regression equation.",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the y-intercept in a linear regression equation, and how is it interpreted?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
