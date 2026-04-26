@@ -41,3 +41,4 @@
 - 2026-04-22: Kiểm tra trùng lặp câu hỏi trong batch truy vấn Lịch sử thế giới.
 - 2026-04-23: Kiểm tra trùng lặp câu hỏi trong batch truy vấn Lịch sử thế giới.
 - 2026-04-25: Chạy thử script kiểm tra JSON cho Thống kê nhập môn, không phát hiện lỗi.
+- 2026-04-26: Soát lại độ khó (factual/analytical) của truy vấn Thống kê nhập môn.
