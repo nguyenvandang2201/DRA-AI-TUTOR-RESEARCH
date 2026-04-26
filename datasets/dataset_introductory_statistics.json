@@ -498,5 +498,25 @@
     "query": "What is the y-intercept in a linear regression equation, and how is it interpreted?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "What is the least-squares regression line (line of best fit)?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the Sum of Squared Errors (SSE) in linear regression?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is a residual (error) in the context of linear regression?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What does ŷ (y-hat) represent in a regression equation?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
