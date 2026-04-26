@@ -478,5 +478,25 @@
     "query": "What is the term 'shell shock,' and how does it relate to modern psychological diagnoses?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "What is 'no-man's-land,' and what characterized this zone on the Western Front?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is 'trench foot,' and what conditions during WWI caused it?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What are U-boats, and what role did they play in Germany's WWI naval strategy?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is an armistice, and how did it differ from a formal surrender at the end of WWI?",
+    "domain": "World History",
+    "label": 0
   }
 ]
