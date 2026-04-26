@@ -478,5 +478,25 @@
     "query": "What is 'equilibrium' in a market for goods and services?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "What is the 'equilibrium price' in a market?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is the 'equilibrium quantity' in a market?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is 'excess demand' (shortage) in microeconomics?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is 'excess supply' (surplus) in microeconomics?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
