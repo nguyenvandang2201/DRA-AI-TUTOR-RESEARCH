@@ -498,5 +498,25 @@
     "query": "What is 'excess supply' (surplus) in microeconomics?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "What does the Latin term 'ceteris paribus' mean, and why is it used by economists?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is a 'normal good' in microeconomics?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is an 'inferior good' in microeconomics?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What are 'substitute goods' in economics?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
