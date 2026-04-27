@@ -43,3 +43,4 @@
 - 2026-04-25: Chạy thử script kiểm tra JSON cho Thống kê nhập môn, không phát hiện lỗi.
 - 2026-04-26: Soát lại độ khó (factual/analytical) của truy vấn Thống kê nhập môn.
 - 2026-04-26: Đối chiếu trường domain với nội dung câu hỏi Kinh tế vi mô.
+- 2026-04-27: Kiểm tra trùng lặp câu hỏi trong batch truy vấn Lịch sử thế giới.
