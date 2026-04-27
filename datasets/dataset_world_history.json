@@ -518,5 +518,25 @@
     "query": "What is the Zimmermann Telegram, and what was Germany's offer to Mexico?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "What were the Bolsheviks, and what distinguished them from other Russian socialist factions?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is the February Revolution (1917), and what triggered it?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is the Petrograd Soviet, and what groups did it represent?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was the Easter Rising, and what were the goals of the Irish nationalists involved?",
+    "domain": "World History",
+    "label": 0
   }
 ]
