@@ -498,5 +498,25 @@
     "query": "What is an armistice, and how did it differ from a formal surrender at the end of WWI?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "What is the Sykes-Picot Agreement, and what were its main provisions?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is the War Industries Board (WIB), and why was it significant for the U.S. war effort?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is the Women's Land Army, and what purpose did it serve in Britain during WWI?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is the Zimmermann Telegram, and what was Germany's offer to Mexico?",
+    "domain": "World History",
+    "label": 0
   }
 ]
