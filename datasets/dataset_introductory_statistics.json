@@ -538,5 +538,25 @@
     "query": "What is 1 – r², and what does it represent?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "What is a positive correlation, and what does it imply about the relationship between x and y?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is a negative correlation, and what does it imply about the relationship between x and y?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What does the phrase “correlation does not imply causation” mean?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the population correlation coefficient ρ (rho)?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
