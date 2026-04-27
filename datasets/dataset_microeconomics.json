@@ -518,5 +518,25 @@
     "query": "What are 'substitute goods' in economics?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "What are 'complement goods' in economics?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is a 'shift in demand' and what causes it?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is a 'shift in supply' and what causes it?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What are 'factors of production' (inputs) in economics?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
