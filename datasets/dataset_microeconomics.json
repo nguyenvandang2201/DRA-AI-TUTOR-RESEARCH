@@ -558,5 +558,25 @@
     "query": "What is 'consumer surplus' and how is it measured?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "What is 'producer surplus' and how is it measured?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is 'social surplus' (total surplus) in economics?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is 'deadweight loss' in microeconomics?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is the difference between 'demand' and 'quantity demanded' in economic terminology?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
