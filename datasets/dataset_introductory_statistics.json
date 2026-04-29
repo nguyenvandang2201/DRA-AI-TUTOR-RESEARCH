@@ -558,5 +558,25 @@
     "query": "What is the population correlation coefficient ρ (rho)?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "What is the null hypothesis H₀ in a test of significance for the correlation coefficient?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the alternative hypothesis Hₐ in a test of significance for the correlation coefficient?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is a p-value, and how is it used to make a decision in hypothesis testing?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What does it mean for a correlation coefficient to be “significant”?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
