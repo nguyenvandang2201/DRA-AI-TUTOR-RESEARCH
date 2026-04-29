@@ -538,5 +538,25 @@
     "query": "What are 'factors of production' (inputs) in economics?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "What is a 'price ceiling' in microeconomics?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is a 'price floor' in microeconomics?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is 'price control' in the context of government policy?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is 'consumer surplus' and how is it measured?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
