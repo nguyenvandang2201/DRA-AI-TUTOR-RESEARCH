@@ -538,5 +538,25 @@
     "query": "What was the Easter Rising, and what were the goals of the Irish nationalists involved?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "What is the Espionage Act, and how did it limit civil liberties in the United States during WWI?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is the Sedition Act, and how did it differ from the Espionage Act?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is 'isolationism,' and how did it shape U.S. foreign policy before entering WWI?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is conscription, and which countries used it as their primary method of military recruitment during WWI?",
+    "domain": "World History",
+    "label": 0
   }
 ]
