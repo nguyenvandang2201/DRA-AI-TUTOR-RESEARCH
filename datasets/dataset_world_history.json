@@ -578,5 +578,25 @@
     "query": "What was the Greater East Asia Co-Prosperity Sphere, and what did Japan claim it represented?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "What is appeasement, and how is the Munich Pact considered the defining example of this policy?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What are the Nuremberg Laws, and how did they define and discriminate against Jewish people in Germany?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is Kristallnacht, and what were its immediate consequences for Jewish people in Germany?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is the Munich Analogy, and how has it been used in international diplomacy since WWII?",
+    "domain": "World History",
+    "label": 0
   }
 ]
