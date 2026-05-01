@@ -558,5 +558,25 @@
     "query": "What is conscription, and which countries used it as their primary method of military recruitment during WWI?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "What were 'aces' in WWI aerial combat, and why were they celebrated?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is the concept of 'Lebensraum,' and how did it influence German foreign policy?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was the Mukden Incident, and why did Japan use it as a pretext for invading Manchuria?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was the Greater East Asia Co-Prosperity Sphere, and what did Japan claim it represented?",
+    "domain": "World History",
+    "label": 0
   }
 ]
