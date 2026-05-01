@@ -578,5 +578,25 @@
     "query": "What does it mean for a correlation coefficient to be “significant”?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "What does it mean for a correlation coefficient to be “not significant”?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What are the assumptions required for testing the significance of the correlation coefficient?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is interpolation in the context of linear regression prediction?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is extrapolation in the context of linear regression prediction, and why is it unreliable?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
