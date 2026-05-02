@@ -618,5 +618,25 @@
     "query": "What is the independent variable in a regression model?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "What is the dependent variable in a regression model?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is multivariate data, and how does it differ from bivariate data?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the Least Squares Criterion in linear regression?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the IQR (Interquartile Range) and how is it calculated?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
