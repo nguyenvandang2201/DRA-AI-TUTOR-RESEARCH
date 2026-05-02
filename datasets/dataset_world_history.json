@@ -598,5 +598,25 @@
     "query": "What is the Munich Analogy, and how has it been used in international diplomacy since WWII?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "What is blitzkrieg, and what combination of military elements did it involve?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was the German-Soviet Nonaggression Pact, and what secret provisions did it contain?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is the Holocaust, and what was the scale of its destruction?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was the Einsatzgruppen, and what was their specific function in Nazi-occupied territories?",
+    "domain": "World History",
+    "label": 0
   }
 ]
