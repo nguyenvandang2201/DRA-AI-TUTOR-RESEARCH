@@ -598,5 +598,25 @@
     "query": "What does 'entry' mean in the context of long-run market dynamics?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "What does 'exit' mean in the context of long-run market dynamics?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is 'long-run equilibrium' in a perfectly competitive market?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is 'marginal revenue' in economics?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is the 'break-even point' for a perfectly competitive firm?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
