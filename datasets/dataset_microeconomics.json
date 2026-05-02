@@ -618,5 +618,25 @@
     "query": "What is the 'break-even point' for a perfectly competitive firm?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "What is the 'shutdown point' in the context of a perfectly competitive firm?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is 'productive efficiency' in economics?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is 'allocative efficiency' in economics?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is the profit-maximizing rule for a perfectly competitive firm?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
