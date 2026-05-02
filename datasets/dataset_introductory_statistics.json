@@ -598,5 +598,25 @@
     "query": "What is extrapolation in the context of linear regression prediction, and why is it unreliable?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "What is an outlier in the context of regression analysis?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is an influential point in linear regression, and how does it differ from an outlier?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "Define the standard deviation of the residuals s in the context of a regression model.",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the independent variable in a regression model?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
