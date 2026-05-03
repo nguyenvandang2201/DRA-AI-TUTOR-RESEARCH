@@ -47,3 +47,4 @@
 - 2026-04-29: Chạy thử script kiểm tra JSON cho Lịch sử thế giới, không phát hiện lỗi.
 - 2026-05-01: Đối chiếu trường domain với nội dung câu hỏi Thống kê nhập môn.
 - 2026-05-02: Chạy thử script kiểm tra JSON cho Kinh tế vi mô, không phát hiện lỗi.
+- 2026-05-03: Chạy thử script kiểm tra JSON cho Kinh tế vi mô, không phát hiện lỗi.
