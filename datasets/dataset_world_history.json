@@ -638,5 +638,25 @@
     "query": "What was the Atlantic Charter, and what principles did it articulate for the postwar world?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "What is the concept of denazification, as applied to Germany after WWII?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is Executive Order 9066, and what did it authorize the U.S. government to do?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was the Manhattan Project, and at which sites was it carried out?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is the Trinity Test, and why was it historically significant?",
+    "domain": "World History",
+    "label": 0
   }
 ]
