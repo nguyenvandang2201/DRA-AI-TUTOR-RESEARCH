@@ -638,5 +638,25 @@
     "query": "What is the profit-maximizing rule for a perfectly competitive firm?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "What is a 'constant-cost industry' in long-run competitive analysis?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is an 'increasing-cost industry' in long-run competitive analysis?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is a 'decreasing-cost industry' in long-run competitive analysis?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is the 'long-run supply (LRS) curve' for a perfectly competitive industry?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
