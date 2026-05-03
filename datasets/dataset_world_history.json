@@ -618,5 +618,25 @@
     "query": "What was the Einsatzgruppen, and what was their specific function in Nazi-occupied territories?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "What was the 'Final Solution,' and at what conference was it formally decided?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is the Lend-Lease Act, and how did it allow the U.S. to support Allied nations without formally entering the war?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was Operation Barbarossa, and what were Hitler's main strategic objectives in launching it?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was the Atlantic Charter, and what principles did it articulate for the postwar world?",
+    "domain": "World History",
+    "label": 0
   }
 ]
