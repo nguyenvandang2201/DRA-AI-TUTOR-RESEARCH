@@ -638,5 +638,25 @@
     "query": "What is the IQR (Interquartile Range) and how is it calculated?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "What is a continuous random variable, and how does the normal distribution fit this definition?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the area under the entire normal distribution curve, and what does it represent?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What does it mean when we say the best-fit line “passes through the point (x̄, ȳ)”?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is a linear relationship in a statistical context?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
