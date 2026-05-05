@@ -658,5 +658,25 @@
     "query": "What is the Trinity Test, and why was it historically significant?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "What is ENIAC, and what was its original military purpose?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What were 'comfort women,' and what countries' women were most victimized by Japan's system?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was the Maginot Line, and why did it fail to protect France from Germany's invasion?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was the Percentages Agreement, and what territories did it divide between Britain and the Soviet Union?",
+    "domain": "World History",
+    "label": 0
   }
 ]
