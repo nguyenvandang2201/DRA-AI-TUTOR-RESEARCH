@@ -658,5 +658,25 @@
     "query": "What is a linear relationship in a statistical context?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "What is the form of the standard linear equation in statistics (as opposed to algebra)?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the LinRegTTest on the TI-83/84 calculator, and what output does it provide?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the invNorm function on a calculator, and when is it used?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is normalcdf, and when is it used?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
