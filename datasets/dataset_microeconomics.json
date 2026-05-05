@@ -658,5 +658,25 @@
     "query": "What is the 'long-run supply (LRS) curve' for a perfectly competitive industry?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "What does it mean for a perfectly competitive firm to be at the 'zero-profit point'?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is the relationship between the marginal cost curve and the firm's supply curve in perfect competition?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is a 'monopoly' in economics?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is a 'barrier to entry' in microeconomics?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
