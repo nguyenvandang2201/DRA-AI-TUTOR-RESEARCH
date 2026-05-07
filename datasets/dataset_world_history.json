@@ -678,5 +678,25 @@
     "query": "What was the Percentages Agreement, and what territories did it divide between Britain and the Soviet Union?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "What was the Yalta Conference, and what were its three main outcomes?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was the Potsdam Conference, and how did it plan to divide postwar Germany?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was the Kindertransport, and how many children did it save?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What were the Nuremberg Trials, and which categories of crimes were prosecuted?",
+    "domain": "World History",
+    "label": 0
   }
 ]
