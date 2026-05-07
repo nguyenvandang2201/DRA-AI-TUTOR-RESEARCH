@@ -678,5 +678,25 @@
     "query": "What is a 'barrier to entry' in microeconomics?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "What is a 'natural monopoly'?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is a 'legal monopoly'?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is 'predatory pricing'?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is a 'patent' under U.S. law?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
