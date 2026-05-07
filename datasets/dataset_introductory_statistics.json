@@ -698,5 +698,25 @@
     "query": "Define the term “strength” of a relationship as shown in a scatter plot.",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "What does the sign of r tell us about the direction of a linear relationship?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the coefficient of correlation, and who developed it?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the notation X ~ N(μ, σ), and what does each parameter represent?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the difference between σ (sigma) and s in the context of normal distributions and regression?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
