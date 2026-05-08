@@ -718,5 +718,25 @@
     "query": "What is the difference between σ (sigma) and s in the context of normal distributions and regression?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "What is “regression to the mean,” and what concept in this chapter is related to it?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What does the slope b = r(sy/sx) mean in words?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is meant by the “domain of observed x values” in regression prediction?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is a “line of best fit” and why is it called the “best”?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
