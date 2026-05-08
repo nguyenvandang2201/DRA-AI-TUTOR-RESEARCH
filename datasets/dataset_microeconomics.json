@@ -718,5 +718,25 @@
     "query": "What is 'deregulation' in the context of market policy?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "What is 'marginal profit' in economics?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What are 'trade secrets' in intellectual property law?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is 'allocative efficiency' as it pertains to monopoly behavior?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is 'economic profit' and how does it differ from accounting profit?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
