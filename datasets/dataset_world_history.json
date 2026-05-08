@@ -698,5 +698,25 @@
     "query": "What were the Nuremberg Trials, and which categories of crimes were prosecuted?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "What was the Bataan Death March, and what conditions made it so deadly?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was 'island-hopping,' and how did the United States use this strategy in the Pacific theater?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is the concept of a 'war crimes trial,' as it emerged after WWII?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was Plan D ('Europe First'), and why did U.S. military planners adopt it?",
+    "domain": "World History",
+    "label": 0
   }
 ]
