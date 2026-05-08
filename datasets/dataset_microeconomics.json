@@ -698,5 +698,25 @@
     "query": "What is a 'patent' under U.S. law?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "What is a 'trademark' in U.S. intellectual property law?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is a 'copyright' according to U.S. law?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is 'intellectual property' in economics and law?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is 'deregulation' in the context of market policy?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
