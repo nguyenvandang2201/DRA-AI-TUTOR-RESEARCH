@@ -738,5 +738,25 @@
     "query": "What was the 'Night and Fog Decree,' and how did it affect resistance movements in occupied Europe?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "What was the Phony War, and why did very little combat occur during this period?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is the Munich Pact, and why did Britain and France agree to it?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was the Atlantic Squadron, and why did the United States create it in 1939?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is the concept of 'demilitarization,' as applied to Japan after WWII?",
+    "domain": "World History",
+    "label": 0
   }
 ]
