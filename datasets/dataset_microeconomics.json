@@ -738,5 +738,25 @@
     "query": "What is 'economic profit' and how does it differ from accounting profit?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "What is meant by 'zero economic profit' in the context of long-run competitive equilibrium?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What are the four main characteristics that define a perfectly competitive market?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is 'total surplus' and how does it relate to economic efficiency?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What are 'fixed costs' and how do they differ from variable costs in firm decision-making?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
