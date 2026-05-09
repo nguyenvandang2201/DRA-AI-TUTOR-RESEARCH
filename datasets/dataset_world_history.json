@@ -718,5 +718,25 @@
     "query": "What was Plan D ('Europe First'), and why did U.S. military planners adopt it?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "What was the Tripartite Pact, and which three countries formed the Axis under it?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was the Warsaw Ghetto, and how many people were held there by 1941?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was the Battle of Stalingrad, and why is it considered a turning point of WWII?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was the 'Night and Fog Decree,' and how did it affect resistance movements in occupied Europe?",
+    "domain": "World History",
+    "label": 0
   }
 ]
