@@ -738,5 +738,25 @@
     "query": "What is a “line of best fit” and why is it called the “best”?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "Define a normal probability distribution in plain terms for a non-statistician.",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is a “standardized value” and how does standardization help compare different data sets?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What does it mean when the z-score of a value x is positive versus negative?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the bell curve, and in what fields is it commonly observed?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
