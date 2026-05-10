@@ -758,5 +758,25 @@
     "query": "What is the concept of 'demilitarization,' as applied to Japan after WWII?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "What was the Wannsee Conference, and why is it significant in understanding the Holocaust?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is the National Eugenics Law that Japan passed in 1940, and what did it prohibit?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is the 'gyokusai' slogan, and how did it reflect Japanese military culture in WWII?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is the kamikaze strategy, and what was the purpose of suicide pilots in Japan's defense?",
+    "domain": "World History",
+    "label": 0
   }
 ]
