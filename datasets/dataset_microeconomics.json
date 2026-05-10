@@ -758,5 +758,25 @@
     "query": "What are 'fixed costs' and how do they differ from variable costs in firm decision-making?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "What are 'variable costs' in production economics?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is 'average total cost' (ATC) and how is it calculated?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is 'average variable cost' (AVC) and how is it calculated?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is 'marginal cost' (MC) and how is it calculated?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
