@@ -758,5 +758,25 @@
     "query": "What is the bell curve, and in what fields is it commonly observed?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "What is the 68-95-99.7 rule and why is it useful in practice?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "Define the concept of “variation” in the context of the coefficient of determination r².",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What does it mean for residuals to be “mutually independent” in regression?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "In a regression context, what does it mean for y values to be “normally distributed about the line”?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
