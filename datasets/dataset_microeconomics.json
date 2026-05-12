@@ -778,5 +778,25 @@
     "query": "What is 'marginal cost' (MC) and how is it calculated?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "What is 'total revenue' for a firm and how is it calculated?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What are 'economies of scale' and how do they contribute to the formation of natural monopoly?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is the difference between a 'movement along the demand curve' and a 'shift in the demand curve'?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is the difference between a 'movement along the supply curve' and a 'shift in the supply curve'?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
