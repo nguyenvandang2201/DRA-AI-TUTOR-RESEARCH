@@ -798,5 +798,25 @@
     "query": "What was Operation Husky, and what was its strategic purpose in WWII?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "What is the concept of 'unconditional surrender,' and how was it central to Allied war aims?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is the Munich Pact's concept of appeasement, and how did it fail to prevent WWII?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What were the Neutrality Acts passed by the U.S. Congress, and what did they forbid?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is the concept of 'denazification' as applied in the postwar Nuremberg context?",
+    "domain": "World History",
+    "label": 0
   }
 ]
