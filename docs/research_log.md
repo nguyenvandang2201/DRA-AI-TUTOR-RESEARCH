@@ -54,3 +54,4 @@
 - 2026-05-08: Đối chiếu trường domain với nội dung câu hỏi Kinh tế vi mô.
 - 2026-05-09: Rà soát cân bằng nhãn 0/1 cho truy vấn Kinh tế vi mô.
 - 2026-05-10: Chạy thử script kiểm tra JSON cho Lịch sử thế giới, không phát hiện lỗi.
+- 2026-05-12: Kiểm tra trùng lặp câu hỏi trong batch truy vấn Lịch sử thế giới.
