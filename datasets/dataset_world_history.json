@@ -778,5 +778,25 @@
     "query": "What is the kamikaze strategy, and what was the purpose of suicide pilots in Japan's defense?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "What is the 'Quit India' movement, and who led it?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is the Indian National Army (INA), and who assembled it during WWII?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was the Lend-Lease Act, and which countries benefited most from it?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was Operation Husky, and what was its strategic purpose in WWII?",
+    "domain": "World History",
+    "label": 0
   }
 ]
