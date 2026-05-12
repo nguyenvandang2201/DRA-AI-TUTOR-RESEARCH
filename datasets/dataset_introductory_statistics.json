@@ -798,5 +798,25 @@
     "query": "What is the practical meaning of the y-intercept when x = 0 in a real-world regression model?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "What is the difference between a sample correlation coefficient r and a population correlation coefficient ρ?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the significance level α = 0.05 and what decision rule does it create in hypothesis testing?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What does “reject the null hypothesis” mean in plain language in the context of correlation testing?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What does “fail to reject the null hypothesis” mean in plain language in the context of correlation testing?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
