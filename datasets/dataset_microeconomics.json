@@ -798,5 +798,25 @@
     "query": "What is the difference between a 'movement along the supply curve' and a 'shift in the supply curve'?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "What is 'market demand' as distinct from the demand perceived by a single firm?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is the concept of 'social surplus' and how is it defined as the sum of consumer and producer surplus?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What does it mean for a market to produce at 'allocative efficiency' in terms of price and marginal cost?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is a 'supply schedule' and how does it relate to the supply curve?",
+    "domain": "Microeconomics",
+    "label": 0
   }
 ]
