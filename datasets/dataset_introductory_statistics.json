@@ -818,5 +818,25 @@
     "query": "What does “fail to reject the null hypothesis” mean in plain language in the context of correlation testing?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "What is a “95% Critical Value” table for r, and how is it used to determine significance?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the normal approximation and when is it considered appropriate to use?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is a stratified sampling method, and where is it used in the lab activity in Chapter 6?",
+    "domain": "Introductory Statistics",
+    "label": 0
+  },
+  {
+    "query": "What is the Consumer Price Index (CPI), and how is it used in the regression example?",
+    "domain": "Introductory Statistics",
+    "label": 0
   }
 ]
