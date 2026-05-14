@@ -818,5 +818,25 @@
     "query": "What is the concept of 'denazification' as applied in the postwar Nuremberg context?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "What was the Battle of Britain, and what technology gave the RAF an advantage over the Luftwaffe?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was the Bretton Woods Conference, and what two institutions did it create?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What was the Declaration on Liberated Europe, and what did the Big Three commit to?",
+    "domain": "World History",
+    "label": 0
+  },
+  {
+    "query": "What is the concept of 'crimes against humanity' as it emerged from the Nuremberg and Tokyo trials?",
+    "domain": "World History",
+    "label": 0
   }
 ]
