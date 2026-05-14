@@ -838,5 +838,25 @@
     "query": "How does 'supply' differ from 'quantity supplied' in economic terminology?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "What is the difference between a demand schedule and a demand curve?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do movements along a demand curve differ from shifts in the demand curve?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do movements along a supply curve differ from shifts in the supply curve?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does excess demand (shortage) differ from excess supply (surplus) in terms of market pressures?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
