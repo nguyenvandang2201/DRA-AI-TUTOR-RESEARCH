@@ -818,5 +818,25 @@
     "query": "What is a 'supply schedule' and how does it relate to the supply curve?",
     "domain": "Microeconomics",
     "label": 0
+  },
+  {
+    "query": "What is the meaning of 'price control' and what are the two main forms it can take?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is 'total cost' (TC) in production economics and how is it composed?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "How does 'demand' differ from 'quantity demanded' in economic terminology?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does 'supply' differ from 'quantity supplied' in economic terminology?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
