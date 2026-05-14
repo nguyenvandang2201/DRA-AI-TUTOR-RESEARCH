@@ -838,5 +838,25 @@
     "query": "What is the Consumer Price Index (CPI), and how is it used in the regression example?",
     "domain": "Introductory Statistics",
     "label": 0
+  },
+  {
+    "query": "What is the difference between the normal distribution N(μ, σ) and the standard normal distribution Z ~ N(0, 1)?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does a change in the mean μ affect the shape and position of the normal curve, compared to a change in the standard deviation σ?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the interpretation of a positive z-score versus a negative z-score.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the Empirical Rule differ for the 68%, 95%, and 99.7% intervals in terms of the number of standard deviations from the mean?",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
