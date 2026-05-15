@@ -858,5 +858,25 @@
     "query": "How does excess demand (shortage) differ from excess supply (surplus) in terms of market pressures?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "What are the main differences between the effects of a price ceiling and a price floor on market outcomes?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does a price ceiling set below equilibrium compare to a price ceiling set above equilibrium in its market effects?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does a price floor set above equilibrium compare to a price floor set below equilibrium in its market effects?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do consumer surplus and producer surplus differ in definition, and how do they together constitute social surplus?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
