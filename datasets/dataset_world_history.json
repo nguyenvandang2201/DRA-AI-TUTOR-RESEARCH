@@ -838,5 +838,25 @@
     "query": "What is the concept of 'crimes against humanity' as it emerged from the Nuremberg and Tokyo trials?",
     "domain": "World History",
     "label": 0
+  },
+  {
+    "query": "How did the causes of WWI compare to the causes of WWII? What similarities and differences exist in the roles of nationalism, imperialism, and alliance systems?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Compare the trench warfare of WWI with the blitzkrieg strategy of WWII. How did each reflect the technology and military doctrine of its era?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the home front experience differ between WWI and WWII for civilians in Britain? Consider rationing, women's roles, and bombing.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Compare the roles of women in the workforce during WWI and WWII. In what ways did each conflict expand or limit women's economic participation?",
+    "domain": "World History",
+    "label": 1
   }
 ]
