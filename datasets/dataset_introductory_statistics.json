@@ -858,5 +858,25 @@
     "query": "How does the Empirical Rule differ for the 68%, 95%, and 99.7% intervals in terms of the number of standard deviations from the mean?",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "Compare the area to the left of a value x [P(X < x)] with the area to the right [P(X > x)] in a normal distribution. What is their relationship?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "What is the difference between interpolation and extrapolation in regression prediction, and which is considered more reliable?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the least-squares regression line change when an outlier is removed? Compare the r values before and after removal in the third exam/final exam example.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the correlation coefficient r = 0.6631 (before removing the outlier) with r = 0.9121 (after removing it). What do these values tell us about the quality of each model?",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
