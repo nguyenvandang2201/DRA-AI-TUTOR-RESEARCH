@@ -878,5 +878,25 @@
     "query": "Compare the Russian Revolution's impact on WWI with the Soviet Union's role in WWII. How did Russia's internal politics affect each war's outcome?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "How did propaganda differ in effectiveness and reach between WWI and WWII? Compare the methods used by Germany, the United States, and Britain.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Compare the naval strategies of Germany in WWI and WWII. How did U-boat warfare evolve between the two conflicts?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Compare the Eastern Front and Western Front of WWI. How did geography, tactics, and outcomes differ between the two theaters?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the experiences of soldiers in the trenches of France differ from those fighting in the mountains of the Alps or the deserts of the Middle East during WWI?",
+    "domain": "World History",
+    "label": 1
   }
 ]
