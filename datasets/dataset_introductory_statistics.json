@@ -878,5 +878,25 @@
     "query": "Compare the correlation coefficient r = 0.6631 (before removing the outlier) with r = 0.9121 (after removing it). What do these values tell us about the quality of each model?",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "What is the difference between an outlier and an influential point in regression?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare P(X < x) and P(X ≤ x) for a continuous distribution. Are they the same or different? Why?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How do the slope and y-intercept of a regression line differ in their interpretations?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare a scatter plot showing r = 0.9 vs. one showing r = 0.3. How would these look visually, and what do they mean statistically?",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
