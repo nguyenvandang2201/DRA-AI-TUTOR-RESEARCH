@@ -878,5 +878,25 @@
     "query": "How do consumer surplus and producer surplus differ in definition, and how do they together constitute social surplus?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "How does a price ceiling affect consumer surplus compared to producer surplus?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does a price floor affect consumer surplus compared to producer surplus?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do normal goods and inferior goods differ in terms of how quantity demanded responds to income changes?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do substitute goods and complement goods differ in their effects on the demand curve when their prices change?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
