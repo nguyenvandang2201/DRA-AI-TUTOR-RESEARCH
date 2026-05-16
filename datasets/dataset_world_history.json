@@ -858,5 +858,25 @@
     "query": "Compare the roles of women in the workforce during WWI and WWII. In what ways did each conflict expand or limit women's economic participation?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "How did the U.S. approach to neutrality differ between WWI and WWII? What factors eventually brought the U.S. into each conflict?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Compare the Treaty of Versailles (1919) with the postwar settlements reached at Yalta and Potsdam. How did each approach shape the subsequent peace?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did colonial troops' roles differ between WWI and WWII? Compare the experiences of African and Asian soldiers in both conflicts.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Compare the Russian Revolution's impact on WWI with the Soviet Union's role in WWII. How did Russia's internal politics affect each war's outcome?",
+    "domain": "World History",
+    "label": 1
   }
 ]
