@@ -58,3 +58,4 @@
 - 2026-05-14: Soát lại độ khó (factual/analytical) của truy vấn Thống kê nhập môn.
 - 2026-05-15: Đối chiếu trường domain với nội dung câu hỏi Kinh tế vi mô.
 - 2026-05-15: Rà soát cân bằng nhãn 0/1 cho truy vấn Kinh tế vi mô.
+- 2026-05-16: Kiểm tra trùng lặp câu hỏi trong batch truy vấn Lịch sử thế giới.
