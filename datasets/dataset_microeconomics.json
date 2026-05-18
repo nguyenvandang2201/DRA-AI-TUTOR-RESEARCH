@@ -918,5 +918,25 @@
     "query": "How does marginal revenue for a perfectly competitive firm differ from marginal revenue for a monopolist?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "Compare the profit-maximizing rule (MR=MC) as it applies to a perfectly competitive firm versus a monopolist.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does a perfectly competitive firm's price-setting behavior compare to a monopolist's price-setting behavior?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does the long-run equilibrium differ for a perfectly competitive market versus a monopoly market?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Compare productive efficiency outcomes between perfect competition and monopoly in the long run.",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
