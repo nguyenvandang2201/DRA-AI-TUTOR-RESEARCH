@@ -918,5 +918,25 @@
     "query": "Compare the normal distribution and the empirical (observed) distribution of data in a sample. Why might they differ?",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "How does the mean differ from the median in a perfectly symmetric normal distribution? What about in a skewed distribution?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the behavior of the normal curve when σ is large versus when σ is small. How does this affect the spread and height of the curve?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the z-score for x = 17 in X ~ N(5, 6) compare to the z-score for y = 4 in Y ~ N(2, 1)? What does this tell us about standardization?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the regression equation before and after removing the outlier (65, 175) from the third exam/final exam data. How does the slope change?",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
