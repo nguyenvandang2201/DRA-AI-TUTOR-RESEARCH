@@ -898,5 +898,25 @@
     "query": "Compare a scatter plot showing r = 0.9 vs. one showing r = 0.3. How would these look visually, and what do they mean statistically?",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "How does a regression line with a positive slope differ from one with a negative slope in terms of real-world interpretation?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the coefficient of determination r² = 0.44 versus r² = 0.91. What do these percentages mean about the explanatory power of the models?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "What are the similarities and differences between the p-value method and the critical value method for testing significance of r?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the normal distribution and the empirical (observed) distribution of data in a sample. Why might they differ?",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
