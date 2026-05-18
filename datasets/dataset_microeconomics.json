@@ -898,5 +898,25 @@
     "query": "How do substitute goods and complement goods differ in their effects on the demand curve when their prices change?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "What are the differences between factors that shift the demand curve versus factors that shift the supply curve?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does a rightward shift in supply compare to a rightward shift in demand in their effects on equilibrium price and quantity?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does a perfectly competitive firm's demand curve differ from a monopolist's demand curve?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does marginal revenue for a perfectly competitive firm differ from marginal revenue for a monopolist?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
