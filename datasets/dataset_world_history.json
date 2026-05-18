@@ -898,5 +898,25 @@
     "query": "How did the experiences of soldiers in the trenches of France differ from those fighting in the mountains of the Alps or the deserts of the Middle East during WWI?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "Compare Germany's Schlieffen Plan with France's Plan XVII. What assumptions did each make, and how did each perform in practice?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did Britain's volunteer military system compare with Germany's conscription-based army at the outset of WWI in terms of size and readiness?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Compare the military contributions of ANZAC forces at Gallipoli with Canadian forces at Vimy Ridge. How did each campaign shape national identity?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the Ottoman Empire's collapse compare with Austria-Hungary's disintegration as contributing factors to WWI?",
+    "domain": "World History",
+    "label": 1
   }
 ]
