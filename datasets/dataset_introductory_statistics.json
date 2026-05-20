@@ -958,5 +958,25 @@
     "query": "Compare the null hypothesis (H₀: ρ = 0) and the alternative hypothesis (Hₐ: ρ ≠ 0) in words about what each claims about the population.",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "Compare the IQR calculated from the theoretical normal distribution vs. the IQR calculated empirically from sample data. Why might these differ?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the least-squares regression line for the CPI data (r = 0.8694) compare in predictive quality to the third exam/final exam line (r = 0.6631)?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the use of a scatter plot versus the correlation coefficient r for assessing the linear relationship between two variables. What can each tell you that the other cannot?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "What is the difference between a data point that lies above the regression line versus one that lies below it? What does the sign of the residual tell us?",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
