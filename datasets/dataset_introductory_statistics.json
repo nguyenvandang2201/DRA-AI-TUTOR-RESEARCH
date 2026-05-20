@@ -938,5 +938,25 @@
     "query": "Compare the regression equation before and after removing the outlier (65, 175) from the third exam/final exam data. How does the slope change?",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "What is the difference between bivariate data and multivariate data? Give examples from the textbook for each.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the roles of the independent variable (x) and the dependent variable (y) in a linear regression model.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the standard deviation of residuals s differ from the standard deviation of the original y values?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the null hypothesis (H₀: ρ = 0) and the alternative hypothesis (Hₐ: ρ ≠ 0) in words about what each claims about the population.",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
