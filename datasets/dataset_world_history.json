@@ -938,5 +938,25 @@
     "query": "How did the armistice of November 1918 differ from Germany's unconditional surrender in May 1945? What were the political consequences of each?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "Compare Japan's motivations for expansion in Asia with Germany's motivations for expansion in Europe during the 1930s and 1940s.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did Hitler's appeasement at Munich in 1938 compare with Japan's diplomatic dealings with the West before Pearl Harbor?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Compare the Holocaust's implementation in Poland with the genocide of Armenians during WWI. What similarities and differences exist in methods and scale?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the Battle of Stalingrad compare to the Battle of Midway as turning points in the European and Pacific theaters, respectively?",
+    "domain": "World History",
+    "label": 1
   }
 ]
