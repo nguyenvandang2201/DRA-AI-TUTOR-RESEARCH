@@ -918,5 +918,25 @@
     "query": "How did the Ottoman Empire's collapse compare with Austria-Hungary's disintegration as contributing factors to WWI?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "Compare Germany's treatment of civilians in Belgium during WWI with Germany's treatment of civilians in occupied Europe during WWII.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did Russia's capacity to fight in WWI compare to its capacity under Soviet leadership in WWII?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Compare the socialists' response to WWI in France, Germany, and Russia. How did each socialist movement navigate the tension between internationalism and nationalism?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the armistice of November 1918 differ from Germany's unconditional surrender in May 1945? What were the political consequences of each?",
+    "domain": "World History",
+    "label": 1
   }
 ]
