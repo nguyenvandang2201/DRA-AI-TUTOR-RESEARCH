@@ -938,5 +938,25 @@
     "query": "Compare productive efficiency outcomes between perfect competition and monopoly in the long run.",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "Compare allocative efficiency outcomes between perfect competition and monopoly.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does the quantity produced in perfect competition compare to the quantity produced by a monopolist at the same level of demand?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does the price charged in perfect competition compare to the price charged by a monopolist at the same level of demand?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "What are the differences between a natural monopoly and a legal monopoly as types of barriers to entry?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
