@@ -978,5 +978,25 @@
     "query": "How does 'entry' into a market differ from 'exit' from a market in terms of economic motivation and outcomes?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "How does a constant-cost industry differ from an increasing-cost industry in terms of the long-run supply curve?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does an increasing-cost industry differ from a decreasing-cost industry in terms of long-run equilibrium price?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Compare the break-even point and the shutdown point in a perfectly competitive firm in terms of what each implies for firm decision-making.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does total revenue behave differently as output increases for a perfectly competitive firm versus a monopolist?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
