@@ -958,5 +958,25 @@
     "query": "How did the Battle of Stalingrad compare to the Battle of Midway as turning points in the European and Pacific theaters, respectively?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "Compare the Allied strategy of 'Europe First' with the simultaneous operations in the Pacific. How were resources allocated between the two theaters?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the Japanese occupation of Southeast Asia differ from European colonial rule in the same region? What promises did Japan make and fail to keep?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Compare Mussolini's Italy with Hitler's Germany as fascist regimes. How did each come to power, and how did each fare militarily?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did resistance movements in Yugoslavia under Tito compare to the Warsaw Ghetto Uprising in terms of organization, leadership, and outcome?",
+    "domain": "World History",
+    "label": 1
   }
 ]
