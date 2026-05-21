@@ -978,5 +978,25 @@
     "query": "What is the difference between a data point that lies above the regression line versus one that lies below it? What does the sign of the residual tell us?",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "Compare the normal distribution curve to a uniform distribution in terms of shape, mean, and probability calculation.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the percentage of x values between the 1st and 2nd standard deviations (~27%) compare to the percentage between the 2nd and 3rd standard deviations (~4.7%)? What does this tell us about extreme values?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the prediction accuracy of a regression model with r² = 0.72 vs. one with r² = 0.20. How confident should you be in each model’s predictions?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the standard normal distribution (Z) differ from a general normal distribution X ~ N(μ, σ) in terms of how probabilities are calculated?",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
