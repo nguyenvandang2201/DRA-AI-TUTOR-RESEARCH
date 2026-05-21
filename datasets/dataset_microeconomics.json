@@ -958,5 +958,25 @@
     "query": "What are the differences between a natural monopoly and a legal monopoly as types of barriers to entry?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "How do patents differ from trademarks in terms of what they protect and how long protection lasts?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do copyrights differ from patents in terms of what they protect and the duration of protection?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Compare the short-run and long-run operating decisions for a perfectly competitive firm facing economic losses.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does 'entry' into a market differ from 'exit' from a market in terms of economic motivation and outcomes?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
