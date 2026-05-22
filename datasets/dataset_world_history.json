@@ -998,5 +998,25 @@
     "query": "How did air warfare in the Battle of Britain compare to the Allied strategic bombing of Germany? What were the goals and results of each campaign?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "Compare the scientific contributions of the Manhattan Project with Britain's code-breaking efforts at Bletchley Park. How did each contribute to Allied victory?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did Japan's wartime treatment of women (comfort women, motherhood incentives) compare with Germany's Nazi policies toward women?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Compare Soviet women's frontline combat roles with U.S. women's industrial roles ('Rosie the Riveter') during WWII.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the role of the League of Nations after WWI compare to the role of the United Nations established after WWII?",
+    "domain": "World History",
+    "label": 1
   }
 ]
