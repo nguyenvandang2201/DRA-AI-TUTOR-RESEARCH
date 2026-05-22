@@ -998,5 +998,25 @@
     "query": "How does the standard normal distribution (Z) differ from a general normal distribution X ~ N(μ, σ) in terms of how probabilities are calculated?",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "Compare what the slope means in the Aaron’s Word Processing Service equation vs. the Svetlana tutoring equation. How is the real-world meaning of slope different?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the 25th percentile (Q1) compare to the 75th percentile (Q3) in a symmetric normal distribution? What is their relationship to the mean?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the SAT score of 700 (μ=514, σ=117) to the ACT score of 30 (μ=21, σ=5.3) using z-scores. Who performed better relative to their test?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the visual appearance of a scatter plot with a strong positive correlation vs. one with zero correlation. How do the points differ?",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
