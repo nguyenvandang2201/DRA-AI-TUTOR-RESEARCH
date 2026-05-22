@@ -978,5 +978,25 @@
     "query": "How did resistance movements in Yugoslavia under Tito compare to the Warsaw Ghetto Uprising in terms of organization, leadership, and outcome?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "Compare the internment of Japanese Americans with the treatment of Jewish people under the Nuremberg Laws. What are the key similarities and differences?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the Yalta Conference agreements compare to the Potsdam Conference agreements regarding the division of Europe?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Compare Germany's four-year economic plan with the Soviet Union's centrally commanded economy in terms of how each nation prepared for and sustained war production.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did air warfare in the Battle of Britain compare to the Allied strategic bombing of Germany? What were the goals and results of each campaign?",
+    "domain": "World History",
+    "label": 1
   }
 ]
