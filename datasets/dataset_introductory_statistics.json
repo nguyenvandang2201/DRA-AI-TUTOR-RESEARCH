@@ -1018,5 +1018,25 @@
     "query": "Compare the visual appearance of a scatter plot with a strong positive correlation vs. one with zero correlation. How do the points differ?",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "How does the value of the test statistic t in correlation testing relate to the size of the correlation r and the sample size n?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "What is the difference between using r (correlation coefficient) and r² (coefficient of determination) to evaluate a regression model?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare P(X > x) = 1 – P(X < x) with the complementary rule in general probability. How does the normal distribution make this calculation especially straightforward?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the regression line prediction at x = 73 differ before and after removing the outlier (65,175) in the third exam/final exam example?",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
