@@ -63,3 +63,4 @@
 - 2026-05-20: Rà soát cân bằng nhãn 0/1 cho truy vấn Thống kê nhập môn.
 - 2026-05-21: Rà soát cân bằng nhãn 0/1 cho truy vấn Kinh tế vi mô.
 - 2026-05-21: Đối chiếu trường domain với nội dung câu hỏi Kinh tế vi mô.
+- 2026-05-22: Rà soát cân bằng nhãn 0/1 cho truy vấn Lịch sử thế giới.
