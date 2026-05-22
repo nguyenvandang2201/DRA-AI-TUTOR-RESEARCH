@@ -998,5 +998,25 @@
     "query": "How does total revenue behave differently as output increases for a perfectly competitive firm versus a monopolist?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "How does the marginal revenue curve for a monopolist compare to the market demand curve it faces?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Compare the role of barriers to entry in monopoly versus perfect competition.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do short-run economic profits in a perfectly competitive market differ from long-run economic profits?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Compare consumer surplus under perfect competition versus under monopoly, given the same underlying demand and cost conditions.",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
