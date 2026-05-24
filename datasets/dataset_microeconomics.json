@@ -1018,5 +1018,25 @@
     "query": "Compare consumer surplus under perfect competition versus under monopoly, given the same underlying demand and cost conditions.",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "Compare total social surplus (deadweight loss included) under perfect competition versus under monopoly.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Compare the impact of a price ceiling versus a price floor on deadweight loss in a market.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does average total cost (ATC) differ from average variable cost (AVC) in its role in firm decision-making?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does a firm's shutdown decision in the short run differ from its exit decision in the long run?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
