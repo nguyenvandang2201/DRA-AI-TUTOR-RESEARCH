@@ -1038,5 +1038,25 @@
     "query": "How did the use of new technology in WWI (tanks, poison gas, submarines) compare to WWII technological innovations (atomic bomb, radar, computers)?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "Compare the strategic roles of the United States in WWI and WWII. How did late entry affect the war's outcome in each case?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the experience of Jewish communities in WWI-era Europe compare to their experience under Nazism in the 1930s and WWII?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Compare the Bolshevik Revolution in Russia (1917) with the rise of fascism in Italy and Germany in the 1920s and 1930s. How did each fill the power vacuum left by WWI?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the experiences of colonial peoples during WWI compare to those during WWII? Did either war hasten decolonization?",
+    "domain": "World History",
+    "label": 1
   }
 ]
