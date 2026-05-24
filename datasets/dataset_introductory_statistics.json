@@ -1038,5 +1038,25 @@
     "query": "How does the regression line prediction at x = 73 differ before and after removing the outlier (65,175) in the third exam/final exam example?",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "Compare the practical interpretation of the slope in a real-world regression (e.g., “for each additional story, height increases by ~13 feet”) with the mathematical definition of slope as “rise over run.”",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "In the sparrow hawk study, how does the regression equation for percent return vs. percent new birds compare to what an ecologist might intuitively expect? Does the data support this intuition?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the effect of a large sample size vs. a small sample size on the reliability of using the correlation coefficient r for prediction.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does a regression line with a slope close to 0 differ from one with a steep slope, in terms of what it tells us about the relationship between x and y?",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
