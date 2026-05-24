@@ -1038,5 +1038,25 @@
     "query": "How does a firm's shutdown decision in the short run differ from its exit decision in the long run?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "What is the difference between economic profit and normal (zero) profit in the context of market equilibrium?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Compare the market structure of perfect competition to that of monopoly in terms of number of firms, product differentiation, and ease of entry.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does the demand elasticity perceived by a perfectly competitive firm compare to the demand elasticity perceived by a monopolist?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does revenue-maximizing output compare to profit-maximizing output for a monopolist?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
