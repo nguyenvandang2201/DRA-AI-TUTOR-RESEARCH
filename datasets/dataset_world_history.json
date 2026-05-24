@@ -1018,5 +1018,25 @@
     "query": "How did the role of the League of Nations after WWI compare to the role of the United Nations established after WWII?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "Compare Germany's 'war guilt' under the Treaty of Versailles with Japan's reckoning under the Tokyo War Crimes Trials.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did post-WWI Germany's economic suffering under the Versailles reparations compare to post-WWII Germany's recovery under Allied occupation?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Compare the civilian death tolls of WWI with those of WWII. What accounts for the dramatic increase in civilian casualties in the second conflict?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the use of new technology in WWI (tanks, poison gas, submarines) compare to WWII technological innovations (atomic bomb, radar, computers)?",
+    "domain": "World History",
+    "label": 1
   }
 ]
