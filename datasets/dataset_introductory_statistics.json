@@ -1078,5 +1078,25 @@
     "query": "What is the difference between using s (standard deviation of residuals) and 2s as a cutoff for identifying outliers in regression analysis?",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "Compare the use of LinRegTTest and the critical values table as two methods for testing significance of r. Under what circumstances might one be preferred over the other?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the interpretation of ρ = 0 versus ρ ≠ 0 in terms of what they imply about the population relationship.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the meaning of the correlation coefficient r differ between r = 0.5 and r = –0.5? Are they equally strong? In what way do they differ?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the regression equation and the scatter plot as tools for predicting y from x. When is each most useful?",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
