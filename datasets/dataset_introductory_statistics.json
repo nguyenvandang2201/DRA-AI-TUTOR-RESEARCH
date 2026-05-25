@@ -1058,5 +1058,25 @@
     "query": "How does a regression line with a slope close to 0 differ from one with a steep slope, in terms of what it tells us about the relationship between x and y?",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "Compare the probabilities calculated using the theoretical normal distribution to those calculated from cumulative relative frequencies in the checkout line example. Why are they not exactly equal?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the normal distribution compare to the bell curve approximations used for binomial distributions (as in the coin flip and NUMMI examples)?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the concept of a “percentile” in a normal distribution to what it means in everyday language (e.g., “the 90th percentile student”).",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "What is the difference between using s (standard deviation of residuals) and 2s as a cutoff for identifying outliers in regression analysis?",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
