@@ -1058,5 +1058,25 @@
     "query": "How does revenue-maximizing output compare to profit-maximizing output for a monopolist?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "Compare the incentives for innovation in a perfectly competitive market versus a monopoly.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Compare the conditions for market entry in a perfectly competitive market versus a monopoly.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does the concept of 'price taker' in perfect competition contrast with the monopolist's ability to set price?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Compare fixed costs and variable costs in their roles in determining the break-even and shutdown decisions.",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
