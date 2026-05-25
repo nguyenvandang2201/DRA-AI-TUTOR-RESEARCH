@@ -1058,5 +1058,25 @@
     "query": "How did the experiences of colonial peoples during WWI compare to those during WWII? Did either war hasten decolonization?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "Compare Germany's military successes in the early stages of both WWI and WWII. Why was Germany initially effective in both conflicts, and what ultimately led to defeat in each?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the Zimmermann Telegram (WWI) compare to Germany's diplomatic overtures to Japan before WWII as attempts to distract or neutralize the United States?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Compare the Gallipoli campaign of WWI with the Normandy D-Day invasion of WWII in terms of strategic goals, planning, and outcome.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did rationing policies in Britain during WWI compare to those implemented during WWII? What was rationed, and how severe were shortages in each war?",
+    "domain": "World History",
+    "label": 1
   }
 ]
