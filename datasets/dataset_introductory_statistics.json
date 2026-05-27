@@ -1098,5 +1098,25 @@
     "query": "Compare the regression equation and the scatter plot as tools for predicting y from x. When is each most useful?",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "In the normal distribution context, compare finding a probability P(X < x) to finding a percentile (given a probability, find x). How do these two types of problems differ in their computational approach?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does removing an outlier from the data change the SSE (Sum of Squared Errors)? Should it increase or decrease? Why?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the slope of the CPI regression line (b = 1.662) to the slope of the third exam/final exam line (b = 4.83). What are the different real-world meanings of these slopes?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the regression analysis of the mandarin orange data to the regression of the sports stadium data. In both cases, how does the distribution of the data affect the reliability of predictions?",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
