@@ -1078,5 +1078,25 @@
     "query": "Compare fixed costs and variable costs in their roles in determining the break-even and shutdown decisions.",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "How does a firm's supply curve in the short run differ from its supply curve in the long run in a perfectly competitive market?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does the effect of a subsidy on supply compare to the effect of a tax on supply?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do technology improvements as a supply shifter compare to input price changes as a supply shifter?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does population growth as a demand shifter compare to income change as a demand shifter?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
