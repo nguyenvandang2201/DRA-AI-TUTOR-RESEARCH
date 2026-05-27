@@ -1098,5 +1098,25 @@
     "query": "How does population growth as a demand shifter compare to income change as a demand shifter?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "How does a government price control compare to a market-determined price in terms of efficiency and distribution of surplus?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Compare the demand curve perceived by a perfectly competitive firm with the market demand curve.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does the impact of new technology on a perfectly competitive firm's costs compare to its impact on a monopolist's behavior?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does a legal monopoly differ from a natural monopoly in terms of how each arises and the role of government in each?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
