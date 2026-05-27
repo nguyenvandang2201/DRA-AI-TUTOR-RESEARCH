@@ -66,3 +66,4 @@
 - 2026-05-22: Rà soát cân bằng nhãn 0/1 cho truy vấn Lịch sử thế giới.
 - 2026-05-24: Chạy thử script kiểm tra JSON cho Lịch sử thế giới, không phát hiện lỗi.
 - 2026-05-25: Đối chiếu trường domain với nội dung câu hỏi Thống kê nhập môn.
+- 2026-05-27: Chạy thử script kiểm tra JSON cho Kinh tế vi mô, không phát hiện lỗi.
