@@ -1118,5 +1118,25 @@
     "query": "How did the Middle East as a theater of war in WWI compare to its role in WWII? What resources were at stake in each conflict?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "Compare the Irish Easter Rising (1916) with Indian resistance to British rule during WWII. How did each challenge colonial authority during wartime?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did Germany's submarine warfare differ in WWI versus WWII in terms of targets, restrictions, and impact on neutral nations?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Compare France's defeat and occupation in WWII with its role as a major fighting power in WWI. What accounts for the dramatic difference in resistance capacity?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the Final Solution (WWII) compare with the Armenian Genocide (WWI) in terms of state organization, scale, and international response?",
+    "domain": "World History",
+    "label": 1
   }
 ]
