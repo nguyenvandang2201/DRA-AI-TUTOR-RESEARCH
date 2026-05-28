@@ -1118,5 +1118,25 @@
     "query": "Compare the regression analysis of the mandarin orange data to the regression of the sports stadium data. In both cases, how does the distribution of the data affect the reliability of predictions?",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "How does the concept of a “residual” in regression compare to the concept of a “deviation from the mean” in descriptive statistics?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the Empirical Rule as applied to a distribution of exam scores versus a distribution of heights. How does the practical interpretation change even though the statistical rule is the same?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare what it means when the sign of r is positive vs. when it is negative in the context of physical measurements (e.g., height vs. weight, or car weight vs. fuel efficiency).",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "In the regression assumptions, compare the assumption of “normality of y values” to the assumption of “equal variance.” What would a violation of each look like on a scatter plot?",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
