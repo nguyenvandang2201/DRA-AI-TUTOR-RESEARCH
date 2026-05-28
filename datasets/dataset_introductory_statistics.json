@@ -1138,5 +1138,25 @@
     "query": "In the regression assumptions, compare the assumption of “normality of y values” to the assumption of “equal variance.” What would a violation of each look like on a scatter plot?",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "How does the meaning of “r is not significant” (insufficient evidence) differ from “r = 0” (no correlation)? Are they the same conclusion?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the effect of having n = 5 data points vs. n = 100 data points on the critical value for r at the 95% confidence level. What does this tell us about sample size and significance?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the regression line used for the sparrow hawk data (percent return vs. percent new) with the regression line used for the gold medal swimming data (year vs. time). In what ways are their interpretations similar and different?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the y-intercept of the regression line for life expectancy (Chapter 12) differ in interpretation from the y-intercept of a cost function (e.g., Aaron’s Word Processing Service)?",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
