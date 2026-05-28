@@ -1098,5 +1098,25 @@
     "query": "How did the collapse of Russia's tsarist government (WWI) compare to the collapse of Japan's military government structure following WWII?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "Compare the economic mobilization of the United States in WWI versus WWII. Which was more extensive, and what new institutions were created in each?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did Germany's 'blank check' to Austria-Hungary (WWI) compare to the Tripartite Pact (WWII) as instruments of military alliance?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Compare the role of Australia and New Zealand in WWI (Gallipoli, Western Front) with their roles in WWII (Pacific Theater).",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the Middle East as a theater of war in WWI compare to its role in WWII? What resources were at stake in each conflict?",
+    "domain": "World History",
+    "label": 1
   }
 ]
