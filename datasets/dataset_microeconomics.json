@@ -1118,5 +1118,25 @@
     "query": "How does a legal monopoly differ from a natural monopoly in terms of how each arises and the role of government in each?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "Compare the ALCOA historical example with the DeBeers example as illustrations of different types of barriers to entry.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does the long-run supply curve for a constant-cost industry compare to that for a decreasing-cost industry?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does intellectual property protection compare to physical property rights in terms of what is protected and how protection is enforced?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does a price change affect demand differently from an income change in terms of the graphical representation?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
