@@ -1138,5 +1138,25 @@
     "query": "How did the Final Solution (WWII) compare with the Armenian Genocide (WWI) in terms of state organization, scale, and international response?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "Compare the Sykes-Picot Agreement (WWI) with the Atlantic Charter (WWII) as frameworks for determining the postwar international order.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the role of Italy differ in WWI versus WWII? Compare its alliances, motivations, and military performance in each conflict.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Compare the experience of Japanese Americans interned during WWII with the treatment of German Americans suspected of disloyalty during WWI.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the war's effect on women's suffrage differ between WWI (leading to votes for women in 1918–1920) and WWII? Did the second war advance or retard women's political rights?",
+    "domain": "World History",
+    "label": 1
   }
 ]
