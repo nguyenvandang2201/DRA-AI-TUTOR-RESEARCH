@@ -1158,5 +1158,25 @@
     "query": "How does the y-intercept of the regression line for life expectancy (Chapter 12) differ in interpretation from the y-intercept of a cost function (e.g., Aaron’s Word Processing Service)?",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "Compare the coefficient of determination for the CPI data (r² ≈ 0.756) to that of the third exam/final exam data (r² ≈ 0.44). What does each value tell us about the fit of the model?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the practical meaning of a z-score of +2 versus a z-score of –2 for a medical measurement such as blood pressure or weight of a child.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the standard deviation σ serve different roles in the normal distribution formula compared to the standard deviation of residuals s in the regression model?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the probability of a value being more than 2 standard deviations above the mean vs. more than 3 standard deviations above the mean in a normal distribution. How extreme are these events?",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
