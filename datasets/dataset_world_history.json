@@ -1158,5 +1158,25 @@
     "query": "How did the war's effect on women's suffrage differ between WWI (leading to votes for women in 1918–1920) and WWII? Did the second war advance or retard women's political rights?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "Compare the leadership styles and war aims of Woodrow Wilson (WWI) and Franklin D. Roosevelt (WWII) in bringing the United States into global conflict.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the Paris Peace Conference of 1919 compare to the Potsdam and Yalta Conferences of 1945 in terms of fairness to defeated nations?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Compare the moral justifications offered by Germany for aggression in WWI with those offered by Nazi Germany in WWII.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the treatment of prisoners of war differ between the Western Front (WWI) and the Pacific Theater (WWII)?",
+    "domain": "World History",
+    "label": 1
   }
 ]
