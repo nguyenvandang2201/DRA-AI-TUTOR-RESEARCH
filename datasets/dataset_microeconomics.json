@@ -1138,5 +1138,25 @@
     "query": "How does a price change affect demand differently from an income change in terms of the graphical representation?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "Compare the loss-minimization strategy of a firm operating above the shutdown point with one operating below the shutdown point.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does the organic food market's supply and demand dynamics compare to the conventional food market as described in the textbook?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Compare the short-run and long-run outcomes for a perfectly competitive market following an increase in market demand.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does the efficiency of a price ceiling as a consumer protection tool compare to the efficiency of a price floor as a producer protection tool?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
