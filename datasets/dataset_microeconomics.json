@@ -1158,5 +1158,25 @@
     "query": "How does the efficiency of a price ceiling as a consumer protection tool compare to the efficiency of a price floor as a producer protection tool?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "How does the concept of consumer surplus before and after a price ceiling illustrate the tradeoff between equity and efficiency?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Compare the marginal cost curve of a perfectly competitive firm with its supply curve and explain the relationship.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does the long-run equilibrium price in a decreasing-cost industry compare to the initial equilibrium price before industry expansion?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Compare the behavior of a monopolist facing an increase in demand versus a perfectly competitive firm facing the same increase in demand.",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
