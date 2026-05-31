@@ -1178,5 +1178,25 @@
     "query": "Compare the probability of a value being more than 2 standard deviations above the mean vs. more than 3 standard deviations above the mean in a normal distribution. How extreme are these events?",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "Compare the regression equation ŷ = –173.51 + 4.83x (with outlier) and ŷ = –355.19 + 7.39x (without outlier). What dramatic change occurred in both the slope and intercept?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the use of z-scores to compare SAT and ACT scores illustrate the broader concept of standardization? Compare this use to the standardization in a standard normal distribution.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the assumption that “data are normally distributed” in the context of the normal distribution chapter to the regression assumption that “y values are normally distributed about the regression line.”",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare a regression model for predicting sports stadium capacity (n=60) to a model for predicting checkout wait times (n=50). How does sample size affect confidence in the predictions?",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
