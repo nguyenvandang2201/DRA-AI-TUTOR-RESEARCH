@@ -1178,5 +1178,25 @@
     "query": "How did the treatment of prisoners of war differ between the Western Front (WWI) and the Pacific Theater (WWII)?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "Compare the scope of destruction in French and Belgian cities during WWI with the Allied bombing of German and Japanese cities in WWII.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the role of India in supporting British war efforts differ between WWI and WWII? Compare contributions, expectations, and political consequences.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Compare the role of air power in WWI (reconnaissance, dogfights) with its decisive role in WWII (strategic bombing, Pearl Harbor, Battle of Britain).",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did Lenin's peace campaign ('Peace, Land, Bread') during WWI compare to Gandhi's 'Quit India' movement during WWII as challenges to imperial powers?",
+    "domain": "World History",
+    "label": 1
   }
 ]
