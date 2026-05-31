@@ -1198,5 +1198,25 @@
     "query": "Compare a regression model for predicting sports stadium capacity (n=60) to a model for predicting checkout wait times (n=50). How does sample size affect confidence in the predictions?",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "Compare the concept of a “best-fit line” in the context of regression to the concept of the “mean” in descriptive statistics. In what sense are both measures of “center”?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare and contrast the practical usefulness of a high r value (e.g., 0.95) in a small dataset (n=5) versus a moderate r value (e.g., 0.50) in a large dataset (n=100).",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the variability around the regression line (measured by s) compare to the overall variability in y (measured by sy)? What does a small s relative to sy tell us?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the meaning of the y-intercept in the regression of fly ball distances (theoretical) to the regression of SCUBA diving depths and times (practical). When does the y-intercept have real-world meaning?",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
