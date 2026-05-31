@@ -1178,5 +1178,25 @@
     "query": "Compare the behavior of a monopolist facing an increase in demand versus a perfectly competitive firm facing the same increase in demand.",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "How do trade secrets differ from patents as mechanisms for protecting intellectual property?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Compare the effects of rent control (a price ceiling) on landlords versus tenants in terms of surplus and allocation.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does the concept of the 'zero-profit point' in perfect competition compare to the 'shutdown point' in terms of what each tells a firm?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Compare the role of the government in creating legal monopolies versus in regulating natural monopolies.",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
