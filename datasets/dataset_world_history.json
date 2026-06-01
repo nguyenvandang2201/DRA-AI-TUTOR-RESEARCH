@@ -1198,5 +1198,25 @@
     "query": "How did Lenin's peace campaign ('Peace, Land, Bread') during WWI compare to Gandhi's 'Quit India' movement during WWII as challenges to imperial powers?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "Compare Germany's military strategies on the Eastern Front in both WWI and WWII. How did the Russian winter affect operations in each conflict?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the collapse of the Ottoman Empire after WWI compare to Japan's postwar reconstruction under American occupation? What were the different outcomes?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Compare civilian resistance in occupied France during WWII with civilian opposition to the war in Germany and Britain during WWI.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did Japan's actions in China (1931–1945) compare to Germany's actions in Poland (1939–1945) in terms of occupation policies, atrocities, and resistance?",
+    "domain": "World History",
+    "label": 1
   }
 ]
