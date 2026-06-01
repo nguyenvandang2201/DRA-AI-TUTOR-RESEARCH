@@ -71,3 +71,4 @@
 - 2026-05-28: Rà soát cân bằng nhãn 0/1 cho truy vấn Lịch sử thế giới.
 - 2026-05-30: Kiểm tra trùng lặp câu hỏi trong batch truy vấn Thống kê nhập môn.
 - 2026-05-31: Rà soát cân bằng nhãn 0/1 cho truy vấn Thống kê nhập môn.
+- 2026-06-01: Rà soát cân bằng nhãn 0/1 cho truy vấn Kinh tế vi mô.
