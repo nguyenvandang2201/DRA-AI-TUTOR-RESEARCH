@@ -1218,5 +1218,25 @@
     "query": "Compare the characteristics of a natural monopoly in the water supply industry versus natural monopoly in the airline manufacturing example in the text.",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "How does an agricultural market (like wheat or corn) compare to a telecommunications market (like AT&T) in terms of market structure and competitiveness?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Compare the social welfare implications of a government-enforced price ceiling on medicine versus a natural market price for medicine.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does the loss of producer surplus from a price ceiling compare to the gain in consumer surplus, and what explains the net welfare loss?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does short-run profit maximization behavior for a perfectly competitive firm compare to short-run profit maximization for a monopolist?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
