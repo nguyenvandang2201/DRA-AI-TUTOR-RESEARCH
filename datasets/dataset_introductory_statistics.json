@@ -1218,5 +1218,25 @@
     "query": "Compare the meaning of the y-intercept in the regression of fly ball distances (theoretical) to the regression of SCUBA diving depths and times (practical). When does the y-intercept have real-world meaning?",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "Compare using the Empirical Rule approximation to using the exact normal distribution formula (normalcdf). When would you prefer each approach?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the regression of the percent of hourly workers over time (Chapter 12) compare to the regression of life expectancy over time in terms of slope direction and interpretation?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the calculation of the interquartile range (IQR) using the normal distribution (invNorm) with calculating it from raw data. What are the advantages and disadvantages of each method?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the “direction” indicated by the sign of the correlation r with the “strength” indicated by the magnitude |r|. Can a strong negative correlation be more meaningful than a weak positive one?",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
