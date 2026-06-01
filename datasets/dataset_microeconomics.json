@@ -1198,5 +1198,25 @@
     "query": "Compare the role of the government in creating legal monopolies versus in regulating natural monopolies.",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "How does the market demand curve for a monopolist compare to the demand curves faced by individual firms in a perfectly competitive industry?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Compare the short-run and long-run supply curves for a perfectly competitive industry in terms of slopes and what they reflect.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do the effects of a decrease in demand compare to the effects of a decrease in supply in terms of equilibrium price and quantity changes?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Compare the characteristics of a natural monopoly in the water supply industry versus natural monopoly in the airline manufacturing example in the text.",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
