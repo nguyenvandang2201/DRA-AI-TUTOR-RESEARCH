@@ -1238,5 +1238,25 @@
     "query": "How did the 'Rape of Belgium' in WWI compare to the 'Rape of Nanjing' in WWII as events that shaped international perceptions of an aggressor nation?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "Compare the political consequences of the armistice of 1918 for Germany with the consequences of Japan's unconditional surrender in 1945.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the propaganda efforts of the United States in WWI (Committee on Public Information) compare to those in WWII in terms of methods and effectiveness?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Compare the fates of ethnic and religious minorities in the Ottoman Empire during WWI with the fates of minorities under Nazi rule in WWII.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the postwar reconstruction of Japan under U.S. occupation compare to the reconstruction of Germany under Allied occupation in terms of speed, scope, and long-term outcomes?",
+    "domain": "World History",
+    "label": 1
   }
 ]
