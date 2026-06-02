@@ -1218,5 +1218,25 @@
     "query": "How did Japan's actions in China (1931–1945) compare to Germany's actions in Poland (1939–1945) in terms of occupation policies, atrocities, and resistance?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "Compare Germany's wartime economic management under the four-year plan with the United States' War Industries Board (WWI) and War Production Board (WWII).",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the British naval blockade of Germany in WWI compare to the American naval campaign against Japan in WWII? What were the effects on civilian populations?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Compare the roles of chemical weapons in WWI with the role of nuclear weapons in ending WWII. How did each weapon transform warfare and international law?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the 'Rape of Belgium' in WWI compare to the 'Rape of Nanjing' in WWII as events that shaped international perceptions of an aggressor nation?",
+    "domain": "World History",
+    "label": 1
   }
 ]
