@@ -1238,5 +1238,25 @@
     "query": "Compare the “direction” indicated by the sign of the correlation r with the “strength” indicated by the magnitude |r|. Can a strong negative correlation be more meaningful than a weak positive one?",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "Compare the sample correlation coefficient r as an estimate of ρ with other sample statistics (like x̄ estimating μ). What are the limitations of using a sample to estimate a population parameter?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the regression results for coffee consumption vs. heart disease across 10 countries (Chapter 12) with the regression for weight vs. fuel efficiency. In what ways are these two analyses structurally similar despite having different variables?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the Pearson correlation coefficient r compare to the coefficient of determination r² in terms of what information each provides and which is more intuitive to interpret?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Compare the significance test for the correlation coefficient with a standard hypothesis test for a population mean. What elements do they share (null hypothesis, test statistic, p-value, conclusion), and where do they differ?",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
