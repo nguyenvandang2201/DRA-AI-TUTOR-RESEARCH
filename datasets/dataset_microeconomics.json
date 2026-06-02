@@ -1238,5 +1238,25 @@
     "query": "How does short-run profit maximization behavior for a perfectly competitive firm compare to short-run profit maximization for a monopolist?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "Compare entry barriers in the form of large advertising budgets to entry barriers in the form of patents, in terms of origin and legal status.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do the concepts of consumer surplus, producer surplus, and deadweight loss together illustrate the total welfare effects of a price ceiling on a market?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does the interaction between demand and supply shifts, equilibrium analysis, and the four-step process provide a comprehensive framework for predicting market outcomes?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "In what ways do the principles of supply, demand, and social surplus together demonstrate that market equilibrium is simultaneously self-correcting and economically efficient?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
