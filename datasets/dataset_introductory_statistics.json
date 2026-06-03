@@ -1278,5 +1278,25 @@
     "query": "In the NUMMI automobile example, the number of defective cars follows approximately a normal distribution. Explain how the concepts of z-scores and the Empirical Rule can be used together to identify unusually high or low defect rates in the quality control process.",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "The SAT and ACT are different tests with different scales. Using the concepts of z-scores (Chapter 6) and linear regression (Chapter 12), explain how a university admissions office could develop a unified model to predict college GPA from either test score.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How do the concepts of the coefficient of determination r² and the area under the normal distribution curve both express “proportion of something explained”? Develop an analogy that connects these two ideas.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "In the regression of CPI over time, the textbook notes that although r is significant, a curve would be a better model. Using knowledge of both the normal distribution and regression concepts, explain what statistical signals suggest this, and what might happen to residuals if we force a linear model.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "An ecologist is studying the sparrow hawk colony data. Integrate the concepts of outlier detection (Chapter 12), the meaning of residuals, and the normal distribution of errors to explain the full process of determining whether a data point is a true outlier versus natural variation.",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
