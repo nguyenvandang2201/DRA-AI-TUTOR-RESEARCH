@@ -1258,5 +1258,25 @@
     "query": "In what ways do the principles of supply, demand, and social surplus together demonstrate that market equilibrium is simultaneously self-correcting and economically efficient?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "How do the long-run forces of entry and exit in perfect competition, combined with the zero-profit condition, lead to both productive and allocative efficiency?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do barriers to entry, monopoly pricing behavior (MR=MC below price), and deadweight loss work together to explain why monopolies produce less output and charge higher prices than competitive markets?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do the factors that shift demand (income, tastes, substitute prices, complement prices, expectations, population) and the factors that shift supply (input prices, technology, regulations) collectively determine a new market equilibrium?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Explain how a perfectly competitive firm's decision to produce where P=MC ensures allocative efficiency, using the concepts of marginal benefit, marginal cost, social surplus, and price as a social signal.",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
