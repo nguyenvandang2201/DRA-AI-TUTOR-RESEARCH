@@ -1258,5 +1258,25 @@
     "query": "Compare the significance test for the correlation coefficient with a standard hypothesis test for a population mean. What elements do they share (null hypothesis, test statistic, p-value, conclusion), and where do they differ?",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "How does the concept of z-scores from the normal distribution chapter connect to the hypothesis testing of the correlation coefficient in Chapter 12? In what ways do both use standardization to make comparisons?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "A student scores 73 on the third exam. Using the regression equation from Chapter 12 and the concept of prediction from Chapter 6, explain the full process of predicting their final exam score and quantifying the uncertainty in that prediction.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does understanding the Empirical Rule (Chapter 6) help a researcher interpret the residuals of a regression model (Chapter 12)? Specifically, what percentage of residuals would you expect to fall within ±2s of the regression line?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "In the NUMMI automobile example, the number of defective cars follows approximately a normal distribution. Explain how the concepts of z-scores and the Empirical Rule can be used together to identify unusually high or low defect rates in the quality control process.",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
