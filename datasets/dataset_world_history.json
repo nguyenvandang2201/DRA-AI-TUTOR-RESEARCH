@@ -1258,5 +1258,25 @@
     "query": "How did the postwar reconstruction of Japan under U.S. occupation compare to the reconstruction of Germany under Allied occupation in terms of speed, scope, and long-term outcomes?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "How did the interlocking alliance systems, imperial rivalries, arms races, and nationalist movements collectively create the conditions that made a single assassination capable of triggering a world war in 1914?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "In what ways did the military, economic, and political failures of WWI collectively produce the conditions that made the rise of fascism in Germany, Italy, and Japan not only possible but arguably inevitable?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did racial ideologies, colonial hierarchies, and the logic of total war interact to shape the treatment of colonial soldiers, prisoners of war, and civilian minorities in both WWI and WWII?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the roles of geography, logistics, technology, and political leadership in determining why Germany ultimately lost both WWI and WWII despite early military successes.",
+    "domain": "World History",
+    "label": 1
   }
 ]
