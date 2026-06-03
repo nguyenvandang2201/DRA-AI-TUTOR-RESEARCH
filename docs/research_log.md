@@ -73,3 +73,4 @@
 - 2026-05-31: Rà soát cân bằng nhãn 0/1 cho truy vấn Thống kê nhập môn.
 - 2026-06-01: Rà soát cân bằng nhãn 0/1 cho truy vấn Kinh tế vi mô.
 - 2026-06-02: Rà soát cân bằng nhãn 0/1 cho truy vấn Kinh tế vi mô.
+- 2026-06-03: Rà soát cân bằng nhãn 0/1 cho truy vấn Lịch sử thế giới.
