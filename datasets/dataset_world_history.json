@@ -1278,5 +1278,25 @@
     "query": "Synthesize the roles of geography, logistics, technology, and political leadership in determining why Germany ultimately lost both WWI and WWII despite early military successes.",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "How did the experiences of industrial workers, women, colonial subjects, and political dissidents on the home front during WWI reshape postwar political movements, suffrage campaigns, and calls for independence?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the failure of the League of Nations, the Great Depression, the rise of fascism, and the policy of appeasement interact to make another world war nearly unavoidable by the late 1930s?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Analyze how religion, ethnicity, nationalism, and imperial competition in the Balkans between 1908 and 1914 transformed a regional conflict into a global catastrophe.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did technological innovation in the fields of weaponry, communications, medicine, and transportation simultaneously increase the destructive capacity of WWI while also creating new forms of care and survival for soldiers?",
+    "domain": "World History",
+    "label": 1
   }
 ]
