@@ -1298,5 +1298,25 @@
     "query": "An ecologist is studying the sparrow hawk colony data. Integrate the concepts of outlier detection (Chapter 12), the meaning of residuals, and the normal distribution of errors to explain the full process of determining whether a data point is a true outlier versus natural variation.",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "How does the regression assumption that “y values are normally distributed about the line” (Chapter 12) directly connect to the properties of the normal distribution studied in Chapter 6? What would a violin plot of the y values at each x value look like if this assumption holds?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Using the concept of interpolation vs. extrapolation from Chapter 12 and the concept of the domain of a distribution from Chapter 6, explain why predictions outside the observed range of x values are unreliable even when r is significant.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How do the concepts of “sample size n” from both chapters (affecting z-scores in Chapter 6 and the significance of r in Chapter 12) work together to illustrate the fundamental statistical principle that larger samples give more reliable conclusions?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "A medical researcher wants to predict systolic blood pressure (normally distributed with μ = 125, σ = 14) from body mass index (BMI). Integrate the z-score framework from Chapter 6 with the regression framework from Chapter 12 to describe the full statistical approach, including hypothesis testing.",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
