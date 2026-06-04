@@ -1278,5 +1278,25 @@
     "query": "Explain how a perfectly competitive firm's decision to produce where P=MC ensures allocative efficiency, using the concepts of marginal benefit, marginal cost, social surplus, and price as a social signal.",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "How do changes in the demand for organic food driven by evolving consumer tastes, income growth, and greater availability interact with supply-side factors such as higher production costs and land conversion to explain persistently higher organic prices?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do the concepts of fixed costs, variable costs, average variable cost, and the shutdown point interact to explain a firm's short-run survival strategy versus its long-run exit decision?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does the East India Company's tea monopoly and the Confederate cotton monopoly together illustrate the economic and political consequences of monopoly power, including how market forces eventually undermined each monopoly?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Using the principles of demand, supply shifts, and equilibrium analysis, explain how an increase in oil prices would simultaneously affect the markets for gasoline, electric vehicles, and public transportation.",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
