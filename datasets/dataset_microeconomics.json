@@ -1298,5 +1298,25 @@
     "query": "Using the principles of demand, supply shifts, and equilibrium analysis, explain how an increase in oil prices would simultaneously affect the markets for gasoline, electric vehicles, and public transportation.",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "How do intellectual property laws such as patents, trademarks, and copyrights serve as barriers to entry while simultaneously providing incentives for innovation, and what tradeoffs does this create between monopoly inefficiency and dynamic efficiency?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does the relationship between marginal cost, average cost, and marginal revenue in a perfectly competitive firm interact with long-run equilibrium dynamics to result in zero economic profit?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Using the four-step process, explain how a major drought affecting wheat production would simultaneously affect the equilibrium price and quantity in markets for wheat, wheat-based food products, and substitute grains.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do the conditions of perfect competition—many sellers, identical products, free entry and exit, and perfect information—together create the outcome of price-taking firms and zero long-run profit?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
