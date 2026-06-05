@@ -1318,5 +1318,25 @@
     "query": "Analyze how the combination of new military technologies (machine guns, gas, artillery, submarines, aircraft) and outdated military tactics produced the horrific casualties characteristic of WWI.",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "How did the economic, political, and cultural effects of WWI's home front—rationing, propaganda, censorship, women's labor, and political radicalism—lay the groundwork for the interwar crises of the 1920s?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Using evidence from military campaigns in France, the Caucasus, the Alps, and the Middle East, explain how geography fundamentally shaped the nature and outcome of WWI across different theaters.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the pan-Slavic movement, Austrian imperial ambitions, and Ottoman collapse interact with great-power politics to make the Balkans the most explosive region in pre-WWI Europe?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the military, diplomatic, and psychological consequences of Germany's 'blank check' to Austria-Hungary in July 1914 for the subsequent escalation of a regional crisis into a world war.",
+    "domain": "World History",
+    "label": 1
   }
 ]
