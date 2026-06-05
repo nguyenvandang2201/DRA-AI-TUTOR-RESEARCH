@@ -1318,5 +1318,25 @@
     "query": "A medical researcher wants to predict systolic blood pressure (normally distributed with μ = 125, σ = 14) from body mass index (BMI). Integrate the z-score framework from Chapter 6 with the regression framework from Chapter 12 to describe the full statistical approach, including hypothesis testing.",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "The textbook mentions that “correlation does not imply causation.” Using examples from both Chapter 6 (distributions of natural phenomena) and Chapter 12 (regression of real-world data), construct a comprehensive argument for why this principle is essential in data analysis.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the detection and removal of an outlier (Chapter 12) change not just the regression line but also the distribution of residuals? Use the concepts of normal distribution (Chapter 6) to explain why a cleaner dataset may have residuals that better approximate normality.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Consider the checkout line wait time study. Using the normal approximation (Chapter 6) and the regression concepts (Chapter 12), explain the full analytical pipeline: from raw data collection to a predictive model, including how the normal distribution assumption is checked.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "In quality control, a manufacturing plant uses both the Empirical Rule (Chapter 6) and regression analysis (Chapter 12) to monitor production. Explain how these two tools can be used together to detect when a process is “out of control.”",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
