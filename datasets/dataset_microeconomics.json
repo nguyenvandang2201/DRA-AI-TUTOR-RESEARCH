@@ -1318,5 +1318,25 @@
     "query": "How do the conditions of perfect competition—many sellers, identical products, free entry and exit, and perfect information—together create the outcome of price-taking firms and zero long-run profit?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "How does the combination of marginal revenue being below price for a monopolist and the MR=MC profit-maximizing rule lead to both underproduction and allocative inefficiency?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Explain how the concepts of the shutdown point and the break-even point together create three distinct zones of pricing and production decisions for a firm operating in a perfectly competitive market.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does the interaction between short-run profit incentives for individual firms and the long-run entry and exit processes determine the shape of the long-run supply curve for an increasing-cost industry?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do the economic concepts of deadweight loss, consumer surplus redistribution, and incentive effects combine to explain why price controls often produce unintended consequences?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
