@@ -1298,5 +1298,25 @@
     "query": "How did technological innovation in the fields of weaponry, communications, medicine, and transportation simultaneously increase the destructive capacity of WWI while also creating new forms of care and survival for soldiers?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "Synthesize the political, military, and humanitarian consequences of the Sykes-Picot Agreement, the Balfour Declaration, and the Arab Revolt to explain the roots of ongoing conflicts in the Middle East.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the intersection of colonialism, racism, and wartime military strategy determine which populations bore the heaviest burdens of labor and death in both WWI and WWII?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the February Revolution, the October Revolution, and the Treaty of Brest-Litovsk together transform the trajectory of WWI in ways that shaped the global political order for decades?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Analyze how the combination of new military technologies (machine guns, gas, artillery, submarines, aircraft) and outdated military tactics produced the horrific casualties characteristic of WWI.",
+    "domain": "World History",
+    "label": 1
   }
 ]
