@@ -1338,5 +1338,25 @@
     "query": "In quality control, a manufacturing plant uses both the Empirical Rule (Chapter 6) and regression analysis (Chapter 12) to monitor production. Explain how these two tools can be used together to detect when a process is “out of control.”",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "How do the concepts of percentile (Chapter 6) and prediction from a regression line (Chapter 12) both answer the question “what value of y should we expect?” even though they use different methods?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the concept of hypothesis testing for ρ from Chapter 12 with the concept of probability under the normal curve from Chapter 6. Explain how the p-value in the LinRegTTest is conceptually a normal/t-distribution probability.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "A sociologist is studying the relationship between education level and income. Use concepts from both Chapter 6 (normality of income distribution) and Chapter 12 (regression, significance testing, prediction) to outline a complete statistical study design and analysis plan.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the formula b = r(sy/sx) for the regression slope synthesize concepts from both correlation (r) and descriptive statistics (sy, sx)? What does this formula reveal about the relationship between the spread of x and y and the steepness of the regression line?",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
