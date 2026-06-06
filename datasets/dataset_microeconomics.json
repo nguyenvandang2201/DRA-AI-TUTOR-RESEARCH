@@ -1358,5 +1358,25 @@
     "query": "Explain how the same demand-supply equilibrium model can be applied across diverse markets—gasoline, organic food, bicycles, and cheddar cheese—to predict how specific factor changes affect prices and quantities.",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "How do the microeconomic concepts of comparative advantage in production, market prices as signals, and cost differences between crops explain why North Dakota farmers shifted from wheat to corn production?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do predatory pricing, brand-name recognition, and economies of scale interact as barriers to entry, and what are the long-run implications for market competition and consumer welfare?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Using the framework of perfect competition, analyze how the introduction of new cost-saving technology affects a firm's marginal cost, its supply curve, and the long-run equilibrium price and output in the industry.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do changes in fixed costs, variable costs, and the break-even analysis interact with the decision to enter or exit a market, and what role does this play in determining long-run equilibrium in a perfectly competitive market?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
