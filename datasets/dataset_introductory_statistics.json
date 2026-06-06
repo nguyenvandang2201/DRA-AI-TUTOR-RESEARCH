@@ -1358,5 +1358,25 @@
     "query": "How does the formula b = r(sy/sx) for the regression slope synthesize concepts from both correlation (r) and descriptive statistics (sy, sx)? What does this formula reveal about the relationship between the spread of x and y and the steepness of the regression line?",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "Consider the gold medal swimming times dataset. Using the regression analysis from Chapter 12 and the normal distribution concepts from Chapter 6, explain how you would (a) find the best-fit line, (b) test its significance, (c) make a prediction for a future year, and (d) quantify the uncertainty in that prediction using a probability statement.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "The textbook uses both graphical (scatter plot) and numerical (r value) methods to assess linear relationships. How do these two approaches complement each other, and how does the normal distribution underlie the theoretical framework that makes r’s significance test valid?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "In the Facebook usage example, the percentage of users who check Facebook before getting out of bed is normally distributed. Explain how the percentile concept (Chapter 6) and the concept of a regression model (Chapter 12) might together be used to segment users into marketing categories.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How do the concepts of “standard deviation of the distribution” (Chapter 6) and “standard deviation of the residuals” (Chapter 12) both represent variability, and how does minimizing the latter through the SSE criterion connect to the broader statistical goal of reducing uncertainty?",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
