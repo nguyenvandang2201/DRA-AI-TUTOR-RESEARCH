@@ -1338,5 +1338,25 @@
     "query": "Synthesize the military, diplomatic, and psychological consequences of Germany's 'blank check' to Austria-Hungary in July 1914 for the subsequent escalation of a regional crisis into a world war.",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "How did the WWI experiences of Canada, Australia, New Zealand, and India simultaneously strengthen imperial bonds and plant the seeds of future independence movements?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Analyze how the combination of German U-boat warfare, the sinking of the Lusitania, the Sussex Pledge, and the Zimmermann Telegram created an irresistible political pressure for U.S. entry into WWI.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the interplay of socialist ideology, nationalist sentiment, and wartime hardship produce different political outcomes in Russia (Bolshevik Revolution), Germany (Weimar Republic), and Italy (fascism) after WWI?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the role of propaganda, censorship, and public opinion in shaping—and distorting—civilian understanding of WWI in Germany, Britain, and the United States.",
+    "domain": "World History",
+    "label": 1
   }
 ]
