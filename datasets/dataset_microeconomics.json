@@ -1338,5 +1338,25 @@
     "query": "How do the economic concepts of deadweight loss, consumer surplus redistribution, and incentive effects combine to explain why price controls often produce unintended consequences?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "How do the demand and supply framework together with changes in driving behavior, fuel efficiency standards, and global crude oil supply explain the seasonal and cyclical volatility of U.S. gasoline prices?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Using the concepts of market structure, barriers to entry, and efficiency, compare the social welfare implications of AT&T's telephone monopoly versus the competitive telecommunications market that followed the 1982 breakup.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does the concept of ceteris paribus help economists isolate the effects of individual demand and supply shifters, and what are the limitations of this assumption when analyzing complex real-world market phenomena?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Explain how the same demand-supply equilibrium model can be applied across diverse markets—gasoline, organic food, bicycles, and cheddar cheese—to predict how specific factor changes affect prices and quantities.",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
