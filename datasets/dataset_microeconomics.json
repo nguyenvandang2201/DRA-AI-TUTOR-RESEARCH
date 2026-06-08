@@ -1378,5 +1378,25 @@
     "query": "How do changes in fixed costs, variable costs, and the break-even analysis interact with the decision to enter or exit a market, and what role does this play in determining long-run equilibrium in a perfectly competitive market?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "How do changes in prices of complements and substitutes interact with shifts in consumer income and evolving tastes to create complex demand shifts that may produce ambiguous outcomes for equilibrium price or quantity?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Using the demand and supply framework, explain how simultaneous increases in both the demand for organic strawberries (triggered by pesticide concern lists) and the cost of organic farming inputs would affect the equilibrium price and quantity.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does the profit-maximizing output decision of a monopolist (MR=MC) interact with the market demand curve to simultaneously determine price, quantity, and the levels of consumer and producer surplus?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do the long-run efficiency properties of perfect competition—productive and allocative efficiency—contrast with the persistent inefficiencies of monopoly, and what does this imply for government regulatory policy?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
