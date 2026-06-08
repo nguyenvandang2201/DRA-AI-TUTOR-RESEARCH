@@ -78,3 +78,4 @@
 - 2026-06-04: Kiểm tra trùng lặp câu hỏi trong batch truy vấn Thống kê nhập môn.
 - 2026-06-05: Rà soát cân bằng nhãn 0/1 cho truy vấn Kinh tế vi mô.
 - 2026-06-06: Kiểm tra trùng lặp câu hỏi trong batch truy vấn Kinh tế vi mô.
+- 2026-06-08: Kiểm tra trùng lặp câu hỏi trong batch truy vấn Lịch sử thế giới.
