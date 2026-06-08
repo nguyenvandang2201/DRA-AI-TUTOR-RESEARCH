@@ -1378,5 +1378,25 @@
     "query": "Synthesize the strategic, moral, and political arguments for and against Truman's decision to drop atomic bombs on Hiroshima and Nagasaki, drawing on evidence from the text's primary sources.",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "How did Germany's invasion of the Soviet Union, the siege of Leningrad, and the Battle of Stalingrad collectively reshape the entire strategic balance of WWII in Europe, and what role did logistics play?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Analyze how Operation Barbarossa, the German four-year economic plan, and the Soviet relocation of factories east of the Urals together illustrate the critical importance of industrial production in determining WWII's outcome.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the British policy of appeasement, the Munich Pact, and the subsequent occupation of Czechoslovakia collectively undermine international order and embolden Hitler to launch WWII?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the roles of propaganda, cultural suppression, economic exploitation, and military violence in Japan's administration of the Greater East Asia Co-Prosperity Sphere, and explain why resistance movements emerged.",
+    "domain": "World History",
+    "label": 1
   }
 ]
