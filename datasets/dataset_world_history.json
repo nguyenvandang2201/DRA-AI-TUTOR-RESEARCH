@@ -1358,5 +1358,25 @@
     "query": "Synthesize the role of propaganda, censorship, and public opinion in shaping—and distorting—civilian understanding of WWI in Germany, Britain, and the United States.",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "How did Japan's perception of Western racism, the rejection of its racial equality amendment at Versailles, and its desire for natural resources interact to produce the expansionist ideology behind the Greater East Asia Co-Prosperity Sphere?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Analyze how the Holocaust required the cooperation of military forces, civilian bureaucracies, railway systems, and ordinary citizens across multiple countries, and what this reveals about the role of institutions in enabling genocide.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the Manhattan Project bring together refugee scientists from Nazi Europe, U.S. industrial capacity, and government secrecy to produce the atomic bomb, and what moral dilemmas did this creation pose?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the strategic, moral, and political arguments for and against Truman's decision to drop atomic bombs on Hiroshima and Nagasaki, drawing on evidence from the text's primary sources.",
+    "domain": "World History",
+    "label": 1
   }
 ]
