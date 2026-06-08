@@ -1378,5 +1378,25 @@
     "query": "How do the concepts of “standard deviation of the distribution” (Chapter 6) and “standard deviation of the residuals” (Chapter 12) both represent variability, and how does minimizing the latter through the SSE criterion connect to the broader statistical goal of reducing uncertainty?",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "Synthesize the ideas of outlier detection (Chapter 12) and the use of z-scores (Chapter 6) to propose a unified criterion for identifying unusual data points: specifically, explain how the rule of “residual > 2s” is analogous to identifying a data point with |z| > 2.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "The Consumer Price Index example shows a significant r but a potentially nonlinear relationship. Using the normal distribution concepts, explain how the distribution of residuals around the regression line can visually or numerically reveal when a linear model is not appropriate.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Consider a study predicting student performance (normally distributed) from hours of study. Integrate the z-score framework for individual predictions (Chapter 6) with the regression framework for group-level predictions (Chapter 12), explaining when each approach is most appropriate.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the coefficient of determination r² = 0.44 in the third exam/final exam example connect to the normal distribution concept of explaining variation? What does it mean that 56% of the variation in final exam scores is “unexplained,” and how does this relate to the spread of the normal distribution of scores?",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
