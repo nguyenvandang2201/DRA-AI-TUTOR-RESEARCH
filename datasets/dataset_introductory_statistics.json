@@ -1398,5 +1398,25 @@
     "query": "How does the coefficient of determination r² = 0.44 in the third exam/final exam example connect to the normal distribution concept of explaining variation? What does it mean that 56% of the variation in final exam scores is “unexplained,” and how does this relate to the spread of the normal distribution of scores?",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "A public health analyst is studying coffee consumption and heart disease rates (Chapter 12). Integrate the concepts of significance testing (is r significant?), prediction (regression equation), and the normal distribution of residuals to provide a complete statistical assessment of whether coffee consumption is a useful predictor of heart disease risk.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How do the five regression assumptions (linearity, independence, normality, equal variance, random sample) connect to properties of the normal distribution (Chapter 6)? Specifically, explain how violating each assumption would distort the normal distribution of residuals.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the concepts of probability statements in the normal distribution (Chapter 6) with the prediction interval in regression (Chapter 12) to explain how a researcher can not only predict a value but also quantify confidence in that prediction.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "In the Alaska/Hawaii outlier analysis (problem 85, Chapter 12), explain how geographic and historical context, combined with statistical outlier detection and regression analysis, demonstrates the importance of integrating domain knowledge with quantitative methods.",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
