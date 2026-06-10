@@ -1418,5 +1418,25 @@
     "query": "In the Alaska/Hawaii outlier analysis (problem 85, Chapter 12), explain how geographic and historical context, combined with statistical outlier detection and regression analysis, demonstrates the importance of integrating domain knowledge with quantitative methods.",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "How does the principle of minimizing SSE in regression (Chapter 12) parallel the principle of using the mean to minimize the sum of squared deviations in descriptive statistics? What deeper statistical principle do both reflect?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Consider the life expectancy vs. year of birth regression. Using knowledge from both chapters, explain how you would (a) assess normality of the data, (b) fit the regression, (c) test significance, and (d) interpret the practical meaning of the slope in terms of public health progress.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the concept of “area under the curve” in the normal distribution (Chapter 6) relate to the concept of “variation explained” by the regression line (Chapter 12)? Develop a conceptual bridge between these two ideas.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "A pollster conducts a survey on voter preferences. The results follow a normal distribution. Using concepts from both Chapter 6 (probabilities, percentiles) and Chapter 12 (predicting outcomes based on demographic variables), explain how a complete statistical analysis could predict election outcomes.",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
