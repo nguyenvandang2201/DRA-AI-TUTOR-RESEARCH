@@ -1398,5 +1398,25 @@
     "query": "Synthesize the roles of propaganda, cultural suppression, economic exploitation, and military violence in Japan's administration of the Greater East Asia Co-Prosperity Sphere, and explain why resistance movements emerged.",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "How did the Yalta Conference decisions regarding Poland, Germany's occupation zones, and Soviet participation in the Pacific war simultaneously reflect Allied unity and plant the seeds of Cold War tensions?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Analyze how the experiences of African soldiers fighting for European colonial powers during WWII, combined with wartime promises of self-determination in the Atlantic Charter, accelerated African decolonization after the war.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the experiences of the two world wars together reshape the concept of international law, from the creation of war crimes tribunals to the prohibition of genocide and the founding of the United Nations?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the ways in which WWI's unresolved issues—the 'war guilt' clause, reparations, territorial changes, and thwarted nationalisms—directly produced the political instability that enabled WWII.",
+    "domain": "World History",
+    "label": 1
   }
 ]
