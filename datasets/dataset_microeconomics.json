@@ -1398,5 +1398,25 @@
     "query": "How do the long-run efficiency properties of perfect competition—productive and allocative efficiency—contrast with the persistent inefficiencies of monopoly, and what does this imply for government regulatory policy?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "How does the concept of 'market structure' encompass the number of firms, ease of entry, and product differentiation, and how do variations across the spectrum from perfect competition to monopoly affect price, quantity, and welfare?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Explain how the availability of close substitutes both limits a firm's monopoly power and influences the legal definition of the relevant market, using historical examples from the text such as DuPont cellophane, Microsoft, and Greyhound.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do the microeconomic principles of supply, demand, and market equilibrium help explain the Boston Tea Party as an economic event, and what does this reveal about the consequences of monopoly pricing for political stability?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does the relationship between a firm's total revenue curve, total cost curve, and the resulting profit curve illustrate the logic of the profit-maximizing rule for both competitive firms and monopolists?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
