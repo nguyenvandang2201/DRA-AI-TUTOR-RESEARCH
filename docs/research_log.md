@@ -81,3 +81,4 @@
 - 2026-06-08: Kiểm tra trùng lặp câu hỏi trong batch truy vấn Lịch sử thế giới.
 - 2026-06-10: Đối chiếu trường domain với nội dung câu hỏi Thống kê nhập môn.
 - 2026-06-10: Chạy thử script kiểm tra JSON cho Thống kê nhập môn, không phát hiện lỗi.
+- 2026-06-11: Rà soát cân bằng nhãn 0/1 cho truy vấn Kinh tế vi mô.
