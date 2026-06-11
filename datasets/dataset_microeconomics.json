@@ -1438,5 +1438,25 @@
     "query": "How do consumer surplus and producer surplus together determine market efficiency, and how does the emergence of deadweight loss signal resource misallocation?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "How do changes in demand, supply, and equilibrium explain the transformation of the U.S. phone market from an AT&T monopoly to a competitive industry, and what were the consumer welfare effects of that transition?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Using the economic principles of perfect competition, explain how the 'invisible hand' of market forces allocates resources without central direction, and what the social benefits and inherent limitations of this mechanism are.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does the concept of natural monopoly arise from the interaction between economies of scale and limited market demand, and what tradeoffs arise between allowing natural monopoly operations and regulatory intervention?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do the concepts of fixed costs, variable costs, and the shutdown rule interact in the Yoga Center example to illustrate the general principle of short-run loss minimization for any firm?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
