@@ -1418,5 +1418,25 @@
     "query": "Synthesize the ways in which WWI's unresolved issues—the 'war guilt' clause, reparations, territorial changes, and thwarted nationalisms—directly produced the political instability that enabled WWII.",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "How did advances in radar technology, code-breaking (Enigma), computing (ENIAC), and medical science (penicillin, blood plasma) during WWII collectively transform both military capability and postwar civilian life?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Analyze the relationship between economic depression, political extremism, and military aggression in the 1930s by synthesizing events in Germany, Japan, and Italy.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the treatment of women—from their mobilization in factories and the military to policies controlling their reproductive roles—reveal the contradictions between wartime necessity and patriarchal ideology in WWII belligerent nations?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Synthesize how the combination of total war, strategic bombing, and the atomic bomb transformed the relationship between civilians and warfare, blurring the line between combatants and non-combatants.",
+    "domain": "World History",
+    "label": 1
   }
 ]
