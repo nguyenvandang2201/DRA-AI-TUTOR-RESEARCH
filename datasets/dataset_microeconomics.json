@@ -1418,5 +1418,25 @@
     "query": "How does the relationship between a firm's total revenue curve, total cost curve, and the resulting profit curve illustrate the logic of the profit-maximizing rule for both competitive firms and monopolists?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "Using the concepts of marginal revenue and marginal cost, explain why a monopolist would never rationally choose to produce on the inelastic portion of its demand curve.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do the four types of barriers to entry—natural monopoly, control of physical resources, legal monopoly, and intellectual property—differ in their origins, and how does each type interact with government policy in different ways?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Explain how the long-run supply curve for an industry summarizes the complex interactions between firm-level cost changes, market entry and exit dynamics, and changes in input prices as industry output expands.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do consumer surplus and producer surplus together determine market efficiency, and how does the emergence of deadweight loss signal resource misallocation?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
