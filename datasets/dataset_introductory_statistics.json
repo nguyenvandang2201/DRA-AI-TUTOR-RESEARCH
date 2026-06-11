@@ -1438,5 +1438,25 @@
     "query": "A pollster conducts a survey on voter preferences. The results follow a normal distribution. Using concepts from both Chapter 6 (probabilities, percentiles) and Chapter 12 (predicting outcomes based on demographic variables), explain how a complete statistical analysis could predict election outcomes.",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "In the textbook’s Pinkie Length lab (Chapter 6) and the Regression labs (Chapter 12), both involve collecting data and fitting distributions. Compare and synthesize these two activities in terms of what statistical questions they answer and what assumptions they require.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the t-test statistic formula t = r√(n–2)/√(1–r²) from Chapter 12 encode information from both correlation (r) and sample size (n) to produce a probability (p-value) from the t-distribution? How does this connect to the normal distribution (Chapter 6)?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "A company uses regression to predict quarterly sales (Chapter 12) and also assumes sales follow a normal distribution for probability calculations (Chapter 6). Explain how these two statistical frameworks are complementary and how a manager would use both together for business decision-making.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Integrating the Empirical Rule from Chapter 6 with the regression outlier detection method from Chapter 12, propose a comprehensive data quality check process that a statistician could apply to any new dataset before performing regression analysis.",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
