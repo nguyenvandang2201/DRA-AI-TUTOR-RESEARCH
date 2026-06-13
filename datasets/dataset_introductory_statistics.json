@@ -1458,5 +1458,25 @@
     "query": "Integrating the Empirical Rule from Chapter 6 with the regression outlier detection method from Chapter 12, propose a comprehensive data quality check process that a statistician could apply to any new dataset before performing regression analysis.",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "How do the concepts of standardization (z-scores, Chapter 6) and normalization (regression coefficients, Chapter 12) both serve the goal of making data from different scales comparable? Give an example from the textbook where this comparability is crucial.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Consider the gender height data example (Chapter 6) and the weight-to-height regression for children (Chapter 12). Synthesize these two approaches to explain how a pediatrician could use both normal distribution percentiles AND a regression model to comprehensively assess a child’s growth.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "In regression, the parameter ρ represents the true population correlation, estimated by r from a sample. Drawing on the analogy from Chapter 6 (where μ is estimated by x̄), synthesize the concept of statistical inference: what are the philosophical similarities in estimating population parameters from samples in both chapters?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How do the concepts of “regression to the mean” (implied in regression analysis) and the normal distribution’s symmetry (Chapter 6) jointly explain why extreme scores on one measurement tend to be followed by less extreme scores on a subsequent measurement?",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
