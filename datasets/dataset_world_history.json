@@ -1458,5 +1458,25 @@
     "query": "Synthesize how the experiences of colonial soldiers from Africa, India, Southeast Asia, and the Pacific in both world wars both reinforced and challenged imperial relationships between colonizers and colonized.",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "How did the interplay of military setbacks, food shortages, civilian unrest, and political radicalism produce revolutionary change in Russia during WWI and contribute to Germany's collapse in 1918?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Analyze how the atomic bombing of Japan, the revelations of the Holocaust, and the formation of the United Nations together marked a fundamental transformation in global ethics, international law, and the nature of sovereignty after 1945.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the combination of geographical isolation, economic self-interest, political isolationism, and moral outrage shape the U.S. public's gradual shift from neutrality to belligerence in both world wars?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the ways in which WWI and WWII together permanently altered the global balance of power, dismantling the European empires and enabling the rise of the United States and the Soviet Union as superpowers.",
+    "domain": "World History",
+    "label": 1
   }
 ]
