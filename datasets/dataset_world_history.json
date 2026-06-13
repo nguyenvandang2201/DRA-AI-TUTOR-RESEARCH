@@ -1438,5 +1438,25 @@
     "query": "Synthesize how the combination of total war, strategic bombing, and the atomic bomb transformed the relationship between civilians and warfare, blurring the line between combatants and non-combatants.",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "How did the experiences of Jewish refugees attempting to flee Nazi persecution—through the Kindertransport, the MS St. Louis voyage, and the search for safe havens in Shanghai and elsewhere—illustrate the failures of the international community in the late 1930s?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Analyze the role of racial ideology in shaping military policies and atrocities in WWI (Armenian Genocide, African porter deaths) and WWII (Holocaust, Japanese internment, comfort women).",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the postwar occupations of Germany and Japan by the Allies pursue demilitarization, democratization, and economic rebuilding simultaneously, and which country's reconstruction proved more durable?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Synthesize how the experiences of colonial soldiers from Africa, India, Southeast Asia, and the Pacific in both world wars both reinforced and challenged imperial relationships between colonizers and colonized.",
+    "domain": "World History",
+    "label": 1
   }
 ]
