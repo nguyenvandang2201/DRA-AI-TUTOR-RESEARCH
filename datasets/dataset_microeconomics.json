@@ -1458,5 +1458,25 @@
     "query": "How do the concepts of fixed costs, variable costs, and the shutdown rule interact in the Yoga Center example to illustrate the general principle of short-run loss minimization for any firm?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "Explain how the profit-maximizing rule MR=MC leads to different social outcomes in perfect competition (P=MC) and monopoly (P>MC), and what the implications are for consumer welfare and resource allocation in each case.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do the demand and supply framework, equilibrium analysis, and the four-step process together provide a comprehensive analytical toolkit for predicting how markets will respond to a wide variety of economic shocks?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does the combination of high fixed costs, economies of scale, and limited market demand create conditions for natural monopoly in industries such as water supply, electricity distribution, and telecommunications?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do changes in agricultural technology, government policy, and consumer preferences interact to reshape the equilibrium price and quantity in agricultural commodity markets like wheat and corn?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
