@@ -1478,5 +1478,25 @@
     "query": "How do the concepts of “regression to the mean” (implied in regression analysis) and the normal distribution’s symmetry (Chapter 6) jointly explain why extreme scores on one measurement tend to be followed by less extreme scores on a subsequent measurement?",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "Using the Facebook usage and smartphone user age distributions from Chapter 6, along with regression concepts from Chapter 12, design a hypothetical study that predicts social media usage frequency from age. What statistical methods from both chapters would you apply?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "A pharmaceutical company tests drug effectiveness. Patient outcomes are normally distributed (Chapter 6), and the relationship between dosage and effectiveness is modeled with regression (Chapter 12). Synthesize both approaches to explain how the company would determine the optimal dosage range, including statistical significance testing and risk quantification.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the concept of “standard error” (used implicitly in the regression significance test, Chapter 12) connect to the concept of “standard deviation” in the normal distribution (Chapter 6)? What is the underlying role of both in quantifying uncertainty?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the entire analytical workflow from both chapters: starting from a real-world dataset, explain the sequential steps a statistician would take — checking normality (Chapter 6), fitting a regression line (Chapter 12), testing significance, making predictions, checking for outliers, and drawing conclusions — into a unified statistical methodology.",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
