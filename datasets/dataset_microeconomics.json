@@ -1498,5 +1498,25 @@
     "query": "How does the market entry and exit process in perfect competition illustrate the broader economic principle that resources tend to flow toward their most highly valued uses over time?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "Explain how the concepts of excess demand, excess supply, and market self-correction together describe the dynamic process by which markets move toward equilibrium in the absence of price controls.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do changes in market structure—from a regulated telephone monopoly to a competitive telecommunications market—illustrate the economic benefits of promoting competition in terms of price, quality, and the pace of innovation?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do the demand and supply framework, combined with the concept of economic surplus, explain why voluntary market transactions between buyers and sellers create social value and mutual gains from trade?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Using the concepts of revenue, cost, and profit maximization, explain why a monopolist produces less output at a higher price than would occur in a competitive market, and trace the full implications for consumer welfare.",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
