@@ -1478,5 +1478,25 @@
     "query": "How do changes in agricultural technology, government policy, and consumer preferences interact to reshape the equilibrium price and quantity in agricultural commodity markets like wheat and corn?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "Using the demand and supply framework, analyze how a government subsidy to solar energy production would simultaneously affect the markets for solar panels, fossil fuels, and complementary goods such as electric vehicles.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does the concept of allocative efficiency connect the price-equals-marginal-cost condition in competitive markets to the broader social goal of maximizing total surplus and minimizing deadweight loss?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do the economic arguments for and against intellectual property protection involve tradeoffs between dynamic efficiency—incentives to innovate—and static efficiency—optimal current allocation of resources?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does the market entry and exit process in perfect competition illustrate the broader economic principle that resources tend to flow toward their most highly valued uses over time?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
