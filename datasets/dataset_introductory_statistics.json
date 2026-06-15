@@ -1498,5 +1498,25 @@
     "query": "Synthesize the entire analytical workflow from both chapters: starting from a real-world dataset, explain the sequential steps a statistician would take — checking normality (Chapter 6), fitting a regression line (Chapter 12), testing significance, making predictions, checking for outliers, and drawing conclusions — into a unified statistical methodology.",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "How does the use of the normal distribution to approximate the binomial (as in the coin flip and NUMMI examples, Chapter 6) relate to the Central Limit Theorem, and how does the Central Limit Theorem also justify the normality assumption in regression (Chapter 12)?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Consider the relationship between coffee consumption and heart disease. The data from Chapter 12 shows a negative correlation. Using the normal distribution framework (Chapter 6), explain how you would calculate the probability that a country with coffee consumption of 5 liters/year has a heart disease death rate below 150 per 100,000, integrating both regression prediction and normal probability calculation.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the concept of “degrees of freedom” connect both chapters? In Chapter 12, df = n–2 is used for the t-test. In Chapter 6, the t-distribution underlies the critical values. Explain how the concept of degrees of freedom reflects the loss of information when estimating parameters from samples.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "A climate scientist models global temperature as a function of CO₂ levels using regression (Chapter 12) and also models year-to-year temperature variation as normally distributed (Chapter 6). Synthesize these two perspectives to explain how both tools are needed for a complete picture: one for trend, one for variability around the trend.",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
