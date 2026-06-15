@@ -1498,5 +1498,25 @@
     "query": "How did the combination of Japan's 'gyokusai' culture, kamikaze tactics, and civilian suicide at Okinawa inform U.S. estimates of invasion casualties, and how did this reasoning shape Truman's decision to use the atomic bomb?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "Analyze how the collapse of the Ottoman Empire, the Sykes-Picot Agreement, and the Balfour Declaration together created a political landscape in the Middle East that generated conflicts persisting into the twenty-first century.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the experiences of African Americans during WWI—in segregated military units, labor units, and on the home front—compare with their expanded but still-limited roles in WWII, and what does this reveal about the limits of wartime progress on racial equality?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the technological, strategic, and human dimensions of the Battle of Britain to explain why Hitler ultimately failed to subdue Britain in 1940 and what consequences this failure had for the outcome of WWII.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the Neutrality Acts, the Lend-Lease Act, and the Atlantic Charter together chart the evolution of U.S. foreign policy from isolationism to global engagement in the period 1935–1941?",
+    "domain": "World History",
+    "label": 1
   }
 ]
