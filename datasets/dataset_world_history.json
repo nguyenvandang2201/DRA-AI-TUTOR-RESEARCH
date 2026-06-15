@@ -1478,5 +1478,25 @@
     "query": "Synthesize the ways in which WWI and WWII together permanently altered the global balance of power, dismantling the European empires and enabling the rise of the United States and the Soviet Union as superpowers.",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "How did the interaction of anti-Semitic propaganda, legal discrimination (Nuremberg Laws), Kristallnacht, and the Wannsee Conference represent a systematic escalation that ultimately produced the Final Solution?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Analyze how the experiences of Indian soldiers and civilians during WWI and WWII, combined with British wartime promises and broken commitments, shaped the Indian independence movement that culminated in 1947.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the military, logistical, and political factors that determined the success of D-Day (June 6, 1944), drawing on the planning process, the deception campaign, and the coordination of Allied forces.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the combination of Japan's 'gyokusai' culture, kamikaze tactics, and civilian suicide at Okinawa inform U.S. estimates of invasion casualties, and how did this reasoning shape Truman's decision to use the atomic bomb?",
+    "domain": "World History",
+    "label": 1
   }
 ]
