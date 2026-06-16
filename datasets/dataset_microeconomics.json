@@ -1518,5 +1518,25 @@
     "query": "Using the concepts of revenue, cost, and profit maximization, explain why a monopolist produces less output at a higher price than would occur in a competitive market, and trace the full implications for consumer welfare.",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "How do the long-run forces of competition—entry in response to profits and exit in response to losses—work to eliminate economic profits and ensure that factors of production are used in their most productive capacities?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do the concepts of consumer surplus, producer surplus, and deadweight loss together provide a framework for evaluating the efficiency and distributional effects of government interventions like price controls, taxes, and subsidies?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Explain how the four-step process for analyzing market changes integrates the demand schedule, supply schedule, and equilibrium concept to provide a systematic method for predicting the direction of price and quantity changes.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does the development of new technology interact with existing barriers to entry to either reinforce or weaken a monopoly's market power, using examples from the AT&T breakup and Microsoft antitrust case?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
