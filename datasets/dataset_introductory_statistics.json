@@ -1518,5 +1518,25 @@
     "query": "A climate scientist models global temperature as a function of CO₂ levels using regression (Chapter 12) and also models year-to-year temperature variation as normally distributed (Chapter 6). Synthesize these two perspectives to explain how both tools are needed for a complete picture: one for trend, one for variability around the trend.",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "How do the lessons from all regression assumptions in Chapter 12 (linearity, normality, equal variance, independence, random sampling) and the properties of the normal distribution in Chapter 6 together constitute the theoretical foundation for classical linear regression? What would happen to statistical inference if each assumption were violated?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "The concept of the “best fit” in regression (minimizing SSE) and the concept of the “most likely value” in normal distribution (the mean, where the curve peaks) both represent optimization. Synthesize these ideas to explain how statistics as a discipline is fundamentally about finding the “best description” of data under uncertainty.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "A data journalist is writing about wealth inequality. Income distributions are typically not normal (they are right-skewed), yet regression models are applied to income data. Using concepts from Chapter 6 (normality, transformations) and Chapter 12 (regression, assumptions), explain how a statistician would handle non-normal data before applying regression.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How do the real-world examples from Chapter 12 (CPI, life expectancy, gold medals, sparrow hawks) and the real-world examples from Chapter 6 (heights, IQ, blood pressure, shoe sizes) together illustrate the ubiquity of statistical modeling in diverse fields? Synthesize these examples to argue for statistical literacy as an essential skill in modern society.",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
