@@ -1518,5 +1518,25 @@
     "query": "How did the Neutrality Acts, the Lend-Lease Act, and the Atlantic Charter together chart the evolution of U.S. foreign policy from isolationism to global engagement in the period 1935–1941?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "Analyze how the combination of forced labor, resource extraction, rationing, and economic disruption in German-occupied Europe illustrated the full weight of total war on civilian populations beyond the battlefield.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the Japanese attack on Pearl Harbor simultaneously transform the United States' domestic politics, its military posture, and its relationship with its Asian and European allies in WWII?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the roles of Charles de Gaulle's Free France, partisan movements in Yugoslavia, the Soviet Red Army, and Allied landings in Italy in demonstrating how resistance and coalition warfare gradually turned the tide against Germany.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the failure of the League of Nations—due to U.S. non-participation, the absence of enforcement mechanisms, and the rise of aggressive revisionist states—offer lessons that directly shaped the design of the United Nations?",
+    "domain": "World History",
+    "label": 1
   }
 ]
