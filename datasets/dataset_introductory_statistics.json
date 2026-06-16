@@ -1538,5 +1538,25 @@
     "query": "How do the real-world examples from Chapter 12 (CPI, life expectancy, gold medals, sparrow hawks) and the real-world examples from Chapter 6 (heights, IQ, blood pressure, shoe sizes) together illustrate the ubiquity of statistical modeling in diverse fields? Synthesize these examples to argue for statistical literacy as an essential skill in modern society.",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "In educational assessment, both z-scores (for individual performance, Chapter 6) and regression (for predicting future performance from past performance, Chapter 12) are used. Synthesize these tools to design a comprehensive early-warning system for students at academic risk, integrating both individual-level and group-level statistical analysis.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the 68-95-99.7 rule (Chapter 6) and the concept of outliers identified by residuals > 2s (Chapter 12) reflect the same underlying principle about what constitutes “unusual” in statistics? Develop a unified conceptual framework for “statistical unusualness” that applies to both chapters.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Consider the driver fatality data by age group (Chapter 12). The data shows a non-linear pattern, yet linear regression was applied. Using concepts from Chapter 6 (normal distribution, skewness) and Chapter 12 (regression limitations), explain the dangers of applying linear regression to data with nonlinear patterns, and suggest what additional analyses would be appropriate.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the concept of the “population regression line” (Chapter 12) parallel the concept of the “true population distribution” (Chapter 6)? In both cases, we use samples to estimate unknown population parameters. Synthesize these ideas to explain the fundamental role of sampling in statistical inference.",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
