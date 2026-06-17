@@ -1558,5 +1558,25 @@
     "query": "How do the concepts of productive efficiency and allocative efficiency together define what it means for a market to be 'perfectly efficient,' and in what ways do markets with monopoly power, externalities, or imperfect information fail to meet this standard?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "How does the concept of 'barriers to entry' connect the analysis of monopoly market structure with the broader discussion of market equilibrium and long-run competitive dynamics?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Using the demand and supply framework, explain how an increase in the price of a complement good and a simultaneous decrease in supply—due to bad weather or input shortages—would interact to affect the equilibrium price and quantity of the original good.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do the economic concepts of consumer surplus, deadweight loss, and distributional effects work together to evaluate whether a price floor such as a minimum wage or an agricultural price support is beneficial or harmful to society overall?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Explain how the principles of the shutdown point and the break-even point together define the boundaries of a firm's short-run and long-run operating decisions, and how these boundaries change with market price movements.",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
