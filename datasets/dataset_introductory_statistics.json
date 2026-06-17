@@ -1558,5 +1558,25 @@
     "query": "How does the concept of the “population regression line” (Chapter 12) parallel the concept of the “true population distribution” (Chapter 6)? In both cases, we use samples to estimate unknown population parameters. Synthesize these ideas to explain the fundamental role of sampling in statistical inference.",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "A criminologist studies the relationship between population size and homicide rates in Detroit (Chapter 12). The residuals of the regression may or may not be normally distributed (Chapter 6). Synthesize both concepts to explain how the criminologist would fully validate their model before drawing policy conclusions.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How do the skills of reading a scatter plot (Chapter 12) and reading a normal distribution curve (Chapter 6) together constitute the foundational visual literacy needed for data analysis? Synthesize these skills and explain what visual patterns each plot type can reveal that the other cannot.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the concepts of the y-intercept in regression (Chapter 12) with the concept of the mean as the “center” of a normal distribution (Chapter 6). When the y-intercept has no practical meaning (e.g., when x = 0 is outside the domain), how should a statistician communicate their results responsibly?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "The sparrow hawk regression (Chapter 12) and the normal distribution of bird population sizes (Chapter 6) are both used in ecology. Integrate these two statistical tools to explain how ecologists use both distributional modeling and predictive modeling to manage and forecast wildlife populations.",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
