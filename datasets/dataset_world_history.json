@@ -1538,5 +1538,25 @@
     "query": "How did the failure of the League of Nations—due to U.S. non-participation, the absence of enforcement mechanisms, and the rise of aggressive revisionist states—offer lessons that directly shaped the design of the United Nations?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "Analyze how the interplay of military defeat, food shortages, and domestic unrest in Germany in 1917–1918 mirrors—and differs from—the same dynamics in Japan in 1944–1945.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the post-WWII Nuremberg and Tokyo trials pioneer new concepts in international law—including crimes against humanity and command responsibility—that transformed global governance in subsequent decades?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Synthesize how the decisions made at the Tehran, Yalta, and Potsdam conferences collectively laid the foundations for both the Cold War division of Europe and the postwar international order.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the combination of scientific innovation, industrial mobilization, and strategic bombing in WWII reveal both the extraordinary capacity and the profound ethical dangers of harnessing national science and industry for warfare?",
+    "domain": "World History",
+    "label": 1
   }
 ]
