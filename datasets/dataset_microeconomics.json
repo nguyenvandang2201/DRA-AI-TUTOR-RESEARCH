@@ -1538,5 +1538,25 @@
     "query": "How does the development of new technology interact with existing barriers to entry to either reinforce or weaken a monopoly's market power, using examples from the AT&T breakup and Microsoft antitrust case?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "How do the characteristics of perfect competition—many firms, identical products, perfect information, and free entry and exit—work together to generate the long-run outcome of zero economic profit and maximum market efficiency?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Using the market for organic food as a case study, explain how simultaneous changes in consumer tastes, income levels, and production technology interact within the supply and demand framework to determine the long-run trajectory of prices and quantities.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does the profit-maximizing behavior of a monopolist, constrained by the market demand curve and its marginal cost structure, lead to output and pricing decisions that reduce social welfare relative to a competitive market?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do the concepts of productive efficiency and allocative efficiency together define what it means for a market to be 'perfectly efficient,' and in what ways do markets with monopoly power, externalities, or imperfect information fail to meet this standard?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
