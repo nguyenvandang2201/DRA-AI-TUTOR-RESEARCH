@@ -1558,5 +1558,25 @@
     "query": "How did the combination of scientific innovation, industrial mobilization, and strategic bombing in WWII reveal both the extraordinary capacity and the profound ethical dangers of harnessing national science and industry for warfare?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "Analyze how the wartime experience of rationing, industrial mobilization, and women's labor in the Soviet Union, the United States, and Britain both reflected and challenged existing social hierarchies.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did Japan's colonial policies in Korea, Manchuria, and Southeast Asia—including comfort women, forced labor, and puppet regimes—contradict its stated goal of 'liberating Asia from Western colonialism'?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the ways in which the two world wars, despite their devastating costs, accelerated social change for women—in terms of voting rights, workforce participation, and political identity—in Europe and North America.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the German policy of collective reprisals against civilian populations in occupied Europe (e.g., the Kragujevac massacre, Night and Fog Decree) interact with partisan resistance movements in a cycle of violence?",
+    "domain": "World History",
+    "label": 1
   }
 ]
