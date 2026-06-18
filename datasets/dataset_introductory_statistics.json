@@ -1598,5 +1598,25 @@
     "query": "How do the limitations of extrapolation in regression (Chapter 12) and the limitations of applying the normal distribution outside the observed range (Chapter 6) reflect the same fundamental principle in statistics: that we should not make claims beyond the boundaries of our data?",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "Synthesize the concept of the normal distribution’s bell curve (Chapter 6) with the distribution of points around the regression line (Chapter 12) to explain why both statistical tools, despite appearing different, are built on the same mathematical foundation of normally distributed errors.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "In the context of business analytics, a firm uses regression to predict revenue from advertising spend and also assumes that revenue follows a normal distribution. Integrate concepts from both chapters to explain how the firm would set sales targets (using percentiles, Chapter 6) and forecast future performance (using regression, Chapter 12).",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How do the concepts of “variation explained” (r², Chapter 12) and “probability of an outcome” (area under the curve, Chapter 6) both serve the goal of quantifying uncertainty in statistical models? Develop a synthesis that explains uncertainty quantification as a central theme in both chapters.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Consider the textbook’s entire discussion of the normal distribution (Chapter 6) and linear regression (Chapter 12) as two pillars of introductory statistics. Synthesize the key insights, methods, assumptions, and limitations of both to argue that together they provide a foundational toolkit for data-driven decision-making in any professional field.",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
