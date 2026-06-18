@@ -1578,5 +1578,25 @@
     "query": "The sparrow hawk regression (Chapter 12) and the normal distribution of bird population sizes (Chapter 6) are both used in ecology. Integrate these two statistical tools to explain how ecologists use both distributional modeling and predictive modeling to manage and forecast wildlife populations.",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "Consider the relationship between the regression significance test (testing H₀: ρ = 0) and the broader concept of hypothesis testing underpinning statistical inference. Using the normal distribution as the theoretical foundation (Chapter 6) and the correlation test as a specific application (Chapter 12), synthesize the universal logic of hypothesis testing in statistics.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the coefficient of determination r² connect to the concept of “signal vs. noise” in data? Use the normal distribution (Chapter 6) to characterize the “noise” (unexplained variation) and regression (Chapter 12) to characterize the “signal” (explained variation). Synthesize these ideas to explain how scientists extract meaningful patterns from noisy data.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "A student athlete tracks her jump shot practice and points scored (Chapter 12 scatter plot example). Integrating the concepts of normal distribution (her scores might be normally distributed, Chapter 6) and regression (predicting scores from practice hours, Chapter 12), design a statistically complete training optimization plan.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How do the limitations of extrapolation in regression (Chapter 12) and the limitations of applying the normal distribution outside the observed range (Chapter 6) reflect the same fundamental principle in statistics: that we should not make claims beyond the boundaries of our data?",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
