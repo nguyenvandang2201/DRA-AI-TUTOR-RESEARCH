@@ -1578,5 +1578,25 @@
     "query": "Explain how the principles of the shutdown point and the break-even point together define the boundaries of a firm's short-run and long-run operating decisions, and how these boundaries change with market price movements.",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "How do supply and demand shifts in the crude oil market interact with changes in consumer driving behavior, fuel efficiency regulations, and geopolitical events to produce the price volatility observed in real-world gasoline markets?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Using the models of perfect competition and monopoly, explain why the pharmaceutical industry often faces regulatory challenges given the combined presence of patents on drugs, large fixed costs of R&D, and relatively inelastic demand for essential medications.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do the concepts of natural monopoly, economies of scale, and the scope of market demand explain why some industries naturally tend toward monopoly while others naturally tend toward perfect competition?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do changes in communication technology, combined with government regulatory policy changes such as deregulation, interact to shift an industry from monopoly to competition, using the example of the U.S. telecommunications industry?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
