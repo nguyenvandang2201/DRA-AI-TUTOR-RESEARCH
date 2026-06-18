@@ -1578,5 +1578,25 @@
     "query": "How did the German policy of collective reprisals against civilian populations in occupied Europe (e.g., the Kragujevac massacre, Night and Fog Decree) interact with partisan resistance movements in a cycle of violence?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "Analyze how the Allied powers' wartime alliances—particularly the Anglo-American 'special relationship' and the uneasy alliance with Stalin's Soviet Union—both enabled Allied victory and sowed the seeds of postwar rivalry.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the experiences of neutral nations (Switzerland, Sweden, Ireland, Spain, Portugal) during WWI and WWII reveal the complex economic, political, and moral tensions of maintaining neutrality during total war?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the relationship between the rise of totalitarianism in the 1920s and 1930s and the breakdown of the Versailles system, explaining how ideology, economic grievance, and strategic opportunism interacted.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the wartime mobilization of science and technology—from the Enigma machine to the Manhattan Project—reshape the relationship between governments, universities, and the private sector in ways that outlasted the war?",
+    "domain": "World History",
+    "label": 1
   }
 ]
