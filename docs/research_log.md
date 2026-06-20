@@ -88,3 +88,4 @@
 - 2026-06-17: Soát lại độ khó (factual/analytical) của truy vấn Thống kê nhập môn.
 - 2026-06-17: Chạy thử script kiểm tra JSON cho Kinh tế vi mô, không phát hiện lỗi.
 - 2026-06-18: Kiểm tra trùng lặp câu hỏi trong batch truy vấn Kinh tế vi mô.
+- 2026-06-20: Đối chiếu trường domain với nội dung câu hỏi Lịch sử thế giới.
