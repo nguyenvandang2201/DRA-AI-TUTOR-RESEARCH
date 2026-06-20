@@ -1618,5 +1618,25 @@
     "query": "Consider the textbook’s entire discussion of the normal distribution (Chapter 6) and linear regression (Chapter 12) as two pillars of introductory statistics. Synthesize the key insights, methods, assumptions, and limitations of both to argue that together they provide a foundational toolkit for data-driven decision-making in any professional field.",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "How does the concept of the “best-fit line” that minimizes SSE (Chapter 12) relate philosophically to the concept of the “most efficient estimator” in classical statistics, and how does the normal distribution (Chapter 6) provide the theoretical justification for why minimizing SSE is optimal?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "A nutritionist analyzes the relationship between caloric intake and body weight. Caloric intake is approximately normally distributed (Chapter 6), and regression is used to predict weight from intake (Chapter 12). Synthesize both frameworks to explain: what the slope means, how to test if the relationship is real, and how to predict the weight of a person at the 90th percentile of caloric intake.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the empirical rule (Chapter 6) and the standard error of regression (Chapter 12) to explain why, in both contexts, data points that are more than two standard deviations away from the center (mean or regression line) deserve special scrutiny.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How do both chapters use the concept of “degrees of freedom” to adjust for sample size when estimating population parameters? Specifically, connect the formula s = √(SSE/(n–2)) in regression (Chapter 12) to the broader concept of unbiased estimation that also appears in the standard deviation formula s = √(Σ(x–x̄)²/(n–1)) from descriptive statistics.",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
