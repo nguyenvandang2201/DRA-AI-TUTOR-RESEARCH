@@ -1598,5 +1598,25 @@
     "query": "How did the wartime mobilization of science and technology—from the Enigma machine to the Manhattan Project—reshape the relationship between governments, universities, and the private sector in ways that outlasted the war?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "Analyze the ways in which the Jewish experience during WWII—from legal discrimination and forced emigration to the ghettos and death camps—illustrates the escalating logic of genocide when not effectively challenged.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the intersection of indigenous nationalism, Japanese occupation, and colonial rule in India, Vietnam, Burma, and the Philippines during WWII create new political movements that would reshape Asia after 1945?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Synthesize how the experiences of WWII soldiers, sailors, and airmen from Australia, New Zealand, Canada, South Africa, and India simultaneously reinforced imperial loyalty and accelerated the political processes leading to full independence.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the combined effect of the Armenian Genocide (WWI), the Holocaust (WWII), and other mass atrocities of the twentieth century eventually produce the 1948 UN Convention on the Prevention and Punishment of the Crime of Genocide?",
+    "domain": "World History",
+    "label": 1
   }
 ]
