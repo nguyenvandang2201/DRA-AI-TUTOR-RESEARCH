@@ -1598,5 +1598,25 @@
     "query": "How do changes in communication technology, combined with government regulatory policy changes such as deregulation, interact to shift an industry from monopoly to competition, using the example of the U.S. telecommunications industry?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "Using the supply and demand framework, explain how simultaneous shifts in both supply and demand can lead to ambiguous outcomes for either price or quantity, and what additional information is needed to determine the direction of each change.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do the microeconomic concepts of marginal revenue, marginal cost, and profit maximization interact to explain both the similarities and differences between the output decisions of perfectly competitive firms and monopolists?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How does the concept of market equilibrium, combined with the theory of consumer and producer surplus, explain why both buyers and sellers benefit from voluntary transactions and why interference with the market price reduces social welfare?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Explain how the long-run equilibrium in an increasing-cost industry arises from the interaction between firm-level decisions to enter, rising input prices, and the gradual adjustment of the market price over time.",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
