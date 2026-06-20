@@ -1618,5 +1618,25 @@
     "query": "Explain how the long-run equilibrium in an increasing-cost industry arises from the interaction between firm-level decisions to enter, rising input prices, and the gradual adjustment of the market price over time.",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "How do the different types of intellectual property protection—patents, copyrights, trademarks, and trade secrets—create barriers to entry in different ways across industries, and what are the implications for market structure and consumer pricing?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Using the framework of demand and supply, consumer surplus, and deadweight loss, evaluate the economic effects of the East India Company's tea monopoly on American colonists and how it contributed to the political events of the colonial period.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do the factors that determine whether an industry is constant-cost, increasing-cost, or decreasing-cost interact with long-run market dynamics to shape the long-run supply curve and the steady-state equilibrium price?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Explain how a monopolist's behavior—choosing output where MR=MC and pricing above marginal cost—creates both a redistribution of surplus from consumers to producers and a net welfare loss to society through deadweight loss.",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
