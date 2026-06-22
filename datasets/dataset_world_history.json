@@ -1638,5 +1638,25 @@
     "query": "How did the wartime experiences of Black soldiers, African laborers, and anti-colonial activists in both world wars—combined with Woodrow Wilson's Fourteen Points and the Atlantic Charter's language of self-determination—produce the global wave of decolonization after 1945?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "Analyze how the combination of propaganda, censorship, and controlled information shaped public understanding of the war in authoritarian states (Nazi Germany, Imperial Japan, Stalinist USSR) differently from democratic ones (Britain, United States).",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the intersection of Japan's National Eugenics Law, its comfort women system, and its rewards for motherhood reveal the fundamentally contradictory nature of the Japanese state's policies toward women during WWII?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the moral, strategic, and geopolitical arguments surrounding Truman's decision to drop atomic bombs on Japan, incorporating the perspectives of scientists, military planners, and the Japanese population.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the postwar constitutions imposed on Germany and Japan by the Allies reflect the specific lessons each occupying power drew from WWII, and to what extent did those constitutions succeed in preventing future militarism?",
+    "domain": "World History",
+    "label": 1
   }
 ]
