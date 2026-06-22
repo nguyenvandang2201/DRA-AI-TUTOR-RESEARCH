@@ -1618,5 +1618,25 @@
     "query": "How did the combined effect of the Armenian Genocide (WWI), the Holocaust (WWII), and other mass atrocities of the twentieth century eventually produce the 1948 UN Convention on the Prevention and Punishment of the Crime of Genocide?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "Analyze how Germany's failure to secure oil—whether from Romania, the Soviet Caucasus, or the Middle East—ultimately crippled its ability to sustain the war effort, and what role oil played in overall strategic planning for both sides.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the Allied decision to pursue 'Europe First' while still fighting Japan in the Pacific require an unprecedented level of industrial, logistical, and diplomatic coordination, and what were the consequences when that coordination broke down?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the political, psychological, and symbolic significance of the Nuremberg and Tokyo war crimes trials for both the victor nations and the defeated populations, and assess whether they achieved justice.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the wartime experiences of Black soldiers, African laborers, and anti-colonial activists in both world wars—combined with Woodrow Wilson's Fourteen Points and the Atlantic Charter's language of self-determination—produce the global wave of decolonization after 1945?",
+    "domain": "World History",
+    "label": 1
   }
 ]
