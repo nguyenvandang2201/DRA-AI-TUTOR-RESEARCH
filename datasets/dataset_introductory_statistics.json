@@ -1638,5 +1638,25 @@
     "query": "How do both chapters use the concept of “degrees of freedom” to adjust for sample size when estimating population parameters? Specifically, connect the formula s = √(SSE/(n–2)) in regression (Chapter 12) to the broader concept of unbiased estimation that also appears in the standard deviation formula s = √(Σ(x–x̄)²/(n–1)) from descriptive statistics.",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "Consider the relationship between alcohol consumption and traffic fatalities, or cigarette smoking and lung cancer — relationships that are clearly causal in reality but must be carefully analyzed statistically. Using the concepts of correlation (Chapter 12) and the normal distribution of outcomes (Chapter 6), explain how a statistician would rigorously establish evidence for such a relationship while acknowledging the statistical limitation that “correlation does not imply causation.”",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the entire intellectual arc of the two chapters: from the normal distribution as a model for naturally occurring phenomena (Chapter 6) to regression as a tool for modeling relationships between variables (Chapter 12). How do these two ideas together form a coherent statistical framework for understanding the world through data?",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How do the normal distribution’s role in characterizing individual measurements and regression’s role in characterizing relationships between measurements complement each other in the design of scientific studies? Use examples from both chapters to argue that a complete statistical analysis requires both distributional and relational modeling.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Consider the textbook example of predicting a child’s height from their age (Chapter 12) and a child’s weight based on a normal distribution benchmark (Chapter 6). Synthesize these two analyses from a pediatric health perspective: how would a doctor use both tools to make a comprehensive assessment of whether a child’s growth is healthy?",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
