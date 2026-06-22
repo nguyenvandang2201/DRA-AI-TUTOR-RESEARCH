@@ -1638,5 +1638,25 @@
     "query": "Explain how a monopolist's behavior—choosing output where MR=MC and pricing above marginal cost—creates both a redistribution of surplus from consumers to producers and a net welfare loss to society through deadweight loss.",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "How do the supply and demand framework, the concept of ceteris paribus, and the four-step analytical process together constitute a complete and systematic approach to microeconomic analysis of market changes?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "Using the concept of barriers to entry and the long-run equilibrium of perfect competition, explain why industries with very high initial capital requirements—such as aircraft manufacturing or nuclear power—naturally tend toward oligopoly or monopoly rather than perfect competition.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do the demand and supply framework and the concept of market equilibrium explain why seasonal foods are cheaper at certain times of year, and what does this tell us about how markets efficiently allocate resources over time without central direction?",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "How do the microeconomic concepts of marginal cost, marginal revenue, and the profit-maximizing rule together explain why the monopolist's achievable profit is limited not only by production costs but also by the shape of the demand curve it faces?",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
