@@ -1658,5 +1658,25 @@
     "query": "Consider the textbook example of predicting a child’s height from their age (Chapter 12) and a child’s weight based on a normal distribution benchmark (Chapter 6). Synthesize these two analyses from a pediatric health perspective: how would a doctor use both tools to make a comprehensive assessment of whether a child’s growth is healthy?",
     "domain": "Introductory Statistics",
     "label": 1
+  },
+  {
+    "query": "A data scientist working on an environmental study finds that pollution levels are normally distributed (Chapter 6) and that there is a significant regression relationship between industrial output and pollution levels (Chapter 12). Synthesize these findings to explain how the scientist would (a) set regulatory thresholds using percentiles, (b) predict future pollution from projected industrial output, and (c) test whether the relationship is statistically valid.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "How does the interplay between the sample size n, the correlation r, and the significance level α in hypothesis testing for regression (Chapter 12) illustrate the fundamental statistical trade-off between Type I and Type II errors? Connect this trade-off to the concept of probability under the normal curve (Chapter 6).",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Synthesize all the major formulas from both chapters — the z-score formula, the normal distribution function, the regression equation ŷ = a + bx, the correlation formula, the SSE, and the t-test for ρ — into a unified narrative that explains how statistics moves from raw data to meaningful conclusions.",
+    "domain": "Introductory Statistics",
+    "label": 1
+  },
+  {
+    "query": "Reflecting on the entire textbook content from Chapters 6 and 12: How do the normal distribution and linear regression together represent a microcosm of statistical thinking — the ability to model uncertainty, measure relationships, test hypotheses, make predictions, and communicate findings responsibly? What philosophical and practical lessons do these two chapters teach about the role of statistics in knowledge creation?",
+    "domain": "Introductory Statistics",
+    "label": 1
   }
 ]
