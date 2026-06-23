@@ -1658,5 +1658,25 @@
     "query": "How did the postwar constitutions imposed on Germany and Japan by the Allies reflect the specific lessons each occupying power drew from WWII, and to what extent did those constitutions succeed in preventing future militarism?",
     "domain": "World History",
     "label": 1
+  },
+  {
+    "query": "Analyze how the wartime decisions made at the Bretton Woods Conference (1944) on international monetary cooperation reflect the determination of Allied leaders to prevent the economic collapse that had fueled the rise of fascism in the 1930s.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the combination of Japan's surprise attack on Pearl Harbor, its mistreatment of Allied prisoners of war on the Bataan Death March, and its use of kamikaze tactics shape American attitudes toward the Japanese enemy and influence decisions about how to end the Pacific War?",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "Synthesize the ways in which WWI and WWII together transformed the nature of diplomacy—from secret bilateral agreements like Sykes-Picot to multilateral frameworks like the United Nations—reflecting a fundamental shift in how nations sought to manage conflict.",
+    "domain": "World History",
+    "label": 1
+  },
+  {
+    "query": "How did the interplay of technological superiority, industrial capacity, ideological motivation, and coalition building determine the ultimate Allied victory in WWII, and which of these factors was most decisive?",
+    "domain": "World History",
+    "label": 1
   }
 ]
