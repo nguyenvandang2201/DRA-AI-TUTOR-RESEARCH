@@ -1658,5 +1658,25 @@
     "query": "How do the microeconomic concepts of marginal cost, marginal revenue, and the profit-maximizing rule together explain why the monopolist's achievable profit is limited not only by production costs but also by the shape of the demand curve it faces?",
     "domain": "Microeconomics",
     "label": 1
+  },
+  {
+    "query": "Using the textbook's analysis of gasoline supply and demand, explain how changes in both consumer behavior—driving patterns and fuel efficiency—and producer behavior—oil exploration and refinery capacity—together determine the market price of gasoline and what policy implications this has for managing energy costs.",
+    "domain": "Microeconomics",
+    "label": 1
+  },
+  {
+    "query": "What is the definition of 'social surplus' and how does it relate to the efficiency of a market?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "What is the definition of a 'price control' and what are the two main forms that price controls take in economic policy?",
+    "domain": "Microeconomics",
+    "label": 0
+  },
+  {
+    "query": "Compare the market outcomes—in terms of price, quantity, consumer surplus, and social welfare—between a price ceiling imposed below equilibrium and a price floor imposed above equilibrium.",
+    "domain": "Microeconomics",
+    "label": 1
   }
 ]
