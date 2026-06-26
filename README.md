@@ -24,3 +24,25 @@ dra-ai-tutor-research/
 - `docs/dataset_description.md`: mô tả schema, quy ước nhãn và cách kiểm tra dữ
   liệu.
 
+## Kiểm tra dữ liệu
+
+Chạy lệnh sau trong PowerShell để xác nhận toàn bộ file JSON hợp lệ:
+
+```powershell
+Get-ChildItem datasets/*.json | ForEach-Object { Get-Content -Raw $_ | ConvertFrom-Json > $null }
+```
+
+Để xem nhanh số lượng bản ghi và nhãn:
+
+```powershell
+Get-ChildItem datasets/*.json | ForEach-Object {
+  $json = Get-Content -Raw $_ | ConvertFrom-Json
+  $json | Group-Object label
+}
+```
+
+## Ghi chú đóng góp
+
+Khi thêm dữ liệu mới, giữ đúng schema `query`, `domain`, `label`; đặt tên file
+theo dạng `dataset_<domain>.json`; và cập nhật tài liệu trong `docs/` nếu thay
+đổi quy ước nhãn, nguồn corpus hoặc phương pháp tạo dữ liệu.
