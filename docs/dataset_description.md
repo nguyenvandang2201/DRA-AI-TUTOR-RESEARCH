@@ -37,3 +37,13 @@ Mỗi file JSON là một mảng object có cùng cấu trúc:
 | `microeconomics.txt` | Nguồn tham chiếu cho truy vấn kinh tế vi mô. |
 | `world_history.txt` | Nguồn tham chiếu cho truy vấn lịch sử thế giới. |
 
+## Quy trình kiểm tra
+
+Trước khi commit thay đổi, xác nhận JSON parse được:
+
+```powershell
+Get-ChildItem datasets/*.json | ForEach-Object { Get-Content -Raw $_ | ConvertFrom-Json > $null }
+```
+
+Sau đó kiểm tra mẫu các bản ghi mới để bảo đảm `domain` khớp nội dung câu hỏi
+và nhãn `label` nhất quán với quy ước trên.
