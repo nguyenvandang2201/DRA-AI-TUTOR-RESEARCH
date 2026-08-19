@@ -1,0 +1,1052 @@
+[
+  {
+    "id": "033953d720ad",
+    "query": "How do the long-run forces of entry and exit in perfect competition, combined with the zero-profit condition, lead to both productive and allocative efficiency?",
+    "domain": "Microeconomics",
+    "label": 1,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "046a47129aa0",
+    "query": "What is a residual (error) in the context of linear regression?",
+    "domain": "Introductory Statistics",
+    "label": 0,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "0676ae383274",
+    "query": "What percentage of gas-related deaths in WWI were caused by phosgene gas, according to historians?",
+    "domain": "World History",
+    "label": 0,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "06c45711e89e",
+    "query": "How did the Japanese attack on Pearl Harbor simultaneously transform the United States' domestic politics, its military posture, and its relationship with its Asian and European allies in WWII?",
+    "domain": "World History",
+    "label": 1,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "06c787dc852f",
+    "query": "How did the combination of Japan's 'gyokusai' culture, kamikaze tactics, and civilian suicide at Okinawa inform U.S. estimates of invasion casualties, and how did this reasoning shape Truman's decision to use the atomic bomb?",
+    "domain": "World History",
+    "label": 1,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "06da137de00f",
+    "query": "Compare the Eastern Front and Western Front of WWI. How did geography, tactics, and outcomes differ between the two theaters?",
+    "domain": "World History",
+    "label": 1,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "0b4923402685",
+    "query": "How did Germany's invasion of the Soviet Union, the siege of Leningrad, and the Battle of Stalingrad collectively reshape the entire strategic balance of WWII in Europe, and what role did logistics play?",
+    "domain": "World History",
+    "label": 1,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "0b69530809a4",
+    "query": "What is the TI-83/84 calculator command to find a value at a given percentile?",
+    "domain": "Introductory Statistics",
+    "label": 0,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "0c42ee77765e",
+    "query": "Compare the meaning of the y-intercept in the regression of fly ball distances (theoretical) to the regression of SCUBA diving depths and times (practical). When does the y-intercept have real-world meaning?",
+    "domain": "Introductory Statistics",
+    "label": 1,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "0c79fe47d3a8",
+    "query": "Compare the probabilities calculated using the theoretical normal distribution to those calculated from cumulative relative frequencies in the checkout line example. Why are they not exactly equal?",
+    "domain": "Introductory Statistics",
+    "label": 1,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "0ce644d86790",
+    "query": "What is the invNorm function on a calculator, and when is it used?",
+    "domain": "Introductory Statistics",
+    "label": 0,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "0d5b9905d147",
+    "query": "How did rationing policies in Britain during WWI compare to those implemented during WWII? What was rationed, and how severe were shortages in each war?",
+    "domain": "World History",
+    "label": 1,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "0eb8632a7388",
+    "query": "How does the interaction between short-run profit incentives for individual firms and the long-run entry and exit processes determine the shape of the long-run supply curve for an increasing-cost industry?",
+    "domain": "Microeconomics",
+    "label": 1,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "1264ebbed27b",
+    "query": "How does the regression assumption that “y values are normally distributed about the line” (Chapter 12) directly connect to the properties of the normal distribution studied in Chapter 6? What would a violin plot of the y values at each x value look like if this assumption holds?",
+    "domain": "Introductory Statistics",
+    "label": 1,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "1413fbb96a57",
+    "query": "In Table 9.3, what is HealthPill's marginal cost of producing the 2nd unit?",
+    "domain": "Microeconomics",
+    "label": 0,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "1517ef8d61c7",
+    "query": "By how much do U.S. gasoline prices in midsummer typically exceed their midwinter low on average?",
+    "domain": "Microeconomics",
+    "label": 0,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "15743fd00656",
+    "query": "What is the difference between a sample correlation coefficient r and a population correlation coefficient ρ?",
+    "domain": "Introductory Statistics",
+    "label": 0,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "18db229f06fe",
+    "query": "What was the Tripartite Pact, and which three countries formed the Axis under it?",
+    "domain": "World History",
+    "label": 0,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "1f32cf0dd148",
+    "query": "How do the real-world examples from Chapter 12 (CPI, life expectancy, gold medals, sparrow hawks) and the real-world examples from Chapter 6 (heights, IQ, blood pressure, shoe sizes) together illustrate the ubiquity of statistical modeling in diverse fields? Synthesize these examples to argue for statistical literacy as an essential skill in modern society.",
+    "domain": "Introductory Statistics",
+    "label": 1,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "22d282d77044",
+    "query": "Using the framework of perfect competition, analyze how the introduction of new cost-saving technology affects a firm's marginal cost, its supply curve, and the long-run equilibrium price and output in the industry.",
+    "domain": "Microeconomics",
+    "label": 1,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "25007c072459",
+    "query": "A criminologist studies the relationship between population size and homicide rates in Detroit (Chapter 12). The residuals of the regression may or may not be normally distributed (Chapter 6). Synthesize both concepts to explain how the criminologist would fully validate their model before drawing policy conclusions.",
+    "domain": "Introductory Statistics",
+    "label": 1,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "2a1066a3d727",
+    "query": "What is the National Eugenics Law that Japan passed in 1940, and what did it prohibit?",
+    "domain": "World History",
+    "label": 0,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "2a3e06ca8e94",
+    "query": "In Chapter 12, how many degrees of freedom are used in the t-test for the correlation coefficient with n data points?",
+    "domain": "Introductory Statistics",
+    "label": 0,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "3254f681cd71",
+    "query": "How does the efficiency of a price ceiling as a consumer protection tool compare to the efficiency of a price floor as a producer protection tool?",
+    "domain": "Microeconomics",
+    "label": 1,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "33eb7d2e91e1",
+    "query": "What is the definition of 'supply' as used by economists?",
+    "domain": "Microeconomics",
+    "label": 0,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "383186f4588e",
+    "query": "By the second day of D-Day, approximately how many Allied troops had linked up in a continuous line?",
+    "domain": "World History",
+    "label": 0,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "3a268adadf5e",
+    "query": "What is the coefficient of correlation, and who developed it?",
+    "domain": "Introductory Statistics",
+    "label": 0,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "3bdcdd2a8335",
+    "query": "In the pregnancy length example, what is the mean number of days and standard deviation?",
+    "domain": "Introductory Statistics",
+    "label": 0,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "3d19b0e44290",
+    "query": "Synthesize the concepts of probability statements in the normal distribution (Chapter 6) with the prediction interval in regression (Chapter 12) to explain how a researcher can not only predict a value but also quantify confidence in that prediction.",
+    "domain": "Introductory Statistics",
+    "label": 1,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "3d4813c8a2fb",
+    "query": "Compare the Empirical Rule as applied to a distribution of exam scores versus a distribution of heights. How does the practical interpretation change even though the statistical rule is the same?",
+    "domain": "Introductory Statistics",
+    "label": 1,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "3e1b29e17786",
+    "query": "Compare the role of air power in WWI (reconnaissance, dogfights) with its decisive role in WWII (strategic bombing, Pearl Harbor, Battle of Britain).",
+    "domain": "World History",
+    "label": 1,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "3e1b674fae25",
+    "query": "How does the mean differ from the median in a perfectly symmetric normal distribution? What about in a skewed distribution?",
+    "domain": "Introductory Statistics",
+    "label": 1,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "42972064e64e",
+    "query": "What is a 'shift in supply' and what causes it?",
+    "domain": "Microeconomics",
+    "label": 0,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "437293d6ed49",
+    "query": "What is the Sum of Squared Errors (SSE) minimized to achieve in linear regression?",
+    "domain": "Introductory Statistics",
+    "label": 0,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "44d397574433",
+    "query": "What was the total number of soldiers who died in WWI across all nations?",
+    "domain": "World History",
+    "label": 0,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "4975430fa720",
+    "query": "How many days did the siege of Leningrad last?",
+    "domain": "World History",
+    "label": 0,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "4a7e34427d1d",
+    "query": "Compare Germany's four-year economic plan with the Soviet Union's centrally commanded economy in terms of how each nation prepared for and sustained war production.",
+    "domain": "World History",
+    "label": 1,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "4a8034bf3527",
+    "query": "How does excess demand (shortage) differ from excess supply (surplus) in terms of market pressures?",
+    "domain": "Microeconomics",
+    "label": 1,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "4d870caf4e5d",
+    "query": "According to Table 8.1, what is the profit for the raspberry farm at Q=100?",
+    "domain": "Microeconomics",
+    "label": 0,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "4eaba175db81",
+    "query": "What was the unemployment rate in the United States in 1939, and how low did it drop by 1943?",
+    "domain": "World History",
+    "label": 0,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "4ec61f899d28",
+    "query": "Compare the Gallipoli campaign of WWI with the Normandy D-Day invasion of WWII in terms of strategic goals, planning, and outcome.",
+    "domain": "World History",
+    "label": 1,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "4eca6130006a",
+    "query": "Explain how a monopolist's behavior—choosing output where MR=MC and pricing above marginal cost—creates both a redistribution of surplus from consumers to producers and a net welfare loss to society through deadweight loss.",
+    "domain": "Microeconomics",
+    "label": 1,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "4edbaeeb9e76",
+    "query": "Analyze how the combination of propaganda, censorship, and controlled information shaped public understanding of the war in authoritarian states (Nazi Germany, Imperial Japan, Stalinist USSR) differently from democratic ones (Britain, United States).",
+    "domain": "World History",
+    "label": 1,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "50695f1cd1ba",
+    "query": "For the Sports Stadiums data in Chapter 6, what was the sample mean maximum capacity?",
+    "domain": "Introductory Statistics",
+    "label": 0,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "51682ec2f3ea",
+    "query": "How does the principle of minimizing SSE in regression (Chapter 12) parallel the principle of using the mean to minimize the sum of squared deviations in descriptive statistics? What deeper statistical principle do both reflect?",
+    "domain": "Introductory Statistics",
+    "label": 1,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "5310c26e8e03",
+    "query": "In the price ceiling example illustrated in Figure 3.24(a), what is the original equilibrium quantity?",
+    "domain": "Microeconomics",
+    "label": 0,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "5596cc6b8656",
+    "query": "What is 'price control' in the context of government policy?",
+    "domain": "Microeconomics",
+    "label": 0,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "55bb0ac84e3c",
+    "query": "Analyze how the wartime experience of rationing, industrial mobilization, and women's labor in the Soviet Union, the United States, and Britain both reflected and challenged existing social hierarchies.",
+    "domain": "World History",
+    "label": 1,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "57a9ea1ec5d7",
+    "query": "What does r = –1 indicate about the linear relationship between two variables?",
+    "domain": "Introductory Statistics",
+    "label": 0,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "57ea01b2e401",
+    "query": "How did the Middle East as a theater of war in WWI compare to its role in WWII? What resources were at stake in each conflict?",
+    "domain": "World History",
+    "label": 1,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "5a600238a6cd",
+    "query": "What is the concept of denazification, as applied to Germany after WWII?",
+    "domain": "World History",
+    "label": 0,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "5ab4d9ec6196",
+    "query": "What is HealthPill's total economic profit at Q=5?",
+    "domain": "Microeconomics",
+    "label": 0,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "5bdeb9f11d45",
+    "query": "After the price ceiling in Figure 3.24(a), what quantity do firms in the market produce?",
+    "domain": "Microeconomics",
+    "label": 0,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "5cdfdecee62f",
+    "query": "What was Operation Husky, and what was its strategic purpose in WWII?",
+    "domain": "World History",
+    "label": 0,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "604afc2c91fd",
+    "query": "What were the total deaths in the Soviet Union due to WWII (military and civilian)?",
+    "domain": "World History",
+    "label": 0,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "618b1e27b031",
+    "query": "What percent of variation in the final exam grade is explained by the third exam score using the regression line?",
+    "domain": "Introductory Statistics",
+    "label": 0,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "667fe2c4cd6e",
+    "query": "How do the economic concepts of deadweight loss, consumer surplus redistribution, and incentive effects combine to explain why price controls often produce unintended consequences?",
+    "domain": "Microeconomics",
+    "label": 1,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "676e10b283f8",
+    "query": "How does the profit-maximizing output decision of a monopolist (MR=MC) interact with the market demand curve to simultaneously determine price, quantity, and the levels of consumer and producer surplus?",
+    "domain": "Microeconomics",
+    "label": 1,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "67748cc2b79b",
+    "query": "How many Jewish people and members of other minority groups were murdered in the Holocaust?",
+    "domain": "World History",
+    "label": 0,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "692cd87fa483",
+    "query": "What is the concept of 'demilitarization,' as applied to Japan after WWII?",
+    "domain": "World History",
+    "label": 0,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "6afe03b58182",
+    "query": "What is the 'long-run supply (LRS) curve' for a perfectly competitive industry?",
+    "domain": "Microeconomics",
+    "label": 0,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "6b0f55aebea8",
+    "query": "How does the development of new technology interact with existing barriers to entry to either reinforce or weaken a monopoly's market power, using examples from the AT&T breakup and Microsoft antitrust case?",
+    "domain": "Microeconomics",
+    "label": 1,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "6b3b0bc9ccd3",
+    "query": "In the Aaron’s Word Processing Service example, what is the y-intercept of the cost equation?",
+    "domain": "Introductory Statistics",
+    "label": 0,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "6cbd6b07b1b7",
+    "query": "What is a scatter plot, and what information does it convey?",
+    "domain": "Introductory Statistics",
+    "label": 0,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "6d11aa3ed76f",
+    "query": "How does the interplay between the sample size n, the correlation r, and the significance level α in hypothesis testing for regression (Chapter 12) illustrate the fundamental statistical trade-off between Type I and Type II errors? Connect this trade-off to the concept of probability under the normal curve (Chapter 6).",
+    "domain": "Introductory Statistics",
+    "label": 1,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "709045e35ce5",
+    "query": "Compare the use of LinRegTTest and the critical values table as two methods for testing significance of r. Under what circumstances might one be preferred over the other?",
+    "domain": "Introductory Statistics",
+    "label": 1,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "72452214fbf9",
+    "query": "How many people were prosecuted under the U.S. Sedition Act of 1918?",
+    "domain": "World History",
+    "label": 0,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "72bbaac8fc9f",
+    "query": "How did the use of new technology in WWI (tanks, poison gas, submarines) compare to WWII technological innovations (atomic bomb, radar, computers)?",
+    "domain": "World History",
+    "label": 1,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "72c4c65622d2",
+    "query": "How many Chinese laborers were brought to Europe during WWI to repair equipment and dig trenches?",
+    "domain": "World History",
+    "label": 0,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "73765a9ca930",
+    "query": "In what ways do the principles of supply, demand, and social surplus together demonstrate that market equilibrium is simultaneously self-correcting and economically efficient?",
+    "domain": "Microeconomics",
+    "label": 1,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "74f600ac6a19",
+    "query": "Analyze how the Allied powers' wartime alliances—particularly the Anglo-American 'special relationship' and the uneasy alliance with Stalin's Soviet Union—both enabled Allied victory and sowed the seeds of postwar rivalry.",
+    "domain": "World History",
+    "label": 1,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "76adfc00b51c",
+    "query": "According to the Empirical Rule, approximately what percentage of x values lie within one standard deviation of the mean in a normal distribution?",
+    "domain": "Introductory Statistics",
+    "label": 0,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "7827844f42e6",
+    "query": "What was the Bretton Woods Conference, and what two institutions did it create?",
+    "domain": "World History",
+    "label": 0,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "7a0d11416f00",
+    "query": "What is a 'price ceiling' in microeconomics?",
+    "domain": "Microeconomics",
+    "label": 0,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "7c68a2fe174b",
+    "query": "In the CPI example, what is the estimated CPI for 1990?",
+    "domain": "Introductory Statistics",
+    "label": 0,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "7c889141c1f2",
+    "query": "In the Yoga Center Scenario 2, what are the revenues earned?",
+    "domain": "Microeconomics",
+    "label": 0,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "7d7807e52142",
+    "query": "Compare the visual appearance of a scatter plot with a strong positive correlation vs. one with zero correlation. How do the points differ?",
+    "domain": "Introductory Statistics",
+    "label": 1,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "7ea1ad65db4e",
+    "query": "Compare the experiences of African American soldiers in WWI's segregated units with the experiences of Black soldiers in WWII. Did conditions improve?",
+    "domain": "World History",
+    "label": 1,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "811baf6f1d74",
+    "query": "How does the least-squares regression line change when an outlier is removed? Compare the r values before and after removal in the third exam/final exam example.",
+    "domain": "Introductory Statistics",
+    "label": 1,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "829500498028",
+    "query": "How does understanding the Empirical Rule (Chapter 6) help a researcher interpret the residuals of a regression model (Chapter 12)? Specifically, what percentage of residuals would you expect to fall within ±2s of the regression line?",
+    "domain": "Introductory Statistics",
+    "label": 1,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "85faf33c7990",
+    "query": "According to Table 8.1, what is the total cost for the raspberry farm at Q=0?",
+    "domain": "Microeconomics",
+    "label": 0,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "886255d9ced1",
+    "query": "How does marginal revenue for a perfectly competitive firm differ from marginal revenue for a monopolist?",
+    "domain": "Microeconomics",
+    "label": 1,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "88d236090b74",
+    "query": "According to Table 8.3, at what output level does MR equal MC for the raspberry farm?",
+    "domain": "Microeconomics",
+    "label": 0,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "8a56e6a993fe",
+    "query": "Using the demand and supply framework, explain how an increase in the price of a complement good and a simultaneous decrease in supply—due to bad weather or input shortages—would interact to affect the equilibrium price and quantity of the original good.",
+    "domain": "Microeconomics",
+    "label": 1,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "8b470012ded3",
+    "query": "Analyze the role of racial ideology in shaping military policies and atrocities in WWI (Armenian Genocide, African porter deaths) and WWII (Holocaust, Japanese internment, comfort women).",
+    "domain": "World History",
+    "label": 1,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "8c623871ce43",
+    "query": "How did the Yalta Conference decisions regarding Poland, Germany's occupation zones, and Soviet participation in the Pacific war simultaneously reflect Allied unity and plant the seeds of Cold War tensions?",
+    "domain": "World History",
+    "label": 1,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "8db5fd3daa09",
+    "query": "Analyze the ways in which the Jewish experience during WWII—from legal discrimination and forced emigration to the ghettos and death camps—illustrates the escalating logic of genocide when not effectively challenged.",
+    "domain": "World History",
+    "label": 1,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "8ef6049c8926",
+    "query": "What percentage of 2020 organic sales were food products, according to the Organic Trade Association?",
+    "domain": "Microeconomics",
+    "label": 0,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "9081d467a04a",
+    "query": "Compare the normal distribution and the empirical (observed) distribution of data in a sample. Why might they differ?",
+    "domain": "Introductory Statistics",
+    "label": 1,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "91daf585c028",
+    "query": "What were the Neutrality Acts passed by the U.S. Congress, and what did they forbid?",
+    "domain": "World History",
+    "label": 0,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "91e83cde6708",
+    "query": "How many German soldiers died each day on the Western Front during WWI on average?",
+    "domain": "World History",
+    "label": 0,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "936edb20c0cc",
+    "query": "How did Germany's 'blank check' to Austria-Hungary (WWI) compare to the Tripartite Pact (WWII) as instruments of military alliance?",
+    "domain": "World History",
+    "label": 1,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "987bebcf7c13",
+    "query": "What is the 80th percentile of the fly ball distance distribution (mean 250, sd 50)?",
+    "domain": "Introductory Statistics",
+    "label": 0,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "9992135dc5c7",
+    "query": "What is the correlation coefficient r?",
+    "domain": "Introductory Statistics",
+    "label": 0,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "9b8e82c37471",
+    "query": "What was the 'Final Solution,' and at what conference was it formally decided?",
+    "domain": "World History",
+    "label": 0,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "9b920fbcf007",
+    "query": "What is the difference between economic profit and normal (zero) profit in the context of market equilibrium?",
+    "domain": "Microeconomics",
+    "label": 1,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "9ba4064d8b5e",
+    "query": "Compare the interpretation of a positive z-score versus a negative z-score.",
+    "domain": "Introductory Statistics",
+    "label": 1,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "9c524e40b301",
+    "query": "For df = 12, what is the critical value of r at the 95% level?",
+    "domain": "Introductory Statistics",
+    "label": 0,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "a2fc3fb771e8",
+    "query": "How does the concept of z-scores from the normal distribution chapter connect to the hypothesis testing of the correlation coefficient in Chapter 12? In what ways do both use standardization to make comparisons?",
+    "domain": "Introductory Statistics",
+    "label": 1,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "a528653a182f",
+    "query": "How did propaganda differ in effectiveness and reach between WWI and WWII? Compare the methods used by Germany, the United States, and Britain.",
+    "domain": "World History",
+    "label": 1,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "a70e147f87e6",
+    "query": "What does the sign of r tell us about the direction of a linear relationship?",
+    "domain": "Introductory Statistics",
+    "label": 0,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "acbd9f600cc3",
+    "query": "How many children did the Kindertransport rescue from Nazi Germany before the war?",
+    "domain": "World History",
+    "label": 0,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "acfa694cdab8",
+    "query": "How does the regression of the percent of hourly workers over time (Chapter 12) compare to the regression of life expectancy over time in terms of slope direction and interpretation?",
+    "domain": "Introductory Statistics",
+    "label": 1,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "adbd3f261362",
+    "query": "In the final exam scores example (μ = 63, σ = 5), what is the probability of scoring less than 85?",
+    "domain": "Introductory Statistics",
+    "label": 0,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "ae422fbffb52",
+    "query": "What is the difference between the normal distribution N(μ, σ) and the standard normal distribution Z ~ N(0, 1)?",
+    "domain": "Introductory Statistics",
+    "label": 1,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "b016d634c62b",
+    "query": "How did the German policy of collective reprisals against civilian populations in occupied Europe (e.g., the Kragujevac massacre, Night and Fog Decree) interact with partisan resistance movements in a cycle of violence?",
+    "domain": "World History",
+    "label": 1,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "b02c2756fb68",
+    "query": "According to Table 8.12, how many acres of corn were planted in North Dakota in 1972?",
+    "domain": "Microeconomics",
+    "label": 0,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "b11acb65175d",
+    "query": "What is 'excess supply' (surplus) in microeconomics?",
+    "domain": "Microeconomics",
+    "label": 0,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "b4284fa705b7",
+    "query": "What does “fail to reject the null hypothesis” mean in plain language in the context of correlation testing?",
+    "domain": "Introductory Statistics",
+    "label": 0,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "b5c7f1d413b6",
+    "query": "Compare the trench warfare of WWI with the blitzkrieg strategy of WWII. How did each reflect the technology and military doctrine of its era?",
+    "domain": "World History",
+    "label": 1,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "b7639ce88393",
+    "query": "In the Yoga Center Scenario 3, what are the revenues earned?",
+    "domain": "Microeconomics",
+    "label": 0,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "b79bc275fc45",
+    "query": "How did the postwar reconstruction of Japan under U.S. occupation compare to the reconstruction of Germany under Allied occupation in terms of speed, scope, and long-term outcomes?",
+    "domain": "World History",
+    "label": 1,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "b8fdd0993b38",
+    "query": "Explain how the availability of close substitutes both limits a firm's monopoly power and influences the legal definition of the relevant market, using historical examples from the text such as DuPont cellophane, Microsoft, and Greyhound.",
+    "domain": "Microeconomics",
+    "label": 1,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "b97bac391241",
+    "query": "How do the concepts of fixed costs, variable costs, and the shutdown rule interact in the Yoga Center example to illustrate the general principle of short-run loss minimization for any firm?",
+    "domain": "Microeconomics",
+    "label": 1,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "ba7e5540429a",
+    "query": "How does the combination of high fixed costs, economies of scale, and limited market demand create conditions for natural monopoly in industries such as water supply, electricity distribution, and telecommunications?",
+    "domain": "Microeconomics",
+    "label": 1,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "be8acc6d971b",
+    "query": "What share of the U.S. cellophane market did DuPont hold when the government filed the 1947 antitrust case?",
+    "domain": "Microeconomics",
+    "label": 0,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "c0463c508c96",
+    "query": "Compare a regression model for predicting sports stadium capacity (n=60) to a model for predicting checkout wait times (n=50). How does sample size affect confidence in the predictions?",
+    "domain": "Introductory Statistics",
+    "label": 1,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "c9ac28e4097b",
+    "query": "On what date was Archduke Franz Ferdinand assassinated in Sarajevo?",
+    "domain": "World History",
+    "label": 0,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "caadd89d4b83",
+    "query": "Explain how the principles of the shutdown point and the break-even point together define the boundaries of a firm's short-run and long-run operating decisions, and how these boundaries change with market price movements.",
+    "domain": "Microeconomics",
+    "label": 1,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "ccf4c1e42dfc",
+    "query": "In what year did the U.S. Supreme Court rule in favor of DuPont's broader market definition?",
+    "domain": "Microeconomics",
+    "label": 0,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "ce8069d2bb60",
+    "query": "The Consumer Price Index example shows a significant r but a potentially nonlinear relationship. Using the normal distribution concepts, explain how the distribution of residuals around the regression line can visually or numerically reveal when a linear model is not appropriate.",
+    "domain": "Introductory Statistics",
+    "label": 1,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "d17af65f6c3c",
+    "query": "Using the concept of barriers to entry and the long-run equilibrium of perfect competition, explain why industries with very high initial capital requirements—such as aircraft manufacturing or nuclear power—naturally tend toward oligopoly or monopoly rather than perfect competition.",
+    "domain": "Microeconomics",
+    "label": 1,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "d3cd4fe45b8f",
+    "query": "What was the Greater East Asia Co-Prosperity Sphere, and what did Japan claim it represented?",
+    "domain": "World History",
+    "label": 0,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "d5b81384ca4d",
+    "query": "How did colonial troops' roles differ between WWI and WWII? Compare the experiences of African and Asian soldiers in both conflicts.",
+    "domain": "World History",
+    "label": 1,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "d6da446701e5",
+    "query": "What is 'allocative efficiency' as it pertains to monopoly behavior?",
+    "domain": "Microeconomics",
+    "label": 0,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "d8c121555a13",
+    "query": "How do barriers to entry, monopoly pricing behavior (MR=MC below price), and deadweight loss work together to explain why monopolies produce less output and charge higher prices than competitive markets?",
+    "domain": "Microeconomics",
+    "label": 1,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "dfed7054e52e",
+    "query": "What does the slope b = r(sy/sx) mean in words?",
+    "domain": "Introductory Statistics",
+    "label": 0,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "e04ca722454e",
+    "query": "How does the demand elasticity perceived by a perfectly competitive firm compare to the demand elasticity perceived by a monopolist?",
+    "domain": "Microeconomics",
+    "label": 1,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "e04e038e3557",
+    "query": "In the bread market example (Table 3.11), what is the equilibrium price?",
+    "domain": "Microeconomics",
+    "label": 0,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "e09d144cff9e",
+    "query": "How does the detection and removal of an outlier (Chapter 12) change not just the regression line but also the distribution of residuals? Use the concepts of normal distribution (Chapter 6) to explain why a cleaner dataset may have residuals that better approximate normality.",
+    "domain": "Introductory Statistics",
+    "label": 1,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "e12567ca9c14",
+    "query": "How does the standard deviation of residuals s differ from the standard deviation of the original y values?",
+    "domain": "Introductory Statistics",
+    "label": 1,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "e3955b1376bb",
+    "query": "How does an increasing-cost industry differ from a decreasing-cost industry in terms of long-run equilibrium price?",
+    "domain": "Microeconomics",
+    "label": 1,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "e3c3b02c01f9",
+    "query": "What is a critical value in the context of a normal distribution?",
+    "domain": "Introductory Statistics",
+    "label": 0,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "e7401d55d3a0",
+    "query": "For the IQR of smartphone user ages (mean 36.9, sd 13.9), what is Q1?",
+    "domain": "Introductory Statistics",
+    "label": 0,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "e875365bef39",
+    "query": "Compare the Holocaust's implementation in Poland with the genocide of Armenians during WWI. What similarities and differences exist in methods and scale?",
+    "domain": "World History",
+    "label": 1,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "ea22c89f6ee4",
+    "query": "How do the concepts of fixed costs, variable costs, average variable cost, and the shutdown point interact to explain a firm's short-run survival strategy versus its long-run exit decision?",
+    "domain": "Microeconomics",
+    "label": 1,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "eafcff1a5fab",
+    "query": "What were total U.S. organic food sales reported by the Organic Trade Association in 1990?",
+    "domain": "Microeconomics",
+    "label": 0,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "ee0a2ebe47d2",
+    "query": "How many bombing runs did the Soviet Night Witches women's air unit conduct during WWII?",
+    "domain": "World History",
+    "label": 0,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "ee26df4a9d5a",
+    "query": "What is the Petrograd Soviet, and what groups did it represent?",
+    "domain": "World History",
+    "label": 0,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "eebb18a43c16",
+    "query": "How do the demand and supply framework, combined with the concept of economic surplus, explain why voluntary market transactions between buyers and sellers create social value and mutual gains from trade?",
+    "domain": "Microeconomics",
+    "label": 1,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "ef1c05b0feb4",
+    "query": "Compare P(X > x) = 1 – P(X < x) with the complementary rule in general probability. How does the normal distribution make this calculation especially straightforward?",
+    "domain": "Introductory Statistics",
+    "label": 1,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "efc06638b6b0",
+    "query": "What was the Balkan League, and who were its founding members?",
+    "domain": "World History",
+    "label": 0,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "f0ef96bc8872",
+    "query": "Compare the Bolshevik Revolution in Russia (1917) with the rise of fascism in Italy and Germany in the 1920s and 1930s. How did each fill the power vacuum left by WWI?",
+    "domain": "World History",
+    "label": 1,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "f1ebf723ca39",
+    "query": "In Table 9.3, what is HealthPill's marginal revenue from selling the 1st unit?",
+    "domain": "Microeconomics",
+    "label": 0,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "f2563ac4cad1",
+    "query": "How many troops did Germany assemble for Operation Barbarossa, the invasion of the Soviet Union?",
+    "domain": "World History",
+    "label": 0,
+    "source": "dataset_world_history.json"
+  },
+  {
+    "id": "f9d69743ad6a",
+    "query": "What is the practical meaning of the y-intercept when x = 0 in a real-world regression model?",
+    "domain": "Introductory Statistics",
+    "label": 0,
+    "source": "dataset_introductory_statistics.json"
+  },
+  {
+    "id": "ff6fc17535af",
+    "query": "Compare the short-run and long-run outcomes for a perfectly competitive market following an increase in market demand.",
+    "domain": "Microeconomics",
+    "label": 1,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "ffb0343e18b3",
+    "query": "Compare fixed costs and variable costs in their roles in determining the break-even and shutdown decisions.",
+    "domain": "Microeconomics",
+    "label": 1,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "fff5f2e0e8fa",
+    "query": "In the bicycle market example (Table 3.8), what is the equilibrium price?",
+    "domain": "Microeconomics",
+    "label": 0,
+    "source": "dataset_microeconomics.json"
+  },
+  {
+    "id": "fff6f0a53d5f",
+    "query": "What is the difference between using s (standard deviation of residuals) and 2s as a cutoff for identifying outliers in regression analysis?",
+    "domain": "Introductory Statistics",
+    "label": 1,
+    "source": "dataset_introductory_statistics.json"
+  }
+]

@@ -1,0 +1,55 @@
+{
+  "seed": 20260819,
+  "ratios": {
+    "train": 0.7,
+    "dev": 0.15,
+    "test": 0.15
+  },
+  "stratified_by": [
+    "domain",
+    "label"
+  ],
+  "generator": "tools/make_splits.py",
+  "total_records": 1008,
+  "splits": {
+    "train": {
+      "file": "train.json",
+      "count": 708,
+      "labels": {
+        "0": 354,
+        "1": 354
+      },
+      "domains": {
+        "Introductory Statistics": 236,
+        "Microeconomics": 236,
+        "World History": 236
+      }
+    },
+    "dev": {
+      "file": "dev.json",
+      "count": 150,
+      "labels": {
+        "0": 75,
+        "1": 75
+      },
+      "domains": {
+        "Introductory Statistics": 50,
+        "Microeconomics": 50,
+        "World History": 50
+      }
+    },
+    "test": {
+      "file": "test.json",
+      "count": 150,
+      "labels": {
+        "0": 75,
+        "1": 75
+      },
+      "domains": {
+        "Introductory Statistics": 50,
+        "Microeconomics": 50,
+        "World History": 50
+      }
+    }
+  }
+}
