@@ -89,4 +89,4 @@ Mọi script sinh file đều có cờ `--check` để CI phát hiện file dẫ
 
 [Chưa phát hành]: https://github.com/nguyenvandang2201/DRA-AI-TUTOR-RESEARCH/compare/v1.1.0...HEAD
 [1.1.0]: https://github.com/nguyenvandang2201/DRA-AI-TUTOR-RESEARCH/releases/tag/v1.1.0
-[1.0.0]: https://github.com/nguyenvandang2201/DRA-AI-TUTOR-RESEARCH/releases/tag/v1.0.0
+[1.0.0]: https://github.com/nguyenvandang2201/DRA-AI-TUTOR-RESEARCH/tree/93681d8
