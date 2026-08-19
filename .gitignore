@@ -30,3 +30,8 @@ temp/
 ~$*.docx
 ~$*.pptx
 ~$*.xlsx
+
+# Ket qua thu nghiem tam thoi (file dan xuat chinh thuc van duoc commit)
+scratch/
+*.tmp
+commitmsg.tmp
