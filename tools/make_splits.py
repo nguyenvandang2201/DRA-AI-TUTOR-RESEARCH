@@ -80,7 +80,10 @@ def strip_stratum(records: Sequence[Dict[str, object]]) -> List[Dict[str, object
             for record in records]
 
 
-def build(seed: int, ratios: Tuple[float, float, float]) -> Tuple[Dict[str, List[Dict[str, object]]], Dict[str, object]]:
+Splits = Dict[str, List[Dict[str, object]]]
+
+
+def build(seed: int, ratios: Tuple[float, float, float]) -> Tuple[Splits, Dict[str, object]]:
     records = prepare(load_all())
     splits = {name: strip_stratum(bucket)
               for name, bucket in stratified_split(records, seed, ratios).items()}

@@ -193,7 +193,8 @@ def build_report() -> str:
               "về nhãn 1, điểm âm nghiêng về nhãn 0.", ""]
     lines.append(markdown_table(
         ["Token", "Log-odds", "Truy vấn nhãn 1", "Truy vấn nhãn 0"],
-        [("`" + token + "`", f"{score:+.2f}", c1, c0) for token, score, c1, c0 in log_odds(records)],
+        [("`" + token + "`", f"{score:+.2f}", c1, c0)
+         for token, score, c1, c0 in log_odds(records)],
         ["left", "right", "right", "right"],
     ))
 

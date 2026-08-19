@@ -165,7 +165,8 @@ def check_cross_file(report: Report, by_file: Dict[str, List[Dict[str, object]]]
 
 def main() -> int:
     setup_stdout()
-    parser = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
+    parser = argparse.ArgumentParser(
+        description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     parser.add_argument("--strict", action="store_true", help="coi cảnh báo là lỗi")
     args = parser.parse_args()
 

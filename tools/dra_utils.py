@@ -118,7 +118,8 @@ def write_json(path: Path, data: object) -> None:
     write_text(path, json.dumps(data, ensure_ascii=False, indent=2) + "\n")
 
 
-def group_by(records: Iterable[Dict[str, object]], key: str) -> Dict[object, List[Dict[str, object]]]:
+def group_by(records: Iterable[Dict[str, object]],
+             key: str) -> Dict[object, List[Dict[str, object]]]:
     """Nhóm bản ghi theo giá trị của một trường."""
 
     buckets: Dict[object, List[Dict[str, object]]] = {}

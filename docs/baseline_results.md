@@ -1,6 +1,7 @@
 # Kết quả baseline định tuyến
 
-File này được sinh tự động bởi `python tools/baseline_router.py --report`.
+File này được sinh tự động bởi `python tools/baseline_router.py --report`;
+cùng số liệu ở dạng máy đọc được nằm trong `results/baseline_metrics.json`.
 Mô hình chỉ dùng thư viện chuẩn Python nên số liệu lặp lại được trên máy trống.
 
 Nhiệm vụ: dự đoán nhãn định tuyến của truy vấn (0 = factual, 1 = analytical).

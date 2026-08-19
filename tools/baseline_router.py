@@ -16,7 +16,9 @@ Ba chế độ đánh giá:
   miền còn lại. Đây là phép đo khả năng khái quát hoá liên miền của router.
 
 Chạy: `python tools/baseline_router.py`
-      `python tools/baseline_router.py --report`   -> ghi docs/baseline_results.md
+      `python tools/baseline_router.py --report`  -> ghi docs/baseline_results.md
+                                                     và results/baseline_metrics.json
+      `python tools/baseline_router.py --check`   -> xác nhận hai file trên còn đúng
       `python tools/baseline_router.py --predict "How does X compare to Y?"`
 """
 
@@ -35,6 +37,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parent))
 
 from dra_utils import (  # noqa: E402
     DOCS_DIR,
+    REPO_ROOT,
     SPLITS_DIR,
     load_all,
     markdown_table,
@@ -44,6 +47,7 @@ from dra_utils import (  # noqa: E402
 )
 
 REPORT_PATH = DOCS_DIR / "baseline_results.md"
+METRICS_PATH = REPO_ROOT / "results" / "baseline_metrics.json"
 
 Sparse = Dict[int, float]
 
@@ -158,8 +162,9 @@ class LogisticRegression:
 
             step = self.learning_rate / n
             self.bias -= step * bias_gradient
+            decay = self.learning_rate * self.l2
             for index, value in gradient.items():
-                self.weights[index] -= step * value + self.learning_rate * self.l2 * self.weights[index]
+                self.weights[index] -= step * value + decay * self.weights[index]
         return self
 
     def predict(self, vector: Sparse, threshold: float = 0.5) -> int:
@@ -352,23 +357,74 @@ def format_metrics_table(results: Dict[str, Dict[str, float]], first_column: str
     )
 
 
-def build_report(epochs: int, folds: int, seed: int) -> str:
-    holdout = run_holdout("test", epochs)
-    cv_summary, cv_folds = run_cv(folds, seed, epochs)
-    lodo = run_lodo(epochs)
+def compute_all(epochs: int, folds: int, seed: int) -> Dict[str, object]:
+    """Chạy cả ba chế độ đánh giá một lần, dùng chung cho báo cáo và file JSON."""
 
+    cv_summary, cv_folds = run_cv(folds, seed, epochs)
     train = load_split("train")
     _, vectorizer, model = train_linear(train, load_split("test"), epochs)
     positives, negatives = top_features(vectorizer, model)
 
+    return {
+        "holdout": run_holdout("test", epochs),
+        "cv_summary": cv_summary,
+        "cv_folds": cv_folds,
+        "lodo": run_lodo(epochs),
+        "positives": positives,
+        "negatives": negatives,
+        "n_features": len(vectorizer.vocabulary),
+    }
+
+
+def build_metrics_json(results: Dict[str, object], epochs: int, folds: int,
+                       seed: int) -> str:
+    """Bản máy đọc được của cùng bộ số liệu, tiện đưa vào bảng biểu bài báo."""
+
+    payload = {
+        "generator": "tools/baseline_router.py",
+        "task": "binary query complexity routing (0 = factual, 1 = analytical)",
+        "config": {
+            "features": "TF-IDF 1-2 gram + len_bucket + q_marks",
+            "min_df": 2,
+            "model": "logistic regression, full-batch gradient descent",
+            "epochs": epochs,
+            "l2": 1e-4,
+            "n_features": results["n_features"],
+            "cv_folds": folds,
+            "seed": seed,
+        },
+        "holdout": results["holdout"],
+        "cross_validation": {
+            "summary": results["cv_summary"],
+            "per_fold": results["cv_folds"],
+        },
+        "leave_one_domain_out": results["lodo"],
+        "top_features": {
+            "toward_label_1": [{"term": term, "weight": weight}
+                               for term, weight in results["positives"]],
+            "toward_label_0": [{"term": term, "weight": weight}
+                               for term, weight in results["negatives"]],
+        },
+    }
+    return json.dumps(payload, ensure_ascii=False, indent=2) + "\n"
+
+
+def build_report(results: Dict[str, object], epochs: int, folds: int) -> str:
+    holdout = results["holdout"]
+    cv_summary, cv_folds = results["cv_summary"], results["cv_folds"]
+    lodo = results["lodo"]
+    positives, negatives = results["positives"], results["negatives"]
+
     lines = [
         "# Kết quả baseline định tuyến",
         "",
-        "File này được sinh tự động bởi `python tools/baseline_router.py --report`.",
+        "File này được sinh tự động bởi `python tools/baseline_router.py --report`;",
+        "cùng số liệu ở dạng máy đọc được nằm trong `results/baseline_metrics.json`.",
         "Mô hình chỉ dùng thư viện chuẩn Python nên số liệu lặp lại được trên máy trống.",
         "",
         "Nhiệm vụ: dự đoán nhãn định tuyến của truy vấn (0 = factual, 1 = analytical).",
-        f"Cấu hình: TF-IDF 1-2 gram, min_df=2, hồi quy logistic (GD toàn batch, {epochs} epoch, L2=1e-4).",
+        f"Cấu hình: TF-IDF 1-2 gram, min_df=2, hồi quy logistic "
+        f"(GD toàn batch, {epochs} epoch, L2=1e-4).",
         "",
         "## 1. Hold-out (train -> test)",
         "",
@@ -431,7 +487,10 @@ def main() -> int:
     parser.add_argument("--folds", type=int, default=5)
     parser.add_argument("--seed", type=int, default=20260819)
     parser.add_argument("--epochs", type=int, default=400)
-    parser.add_argument("--report", action="store_true", help="ghi docs/baseline_results.md")
+    parser.add_argument("--report", action="store_true",
+                        help="ghi docs/baseline_results.md và results/baseline_metrics.json")
+    parser.add_argument("--check", action="store_true",
+                        help="thoát với mã 1 nếu hai file trên đã lỗi thời")
     parser.add_argument("--predict", metavar="QUERY",
                         help="huấn luyện trên train.json rồi dự đoán một truy vấn")
     args = parser.parse_args()
@@ -443,13 +502,32 @@ def main() -> int:
         label = int(probability >= 0.5)
         print(f"Truy vấn : {args.predict}")
         print(f"P(nhãn 1): {probability:.3f}")
-        print(f"Định tuyến: nhãn {label} "
-              f"({'analytical -> nhánh suy luận sâu' if label else 'factual -> nhánh tra cứu nhanh'})")
+        branch = ("analytical -> nhánh suy luận sâu" if label
+                  else "factual -> nhánh tra cứu nhanh")
+        print(f"Định tuyến: nhãn {label} ({branch})")
         return 0
 
-    if args.report:
-        write_text(REPORT_PATH, build_report(args.epochs, args.folds, args.seed))
-        print(f"Đã ghi {REPORT_PATH}")
+    if args.report or args.check:
+        results = compute_all(args.epochs, args.folds, args.seed)
+        outputs = {
+            REPORT_PATH: build_report(results, args.epochs, args.folds),
+            METRICS_PATH: build_metrics_json(results, args.epochs, args.folds, args.seed),
+        }
+
+        if args.check:
+            stale = [path for path, content in outputs.items()
+                     if not path.exists() or path.read_text(encoding="utf-8") != content]
+            if stale:
+                names = ", ".join(path.name for path in stale)
+                print(f"Kết quả baseline đã lỗi thời ({names}). "
+                      f"Chạy: python tools/baseline_router.py --report", file=sys.stderr)
+                return 1
+            print("Kết quả baseline đã cập nhật.")
+            return 0
+
+        for path, content in outputs.items():
+            write_text(path, content)
+            print(f"Đã ghi {path}")
         return 0
 
     if args.mode in ("holdout", "all"):
