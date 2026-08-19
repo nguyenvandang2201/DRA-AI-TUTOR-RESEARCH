@@ -37,8 +37,11 @@ Ba file `datasets/dataset_*.json` là **nguồn sự thật duy nhất**. Mọi 
    python tools/make_splits.py
    python tools/dataset_stats.py
    python tools/export_dataset.py
-   python tools/baseline_router.py --report   # nếu muốn cập nhật số liệu baseline
+   python tools/baseline_router.py --report
+   python tools/make_figures.py
    ```
+
+   Hoặc gọn hơn: `make all` / `./tasks.ps1 all`.
 
 5. Ghi một dòng vào [docs/research_log.md](docs/research_log.md).
 
@@ -65,6 +68,23 @@ CI sẽ fail nếu file dẫn xuất không khớp dữ liệu nguồn, nên bư
 - File dẫn xuất chưa được sinh lại (sẽ lệch với dữ liệu nguồn).
 - File tạm của Office (`~$*.docx`), cache Python, thư mục IDE -- đã có trong `.gitignore`.
 - Dữ liệu cá nhân của người học hoặc log truy vấn thật chưa được ẩn danh.
+
+## Phát hành phiên bản
+
+Chỉ người bảo trì thực hiện:
+
+1. Cập nhật `CHANGELOG.md`: đổi mục `[Chưa phát hành]` thành `[X.Y.Z] - YYYY-MM-DD`.
+2. Cập nhật `version` trong `CITATION.cff` và `pyproject.toml`.
+3. Chạy `make check` (hoặc `./tasks.ps1 check`) và bảo đảm `git status` sạch.
+4. Tạo tag và đẩy lên:
+
+   ```bash
+   git tag -a v1.2.0 -m "Mô tả ngắn"
+   git push origin v1.2.0
+   ```
+
+Workflow `.github/workflows/release.yml` sẽ tự kiểm định lại, đóng gói dữ liệu
+và tạo GitHub Release với ghi chú trích từ `CHANGELOG.md`.
 
 ## Quy ước commit
 

@@ -27,6 +27,8 @@ Mọi thứ dưới đây được **sinh tự động**, đừng sửa tay:
 | `datasets/exports/*` | `python tools/export_dataset.py` |
 | `docs/dataset_stats.md` | `python tools/dataset_stats.py` |
 | `docs/baseline_results.md` | `python tools/baseline_router.py --report` |
+| `results/baseline_metrics.json` | `python tools/baseline_router.py --report` |
+| `figures/*.svg` | `python tools/make_figures.py` |
 
 Sau khi đổi dữ liệu nguồn, phải sinh lại tất cả — CI kiểm tra bằng các cờ
 `--check` và sẽ fail nếu lệch.
@@ -39,6 +41,9 @@ Sau khi đổi dữ liệu nguồn, phải sinh lại tất cả — CI kiểm t
 python -m unittest discover -s tests -v
 python tools/baseline_router.py --predict "How does X compare to Y?"
 ```
+
+`lint` và `coverage` cần `pip install -r requirements-dev.txt`; chúng là công cụ
+phát triển tuỳ chọn, không bao giờ cần để sinh lại kết quả.
 
 Trên Linux/macOS dùng `make check`, `make all`.
 
@@ -72,4 +77,8 @@ nhớ giữ phần ghi công OpenStax. Chi tiết trong `docs/dataset_card.md`.
 
 - [docs/labeling_guidelines.md](docs/labeling_guidelines.md) — định nghĩa nhãn, trường hợp ranh giới.
 - [docs/dataset_card.md](docs/dataset_card.md) — nguồn gốc, giới hạn đã biết.
+- [docs/architecture.md](docs/architecture.md) — luồng dữ liệu và ba nguyên tắc kiến trúc.
+- [docs/algorithm.md](docs/algorithm.md) — đặc tả toán học của baseline.
+- [docs/experiments.md](docs/experiments.md) — thiết kế thí nghiệm và cách đọc kết quả.
+- [docs/faq.md](docs/faq.md) — vì sao không dùng scikit-learn, vì sao accuracy cao.
 - [CONTRIBUTING.md](CONTRIBUTING.md) — quy trình thay đổi dữ liệu.
