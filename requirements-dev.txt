@@ -1,0 +1,6 @@
+# Cong cu phat trien tuy chon. KHONG can cai de chay tools/ hay tests/:
+# toan bo ma nguon trong kho chi dung thu vien chuan Python 3.9+.
+#
+#   python -m pip install -r requirements-dev.txt
+ruff>=0.6
+coverage>=7.4

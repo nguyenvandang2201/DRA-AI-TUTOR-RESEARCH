@@ -1,0 +1,31 @@
+# Chuan hoa xuong dong: luu LF trong kho cho moi file van ban.
+* text=auto eol=lf
+
+*.ps1   text eol=crlf
+*.bat   text eol=crlf
+
+*.py    text diff=python
+*.md    text diff=markdown
+*.json  text
+*.jsonl text
+*.csv   text
+*.txt   text
+*.yml   text
+*.cff   text
+*.toml  text
+
+# File nhi phan: khong dung heuristic van ban, khong hien diff.
+*.pdf   binary
+*.docx  binary
+*.png   binary
+*.jpg   binary
+
+# Phan loai ngon ngu tren GitHub: corpus la du lieu, khong phai ma nguon.
+corpus/*.txt            linguist-vendored
+datasets/*.json         linguist-generated=false linguist-language=JSON
+datasets/splits/*       linguist-generated
+datasets/exports/*      linguist-generated
+figures/*.svg           linguist-generated
+results/*.json          linguist-generated
+docs/dataset_stats.md   linguist-generated
+docs/baseline_results.md linguist-generated

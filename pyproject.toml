@@ -1,0 +1,63 @@
+# Kho nay khong co dependency runtime: toan bo tools/ chay bang thu vien chuan.
+# File nay chi khai bao metadata va cau hinh cong cu phat trien (ruff, coverage).
+
+[project]
+name = "dra-ai-tutor-research"
+version = "1.1.0"
+description = "Bo du lieu dinh tuyen truy van va baseline cho Dynamic Routing Architecture (DRA) trong he thong AI gia su"
+readme = "README.md"
+requires-python = ">=3.9"
+license = { file = "LICENSE" }
+authors = [{ name = "Nguyen Van Dang", email = "ngvandang9999@gmail.com" }]
+keywords = [
+    "dynamic-routing-architecture",
+    "query-complexity-classification",
+    "intelligent-tutoring-systems",
+    "educational-nlp",
+    "model-routing",
+]
+classifiers = [
+    "Development Status :: 4 - Beta",
+    "Intended Audience :: Science/Research",
+    "License :: OSI Approved :: MIT License",
+    "Programming Language :: Python :: 3.9",
+    "Programming Language :: Python :: 3.12",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/nguyenvandang2201/DRA-AI-TUTOR-RESEARCH"
+Changelog = "https://github.com/nguyenvandang2201/DRA-AI-TUTOR-RESEARCH/blob/main/CHANGELOG.md"
+
+[project.optional-dependencies]
+# Chi dung cho CI va phat trien; khong can de chay tools/.
+dev = ["ruff>=0.6", "coverage>=7.4"]
+
+[tool.ruff]
+line-length = 100
+target-version = "py39"
+extend-exclude = ["corpus", "datasets", "paper"]
+
+[tool.ruff.lint]
+# Chi bat cac nhom on dinh: loi that (F), pycodestyle (E, W) va thu tu import (I).
+# Cac nhom mang tinh y kien (UP, B, SIM, RUF) khong duoc bat de tranh bien dong
+# ket qua CI moi khi ruff nang phien ban.
+select = ["E", "F", "W", "I"]
+
+[tool.ruff.lint.isort]
+known-first-party = ["dra_utils"]
+
+[tool.coverage.run]
+branch = true
+source = ["tools"]
+omit = ["*/__pycache__/*"]
+
+[tool.coverage.report]
+show_missing = true
+skip_covered = false
+exclude_lines = [
+    "pragma: no cover",
+    "if __name__ == .__main__.:",
+    "raise SystemExit",
+]
