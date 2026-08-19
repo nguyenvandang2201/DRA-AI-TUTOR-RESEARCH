@@ -1,0 +1,57 @@
+name: Bao loi ma nguon
+description: Cong cu trong tools/ chay sai, bao loi, hoac cho ket qua khong tai lap duoc
+title: "[bug] "
+labels: ["bug"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Neu van de la "ket qua khong khop", hay chay truoc
+        `python tools/validate_datasets.py --strict` va `git status` roi dinh kem ket qua.
+
+  - type: textarea
+    id: what_happened
+    attributes:
+      label: Chuyen gi da xay ra
+      description: Mo ta hanh vi thuc te va hanh vi ban mong doi.
+    validations:
+      required: true
+
+  - type: textarea
+    id: command
+    attributes:
+      label: Lenh da chay
+      render: shell
+      placeholder: python tools/baseline_router.py --report
+    validations:
+      required: true
+
+  - type: textarea
+    id: output
+    attributes:
+      label: Toan bo thong bao loi
+      render: text
+    validations:
+      required: true
+
+  - type: input
+    id: python
+    attributes:
+      label: Phien ban Python
+      placeholder: "3.12.10"
+    validations:
+      required: true
+
+  - type: input
+    id: os
+    attributes:
+      label: He dieu hanh
+      placeholder: Windows 11 / Ubuntu 24.04 / macOS 15
+    validations:
+      required: true
+
+  - type: input
+    id: commit
+    attributes:
+      label: Commit (git rev-parse --short HEAD)
+      placeholder: 2cd8e0e

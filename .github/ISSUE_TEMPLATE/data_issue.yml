@@ -1,0 +1,64 @@
+name: Van de du lieu (nhan sai, trung lap, loi chinh ta)
+description: Bao mot truy van bi gan nhan sai hoac mot loi trong datasets/ va corpus/
+title: "[data] "
+labels: ["data"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Cam on ban da ra soat du lieu. Truoc khi gui, hay doc
+        [huong dan gan nhan](https://github.com/nguyenvandang2201/DRA-AI-TUTOR-RESEARCH/blob/main/docs/labeling_guidelines.md)
+        - nhieu truong hop tuong nhu sai that ra da duoc quy dinh trong bang "Truong hop ranh gioi".
+
+  - type: dropdown
+    id: kind
+    attributes:
+      label: Loai van de
+      options:
+        - Nhan sai (label khong dung voi noi dung truy van)
+        - Truy van trung lap hoac dien giai lai
+        - Truy van khong tra loi duoc tu corpus
+        - Loi chinh ta hoac hong ma hoa
+        - Domain khong khop noi dung
+        - Khac
+    validations:
+      required: true
+
+  - type: input
+    id: file
+    attributes:
+      label: File
+      placeholder: datasets/dataset_world_history.json
+    validations:
+      required: true
+
+  - type: textarea
+    id: query
+    attributes:
+      label: Truy van lien quan
+      description: Dan nguyen van truy van, hoac id 12 ky tu tu datasets/exports/dra_queries_all.csv
+      render: text
+    validations:
+      required: true
+
+  - type: input
+    id: current_label
+    attributes:
+      label: Nhan hien tai
+      placeholder: "0"
+
+  - type: input
+    id: proposed_label
+    attributes:
+      label: Nhan de xuat (neu la van de gan nhan)
+      placeholder: "1"
+
+  - type: textarea
+    id: reasoning
+    attributes:
+      label: Ly do
+      description: |
+        Neu ro quy tac nao trong docs/labeling_guidelines.md dan toi ket luan cua ban.
+        Vi du "Quy tac 4: truy van doi chieu hai khai niem giua hai chuong".
+    validations:
+      required: true

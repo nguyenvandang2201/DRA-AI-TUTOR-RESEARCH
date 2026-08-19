@@ -1,0 +1,13 @@
+# Kho khong co dependency runtime (tools/ chi dung thu vien chuan Python),
+# nen chi theo doi phien ban cua cac action dung trong CI.
+version: 2
+updates:
+  - package-ecosystem: github-actions
+    directory: "/"
+    schedule:
+      interval: monthly
+    commit-message:
+      prefix: "chore"
+    labels:
+      - dependencies
+      - ci

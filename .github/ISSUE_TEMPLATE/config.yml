@@ -1,0 +1,11 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Cau hoi thuong gap
+    url: https://github.com/nguyenvandang2201/DRA-AI-TUTOR-RESEARCH/blob/main/docs/faq.md
+    about: Vi sao khong dung scikit-learn, vi sao accuracy cao, giay phep nao ap dung - da co san cau tra loi.
+  - name: Cach nhan ho tro
+    url: https://github.com/nguyenvandang2201/DRA-AI-TUTOR-RESEARCH/blob/main/SUPPORT.md
+    about: Chon dung kenh cho cau hoi cua ban.
+  - name: Bao cao van de bao mat hoac du lieu ca nhan
+    url: https://github.com/nguyenvandang2201/DRA-AI-TUTOR-RESEARCH/blob/main/SECURITY.md
+    about: Gui email rieng, dung mo issue cong khai.

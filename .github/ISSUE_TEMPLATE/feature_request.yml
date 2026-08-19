@@ -1,0 +1,35 @@
+name: De xuat tinh nang
+description: De xuat cong cu moi, mien du lieu moi, hoac thi nghiem moi
+title: "[feat] "
+labels: ["enhancement"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Kiem tra [ROADMAP.md](https://github.com/nguyenvandang2201/DRA-AI-TUTOR-RESEARCH/blob/main/ROADMAP.md)
+        truoc - de xuat cua ban co the da nam trong ke hoach.
+
+  - type: textarea
+    id: problem
+    attributes:
+      label: Van de can giai
+      description: Mo ta van de nghien cuu hoac han che hien tai, khong phai giai phap.
+    validations:
+      required: true
+
+  - type: textarea
+    id: proposal
+    attributes:
+      label: De xuat
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: constraints
+    attributes:
+      label: Rang buoc cua kho
+      description: De xuat can ton trong cac nguyen tac trong CLAUDE.md va docs/architecture.md.
+      options:
+        - label: Khong can them dependency runtime (chi thu vien chuan Python)
+        - label: Ket qua van tat dinh, tai lap duoc
+        - label: Khong sua tay file dan xuat

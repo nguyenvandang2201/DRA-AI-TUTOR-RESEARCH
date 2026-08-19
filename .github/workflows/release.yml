@@ -1,0 +1,64 @@
+name: Release
+
+# Kich hoat khi day mot tag dang vX.Y.Z:
+#   git tag -a v1.1.0 -m "..." && git push origin v1.1.0
+on:
+  push:
+    tags: ["v*.*.*"]
+  workflow_dispatch:
+    inputs:
+      tag:
+        description: Tag can phat hanh (vi du v1.1.0)
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  release:
+    name: Tao GitHub Release
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      # Khong phat hanh neu du lieu khong hop le hoac ket qua khong tai lap duoc.
+      - name: Kiem dinh truoc khi phat hanh
+        run: |
+          python tools/validate_datasets.py --strict
+          python tools/make_splits.py --check
+          python tools/dataset_stats.py --check
+          python tools/export_dataset.py --check
+          python -m unittest discover -s tests
+
+      - name: Xac dinh tag
+        id: tag
+        run: echo "name=${{ github.event.inputs.tag || github.ref_name }}" >> "$GITHUB_OUTPUT"
+
+      - name: Trich ghi chu phat hanh tu CHANGELOG.md
+        env:
+          TAG: ${{ steps.tag.outputs.name }}
+        run: python .github/scripts/extract_release_notes.py "$TAG" release_notes.md
+
+      - name: Dong goi bo du lieu
+        env:
+          TAG: ${{ steps.tag.outputs.name }}
+        run: |
+          mkdir -p dist
+          zip -r "dist/dra-dataset-$TAG.zip" \
+            datasets docs figures results CITATION.cff LICENSE README.md \
+            -x "*.pyc" "*__pycache__*"
+
+      - name: Tao release
+        env:
+          GH_TOKEN: ${{ github.token }}
+          TAG: ${{ steps.tag.outputs.name }}
+        run: |
+          gh release create "$TAG" dist/*.zip \
+            --title "$TAG" \
+            --notes-file release_notes.md
