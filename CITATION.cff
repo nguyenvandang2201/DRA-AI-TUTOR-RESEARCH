@@ -1,0 +1,33 @@
+cff-version: 1.2.0
+message: "Nếu bạn sử dụng bộ dữ liệu hoặc mã nguồn trong kho này, vui lòng trích dẫn như dưới đây."
+title: "DRA AI Tutor Research: bộ dữ liệu định tuyến truy vấn và baseline"
+abstract: >-
+  Bộ dữ liệu 1.008 truy vấn học tập tiếng Anh trên ba miền (World History,
+  Microeconomics, Introductory Statistics), gán nhãn nhị phân theo mức độ phức
+  tạp định tuyến (0 = factual, 1 = analytical), kèm corpus tham chiếu, split
+  phân tầng tái lập được và baseline định tuyến chỉ dùng thư viện chuẩn Python,
+  phục vụ nghiên cứu Dynamic Routing Architecture (DRA) cho hệ thống AI gia sư.
+type: dataset
+version: 1.0.0
+date-released: "2026-08-19"
+license: MIT
+authors:
+  - family-names: Nguyen
+    given-names: Van Dang
+    email: ngvandang9999@gmail.com
+keywords:
+  - dynamic routing architecture
+  - query complexity classification
+  - intelligent tutoring systems
+  - educational NLP
+  - model routing
+references:
+  - type: data
+    title: "OpenStax textbooks (World History, Principles of Microeconomics, Introductory Statistics)"
+    authors:
+      - name: "OpenStax, Rice University"
+    license: CC-BY-4.0
+    url: "https://openstax.org"
+    notes: >-
+      Nguồn của corpus tham chiếu trong thư mục corpus/. Nội dung corpus giữ giấy
+      phép CC BY 4.0 và yêu cầu ghi công OpenStax khi phát tán lại.
